@@ -1,0 +1,2878 @@
+006-D5586-14|v02.50
+TXT_LANG_ID_STR_M	SlovenËina
+TXT_ALARM_PAGE_AM_STR	AM
+TXT_ALARM_PAGE_Dismiss_STR_M	Zruöiù
+TXT_ALARM_PAGE_PM_STR	PM
+TXT_ALARM_PAGE_Snooze_STR_M	Odloûiù
+TXT_ALERTS_MSG_Custom_STR_L	VlastnÈ
+TXT_ALERTS_MSG_Drink_STR_L	Pitie
+TXT_ALERTS_MSG_Eat_STR_L	Jedlo
+TXT_ALERTS_MSG_Go_Home_STR_L	ChoÔ domov
+TXT_ALERTS_MSG_Turn_Around_STR_L	OtoËiù sa
+TXT_ALERT_PAGE_Fast_STR_S	R˝chlo
+TXT_ALERT_PAGE_High_STR_S	Vysok·
+TXT_ALERT_PAGE_Low_STR_S	NÌzke
+TXT_ALERT_PAGE_Run_STR_S	Beh
+TXT_ALERT_PAGE_Slow_STR_S	Pomaly
+TXT_ALERT_PAGE_Walk_STR_S	ChÙdza
+TXT_APR_STR_M	Apr
+TXT_AUG_STR_M	Aug
+TXT_Active_Calories_STR_M	AktÌvne kalÛrie
+TXT_Altitude_STR_L	Nadmorsk· v˝öka
+TXT_Altitude_STR_M	Nadmorsk· v˝öka
+TXT_Altitude_STR_S	Nadm. v˝öka
+TXT_Any_STR	KtorÈkoæ.
+TXT_Avg_Ground_Cont_STR_S	Priemern· DKZ
+TXT_Avg_Ground_Contact_STR_L	Priemern· doba kont. so zemou (GCT)
+TXT_Avg_Ground_Contact_STR_M	Priemern· DKZ
+TXT_Avg_HR_PHRR_STR_L	Priemern· %HRR
+TXT_Avg_HR_PHRR_STR_M	Priemern· %HRR
+TXT_Avg_HR_PHRR_STR_S	Priemern˝ %HRR
+TXT_Avg_HR_PMax_STR_L	Priemern˝ srdcov˝ tep % max.
+TXT_Avg_HR_PMax_STR_M	Priem.tep % max.
+TXT_Avg_HR_PMax_STR_S	Pr. tep %max.
+TXT_Avg_HR_STR_L	Priemern˝ srdcov˝ tep
+TXT_Avg_HR_STR_M	Priemern˝ srdcov˝ tep
+TXT_Avg_HR_STR_S	Priemern˝ tep
+TXT_Avg_L_R_Balance_STR_L	Priemern· rovnov·ha
+TXT_Avg_L_R_Balance_STR_M	Priemern· rovnov·ha
+TXT_Avg_L_R_Balance_STR_S	Priem. rovnov. %
+TXT_Avg_Lap_L_R_Balance_STR_L	Rovnov·ha kola
+TXT_Avg_Lap_L_R_Balance_STR_M	Rovnov·ha kola
+TXT_Avg_Lap_L_R_Balance_STR_S	Rovnov. v†kole %
+TXT_Avg_Last_Lap_L_R_Balance_STR_L	Rovnov·ha v†poslednom okruhu
+TXT_Avg_Last_Lap_L_R_Balance_STR_M	Rovnov. v†posl.okruhu
+TXT_Avg_Last_Lap_L_R_Balance_STR_S	Rovn. v†posl.k. %
+TXT_Avg_Last_Lap_PWR_STR_L	V˝kon poslednÈho okruhu
+TXT_Avg_Last_Lap_PWR_STR_M	V˝kon poslednÈho okruhu
+TXT_Avg_Last_Lap_PWR_STR_S	V˝kon posl.kola
+TXT_Avg_PWR_STR_L	Priemern˝ v˝kon
+TXT_Avg_PWR_STR_M	Priemern˝ v˝kon
+TXT_Avg_PWR_STR_S	Priemern˝ v˝kon
+TXT_Avg_Stride_Length_STR_L	Priemern· dÂûka kroku
+TXT_Avg_Stride_Length_STR_M	Priemern· dÂûka kroku
+TXT_Avg_Stride_Length_STR_S	Priem.dÂû.kroku
+TXT_Avg_Strokes_Per_Length_STR_L	Priemern˝ poËet/dÂûka z·berov
+TXT_Avg_Strokes_Per_Length_STR_M	Priem.poËet/dÂûka z·b.
+TXT_Avg_Strokes_Per_Length_STR_S	Priem.p./dÂû.z·b.
+TXT_Avg_Swolf_STR_L	Priemer SWOLF
+TXT_Avg_Swolf_STR_M	Priemer SWOLF
+TXT_Avg_Swolf_STR_S	Priemer SWOLF
+TXT_Avg_Vert_Osc_STR_S	Priem. vert. osc.
+TXT_Avg_Vertical_Oscillation_STR_L	Priemern· verti-\nk·lna oscil·cia
+TXT_Avg_Vertical_Oscillation_STR_M	Priem.ver.oscil.
+TXT_Avg_Vertical_Ratio_STR_L	Priemern˝ vertik·lny pomer
+TXT_Avg_Vertical_Ratio_STR_M	Priem.vert.pomer
+TXT_Avg_Vertical_Ratio_STR_S	Priem.ver.pomer
+TXT_BIKE_Avg_Cadence_STR_L	Priemern· kadencia
+TXT_BIKE_Avg_Cadence_STR_M	Priemern· kadencia
+TXT_BIKE_Avg_Cadence_STR_S	Priem. kadencia
+TXT_BIKE_Cadence_STR_L	Kadencia
+TXT_BIKE_Cadence_STR_M	Kadencia
+TXT_BIKE_Cadence_STR_S	Kadencia
+TXT_BIKE_LIGHT_Headlight_FRMT_STR_L	Pr. svetlo ñ %1
+TXT_BIKE_LIGHT_Other_FRMT_STR_L	InÈ ñ %1
+TXT_BIKE_LIGHT_Signal_FRMT_STR_L	Smerovka ñ %1
+TXT_BIKE_LIGHT_Taillight_FRMT_STR_L	Zad.svtl.ñ %1
+TXT_BIKE_Lap_Cadence_STR_L	Kadencia okruhu
+TXT_BIKE_Lap_Cadence_STR_M	Kadencia okruhu
+TXT_BIKE_Lap_Cadence_STR_S	Kadencia okruhu
+TXT_BIKE_Last_Lap_Cadence_STR_L	Kadencia posled-\nnÈho okruhu
+TXT_BIKE_Last_Lap_Cadence_STR_M	Kad. posl. okruhu
+TXT_BIKE_Last_Lap_Cadence_STR_S	Kad.posl.kola
+TXT_BIKE_Segment_Pace_STR_L	Tempo segmentu
+TXT_BIKE_Segment_Pace_STR_M	Tempo segmentu
+TXT_BIKE_Segment_Pace_STR_S	Tempo segmentu
+TXT_BIKE_Segment_Speed_STR_L	R˝chlosù segmentu
+TXT_BIKE_Segment_Speed_STR_M	R˝chlosù segmentu
+TXT_BIKE_Segment_Speed_STR_S	R˝chl. segmentu
+TXT_BLE_ERROR_PAGE_Controls_STR_S	Ovl·dacie prvky
+TXT_BUTTON_CANCEL_STR_M	Zruöiù
+TXT_Back_STR	Sp‰ù
+TXT_Back_STR_L	Sp‰ù
+TXT_Back_STR_M	Sp‰ù
+TXT_Best_Power_STR_L	NajlepöÌ v˝kon!
+TXT_Bike_SHORT_STR	Bicykel
+TXT_Bike_STR	Bicykel
+TXT_Bluetooth_MAC_Address_STR_M	Adresa MAC Bluetooth
+TXT_Breast_STR	Prsia
+TXT_Breast_STR_L	Prsia
+TXT_Breast_STR_M	Prsia
+TXT_Calorie_abbr_STR	Kal.
+TXT_Calories_STR_L	KalÛrie
+TXT_Calories_STR_M	KalÛrie
+TXT_Calories_STR_S	KalÛrie
+TXT_Cals_To_Go_STR_L	Zost·vaj˙ce kalÛrie
+TXT_Cals_To_Go_STR_M	Zost·vaj˙ce kalÛrie
+TXT_Cals_To_Go_STR_S	Zost. kalÛrie
+TXT_Cnfg_List_Avg_CAD_Seated_STR_L	Priemern· kadencia v†sede
+TXT_Cnfg_List_Avg_CAD_Seated_STR_M	Kadencia v sede
+TXT_Cnfg_List_Avg_CAD_Seated_STR_S	Kadencia v sede
+TXT_Cnfg_List_Avg_CAD_Standing_STR_L	Priemern· kadencia postojaËky
+TXT_Cnfg_List_Avg_CAD_Standing_STR_M	Kadencia postojaËky
+TXT_Cnfg_List_Avg_CAD_Standing_STR_S	Kad.postoj.
+TXT_Cnfg_List_Avg_PWR_Seated_STR_L	Priemern˝ v˝kon v†sede
+TXT_Cnfg_List_Avg_PWR_Seated_STR_M	V˝kon v sede
+TXT_Cnfg_List_Avg_PWR_Seated_STR_S	V˝kon v sede
+TXT_Cnfg_List_Avg_PWR_Standing_STR_L	Priemern˝ v˝kon postojaËky
+TXT_Cnfg_List_Avg_PWR_Standing_STR_M	V˝kon postojaËky
+TXT_Cnfg_List_Avg_PWR_Standing_STR_S	V˝k.postoj.
+TXT_Cnfg_List_Cadence_Eccentricity_STR_L	Excentricita kadencie
+TXT_Cnfg_List_Cadence_Eccentricity_STR_M	Excentricita kadencie
+TXT_Cnfg_List_Cadence_Eccentricity_STR_S	Excentr. kadencie
+TXT_Cnfg_List_Lap_CAD_Seated_STR_L	Kadencia okruhu v†sede
+TXT_Cnfg_List_Lap_CAD_Seated_STR_M	Kadencia kola v sede
+TXT_Cnfg_List_Lap_CAD_Seated_STR_S	Kad.k.v sede
+TXT_Cnfg_List_Lap_CAD_Standing_STR_L	Kadencia okruhu postojaËky
+TXT_Cnfg_List_Lap_CAD_Standing_STR_M	Kad. okruhu postojaËky
+TXT_Cnfg_List_Lap_CAD_Standing_STR_S	Kad.okr.postojaË.
+TXT_Cnfg_List_Lap_PWR_Seated_STR_L	V˝kon okruhu v†sede
+TXT_Cnfg_List_Lap_PWR_Seated_STR_M	V˝kon kola v sede
+TXT_Cnfg_List_Lap_PWR_Seated_STR_S	V˝k.k.v sede
+TXT_Cnfg_List_Lap_PWR_Standing_STR_L	V˝kon okruhu postojaËky
+TXT_Cnfg_List_Lap_PWR_Standing_STR_M	V˝kon okruhu postojaËky
+TXT_Cnfg_List_Lap_PWR_Standing_STR_S	V˝kon okr.postoj.
+TXT_Cnfg_List_Last_Lap_CAD_Seated_STR_L	Kadencia poslednÈho okruhu v†sede
+TXT_Cnfg_List_Last_Lap_CAD_Seated_STR_M	Kad.posled.okruhu v†sede
+TXT_Cnfg_List_Last_Lap_CAD_Seated_STR_S	Kad.posl.o.v†sed.
+TXT_Cnfg_List_Last_Lap_CAD_Standing_STR_L	Kadencia poslednÈho okruhu postojaËky
+TXT_Cnfg_List_Last_Lap_CAD_Standing_STR_M	Kad.posl.o.postojaËky
+TXT_Cnfg_List_Last_Lap_CAD_Standing_STR_S	Kad.posl.o.postoj
+TXT_Cnfg_List_Last_Lap_PWR_Seated_STR_L	V˝kon poslednÈho okruhu v†sede
+TXT_Cnfg_List_Last_Lap_PWR_Seated_STR_M	V˝kon posl.o.v†sede
+TXT_Cnfg_List_Last_Lap_PWR_Seated_STR_S	V˝k.posl.o.v†sed.
+TXT_Cnfg_List_Last_Lap_PWR_Standing_STR_L	V˝kon poslednÈho okruhu postojaËky
+TXT_Cnfg_List_Last_Lap_PWR_Standing_STR_M	V˝kon posl.o.postojaËky
+TXT_Cnfg_List_Last_Lap_PWR_Standing_STR_S	V˝k.posl.o.postoj
+TXT_Cnfg_List_Left_PP_Peak_Start_Avg_STR_L	Priem. væavo PPP
+TXT_Cnfg_List_Left_PP_Peak_Start_Avg_STR_M	PriemernÈ væavo PPP
+TXT_Cnfg_List_Left_PP_Peak_Start_Avg_STR_S	Priem.væavo PPP
+TXT_Cnfg_List_Left_PP_Peak_Start_Lap_STR_L	Okruh væavo PPP
+TXT_Cnfg_List_Left_PP_Peak_Start_Lap_STR_M	Okruh væavo PPP
+TXT_Cnfg_List_Left_PP_Peak_Start_Lap_STR_S	Okruh væavo PPP
+TXT_Cnfg_List_Left_PP_Peak_Start_Last_Lap_STR_L	PPP poslednÈho okruhu væavo
+TXT_Cnfg_List_Left_PP_Peak_Start_Last_Lap_STR_M	PPP posl.okruhu væavo
+TXT_Cnfg_List_Left_PP_Peak_Start_Last_Lap_STR_S	PPP posl.o.væavo
+TXT_Cnfg_List_Left_PP_Peak_Start_STR_L	Væavo PPP
+TXT_Cnfg_List_Left_PP_Peak_Start_STR_M	Væavo PPP
+TXT_Cnfg_List_Left_PP_Peak_Start_STR_S	Væavo PPP
+TXT_Cnfg_List_Left_PP_Start_Avg_STR_L	Priemern· v˝konov· f·za væavo
+TXT_Cnfg_List_Left_PP_Start_Avg_STR_M	PriemernÈ væavo PP
+TXT_Cnfg_List_Left_PP_Start_Avg_STR_S	Priem.væavo PP
+TXT_Cnfg_List_Left_PP_Start_Lap_STR_L	V˝konov· f·za okruhu væavo
+TXT_Cnfg_List_Left_PP_Start_Lap_STR_M	Okruh væavo PP
+TXT_Cnfg_List_Left_PP_Start_Lap_STR_S	Okruh væavo PP
+TXT_Cnfg_List_Left_PP_Start_Last_Lap_STR_L	V˝kon. f·za posled. okruhu væavo
+TXT_Cnfg_List_Left_PP_Start_Last_Lap_STR_M	V˝k.f·za posl. okr. væavo
+TXT_Cnfg_List_Left_PP_Start_Last_Lap_STR_S	V˝k.f.posl.o.væav
+TXT_Cnfg_List_Left_PP_Start_STR_L	V˝konov· f·za væavo
+TXT_Cnfg_List_Left_PP_Start_STR_M	Væavo PP
+TXT_Cnfg_List_Left_PP_Start_STR_S	Væavo PP
+TXT_Cnfg_List_PCO_Avg_STR_L	Priem. PCO
+TXT_Cnfg_List_PCO_Avg_STR_M	Priem. PCO
+TXT_Cnfg_List_PCO_Avg_STR_S	Priem. PCO
+TXT_Cnfg_List_PCO_Lap_STR_L	Okruh PCO
+TXT_Cnfg_List_PCO_Lap_STR_M	Okruh PCO
+TXT_Cnfg_List_PCO_Lap_STR_S	Okruh PCO
+TXT_Cnfg_List_PCO_Last_Lap_STR_L	PCO poslednÈho okruhu
+TXT_Cnfg_List_PCO_Last_Lap_STR_M	PCO poslednÈho okruhu
+TXT_Cnfg_List_PCO_Last_Lap_STR_S	PCO posl.okruhu
+TXT_Cnfg_List_PCO_STR_L	PCO
+TXT_Cnfg_List_PCO_STR_M	PCO
+TXT_Cnfg_List_PCO_STR_S	PCO
+TXT_Cnfg_List_Pedal_Weight_STR_L	Pedal Weight
+TXT_Cnfg_List_Pedal_Weight_STR_M	Pedal Weight
+TXT_Cnfg_List_Pedal_Weight_STR_S	Pedal Weight
+TXT_Cnfg_List_Right_PP_Peak_Start_Avg_STR_L	Priem. vpravo PPP
+TXT_Cnfg_List_Right_PP_Peak_Start_Avg_STR_M	PriemernÈ vpravo PPP
+TXT_Cnfg_List_Right_PP_Peak_Start_Avg_STR_S	Priem.vprav.PPP
+TXT_Cnfg_List_Right_PP_Peak_Start_Lap_STR_L	Okruh vpravo PPP
+TXT_Cnfg_List_Right_PP_Peak_Start_Lap_STR_M	Okruh vpravo PPP
+TXT_Cnfg_List_Right_PP_Peak_Start_Lap_STR_S	Okruh vprav.PPP
+TXT_Cnfg_List_Right_PP_Peak_Start_Last_Lap_STR_L	PPP poslednÈho okruhu vpravo
+TXT_Cnfg_List_Right_PP_Peak_Start_Last_Lap_STR_M	PPP posl.okruhu vpravo
+TXT_Cnfg_List_Right_PP_Peak_Start_Last_Lap_STR_S	PPP posl.o.vprav
+TXT_Cnfg_List_Right_PP_Peak_Start_STR_L	Vpravo PPP
+TXT_Cnfg_List_Right_PP_Peak_Start_STR_M	Vpravo PPP
+TXT_Cnfg_List_Right_PP_Peak_Start_STR_S	Vpravo PPP
+TXT_Cnfg_List_Right_PP_Start_Avg_STR_L	Priemern· v˝konov· f·za vpravo
+TXT_Cnfg_List_Right_PP_Start_Avg_STR_M	PriemernÈ vpravo PP
+TXT_Cnfg_List_Right_PP_Start_Avg_STR_S	Priem.vpravo PP
+TXT_Cnfg_List_Right_PP_Start_Lap_STR_L	V˝konov· f·za okruhu vpravo
+TXT_Cnfg_List_Right_PP_Start_Lap_STR_M	Okruh vpravo PP
+TXT_Cnfg_List_Right_PP_Start_Lap_STR_S	Okruh vpravo PP
+TXT_Cnfg_List_Right_PP_Start_Last_Lap_STR_L	V˝k. f·za posled. okruhu vpravo
+TXT_Cnfg_List_Right_PP_Start_Last_Lap_STR_M	V˝k. f·za posl.okr. vpravo
+TXT_Cnfg_List_Right_PP_Start_Last_Lap_STR_S	V˝k.f.posl.o.vpra
+TXT_Cnfg_List_Right_PP_Start_STR_L	V˝konov· f·za vpravo
+TXT_Cnfg_List_Right_PP_Start_STR_M	Vpravo PP
+TXT_Cnfg_List_Right_PP_Start_STR_S	Vpravo PP
+TXT_Cnfg_List_Time_Seated_Lap_STR_L	»as okruhu v sede
+TXT_Cnfg_List_Time_Seated_Lap_STR_M	»as okruhu v†sede
+TXT_Cnfg_List_Time_Seated_Lap_STR_S	»as okr. v†sede
+TXT_Cnfg_List_Time_Seated_Last_Lap_STR_L	»as poslednÈho okruhu v†sede
+TXT_Cnfg_List_Time_Seated_Last_Lap_STR_M	»as posl.okruhu v†sede
+TXT_Cnfg_List_Time_Seated_Last_Lap_STR_S	»as posl.o.v†sede
+TXT_Cnfg_List_Time_Seated_STR_L	»as v sede
+TXT_Cnfg_List_Time_Seated_STR_M	»as v†sede
+TXT_Cnfg_List_Time_Seated_STR_S	»as v†sede
+TXT_Cnfg_List_Time_Standing_Lap_STR_L	»as okruhu postojaËky
+TXT_Cnfg_List_Time_Standing_Lap_STR_M	»as okruhu postojaËky
+TXT_Cnfg_List_Time_Standing_Lap_STR_S	»as okr. postoj.
+TXT_Cnfg_List_Time_Standing_Last_Lap_STR_L	»as poslednÈho okruhu postojaËky
+TXT_Cnfg_List_Time_Standing_Last_Lap_STR_M	»as posl. okr. postojaËky
+TXT_Cnfg_List_Time_Standing_Last_Lap_STR_S	»as posl.okr.post
+TXT_Cnfg_List_Time_Standing_STR_L	»as postojaËky
+TXT_Cnfg_List_Time_Standing_STR_M	»as postojaËky
+TXT_Cnfg_List_Time_Standing_STR_S	»as postojaËky
+TXT_Cnfg_List_Vector_State_STR_L	Vector: stav
+TXT_Cnfg_List_Vector_State_STR_M	Vector: stav
+TXT_Cnfg_List_Vector_State_STR_S	Vector: stav
+TXT_Cnfg_List_Vector_Status_2_STR_L	Vector: stav 2
+TXT_Cnfg_List_Vector_Status_2_STR_M	Vector: stav 2
+TXT_Cnfg_List_Vector_Status_2_STR_S	Vector: stav 2
+TXT_Cnfg_List_Vector_Status_3_STR_L	Vector: stav 3
+TXT_Cnfg_List_Vector_Status_3_STR_M	Vector: stav 3
+TXT_Cnfg_List_Vector_Status_3_STR_S	Vector: stav 3
+TXT_Cnfg_List_Vector_Status_STR_L	Vector: stav
+TXT_Cnfg_List_Vector_Status_STR_M	Vector: stav
+TXT_Cnfg_List_Vector_Status_STR_S	Vector: stav
+TXT_Cnfg_Title_Pedal_Smoothness_STR_S	Plynulosù ped.%
+TXT_Cnfg_Title_Torque_Effectiveness_STR_S	Efekt.ped·l.%
+TXT_ConnectIQ_STR_L	Connect IQ
+TXT_ConnectIQ_STR_M	Connect IQ
+TXT_ConnectIQ_STR_S	Connect IQ
+TXT_Cooldown_Bike_STR	Prest·vka
+TXT_Cooldown_STR	Prest·vka
+TXT_Cooldown_Swim_STR	Prest·vka
+TXT_DEC_STR_M	Dec
+TXT_DIST_REM_STR_S	Zost·vaj˙ca vzd.
+TXT_DRILL_LOG_PAGE_Drill_Ended_STR_M	CviËenie skonËilo
+TXT_DRILL_LOG_PAGE_TITL_Drill_Log_STR_M	Z·zn. cviË.
+TXT_DRILL_LOG_PAGE_To_Begin_STR_M	na zaË. trÈningu
+TXT_DRILL_LOG_PAGE_To_End_STR_M	na ukonËenie cv.
+TXT_Di2_Battery_STR_L	BatÈria Di2
+TXT_Di2_Battery_STR_M	BatÈria Di2
+TXT_Di2_Battery_STR_S	BatÈria Di2
+TXT_Dist_Ahead_STR_L	Vzdialenosù pred vami
+TXT_Dist_Ahead_STR_M	Vzdialenosù pred vami
+TXT_Dist_Ahead_STR_S	Vzd. napred
+TXT_Dist_Behind_STR_S	Vzdialenosù za
+TXT_Dist_Nautical_STR_L	N·morn· vzdialenosù
+TXT_Dist_Nautical_STR_M	N·morn· vzdialenosù
+TXT_Dist_Nautical_STR_S	N·morn· vzd.
+TXT_Dist_Remaining_STR_S	Zost. vzdialenosù
+TXT_Dist_Run_STR_L	Vzdialenosù
+TXT_Dist_Run_STR_M	Vzdialenosù
+TXT_Dist_Run_STR_S	Vzdialenosù
+TXT_Distance_Remaining_STR_L	Zost·vaj˙ca vzdialenosù
+TXT_Distance_Remaining_STR_M	Zost·vaj˙ca vzdialenosù
+TXT_Distance_To_Go_STR_L	Zost·vaj˙ca vzdialenosù
+TXT_Distance_To_Go_STR_M	Zost·vaj˙ca vzdialenosù
+TXT_Distance_To_Go_STR_S	Zost·vaj˙ca vzd.
+TXT_Drill_STR	CviËenie
+TXT_Elapsed_Run_Time_STR_L	Uplynut˝ Ëas
+TXT_Elapsed_Run_Time_STR_M	Uplynut˝ Ëas
+TXT_Elapsed_Run_Time_STR_S	Uplynut˝ Ëas
+TXT_Est_Finish_Time_STR_S	Odhad.Ëas ukonË.
+TXT_Estimated_Finish_Time_STR_L	Odhadovan˝ Ëas ukonËenia
+TXT_Estimated_Finish_Time_STR_M	Odhad.Ëas ukonË.
+TXT_External_Profile_STR_S	Extern˝ profil
+TXT_FEB_STR_M	Feb
+TXT_FIND_MY_PHONE_Find_My_Phone_STR_L	N·jsù mÙj telefÛn
+TXT_FTP_ALERT_PAGE_FTP_Detected_STR_L	FTP je zistenÈ
+TXT_FTP_CONFIRM_Accept_STR_L	S˙hlasÌm
+TXT_FTP_CONFIRM_Decline_STR_L	Odmietnuù
+TXT_FTP_CONFIRM_New_FTP_Detected_STR_L	Naölo sa novÈ FTP!
+TXT_FTP_GUIDED_WRKT_CMPLT_FTP_Not_Detected_STR_M	FTP nie je zistenÈ
+TXT_FTP_PAGE_FTP_Detected_STR_L	FTP je zistenÈ
+TXT_FTP_PAGE_FTP_STR_L	FTP
+TXT_FTP_PAGE_Manual_Entry_STR_L	Manu·lny z·znam
+TXT_FTP_WORKOUT_Final_Step_STR	Posledn˝ krok
+TXT_FTP_WORKOUT_Slow_Easy_Speed_STR	Pomaly, mierna r˝chl.
+TXT_FTP_WORKOUT_Steady_Max_Effort_STR	Plynulo, max. n·maha
+TXT_F_STR_M	P
+TXT_Fastest_1000YD_STR_L	Najr˝chlejöÌch 1†000 yd!
+TXT_Fastest_100M_STR_L	Najr˝chlejöÌch 100†m!
+TXT_Fastest_100YD_STR_L	Najr˝chlejöÌch 100†yd!
+TXT_Fastest_10K_STR_L	Najr˝chlejöÌch 10†km!
+TXT_Fastest_1500M_STR_L	Najr˝chlejöÌch 1†500†m!
+TXT_Fastest_1650YD_STR_L	Najr˝chlejöÌch 1†650†yd!
+TXT_Fastest_1K_RUN_STR_L	Najr˝chlejöÌ 1†km!
+TXT_Fastest_1K_SWIM_STR_L	Najr˝chlejöÌch 1000†m!
+TXT_Fastest_400M_STR_L	Najr˝chlejöÌch 400†m!
+TXT_Fastest_40K_STR_L	Najr˝chlejöÌch 40†km!
+TXT_Fastest_500YD_STR_L	Najr˝chlejöÌch 500†yd!
+TXT_Fastest_5K_STR_L	Najr˝chlejöÌch 5†km!
+TXT_Fastest_750M_STR_L	Najr˝chlejöÌch 750†m!
+TXT_Fastest_Half_STR_L	Najr˝chlejöÌ polmaratÛn!
+TXT_Fastest_Marathon_STR_L	Najr˝chlejöÌ maratÛn!
+TXT_Fastest_Mile_STR_L	Najr˝chlejöia mÌæa!
+TXT_Fly_STR	Mot˝lik
+TXT_Fly_STR_L	Mot˝lik
+TXT_Fly_STR_M	Mot˝lik
+TXT_Free_STR	Voæn˝
+TXT_Free_STR_L	Voæn˝
+TXT_Free_STR_M	Voæn˝
+TXT_Fri_FRMT_STR_M	Piatok %1
+TXT_Fri_STR_M	Pia
+TXT_Front_Gear_STR_L	PrednÈ
+TXT_Front_Gear_STR_M	PrednÈ
+TXT_Front_Gear_STR_S	PrednÈ
+TXT_GCT_Avg_Balance_STR_L	Priem. pomer doby kontaktu so†zemou
+TXT_GCT_Avg_Balance_STR_M	Pr.pom.doby kon.so†zem.
+TXT_GCT_Avg_Balance_STR_S	Pr.d.kon.so†zem.
+TXT_GCT_Bal_STR_S	Kont. so†zem.
+TXT_GCT_Balance_STR_L	Pomer doby kon-\ntaktu so zemou
+TXT_GCT_Balance_STR_M	Pom.doby kont.so†zem.
+TXT_GCT_Lap_Balance_STR_L	Pom.dob.kon.\nso zem.okr.
+TXT_GCT_Lap_Balance_STR_M	P.dob.kon.zem.poË.okr.
+TXT_GCT_Lap_Balance_STR_S	Kon.zem.poË.okr.
+TXT_GCT_Last_Lap_Balance_STR_L	Kon.so†zem.poË.posl.okr.
+TXT_GCT_Last_Lap_Balance_STR_M	Kon.so†zem.poË.posl.okr.
+TXT_GCT_Last_Lap_Balance_STR_S	Kon.zem.pos.okr.
+TXT_GPS_Accuracy_STR_L	Presnosù GPS
+TXT_GPS_Accuracy_STR_M	Presnosù GPS
+TXT_GPS_Accuracy_STR_S	Presnosù GPS
+TXT_Gear_Ratio_STR_L	Prevodov˝ pomer
+TXT_Gear_Ratio_STR_M	Prevodov˝ pomer
+TXT_Gear_Ratio_STR_S	Prevodov˝ pomer
+TXT_Gears_STR_L	Prevody
+TXT_Gears_STR_M	Prevody
+TXT_Gears_STR_S	Prevody
+TXT_Go_STR	Õsù
+TXT_Ground_Cont_STR_S	GCT
+TXT_Ground_Contact_STR_L	Doba kontaktu so zemou
+TXT_Ground_Contact_STR_M	Doba kontaktu so zemou
+TXT_HNDL_GUIDED_WORKOUT_Using_Profile_FRMT_STR	PouûitÈ: %1
+TXT_HNDL_Using_Profiles_1_FRMT_STR	PouûitÈ: %1
+TXT_HNDL_Using_Profiles_2_FRMT_STR	Pouû.:%1,%2
+TXT_HNDL_Using_Profiles_3_FRMT_STR	P.:%1,%2,%3
+TXT_HNDL_Using_Profiles_4_FRMT_STR	PouûitÈ: %1, %2, %3, %4
+TXT_HNDL_Using_Profiles_5_FRMT_STR	PouûitÈ: %1, %2, %3, %4, %5
+TXT_HOMESCREEN_Activity_STR_M	Aktivita
+TXT_HR_2_Crnt_STR_L	Srdcov˝ tep #2
+TXT_HR_2_Crnt_STR_M	Srdcov˝ tep #2
+TXT_HR_2_Crnt_STR_S	Srdcov˝ tep #2
+TXT_HR_Crnt_PHRR_STR_L	%HRR
+TXT_HR_Crnt_PHRR_STR_M	%HRR
+TXT_HR_Crnt_PHRR_STR_S	%HRR
+TXT_HR_Crnt_PMax_STR_L	%max. ST
+TXT_HR_Crnt_PMax_STR_M	%max. ST
+TXT_HR_Crnt_PMax_STR_S	%max. ST
+TXT_HR_Crnt_STR_L	Srdcov˝ tep
+TXT_HR_Crnt_STR_M	Srdcov˝ tep
+TXT_HR_Crnt_STR_S	Srdcov˝ tep
+TXT_HR_GRAPH_PAGE_Aerobic_STR_L	Aerobik
+TXT_HR_GRAPH_PAGE_Easy_STR_L	ºahk·
+TXT_HR_GRAPH_PAGE_High_Aerobic_STR_L	Vysoko aerÛbne
+TXT_HR_GRAPH_PAGE_Low_Aerobic_STR_L	Mierne aerÛbne
+TXT_HR_GRAPH_PAGE_Maximum_STR_L	Maxim·lna
+TXT_HR_GRAPH_PAGE_No_HR_STR_L	éiadny tep
+TXT_HR_GRAPH_PAGE_No_Zone_STR_L	éiadna zÛna
+TXT_HR_GRAPH_PAGE_Threshold_STR_L	Prahov˝
+TXT_HR_GRAPH_PAGE_Warm_Up_STR_L	RozcviËka
+TXT_HR_STR	Te
+TXT_HR_Time_in_Zone_0_STR_L	»as v zÛne tepu 0
+TXT_HR_Time_in_Zone_0_STR_M	»as v zÛne tepu 0
+TXT_HR_Time_in_Zone_0_STR_S	ZÛna tepu†0
+TXT_HR_Time_in_Zone_1_STR_L	»as v zÛne tepu 1
+TXT_HR_Time_in_Zone_1_STR_M	»as v zÛne tepu 1
+TXT_HR_Time_in_Zone_1_STR_S	ZÛna tepu 1
+TXT_HR_Time_in_Zone_2_STR_L	»as v zÛne tepu 2
+TXT_HR_Time_in_Zone_2_STR_M	»as v zÛne tepu 2
+TXT_HR_Time_in_Zone_2_STR_S	ZÛna tepu 2
+TXT_HR_Time_in_Zone_3_STR_L	»as v zÛne tepu 3
+TXT_HR_Time_in_Zone_3_STR_M	»as v zÛne tepu 3
+TXT_HR_Time_in_Zone_3_STR_S	ZÛna tepu 3
+TXT_HR_Time_in_Zone_4_STR_L	»as v zÛne tepu 4
+TXT_HR_Time_in_Zone_4_STR_M	»as v zÛne tepu 4
+TXT_HR_Time_in_Zone_4_STR_S	ZÛna tepu 4
+TXT_HR_Time_in_Zone_5_STR_L	»as v zÛne tepu 5
+TXT_HR_Time_in_Zone_5_STR_M	»as v zÛne tepu 5
+TXT_HR_Time_in_Zone_5_STR_S	ZÛna tepu 5
+TXT_HR_Time_in_Zone_6_STR_L	»as v zÛne tepu 6
+TXT_HR_Time_in_Zone_6_STR_M	»as v zÛne tepu 6
+TXT_HR_Time_in_Zone_6_STR_S	ZÛna tepu†6
+TXT_HR_To_Go_STR_L	Zost·vaj˙ci tep
+TXT_HR_To_Go_STR_M	Zost·vaj˙ci tep
+TXT_HR_To_Go_STR_S	Zost·vaj˙ci tep
+TXT_HR_WIDGET_MENU_Auto_STR_M	Automatick˝
+TXT_HR_WIDGET_MENU_Heart_Rate_Monitor_STR_L	Srdcov˝ tep
+TXT_HR_WIDGET_MENU_Options_STR_L	Moûnosti
+TXT_HR_WIDGET_PAGE_Heart_Rate_STR_L	Srdcov˝ tep
+TXT_HR_WIDGET_PAGE_High_FRMT_STR_M	Vysok˝: %1
+TXT_HR_WIDGET_PAGE_Hours_FRMT_STR_M	Pred %1 hodinami
+TXT_HR_WIDGET_PAGE_Low_FRMT_STR_M	NÌzky: %1
+TXT_HR_WIDGET_PAGE_Minutes_FRMT_STR_M	Pred %1 min˙tami
+TXT_HR_WIDGET_PAGE_RHR_STR_L	ST v
+TXT_HR_Zone_FRMT_STR	ZÛna tepu %1
+TXT_HR_Zone_STR_L	ZÛna srdcovÈho tepu
+TXT_HR_Zone_STR_M	ZÛna srdcovÈho tepu
+TXT_HR_Zone_STR_S	ZÛna ST
+TXT_Heading_STR_L	Kurz
+TXT_Heading_STR_M	Kurz
+TXT_Heading_STR_S	Kurz
+TXT_Hold_Up_Key_to_Change_STR_S	Podrû. tlaË. hore vykonajte ˙pravu
+TXT_IF_PWR_STR_L	Intensity Factor
+TXT_IF_PWR_STR_M	Intensity Factor
+TXT_IF_PWR_STR_S	IF
+TXT_IM_STR	IM
+TXT_INTENSITY_MINUTES_GOAL_MET_PAGE_Met_Goal_L	Tento t˝ûd. ste splnili svoj cieæ!
+TXT_INTENSITY_MINUTES_GOAL_MET_PAGE_Remaining_L	Minim·lne Zost·va
+TXT_INTENSITY_MINUTES_WIDGET_GOAL_Moderate_L	Mierny
+TXT_INTENSITY_MINUTES_WIDGET_GOAL_Or_L	ALEBO
+TXT_INTENSITY_MINUTES_WIDGET_GOAL_Title_L	Min. intenz. cviË. na dosiah. cieæa
+TXT_INTENSITY_MINUTES_WIDGET_GOAL_Vigorous_L	Vysok˝
+TXT_INTENSITY_MINUTES_WIDGET_This_Week_STR_S	Tento t˝ûdeÚ
+TXT_INTENSITY_MINUTES_WIDGET_Weekly_Goal_L	T˝ûdenn˝ cieæ
+TXT_Int_Avg_HR_PHRR_STR_L	Priemern˝ %HRR intervalu
+TXT_Int_Avg_HR_PHRR_STR_M	Priemern˝ %HRR intervalu
+TXT_Int_Avg_HR_PHRR_STR_S	Priem. %HRR int.
+TXT_Int_Avg_HR_PMax_STR_L	Priemern˝ % max. intervalu
+TXT_Int_Avg_HR_PMax_STR_M	Priem.% max.int.
+TXT_Int_Avg_HR_PMax_STR_S	Priem.% max.int.
+TXT_Int_Avg_HR_STR_L	Priemern˝ tep intervalu
+TXT_Int_Avg_HR_STR_M	Priemern˝ tep intervalu
+TXT_Int_Avg_HR_STR_S	Priem. tep int.
+TXT_Int_Max_HR_PHRR_STR_L	Maxim·lny %HRR intervalu
+TXT_Int_Max_HR_PHRR_STR_M	Maxim·lny %HRR intervalu
+TXT_Int_Max_HR_PHRR_STR_S	Max. %HRR int.
+TXT_Int_Max_HR_PMax_STR_L	Maxim·lny % max. intervalu
+TXT_Int_Max_HR_PMax_STR_M	Max. % max. int.
+TXT_Int_Max_HR_PMax_STR_S	Max. % max. int.
+TXT_Int_Max_HR_STR_L	Maxim·lny tep intervalu
+TXT_Int_Max_HR_STR_M	Maxim·lny tep intervalu
+TXT_Int_Max_HR_STR_S	Max. tep int.
+TXT_Int_Stroke_Rate_STR_L	PoËet z·berov/interval
+TXT_Int_Stroke_Rate_STR_M	PoËet z·berov/interval
+TXT_Int_Stroke_Rate_STR_S	PoËet z·b./inter.
+TXT_Int_Stroke_Type_STR_L	Typ z·berov intervalu
+TXT_Int_Stroke_Type_STR_M	Typ z·berov intervalu
+TXT_Int_Stroke_Type_STR_S	Typ z·b.intervalu
+TXT_Int_Strokes_Per_Length_STR_L	Z·bery/dÂûka intervalu
+TXT_Int_Strokes_Per_Length_STR_M	Z·bery/dÂûka intervalu
+TXT_Int_Strokes_Per_Length_STR_S	Interval intervalu
+TXT_Interval_Distance_STR_L	Vzdialenosù intervalu
+TXT_Interval_Distance_STR_M	Vzdialenosù intervalu
+TXT_Interval_Distance_STR_S	Vzd. intervalu
+TXT_Interval_Lengths_STR_L	DÂûky intervalu
+TXT_Interval_Lengths_STR_M	DÂûky intervalu
+TXT_Interval_Lengths_STR_S	DÂûky intervalu
+TXT_Interval_Pace_STR_L	Tempo intervalu
+TXT_Interval_Pace_STR_M	Tempo intervalu
+TXT_Interval_Pace_STR_S	Tempo intervalu
+TXT_Interval_Swolf_STR_L	SWOLF intervalu
+TXT_Interval_Swolf_STR_M	SWOLF intervalu
+TXT_Interval_Swolf_STR_S	SWOLF intervalu
+TXT_Interval_Time_STR_L	»as intervalu
+TXT_Interval_Time_STR_M	»as intervalu
+TXT_Interval_Time_STR_S	»as intervalu
+TXT_JAN_STR_M	Jan
+TXT_JUL_STR_M	J˙l
+TXT_JUN_STR_M	J˙n
+TXT_KiloJoules_PWR_STR_L	Kilojoules
+TXT_KiloJoules_PWR_STR_M	Kilojoules
+TXT_KiloJoules_PWR_STR_S	Kilojoules
+TXT_LAST7DAYS_STEPS_MAX_VAL_IN_K_FRMT_STR_M	%1K
+TXT_LIST_SELECT_15_Seconds_STR_L	15 sek˙nd
+TXT_LIST_SELECT_1_Minute_STR_L	1 min˙ta
+TXT_LIST_SELECT_30_Seconds_STR_L	30 sek˙nd
+TXT_LIST_SELECT_8_Seconds_STR_L	8 sek˙nd
+TXT_LIST_SELECT_BPM_STR_L	⁄DEROV/MIN.
+TXT_LIST_SELECT_Custom_STR_L	VlastnÈ
+TXT_LIST_SELECT_Distance_STR_L	Vzdialenosù
+TXT_LIST_SELECT_Every_Beat_STR_L	Kaûd˝ ˙der
+TXT_LIST_SELECT_Every_Fourth_Beat_STR_L	Kaûd˝ ötvrt˝ ˙der
+TXT_LIST_SELECT_Every_Other_Beat_STR_L	Kaûd˝ druh˝ ˙der
+TXT_LIST_SELECT_Every_Sixth_Beat_STR_L	Kaûd˝ öiesty ˙der
+TXT_LIST_SELECT_Every_Third_Beat_STR_L	Kaûd˝ tretÌ ˙der
+TXT_LIST_SELECT_Fast_STR_L	R˝chlo
+TXT_LIST_SELECT_HDR_Alert_Frequency_STR_S	Frekvencia upozornenÌ
+TXT_LIST_SELECT_HDR_Alert_Type_STR_S	Zvuky
+TXT_LIST_SELECT_HDR_Auto_Pause_STR_S	Auto Pause
+TXT_LIST_SELECT_HDR_Auto_Scroll_STR_S	AutomatickÈ rolovanie
+TXT_LIST_SELECT_HDR_Based_On_STR_S	ZaloûenÈ na
+TXT_LIST_SELECT_HDR_Language_STR_S	Jazyk
+TXT_LIST_SELECT_HDR_Notifications_STR_S	Upozornenia
+TXT_LIST_SELECT_HDR_Primary_Field_STR_M	Prim·rne pole
+TXT_LIST_SELECT_HDR_Primary_Metric_STR_S	Prim. metr.syst.
+TXT_LIST_SELECT_HDR_Secondary_Field_STR_M	Sekund·rne pole
+TXT_LIST_SELECT_HDR_Secondary_Metric_1_STR_S	Sekund. metr.systÈm 1
+TXT_LIST_SELECT_HDR_Secondary_Metric_2_STR_S	Sekund. metr.systÈm 2
+TXT_LIST_SELECT_HDR_Sounds_STR_S	Zvuky
+TXT_LIST_SELECT_HDR_Start_Of_Week_STR_S	ZaËiatok t˝ûdÚa
+TXT_LIST_SELECT_HDR_Timeout_STR_S	»asov˝ limit
+TXT_LIST_SELECT_HDR_Type_STR_S	Typ
+TXT_LIST_SELECT_High_Alert_STR_M	Upoz. na vys. hodnotu
+TXT_LIST_SELECT_Low_Alert_STR_M	Upoz. na nÌz. hodnotu
+TXT_LIST_SELECT_Medium_STR_L	StrednÈ
+TXT_LIST_SELECT_Monday_STR_L	Pondelok
+TXT_LIST_SELECT_More_STR_L	Viac
+TXT_LIST_SELECT_Off_STR_L	Vypn˙ù
+TXT_LIST_SELECT_Open_STR_L	OtvorenÈ
+TXT_LIST_SELECT_PERCENT_HRR_STR_L	%HRR
+TXT_LIST_SELECT_PERCENT_LTHR_STR_L	% srdcovÈho tepu prahu lakt·tu
+TXT_LIST_SELECT_PERCENT_Max_HR_STR_L	max ST%
+TXT_LIST_SELECT_SMART_NTFCTN_SETTINGS_Off_STR_L	Vypn˙ù
+TXT_LIST_SELECT_SMART_NTFCTN_SETTINGS_Show_All_STR_L	Zobraziù vöetky
+TXT_LIST_SELECT_SMART_NTFCTN_SETTINGS_Show_Calls_Only_STR_L	Zobraziù len hovory
+TXT_LIST_SELECT_SMART_NTFCTN_SETTINGS_Tone_STR_L	TÛny
+TXT_LIST_SELECT_SMART_NTFCTN_SETTINGS_Tone_and_Vibration_STR_L	TÛny a†vibr·cie
+TXT_LIST_SELECT_SMART_NTFCTN_SETTINGS_Vibration_STR_L	Vibr·cie
+TXT_LIST_SELECT_Saturday_STR_L	Sobota
+TXT_LIST_SELECT_Slow_STR_L	Pomaly
+TXT_LIST_SELECT_Sounds_Tone_And_Vibr_STR_L	TÛny a†vibr·cie
+TXT_LIST_SELECT_Sounds_Tone_STR_L	TÛny
+TXT_LIST_SELECT_Sounds_Vibration_STR_L	Vibr·cie
+TXT_LIST_SELECT_Stays_On_STR_L	Zostane zapnutÈ
+TXT_LIST_SELECT_Sunday_STR_L	Nedeæa
+TXT_LIST_SELECT_Time_STR_L	»as
+TXT_LIST_SELECT_Total_Time_STR_L	Celkov˝ Ëas
+TXT_LIST_SELECT_When_Stopped_STR_L	Pri zastavenÌ
+TXT_LST_SLCT_Choose_Zone_STR_S	Zvoliù zÛnu
+TXT_LTHR_CONFIRM_Accept_STR_L	S˙hlasÌm
+TXT_LTHR_CONFIRM_Decline_STR_L	Odmietnuù
+TXT_LTHR_CONFIRM_New_Threshold_Detected_STR_L	Zistil sa nov˝ prah!
+TXT_LTHR_PAGE_LTHR_STR_L	STLT:
+TXT_LTHR_PAGE_Manual_Entry_STR_L	Manu·lny z·znam
+TXT_LTHR_PAGE_T_Pace_STR_L	Prah.tem.:
+TXT_LTHR_PAGE_Threshold_Detected_STR_L	Prah zisten˝
+TXT_LTHR_PAGE_Threshold_STR_L	Prahov˝
+TXT_LT_GUIDED_WORKOUT_VO2_Max_Required_STR_M	Vyûaduje sa hodnota VO2 Max.
+TXT_LT_GUIDED_WRKT_CMPLT_Threshold_Not_Detected_STR_M	Prah nezisten˝
+TXT_L_R_Balance_STR_L	Rovnov·ha
+TXT_L_R_Balance_STR_M	Rovnov·ha
+TXT_L_R_Balance_STR_S	Rovnov·ha %
+TXT_Lap_Dist_STR_L	Vzdialenosù okruhu
+TXT_Lap_Dist_STR_M	Vzdialenosù okruhu
+TXT_Lap_Dist_STR_S	Vzdial. okruhu
+TXT_Lap_Ground_Cont_STR_S	DKZ v†kole
+TXT_Lap_Ground_Contact_STR_L	Doba kontaktu so zemou poËas okruhu
+TXT_Lap_Ground_Contact_STR_M	DKZ v†kole
+TXT_Lap_HR_PHRR_STR_L	%HRR okruhu
+TXT_Lap_HR_PHRR_STR_M	%HRR okruhu
+TXT_Lap_HR_PHRR_STR_S	%HRR okruhu
+TXT_Lap_HR_PMax_STR_L	ST% max. okruhu
+TXT_Lap_HR_PMax_STR_M	ST% max. okruhu
+TXT_Lap_HR_PMax_STR_S	ST% max. okruhu
+TXT_Lap_HR_STR_L	Srdcov˝ tep okruhu
+TXT_Lap_HR_STR_M	Srdcov˝ tep okruhu
+TXT_Lap_HR_STR_S	ST okruhu
+TXT_Lap_Num_STR_L	Okruhy
+TXT_Lap_Num_STR_M	Okruhy
+TXT_Lap_Num_STR_S	Okruhy
+TXT_Lap_PWR_STR_L	V˝kon okruhu
+TXT_Lap_PWR_STR_M	V˝kon okruhu
+TXT_Lap_PWR_STR_S	V˝kon okruhu
+TXT_Lap_Stride_Length_STR_L	DÂûka kroku poËas okruhu
+TXT_Lap_Stride_Length_STR_M	DÂûka kroku poËas okruhu
+TXT_Lap_Stride_Length_STR_S	DÂû.kr.poË.okr.
+TXT_Lap_Swolf_STR_L	Okruh SWOLF
+TXT_Lap_Swolf_STR_M	Okruh SWOLF
+TXT_Lap_Swolf_STR_S	Okruh SWOLF
+TXT_Lap_Vert_Osc_STR_S	Vertik. osc. kola
+TXT_Lap_Vertical_Oscillation_STR_L	Vertik·lna oscil·cia okruhu
+TXT_Lap_Vertical_Oscillation_STR_M	Vertik.oscil.okr.
+TXT_Lap_Vertical_Ratio_STR_L	Vertik·lny pomer okruhu
+TXT_Lap_Vertical_Ratio_STR_M	Vertik·lny pomer okruhu
+TXT_Lap_Vertical_Ratio_STR_S	Vert.pom.okr.
+TXT_Last_7_Days_STR_M	Posledn˝ch 7†dnÌ
+TXT_Last_Int_Avg_HR_PHRR_STR_L	PriemernÈ %HRR poslednÈho intervalu
+TXT_Last_Int_Avg_HR_PHRR_STR_M	Priem. %HRR posl.interv.
+TXT_Last_Int_Avg_HR_PHRR_STR_S	Pr.%HRR posl.int
+TXT_Last_Int_Avg_HR_PMax_STR_L	PriemernÈ % max. poslednÈho intervalu
+TXT_Last_Int_Avg_HR_PMax_STR_M	Priem.%max.posl. int
+TXT_Last_Int_Avg_HR_PMax_STR_S	Pr.%max.posl.int
+TXT_Last_Int_Avg_HR_STR_L	Priem. srdcov˝ tep poslednÈho intervalu
+TXT_Last_Int_Avg_HR_STR_M	Priem.srdc. tep posl. int.
+TXT_Last_Int_Avg_HR_STR_S	Pr.srdc.tep posl.i
+TXT_Last_Int_Distance_STR_L	DÂûka poslednÈho intervalu
+TXT_Last_Int_Distance_STR_M	Vzdial.posl.intervalu
+TXT_Last_Int_Distance_STR_S	DÂûka posl.int.
+TXT_Last_Int_Max_HR_PHRR_STR_L	Maxim·lne %HRR poslednÈho intervalu
+TXT_Last_Int_Max_HR_PHRR_STR_M	Max %HRR posled.interv.
+TXT_Last_Int_Max_HR_PHRR_STR_S	Max%HRR posl.i
+TXT_Last_Int_Max_HR_PMax_STR_L	Maxim·lne % max. poslednÈho intervalu
+TXT_Last_Int_Max_HR_PMax_STR_M	Max% max. posl. intervalu
+TXT_Last_Int_Max_HR_PMax_STR_S	Mx%maxSrd.t.PI
+TXT_Last_Int_Max_HR_STR_L	Maxim·lny tep poslednÈho intervalu
+TXT_Last_Int_Max_HR_STR_M	Max tep posl. intervalu
+TXT_Last_Int_Max_HR_STR_S	Max.tep posl.int
+TXT_Last_Int_Pace_STR_L	Tempo poslednÈho intervalu
+TXT_Last_Int_Pace_STR_M	Tempo posl. intervalu
+TXT_Last_Int_Pace_STR_S	Tempo pos. int.
+TXT_Last_Int_Stroke_Rate_STR_L	PoËet z·berov poslednÈho intervalu
+TXT_Last_Int_Stroke_Rate_STR_M	Frek.z·ber.posl.int.
+TXT_Last_Int_Stroke_Rate_STR_S	PoË.z·b.posl.int.
+TXT_Last_Int_Stroke_Type_STR_L	Typ z·berov poslednÈho intervalu
+TXT_Last_Int_Stroke_Type_STR_M	Typ z·ber.posl.int.
+TXT_Last_Int_Stroke_Type_STR_S	ät˝l z·b.posl.int.
+TXT_Last_Int_Strokes_Per_Length_STR_L	Z·bery/dÂûka poslednÈho intervalu
+TXT_Last_Int_Strokes_Per_Length_STR_M	Z·bery/dÂûka posl.interv.
+TXT_Last_Int_Strokes_Per_Length_STR_S	Vertik. posl.int.
+TXT_Last_Int_Time_STR_L	»as poslednÈho intervalu
+TXT_Last_Int_Time_STR_M	»as poslednÈho intervalu
+TXT_Last_Int_Time_STR_S	»as posl.inter.
+TXT_Last_Interval_Lengths_STR_L	DÂûky poslednÈho intervalu
+TXT_Last_Interval_Lengths_STR_M	DÂûky posled. intervalu
+TXT_Last_Interval_Lengths_STR_S	Ver.pos.intervalu
+TXT_Last_Interval_Swolf_STR_L	SWOLF poslednÈho intervalu
+TXT_Last_Interval_Swolf_STR_M	SWOLF posl. inter.
+TXT_Last_Interval_Swolf_STR_S	SWOLF posl.int.
+TXT_Last_Lap_Dist_STR_L	Vzdialenosù poslednÈho okruhu
+TXT_Last_Lap_Dist_STR_M	Vzdial.posl.okruhu
+TXT_Last_Lap_Dist_STR_S	Vzd. posl. ok.
+TXT_Last_Lap_Ground_Cont_STR_S	D.kont.so zem.PK
+TXT_Last_Lap_Ground_Contact_STR_L	Doba kont.so zemou posl. okruhu
+TXT_Last_Lap_Ground_Contact_STR_M	D.kont.so zem.PK
+TXT_Last_Lap_HR_PHRR_STR_L	%HRR poslednÈho kola
+TXT_Last_Lap_HR_PHRR_STR_M	%HRR poslednÈho kola
+TXT_Last_Lap_HR_PHRR_STR_S	%HRR posl. kola
+TXT_Last_Lap_HR_PMax_STR_L	%maxim·lny ST poslednÈho kola
+TXT_Last_Lap_HR_PMax_STR_M	%max. ST pos. kola
+TXT_Last_Lap_HR_PMax_STR_S	Vert.ST %Max.ok
+TXT_Last_Lap_HR_STR_L	Tep poslednÈho okruhu
+TXT_Last_Lap_HR_STR_M	Tep poslednÈho okruhu
+TXT_Last_Lap_HR_STR_S	Tep posl.okr
+TXT_Last_Lap_Stride_Length_STR_L	DÂûka kroku poËas poslednÈho okruhu
+TXT_Last_Lap_Stride_Length_STR_M	DÂûka kroku posl. okruhu
+TXT_Last_Lap_Stride_Length_STR_S	DÂûka kr.posl.okr.
+TXT_Last_Lap_Swolf_STR_L	SWOLF poslednÈ-\nho okruhu
+TXT_Last_Lap_Swolf_STR_M	SWOLF posled. okruhu
+TXT_Last_Lap_Swolf_STR_S	SWOLF posl. okr.
+TXT_Last_Lap_Vert_Osc_STR_S	Ver.osc.posl.kola
+TXT_Last_Lap_Vertical_Oscillation_STR_L	Vertik·lna oscil·cia poslednÈho okruhu
+TXT_Last_Lap_Vertical_Oscillation_STR_M	Vert.oscil.posl.okr.
+TXT_Last_Lap_Vertical_Ratio_STR_L	Vertik·lny pomer poslednÈho okruhu
+TXT_Last_Lap_Vertical_Ratio_STR_M	Vert.pomer posl. okruhu
+TXT_Last_Lap_Vertical_Ratio_STR_S	Ver.pom.pos.okr.
+TXT_Last_Leg_Distance_STR_L	Vzdialenosù poslednej dÂûky
+TXT_Last_Leg_Distance_STR_M	Vzd.posl.dÂûky
+TXT_Last_Leg_Distance_STR_S	Vzd.posl.dÂûky
+TXT_Last_Leg_Time_STR_L	»as poslednej dÂûky
+TXT_Last_Leg_Time_STR_M	»as poslednej dÂûky
+TXT_Last_Leg_Time_STR_S	»as posl. dÂûky
+TXT_Last_Length_Pace_STR_L	Tempo poslednej dÂûky
+TXT_Last_Length_Pace_STR_M	Tempo poslednej dÂûky
+TXT_Last_Length_Pace_STR_S	Tem.posl.dÂûky
+TXT_Last_Length_Stroke_Rate_STR_L	PoËet z·berov poslednej dÂûky
+TXT_Last_Length_Stroke_Rate_STR_M	Frek.z·b.posl.dÂûky
+TXT_Last_Length_Stroke_Rate_STR_S	PoË.z·b.pos.dÂû.
+TXT_Last_Length_Stroke_Type_STR_L	Typ z·berov poslednej dÂûky
+TXT_Last_Length_Stroke_Type_STR_M	Typ z·ber.posl.dÂûky
+TXT_Last_Length_Stroke_Type_STR_S	Typ z·b. pos. dÂû.
+TXT_Last_Length_Strokes_STR_L	Z·bery poslednej dÂûky
+TXT_Last_Length_Strokes_STR_M	Z·bery poslednej dÂûky
+TXT_Last_Length_Strokes_STR_S	Vertik.pos.dÂûky
+TXT_Last_Length_Swolf_STR_L	SWOLF poslednej dÂûky
+TXT_Last_Length_Swolf_STR_M	SWOLF poslednej dÂûky
+TXT_Last_Length_Swolf_STR_S	SWOLF posl.dÂû.
+TXT_Lengths_STR_L	DÂûky
+TXT_Lengths_STR_M	DÂûky
+TXT_Lengths_STR_S	DÂûky
+TXT_Longest_Ride_STR_L	Najdlhöia jazda!
+TXT_Longest_Run_STR_L	NajdlhöÌ beh!
+TXT_Longest_Swim_STR_L	Najdlhöia zapl·van· vzdialenosù!
+TXT_MAR_STR_M	Mar
+TXT_MAY_STR_M	M·j
+TXT_MENU_HISTORY_TOTALS_Monthly_STR_L	MesaËne
+TXT_MENU_HISTORY_TOTALS_Monthly_Totals_STR_L	MesaËnÈ s˙hrny
+TXT_MENU_HISTORY_TOTALS_Weekly_STR_L	T˝ûdenne
+TXT_MENU_HISTORY_TOTALS_Weekly_Totals_STR_L	T˝ûdennÈ s˙hrny
+TXT_MENU_RECORDS_1000yd_STR_M	1†000†yd.
+TXT_MENU_RECORDS_100m_STR_M	100†m
+TXT_MENU_RECORDS_100yd_STR_M	100†yd.
+TXT_MENU_RECORDS_10k_STR_M	10 km
+TXT_MENU_RECORDS_1500m_STR_M	1†500†m
+TXT_MENU_RECORDS_1650yd_STR_M	1†650†yd.
+TXT_MENU_RECORDS_1_mi_STR_M	1 mi
+TXT_MENU_RECORDS_1k_STR_M	1 km
+TXT_MENU_RECORDS_1k_SWIM_STR_M	1000†m
+TXT_MENU_RECORDS_400m_STR_M	400†m
+TXT_MENU_RECORDS_40k_STR_M	40†km
+TXT_MENU_RECORDS_500yd_STR_M	500†yd.
+TXT_MENU_RECORDS_5k_STR_M	5 km
+TXT_MENU_RECORDS_750m_STR_M	750†m
+TXT_MENU_RECORDS_Best_Power_STR_M	NajlepöÌ v˝kon
+TXT_MENU_RECORDS_Best_Power_STR_S	NajlepöÌ v˝kon
+TXT_MENU_RECORDS_Clear_All_Records_STR_L	Vymazaù vöetky z·znamy
+TXT_MENU_RECORDS_Clear_Record_STR_L	Vymazaù z·znam
+TXT_MENU_RECORDS_Fastest_1000YD_STR_S	Najr˝chlejöÌch 1†000†yd.
+TXT_MENU_RECORDS_Fastest_100M_STR_S	Najr˝chlejöÌch 100†m
+TXT_MENU_RECORDS_Fastest_100YD_STR_S	Najr˝chlejöÌch 100†yd.
+TXT_MENU_RECORDS_Fastest_10K_STR_S	Najr˝chlejöÌch 10†km
+TXT_MENU_RECORDS_Fastest_1500M_STR_S	Najr˝chlejöÌch 1†500†m
+TXT_MENU_RECORDS_Fastest_1650YD_STR_S	Najr˝chlejöÌch 1†650†yd.
+TXT_MENU_RECORDS_Fastest_1KM_SWIM_STR_S	Najr˝chlejöÌch 1000†m
+TXT_MENU_RECORDS_Fastest_1K_RUN_STR_S	Najr˝chlejöÌ 1†km
+TXT_MENU_RECORDS_Fastest_400M_STR_S	Najr˝chlejöÌch 400†m
+TXT_MENU_RECORDS_Fastest_40k_STR_S	Najr˝chlejöÌch 40†km
+TXT_MENU_RECORDS_Fastest_500YD_STR_S	Najr˝chlejöÌch 500†yd.
+TXT_MENU_RECORDS_Fastest_5K_STR_S	Najr˝chlejöÌch 5†km
+TXT_MENU_RECORDS_Fastest_750M_STR_S	Najr˝chlejöÌch 750†m
+TXT_MENU_RECORDS_Fastest_Half_STR_S	Najr˝chlejöÌ polmaratÛn
+TXT_MENU_RECORDS_Fastest_Marathon_STR_S	Najr˝chlejöÌ maratÛn
+TXT_MENU_RECORDS_Fastest_Mile_STR_S	Najr˝chlejöia mÌæa
+TXT_MENU_RECORDS_Half_STR_M	PolmaratÛn
+TXT_MENU_RECORDS_Longest_Ride_STR_M	Najdlhöia jazda
+TXT_MENU_RECORDS_Longest_Ride_STR_S	Najdlhöia jazda
+TXT_MENU_RECORDS_Longest_Run_STR_M	NajdlhöÌ beh
+TXT_MENU_RECORDS_Longest_Run_STR_S	NajdlhöÌ beh
+TXT_MENU_RECORDS_Longest_Swim_STR_M	Najdlhöia zapl·v.vzd.
+TXT_MENU_RECORDS_Longest_Swim_STR_S	Najdlhöia zapl·v.vzdial.
+TXT_MENU_RECORDS_Marathon_STR_M	MaratÛn
+TXT_MENU_RECORDS_Previous_STR_M	Predch·dzaj˙ce
+TXT_MENU_RECORDS_Records_STR_S	Z·znamy
+TXT_MENU_RECORDS_View_Record_STR_L	Zobraziù z·znam
+TXT_MESSAGE_BANNER_Acquire_a_GPS_fix_to_access_menu_STR_M	Na prÌstup k†ponuke je potrebn˝ sign·l GPS.
+TXT_MESSAGE_BANNER_Acquire_a_GPS_fix_to_start_the_timer_STR_M	Na spustenie ËasovaËa je potrebn˝ sign·l GPS.
+TXT_MESSAGE_BANNER_Ahead_Of_Virtual_Partner_STR_M	Virtual Partner pred vami
+TXT_MESSAGE_BANNER_Approaching_Turn_STR_M	BlÌûi sa odboËka
+TXT_MESSAGE_BANNER_Arriving_at_Destination_STR_M	PrÌjazd o
+TXT_MESSAGE_BANNER_Batteries_Low_STR_M	BatÈria takmer vybit·
+TXT_MESSAGE_BANNER_Behind_Virtual_Partner_STR_M	Virtual Partner za vami
+TXT_MESSAGE_BANNER_Bike_light_batt_low_STR_M	BatÈria svetla bicykla je takmer vybit·.
+TXT_MESSAGE_BANNER_Bike_light_num_batt_low_STR_M	BatÈria svetla bicykla %1 je takmer vybit·.
+TXT_MESSAGE_BANNER_Cad_batt_low_STR_M	BatÈria snÌmaËa kadencie takmer vybit·.
+TXT_MESSAGE_BANNER_Calibrate_Success_STR_M	⁄speön· kalibr·cia. Faktor = %1
+TXT_MESSAGE_BANNER_Cancel_target_to_change_profile_STR_M	Ak chcete zmeniù vyber profilu, zruöte alebo dokonËite cviËenie.
+TXT_MESSAGE_BANNER_Cancel_workout_to_change_profile_STR_M	Ak chcete zmeniù vyber profilu, zruöte alebo dokonËite cviËenie.
+TXT_MESSAGE_BANNER_Cannot_Calibrate_STR_M	Pred kalibr·ciou vynulujte aktu·lnu aktivitu.
+TXT_MESSAGE_BANNER_Complete_multisport_activity_to_change_profile_STR_M	Ak chcete zmeniù profil, dokonËite multiöportov˙ aktivitu.
+TXT_MESSAGE_BANNER_Database_Error_STR_M	Chyba datab·zy
+TXT_MESSAGE_BANNER_Error_Creating_Race_STR_M	Chyba pri vytv·ranÌ jazdy.
+TXT_MESSAGE_BANNER_Foot_Pod_Detected_Low_Batt_STR_M	BatÈria krokomera je takmer vybit·.
+TXT_MESSAGE_BANNER_HR_batt_low_STR_M	BatÈria monitora srdcovÈho tepu je takmer vybit·.
+TXT_MESSAGE_BANNER_Headlight_batt_low_STR_M	BatÈria prednÈho svetla je takmer vybit·.
+TXT_MESSAGE_BANNER_Headlight_num_batt_low_STR_M	BatÈria prednÈho svetla %1 je takmer vybit·.
+TXT_MESSAGE_BANNER_Hold_Up_key_to_access_page_options_STR_M	Na sprÌstupnenie moûnostÌ strany podrûte tlaËidlo hore
+TXT_MESSAGE_BANNER_Hold_up_key_to_calibrate_power_STR_M	Na kalibr·ciu v˝konu podrûte pred kaûdou jazdou tlaËidlo hore.
+TXT_MESSAGE_BANNER_In_Desired_Zone_STR_M	V†poûadovanej zÛne
+TXT_MESSAGE_BANNER_Invalid_Msg_STR_M	Neplatn· sprava
+TXT_MESSAGE_BANNER_Location_Memory_Full_STR_M	Pam‰ù polÙh je pln·.
+TXT_MESSAGE_BANNER_Low_High_Values_Adjusted_STR_M	Upozornenia na vysok˙ a†nÌzku hodnotu boli nastavenÈ.
+TXT_MESSAGE_BANNER_Memory_Almost_Full_STR_M	M·lo voænÈho miesta v†pam‰ti. Odovzdaù do aplik·cie Garmin Connect.
+TXT_MESSAGE_BANNER_Memory_Full_STR_M	Pam‰ù je pln·.
+TXT_MESSAGE_BANNER_Multiple_Bike_Sensor__STR_M	Rozpoznalo sa niekoæko snÌmaËov na bicykel.
+TXT_MESSAGE_BANNER_Multiple_CAD__STR_M	Rozpoznalo sa niekoæko snÌmaËov kadencie.
+TXT_MESSAGE_BANNER_Multiple_FP__STR_M	Rozpoznalo sa niekoæko krokomerov.
+TXT_MESSAGE_BANNER_Multiple_HR__STR_M	Rozpoznalo sa niekoæko snÌmaËov srdcovÈho tepu.
+TXT_MESSAGE_BANNER_Multiple_PWR__STR_M	Rozpoznalo sa niekoæko snÌmaËov v˝konu.
+TXT_MESSAGE_BANNER_Multiple_SPD__STR_M	Rozpoznalo sa niekoæko snÌmaËov r˝chlosti.
+TXT_MESSAGE_BANNER_Name_Already_Used_STR_M	Meno sa uû pouûÌva.
+TXT_MESSAGE_BANNER_PWR_batt_low_STR_M	BatÈria meraËa v˝konu je takmer vybit·.
+TXT_MESSAGE_BANNER_Phone_Battery_Low_STR_M	BatÈria v telefÛne je vybit·
+TXT_MESSAGE_BANNER_Race_Memory_Full_STR_M	Pam‰ù j·zd je pln·.
+TXT_MESSAGE_BANNER_Radar_batt_low_STR_M	BatÈria radaru je takmer vybit·.
+TXT_MESSAGE_BANNER_Recovery_Heart_Rate_STR_M	ST pri n·vrate do pokoja %1
+TXT_MESSAGE_BANNER_Shimano_Di2_batt_low_STR_M	BatÈria snÌmaËa Shimano Di2 je takmer vybit·.
+TXT_MESSAGE_BANNER_Slow_Fast_Values_Adjusted_STR_M	Upozornenia na pomalÈ a†r˝chle tempo boli nastavenÈ.
+TXT_MESSAGE_BANNER_Speed_Cadence_Battery_Low_STR_M	BatÈria snÌmaËa r˝chlosti/kadencie je takmer vybit·.
+TXT_MESSAGE_BANNER_Speed_batt_low_STR_M	Takmer vybit· batÈria snÌmaËa r˝chlosti.
+TXT_MESSAGE_BANNER_Start_Timer_Workout_Tip_STR_M	Na zaËatie cviËenia spustite ËasovaË.
+TXT_MESSAGE_BANNER_Taillight_batt_low_STR_M	BatÈria zadnÈho svetla je takmer vybit·.
+TXT_MESSAGE_BANNER_Taillight_num_batt_low_STR_M	BatÈria zadnÈho svetla %1 je takmer vybit·.
+TXT_MESSAGE_BANNER_Timer_Error_STR_M	Chyba ËasovaËa
+TXT_MESSAGE_BANNER_Varia_Vision_batt_low_STR_M	BatÈria zariadenia Varia Vision je takmer vybit·.
+TXT_MESSAGE_BANNER_Virb_batt_low_STR_M	BatÈria kamery VIRB je takmer vybit·.
+TXT_MESSAGE_BANNER_Weight_Scale_Detected_STR_M	Rozpoznala sa v·ha
+TXT_MESSAGE_BANNER_Wheel_Size_Computed_STR_M	Veækosù kolesa vypoËÌtan·.
+TXT_MESSAGE_BANNER_to_view_installed_apps_FRMT_STR_M	%1, ak chcete zobraziù aplik·cie Connect IQ.
+TXT_METRONOME_PAGE_Metronome_STR_S	MetronÛm
+TXT_MULTISPORT_TRANSITION_Transition_FRMT_STR_M	Presun %1
+TXT_MUSIC_PAGE_Hold_Up_for_Track_STR_M	Pre sled. stlaË. tlaË. Nahor
+TXT_MUSIC_PAGE_Hold_Up_for_Volume_STR_M	Pre hlas. stlaË. tlaË. Nahor
+TXT_MUSIC_PAGE_Next_STR_M	œalöie
+TXT_MUSIC_PAGE_Play_Pause_STR_M	Prehr./pozast.
+TXT_MUSIC_PAGE_Previous_STR_M	Predch·dzaj˙ce
+TXT_MUSIC_PAGE_Volume_Down_STR_M	Menej hlasu
+TXT_MUSIC_PAGE_Volume_Up_STR_M	Viac hlasu
+TXT_MY_DAY_CAL_FRMT_STR_L	%1 C
+TXT_MY_DAY_INT_MIN_FRMT_STR_S	%1 min.
+TXT_MY_DAY_NO_DATA_STR_S	Neuloûila sa ûiad.aktivita
+TXT_MY_DAY_SLEEP_TIME_FRMT_STR_S	%1h %2m
+TXT_MY_DAY_TITLE_STR_M	MÙj deÚ
+TXT_M_STR_M	P
+TXT_Max_Lap_PWR_STR_L	Maxim·lny v˝kon okruhu
+TXT_Max_Lap_PWR_STR_M	Maxim·lny v˝kon okruhu
+TXT_Max_Lap_PWR_STR_S	Max.v˝kon kola
+TXT_Max_Last_Lap_PWR_STR_L	Maxim·lny v˝kon poslednÈho kola
+TXT_Max_Last_Lap_PWR_STR_S	Ver.v˝k.pos.okr.
+TXT_Max_PWR_Last_Lap_STR_M	Max. v˝kon posled. kola
+TXT_Max_PWR_STR_L	Maxim·lny v˝kon
+TXT_Max_PWR_STR_M	Maxim·lny v˝kon
+TXT_Max_PWR_STR_S	Maxim·lny v˝kon
+TXT_Maximum_Speed_STR_L	Maxim·lna r˝chlosù
+TXT_Maximum_Speed_STR_M	Maxim·lna r˝chlosù
+TXT_Maximum_Speed_STR_S	Max. r˝chlosù
+TXT_Mixed_STR	ZmieöanÈ
+TXT_Mixed_STR_L	ZmieöanÈ
+TXT_Mixed_STR_M	ZmieöanÈ
+TXT_Mon_FRMT_STR_M	Pondelok %1
+TXT_Mon_STR_M	Pon
+TXT_Mov_Avg_L_R_Balance_10s_STR_L	Priemern· rovnov·ha za 10†s
+TXT_Mov_Avg_L_R_Balance_10s_STR_M	Priem.rovn. za 10†s
+TXT_Mov_Avg_L_R_Balance_10s_STR_S	Priem.rovn.10s%
+TXT_Mov_Avg_L_R_Balance_30s_STR_L	Priemern· rovnov·ha za 30†s
+TXT_Mov_Avg_L_R_Balance_30s_STR_M	Priem.rovn.za 30†s
+TXT_Mov_Avg_L_R_Balance_30s_STR_S	Priem.rovn.30s%
+TXT_Mov_Avg_L_R_Balance_3s_STR_L	Priemern· rovnov·ha za 3†s
+TXT_Mov_Avg_L_R_Balance_3s_STR_M	Pr.rovnov. za 3†s
+TXT_Mov_Avg_L_R_Balance_3s_STR_S	Priem.rovn3s%
+TXT_Mov_Avg_PWR_10s_STR_L	Priemern˝ v˝kon za 10†s
+TXT_Mov_Avg_PWR_10s_STR_M	Priemern˝ v˝kon za 10†s
+TXT_Mov_Avg_PWR_10s_STR_S	Pr.v˝kon za 10†s
+TXT_Mov_Avg_PWR_30s_STR_L	Priemern˝ v˝kon za 30†s
+TXT_Mov_Avg_PWR_30s_STR_M	Priemern˝ v˝kon za 30†s
+TXT_Mov_Avg_PWR_30s_STR_S	Pr. v˝kon za 30†s
+TXT_Mov_Avg_PWR_3s_STR_L	Priemern˝ v˝kon za 3 s
+TXT_Mov_Avg_PWR_3s_STR_M	Priemern˝ v˝kon za 3 s
+TXT_Mov_Avg_PWR_3s_STR_S	Pr. v˝kon za 3 s
+TXT_Multisport_Time_STR_L	Multiöportov˝ Ëas
+TXT_Multisport_Time_STR_M	Multiöportov˝ Ëas
+TXT_Multisport_Time_STR_S	Multiöport. Ëas
+TXT_Muscle_O2_Sat_Percent_STR_L	Satur·cia kyslÌka vo svaloch %
+TXT_Muscle_O2_Sat_Percent_STR_M	SmO2
+TXT_Muscle_O2_Sat_Percent_STR_S	SmO2
+TXT_Muscle_O2_Sat_Total_STR_L	Celkov˝ hemoglobÌn
+TXT_Muscle_O2_Sat_Total_STR_M	tHb
+TXT_Muscle_O2_Sat_Total_STR_S	tHb
+TXT_NATIVE_APP_Stress_Score_STR_EXT	SkÛre stresu
+TXT_NATIVE_APP_Stress_Score_STR_M	SkÛre stresu
+TXT_NAVIGATION_Back_To_Start_STR_S	Sp‰ù na ätart
+TXT_NAVIGATION_Course_Complete_STR_S	Dr·ha dokonËen·
+TXT_NOTIFICATION_Cadence_Connected_STR_M	SnÌmaË kadencie pripojen˝
+TXT_NOTIFICATION_Charged_STR_M	NabitÈ
+TXT_NOTIFICATION_Charging_STR_M	NabÌja sa
+TXT_NOTIFICATION_Di2_Connected_STR_M	SnÌmaË Di2 pripojen˝
+TXT_NOTIFICATION_Foot_Pod_Connected_STR_M	Krokomer pripojen˝
+TXT_NOTIFICATION_GPS_is_Ready_STR_M	GPS je pripravenÈ
+TXT_NOTIFICATION_HR_Connected_STR_M	Je prip.ext.monitor srd.tepu
+TXT_NOTIFICATION_Headlight_Connected_STR_M	PrednÈ svetlo je pripojenÈ
+TXT_NOTIFICATION_Headlight_Disconnected_STR_M	PrednÈ svetlo je odpojenÈ
+TXT_NOTIFICATION_Light_Connected_STR_M	Svetlo je pripojenÈ
+TXT_NOTIFICATION_Light_Disconnected_STR_M	Svetlo je odpojenÈ
+TXT_NOTIFICATION_Livetrack_Ended_STR_M	Funk. LiveTrack bola ukonË.
+TXT_NOTIFICATION_Livetrack_Started_STR_M	Funkcia LiveTrack spusten·
+TXT_NOTIFICATION_MO2_Connected_STR_M	Monitor kysl. vo sval. pripoj.
+TXT_NOTIFICATION_Move_STR_M	H˝bte sa!
+TXT_NOTIFICATION_Network_Formed_STR_M	Sieù je vytvoren·
+TXT_NOTIFICATION_Network_Forming_STR_M	Sieù sa vytv·ra
+TXT_NOTIFICATION_Off_Course_STR_M	Mimo dr·hy
+TXT_NOTIFICATION_On_Course_STR_M	Na dr·he
+TXT_NOTIFICATION_Phone_Connected_STR_M	TelefÛn je pripojen˝
+TXT_NOTIFICATION_Phone_Disconnected_STR_M	TelefÛn je odpojen˝
+TXT_NOTIFICATION_Power_Connected_STR_M	SnÌmaË v˝konu pripojen˝
+TXT_NOTIFICATION_Radar_Connected_STR_M	Radar je pripojen˝
+TXT_NOTIFICATION_Radar_Vehicle_Approaching_STR_M	BlÌûi sa vozidlo
+TXT_NOTIFICATION_Read_STR_M	PreËÌtaù
+TXT_NOTIFICATION_SEGMENT_Off_Segment_STR_M	Segment nesplnen˝
+TXT_NOTIFICATION_Sensor_Connected_FRMT_STR_M	SnÌmaË %1 pripojen˝
+TXT_NOTIFICATION_Sensor_Disconnected_FRMT_STR_M	%1 odpojenÈ
+TXT_NOTIFICATION_Speed_Cadence_Connected_STR_M	SnÌmaË r˝ch./kad. pripojen˝
+TXT_NOTIFICATION_Speed_Connected_STR_M	SnÌmaË r˝chlosti pripojen˝
+TXT_NOTIFICATION_TEMPE_Connected_STR_M	SnÌmaË tempe pripojen˝
+TXT_NOTIFICATION_Tail_Light_Connected_STR_M	ZadnÈ svetlo je pripojenÈ
+TXT_NOTIFICATION_Tail_Light_Disconnected_STR_M	ZadnÈ svetlo je odpojenÈ
+TXT_NOTIFICATION_Transfer_Complete_STR_M	Prenos dokonËen˝
+TXT_NOTIFICATION_Transfer_Failed_STR_M	Prenos zlyhal
+TXT_NOTIFICATION_Varia_Vision_Connected_STR_M	Varia Vision je pripojenÈ
+TXT_NOTIFICATION_Virb_Connected_STR_M	Kamera VIRB pripojen·
+TXT_NOTIFICATION_Wait_for_GPS_STR_M	»akajte na GPS
+TXT_NOTIFICATION_Widget_Added_STR_M	Pridan· miniaplik·cia
+TXT_NOTIFICATION_Wrist_HR_Ready_STR_M	Mon. srdc. tepu na z·p. pripr.
+TXT_NOV_STR_M	Nov
+TXT_NUM_PICK_AM_STR	AM
+TXT_NUM_PICK_Cal_FRMT_STR_M	PoË. kalÛriÌ: %1
+TXT_NUM_PICK_Fields_FRMT_STR_M	PoËet poli: %1
+TXT_NUM_PICK_Lengths_FRMT_STR_M	%1 dÂûok
+TXT_NUM_PICK_PERCENT_FTP_STR_M	% FTP
+TXT_NUM_PICK_PM_STR	PM
+TXT_NUM_PICK_Reps_FRMT_STR_M	PoË. opak.: %1
+TXT_NUM_PICK_Set_BPM_STR_M	PoË.˙d. za min.
+TXT_NUM_PICK_Set_Cadence_Bike_STR_M	Nast.kadenciu
+TXT_NUM_PICK_Set_Cadence_Run_STR_M	Nast.kadenciu
+TXT_NUM_PICK_Set_Calib_STR_M	Nast. kalibr·ciu
+TXT_NUM_PICK_Set_Calories_STR_M	Nastaviù kalÛrie
+TXT_NUM_PICK_Set_Distance_STR_M	Nast.vzdialenosù
+TXT_NUM_PICK_Set_Feet_STR_M	Nastaviù stopy
+TXT_NUM_PICK_Set_Heart_Rate_STR_M	Nast.srdc. tep
+TXT_NUM_PICK_Set_Height_STR_M	Nastaviù v˝öku
+TXT_NUM_PICK_Set_Hours_STR_M	Nastaviù hodiny
+TXT_NUM_PICK_Set_Inches_STR_M	Nastaviù palce
+TXT_NUM_PICK_Set_LTHR_STR_M	Nas. prah lakt·tu
+TXT_NUM_PICK_Set_Layout_STR_M	Nast.rozloûenie
+TXT_NUM_PICK_Set_Length_STR_M	Nastaviù dÂûku
+TXT_NUM_PICK_Set_Lengths_STR_M	Nastaviù dÂûky
+TXT_NUM_PICK_Set_Minutes_STR_M	Nastaviù min˙ty
+TXT_NUM_PICK_Set_Power_STR_M	Nastaviù v˝kon
+TXT_NUM_PICK_Set_Reps_STR_M	Nast.opakovania
+TXT_NUM_PICK_Set_Seconds_STR_M	Nastaviù sekundy
+TXT_NUM_PICK_Set_Speed_STR_M	Nastaviù r˝chlosù
+TXT_NUM_PICK_Set_Stroke_Paddle_STR_M	Nast. interv. z·b.
+TXT_NUM_PICK_Set_Stroke_Swim_STR_M	Nast. interv. z·b.
+TXT_NUM_PICK_Set_Tooth_Count_STR_M	Nastav.poËÌt.zub
+TXT_NUM_PICK_Set_Weight_STR_M	Nast.hmotnosù
+TXT_NUM_PICK_Set_Wheel_Size_STR_M	Nast.veæk.kolesa
+TXT_NUM_PICK_Set_Year_STR_M	Nastaviù rok
+TXT_NUM_PICK_Set_Zone_STR_M	Nastaviù zÛnu
+TXT_NUM_PICK_m_STR_M	m
+TXT_No_records_set_or_downloaded_STR_M	éiadne nastavenÈ alebo prevzatÈ z·znamy.
+TXT_Norm_Lap_PWR_STR_L	Normalized Power kola
+TXT_Norm_Lap_PWR_STR_M	NP kola
+TXT_Norm_Lap_PWR_STR_S	NP kola
+TXT_Norm_Last_Lap_PWR_STR_L	Normalizovan˝ v˝kon poslednÈho okruhu
+TXT_Norm_Last_Lap_PWR_STR_M	NP poslednÈho kola
+TXT_Norm_Last_Lap_PWR_STR_S	NP posl. kola
+TXT_Norm_PWR_STR_L	Normalized Power
+TXT_Norm_PWR_STR_M	Normalized Power
+TXT_Norm_PWR_STR_S	NP
+TXT_OCT_STR_M	OKT
+TXT_OHR_MENU_Auto_STR_M	Automatick˝
+TXT_OHR_MENU_Heart_Rate_Monitor_STR_L	Srdcov˝ tep
+TXT_OHR_MENU_Options_STR_L	Moûnosti
+TXT_PADDLE_Avg_Stroke_Distance_STR_L	Priemern· vzdialenosù z·beru
+TXT_PADDLE_Avg_Stroke_Distance_STR_M	Priem. vzdialenosù z·beru
+TXT_PADDLE_Avg_Stroke_Distance_STR_S	Priem. vzdial. z.
+TXT_PADDLE_Avg_Stroke_Rate_STR_L	Priemern· frek-\nvencia z·berov
+TXT_PADDLE_Avg_Stroke_Rate_STR_M	Priem. frekvencia z·berov
+TXT_PADDLE_Avg_Stroke_Rate_STR_S	Priem. frekv. z.
+TXT_PADDLE_Lap_Stroke_Distance_STR_L	Vzdialenosù z·ber/okruh
+TXT_PADDLE_Lap_Stroke_Distance_STR_M	Vzdialenosù z·ber/okruh
+TXT_PADDLE_Lap_Stroke_Distance_STR_S	Vzdial. z·b./okr.
+TXT_PADDLE_Lap_Stroke_Rate_STR_L	PoËet z·berov/okruh
+TXT_PADDLE_Lap_Stroke_Rate_STR_M	PoËet z·berov/okruh
+TXT_PADDLE_Lap_Stroke_Rate_STR_S	PoËet z·b./okruh
+TXT_PADDLE_Lap_Strokes_STR_L	Z·bery za okruh
+TXT_PADDLE_Lap_Strokes_STR_M	Z·bery za okruh
+TXT_PADDLE_Lap_Strokes_STR_S	Z·bery za okruh
+TXT_PADDLE_Last_Lap_Stroke_Distance_STR_L	Vzdialenosù na z·ber poslednÈho okruhu
+TXT_PADDLE_Last_Lap_Stroke_Distance_STR_M	Vzdial. na z·b. posl. okr.
+TXT_PADDLE_Last_Lap_Stroke_Distance_STR_S	Vzd. na z. p. okr.
+TXT_PADDLE_Last_Lap_Stroke_Rate_STR_L	Frekvencia z·berov poslednÈho okruhu
+TXT_PADDLE_Last_Lap_Stroke_Rate_STR_M	Frekv. z·b. posled. okruhu
+TXT_PADDLE_Last_Lap_Stroke_Rate_STR_S	Frekv. z·b. p. okr.
+TXT_PADDLE_Last_Lap_Strokes_STR_L	PoËet z·berov poslednÈho okruhu
+TXT_PADDLE_Last_Lap_Strokes_STR_M	PoËet z·b. posl. okruhu
+TXT_PADDLE_Last_Lap_Strokes_STR_S	PoË. z. posl. okr.
+TXT_PADDLE_Stroke_Rate_STR_L	Intenzita z·beru
+TXT_PADDLE_Stroke_Rate_STR_M	Intenzita z·beru
+TXT_PADDLE_Stroke_Rate_STR_S	Intenzita z·beru
+TXT_PADDLE_Strokes_Distance_STR_L	Vzdialenosù na jeden z·ber
+TXT_PADDLE_Strokes_Distance_STR_M	Vzdial. na jeden z·ber
+TXT_PADDLE_Strokes_Distance_STR_S	Vzdial. na z·ber
+TXT_PADDLE_Strokes_STR_L	Z·bery
+TXT_PADDLE_Strokes_STR_M	Z·bery
+TXT_PADDLE_Strokes_STR_S	Z·bery
+TXT_PERCENT_FTP_STR	% FTP
+TXT_PERCENT_HRR_STR	% HRR
+TXT_PERCENT_Max_STR	% Max.
+TXT_PERF_COND_DESC_Baseline_STR_M	Z·kladn· hodnota
+TXT_PERF_COND_DESC_Excellent_STR_M	Vynikaj˙ce
+TXT_PERF_COND_DESC_Fair_STR_M	SluönÈ
+TXT_PERF_COND_DESC_Good_STR_M	DobrÈ
+TXT_PERF_COND_DESC_Poor_STR_M	SlabÈ
+TXT_PERF_COND_TITL_Performance_Condition_STR_S	V˝konnostn· podmienka
+TXT_PROFILE_COLOR_Blue_STR_M	Modr·
+TXT_PROFILE_COLOR_Choose_Profile_Color_STR_S	Vybraù farbu profilu
+TXT_PROFILE_COLOR_Green_STR_M	Zelen·
+TXT_PROFILE_COLOR_Light_Blue_STR_M	Svetlomodr·
+TXT_PROFILE_COLOR_Light_Green_STR_M	Svetlozelen·
+TXT_PROFILE_COLOR_Orange_STR_M	Oranûov·
+TXT_PROFILE_COLOR_Pink_STR_M	Ruûov·
+TXT_PROFILE_COLOR_Purple_STR_M	Purpurov·
+TXT_PROFILE_COLOR_Red_STR_M	»erven·
+TXT_PROFILE_COLOR_Yellow_STR_M	élt·
+TXT_PWR_Crnt_STR_L	V˝kon
+TXT_PWR_Crnt_STR_M	V˝kon
+TXT_PWR_Crnt_STR_S	V˝kon
+TXT_PWR_Pftp_STR_L	%FTP
+TXT_PWR_Pftp_STR_M	%FTP
+TXT_PWR_Pftp_STR_S	%FTP
+TXT_PWR_Time_in_Zone_0_STR_L	»as v zÛne v˝konu 0
+TXT_PWR_Time_in_Zone_0_STR_M	»as v zÛne v˝konu 0
+TXT_PWR_Time_in_Zone_0_STR_S	ZÛna v˝konu 0
+TXT_PWR_Time_in_Zone_1_STR_L	»as v zÛne v˝konu 1
+TXT_PWR_Time_in_Zone_1_STR_M	»as v zÛne v˝konu 1
+TXT_PWR_Time_in_Zone_1_STR_S	ZÛna v˝konu 1
+TXT_PWR_Time_in_Zone_2_STR_L	»as v zÛne v˝konu 2
+TXT_PWR_Time_in_Zone_2_STR_M	»as v zÛne v˝konu 2
+TXT_PWR_Time_in_Zone_2_STR_S	ZÛna v˝konu 2
+TXT_PWR_Time_in_Zone_3_STR_L	»as v zÛne v˝konu 3
+TXT_PWR_Time_in_Zone_3_STR_M	»as v zÛne v˝konu 3
+TXT_PWR_Time_in_Zone_3_STR_S	ZÛna v˝konu 3
+TXT_PWR_Time_in_Zone_4_STR_L	»as v zÛne v˝konu 4
+TXT_PWR_Time_in_Zone_4_STR_M	»as v zÛne v˝konu 4
+TXT_PWR_Time_in_Zone_4_STR_S	ZÛna v˝konu 4
+TXT_PWR_Time_in_Zone_5_STR_L	»as v zÛne v˝konu 5
+TXT_PWR_Time_in_Zone_5_STR_M	»as v zÛne v˝konu 5
+TXT_PWR_Time_in_Zone_5_STR_S	ZÛna v˝konu 5
+TXT_PWR_Time_in_Zone_6_STR_L	»as v zÛne v˝konu 6
+TXT_PWR_Time_in_Zone_6_STR_M	»as v zÛne v˝konu 6
+TXT_PWR_Time_in_Zone_6_STR_S	ZÛna v˝konu 6
+TXT_PWR_Time_in_Zone_7_STR_L	»as v zÛne v˝konu 7
+TXT_PWR_Time_in_Zone_7_STR_M	»as v zÛne v˝konu 7
+TXT_PWR_Time_in_Zone_7_STR_S	ZÛna v˝konu 7
+TXT_PWR_Zone_FRMT_STR	ZÛna v˝k. %1
+TXT_PWR_Zone_STR_L	ZÛna v˝konu
+TXT_PWR_Zone_STR_M	ZÛna v˝konu
+TXT_PWR_Zone_STR_S	ZÛna v˝konu
+TXT_Pace_500m_Avg_Run_STR_L	PriemernÈ tempo na 500†m
+TXT_Pace_500m_Avg_Run_STR_M	Priem. tempo na 500†m
+TXT_Pace_500m_Avg_Run_STR_S	Priem tem. 500m
+TXT_Pace_500m_Crnt_Lap_STR_L	Tempo na 500†m okruhu
+TXT_Pace_500m_Crnt_Lap_STR_M	Tempo na 500†m okruhu
+TXT_Pace_500m_Crnt_Lap_STR_S	Tem.500m okr.
+TXT_Pace_500m_Last_Lap_STR_L	Tempo na poslednom 500†m okruhu
+TXT_Pace_500m_Last_Lap_STR_M	Tem. pos. 500†m okr.
+TXT_Pace_500m_Last_Lap_STR_S	Tem. p.o. 500m
+TXT_Pace_500m_STR_L	Tempo na 500†m
+TXT_Pace_500m_STR_M	Tempo na 500†m
+TXT_Pace_500m_STR_S	Tempo na 500†m
+TXT_Pace_Avg_Run_STR_L	PriemernÈ tempo
+TXT_Pace_Avg_Run_STR_M	PriemernÈ tempo
+TXT_Pace_Avg_Run_STR_S	Priem. tempo
+TXT_Pace_Crnt_Lap_STR_L	Tempo kola
+TXT_Pace_Crnt_Lap_STR_M	Tempo kola
+TXT_Pace_Crnt_Lap_STR_S	Tempo kola
+TXT_Pace_Last_Lap_STR_L	Tempo poslednÈho kola
+TXT_Pace_Last_Lap_STR_M	Tempo poslednÈho kola
+TXT_Pace_Last_Lap_STR_S	Tempo posl. kola
+TXT_Pace_SHORT_STR_S	Tempo
+TXT_Pace_STR_L	Tempo
+TXT_Pace_STR_M	Tempo
+TXT_Pace_STR_S	Tempo
+TXT_Pedal_Smoothness_STR_L	Plynulosù ped·lovania
+TXT_Pedal_Smoothness_STR_M	Plynulosù ped·lovania
+TXT_Performance_Cond_STR_L	V˝konnostn· podmienka
+TXT_Performance_Cond_STR_M	V˝konnostn· podmienka
+TXT_Performance_Cond_STR_S	V˝konn.podm.
+TXT_Power_save_in_STR_M	⁄spora energie o
+TXT_Press_Lap_For_Rest_STR	Na zaË. f·zy oddychu stl. tl. Lap
+TXT_Press_Up_or_Down_FRMT_STR_M	StlaËte tlaËidlo %1 alebo %2
+TXT_RBS_WIDGET_CALORIES_STR_M	KalÛrie
+TXT_RBS_WIDGET_DISTANCE_STR_M	Vzdial.
+TXT_RBS_WIDGET_HEART_RATE_STR_M	O tep
+TXT_RBS_WIDGET_LAST_BIKE_STR_M	Posledn· jazda
+TXT_RBS_WIDGET_LAST_RUN_STR_M	Posledn˝ beh
+TXT_RBS_WIDGET_LAST_SPORT_STR_M	Posledn˝ öport
+TXT_RBS_WIDGET_LAST_SWIM_STR_M	PoslednÈ pl·vanie
+TXT_RBS_WIDGET_PACE_STR_M	Tempo
+TXT_RBS_WIDGET_SPEED_STR_M	R˝chlosù
+TXT_RBS_WIDGET_STRK_RATE_PADDLE_STR_M	Fr. z·b.
+TXT_RBS_WIDGET_STRK_RATE_SWIM_STR_M	Frekv. z.
+TXT_RBS_WIDGET_TIME_STR_M	»as
+TXT_RBS_WIDGET_WEEK_STR_M	T˝ûdeÚ
+TXT_RHR_HIST_PAGE_Avg_FRMT_STR_M	Pr. ST v %1
+TXT_RHR_HIST_PAGE_Last_7_Days_STR_M	Posl. 7†dnÌ
+TXT_RUN_Avg_Cadence_STR_L	Priemern· kadencia
+TXT_RUN_Avg_Cadence_STR_M	Priemern· kadencia
+TXT_RUN_Avg_Cadence_STR_S	Priem. kadencia
+TXT_RUN_Cadence_STR_L	Kadencia
+TXT_RUN_Cadence_STR_M	Kadencia
+TXT_RUN_Cadence_STR_S	Kadencia
+TXT_RUN_Lap_Cadence_STR_L	Kadencia okruhu
+TXT_RUN_Lap_Cadence_STR_M	Kadencia okruhu
+TXT_RUN_Lap_Cadence_STR_S	Kadencia okruhu
+TXT_RUN_Last_Lap_Cadence_STR_L	Kadencia posled-\nnÈho okruhu
+TXT_RUN_Last_Lap_Cadence_STR_M	Kad. posl. okruhu
+TXT_RUN_Last_Lap_Cadence_STR_S	Kaden. posl. kola
+TXT_RUN_Segment_Pace_STR_L	Tempo segmentu
+TXT_RUN_Segment_Pace_STR_M	Tempo segmentu
+TXT_RUN_Segment_Pace_STR_S	Tempo segmentu
+TXT_RUN_Segment_Speed_STR_L	R˝chlosù segmentu
+TXT_RUN_Segment_Speed_STR_M	R˝chlosù segmentu
+TXT_RUN_Segment_Speed_STR_S	R˝chl. segmentu
+TXT_Rear_Gear_STR_L	ZadnÈ
+TXT_Rear_Gear_STR_M	ZadnÈ
+TXT_Rear_Gear_STR_S	ZadnÈ
+TXT_Recover_STR	Obnoviù
+TXT_Rep_Time_STR	opakovania
+TXT_Repeat_FRMT_STR	Opakovaù %1
+TXT_Repeat_On_STR_L	Opakovania
+TXT_Repeat_On_STR_M	Opakovania
+TXT_Repeat_On_STR_S	Opakovania
+TXT_Repeat__FRMT_STR	Opakovaù %1 ñ %2
+TXT_Repetition_STR_L	Opakovanie
+TXT_Repetition_STR_M	Opakovanie
+TXT_Repetition_STR_S	Opakovanie
+TXT_Rest_STR	Oddych
+TXT_Rest_Time_STR	»as oddychu
+TXT_Rest_Timer_STR_L	»as oddychu
+TXT_Rest_Timer_STR_M	»as oddychu
+TXT_Rest_Timer_STR_S	»as oddychu
+TXT_Run_SHORT_STR	Beh
+TXT_Run_STR	Beh
+TXT_SEGMENT_APPROACHING_PAGE_Approaching_STR_M	PriblÌûenie
+TXT_SEGMENT_COMPLETE_AHEAD_STR_M	VO†VEDENÕ
+TXT_SEGMENT_COMPLETE_BEHIND_STR_M	POZADU
+TXT_SEGMENT_COMPLETE_Segment_Complete_STR_M	⁄sek je ukonËen˝
+TXT_SEGMENT_START_PAGE_Go_STR_M	ChoÔ!
+TXT_SELECT_ALARM_REMOVE_No_STR_L	Nie
+TXT_SELECT_ALARM_REMOVE_Remove_STR_L	Odstr·niù?
+TXT_SELECT_ALARM_REMOVE_Yes_STR_L	¡no
+TXT_SELECT_BLUETOOTH_Failed_to_end_LiveTrack_session_STR_M	Nepodarilo sa ukonËiù rel·ciu aplik·cie LiveTrack.
+TXT_SELECT_BLUETOOTH_Follow_steps_on_Garmin_Connect_Mobile_STR_M	Sp·r. podæa pokyn. v†ap. Garmin Connect Mobile.
+TXT_SELECT_BLUETOOTH_Try_Again_STR_L	Sk˙siù znova
+TXT_SELECT_CHOOSE_SENSOR_Choose_Sensor_STR_L	N·jdenÈ viacerÈ snÌmaËe. Zvoæte jeden snÌmaË.
+TXT_SELECT_COLOR_Black_STR_L	»ierna
+TXT_SELECT_COLOR_White_STR_L	Biela
+TXT_SELECT_COURSE_CANCEL_Continue_STR_M	PokraËovaù
+TXT_SELECT_COURSE_CANCEL_This_will_cancel_STR_M	T˝mto zruöÌte aktu·lnu dr·hu.
+TXT_SELECT_CRANK_LENGTH_Auto_STR_L	Automatick˝
+TXT_SELECT_CRANK_LENGTH_Crank_Length_STR_L	DÂûka kæuky
+TXT_SELECT_CRANK_LENGTH_Manual_STR_L	Manu·lne
+TXT_SELECT_DATA_RECORDING_Every_Second_STR_L	Kaûd˙ sekundu
+TXT_SELECT_DATA_RECORDING_Smart_STR_L	InteligentnÈ
+TXT_SELECT_DISTANCE_UNITS_Kilometers_STR_L	Kilometre
+TXT_SELECT_DISTANCE_UNITS_Miles_STR_L	MÌle
+TXT_SELECT_ELEVATION_UNITS_Feet_STR_L	Stopy
+TXT_SELECT_ELEVATION_UNITS_Meters_STR_L	Metre
+TXT_SELECT_FORMAT_Show_Pace_STR_L	Zobraziù tempo
+TXT_SELECT_FORMAT_Show_Speed_STR_L	Zobr. r˝chlosù
+TXT_SELECT_FTP_Guided_Complete_STR_M	Test sa dokonËÌ, keÔ sa zistÌ FTP.
+TXT_SELECT_FTP_Guided_Intensity_STR_M	Ciele intenzity sa zv˝öia kaûdÈ 3 aû 4†min˙ty.
+TXT_SELECT_FTP_Guided_Warmup_STR_M	Venujte 10†ñ†20†min. pomalÈmu pozvoænÈmu zahrievaniu.
+TXT_SELECT_GENDER_Female_STR_L	éena
+TXT_SELECT_GENDER_Male_STR_L	Muû
+TXT_SELECT_HEIGHT_UNITS_Centimeters_STR_L	Centimetre
+TXT_SELECT_HEIGHT_UNITS_Feet_STR_L	Stopy
+TXT_SELECT_LACTATE_THRESHOLD_BUTN_Continue_STR_L	PokraËovaù
+TXT_SELECT_LACTATE_THRESHOLD_BUTN_Done_STR_L	Hotovo
+TXT_SELECT_LACTATE_THRESHOLD_Guided_Complete_STR_M	Test sa dokonËÌ, keÔ sa zistÌ hranica.
+TXT_SELECT_LACTATE_THRESHOLD_Guided_Intensity_STR_M	Ciele intenzity sa zv˝öia kaûdÈ 3 aû 4†min˙ty.
+TXT_SELECT_LACTATE_THRESHOLD_Guided_Warmup_STR_M	Venujte 10†ñ†15†min˙t zahrievaniu v†pomalom tempe.
+TXT_SELECT_LIGHT_NETWORK_CONFIG_Auto_STR_L	Automaticky
+TXT_SELECT_LIGHT_NETWORK_CONFIG_Individual_STR_L	JednotlivÈ
+TXT_SELECT_LTHR_UPDATE_ZONES_Update_HR_Zones_STR_M	Aktualizovaù zÛny pulzu na z·klade prahovÈho pulzu?
+TXT_SELECT_MAP_ORIENTATION_North_Up_STR_L	Sever hore
+TXT_SELECT_MAP_ORIENTATION_Track_Up_STR_L	Trasa hore
+TXT_SELECT_NO_HRM_CONNECTION_No_HRM_Connection_STR_L	éiadne pripojenie monitora srdcovÈho tepu
+TXT_SELECT_NO_HRM_CONNECTION_Search_Again_STR_L	Vyhæadaù znova
+TXT_SELECT_NO_HRM_CONNECTION_Skip_STR_L	PreskoË
+TXT_SELECT_PACE_SPEED_UNITS_Kilometers_STR_L	Kilometre
+TXT_SELECT_PACE_SPEED_UNITS_Miles_STR_L	MÌle
+TXT_SELECT_PAGE_APPLY_PROFILE_Apply_profile_FRMT_STR_M	Chcete pouûiù profil %1?
+TXT_SELECT_PAGE_Add_STR_M	Pridaù
+TXT_SELECT_PAGE_CHANGE_REMOVE_PROFILE_Change_STR_L	Zmena
+TXT_SELECT_PAGE_CHANGE_REMOVE_PROFILE_Remove_STR_L	Odstr·niù
+TXT_SELECT_PAGE_Continue_STR_M	PokraËovaù
+TXT_SELECT_PAGE_Disable_STR_L	Vypn˙ù
+TXT_SELECT_PAGE_EDIT_AP_SETTINGS_Done_STR_L	Hotovo
+TXT_SELECT_PAGE_EDIT_AP_SETTINGS_Edit_Settings_STR_L	Upraviù nastavenia
+TXT_SELECT_PAGE_Enable_STR_L	Zapn˙ù
+TXT_SELECT_PAGE_Heart_Rate_STR_L	Srdcov˝ tep
+TXT_SELECT_PAGE_INCLUDE_TRANSITIONS_No_STR_L	Nie
+TXT_SELECT_PAGE_INCLUDE_TRANSITIONS_Yes_STR_L	¡no
+TXT_SELECT_PAGE_No_STR_L	Nie
+TXT_SELECT_PAGE_Off_STR_L	Vypn˙ù
+TXT_SELECT_PAGE_On_STR_L	Zapn˙ù
+TXT_SELECT_PAGE_PROFILE_REMOVAL_WARNING_Remove_STR_M	Odstr·niù
+TXT_SELECT_PAGE_PROFILE_REMOVAL_WARNING_This_will_modify_and_remove_multisport_profiles_FRMT_STR_M	T˝mto odstr·nite %1 a†upravÌte %2 z multiöportov˝ch profilov.
+TXT_SELECT_PAGE_PROFILE_REMOVAL_WARNING_This_will_modify_multisport_profiles_FRMT_STR_M	T˝mto upravÌte multiöportovÈ profily v poËte %1.
+TXT_SELECT_PAGE_PROFILE_REMOVAL_WARNING_This_will_modify_the_profile_FRMT_STR_M	T˝mto upravÌte multiöportov˝ profil: %1.
+TXT_SELECT_PAGE_PROFILE_REMOVAL_WARNING_This_will_remove_multisport_profiles_FRMT_STR_M	T˝mto odstr·nite multiöportovÈ profily v poËte %1.
+TXT_SELECT_PAGE_PROFILE_REMOVAL_WARNING_This_will_remove_the_profile_FRMT_STR_M	T˝mto odstr·nite multiöportov˝ profil: %1.
+TXT_SELECT_PAGE_Power_STR_L	V˝kon
+TXT_SELECT_PAGE_TITL_BIKE_Delete_Segment_STR_M	Odstr·niù segment?
+TXT_SELECT_PAGE_TITL_BIKE_Stop_segment_STR_M	Zastaviù segment?
+TXT_SELECT_PAGE_TITL_Background_STR_M	Pozadie
+TXT_SELECT_PAGE_TITL_Cancel_STR_M	Zruöiù?
+TXT_SELECT_PAGE_TITL_Cancel_measurement_STR_M	Zruöiù meranie?
+TXT_SELECT_PAGE_TITL_Cancel_race_STR_M	Chcete zruöiù pretek?
+TXT_SELECT_PAGE_TITL_Cardio_STR_M	Kardio
+TXT_SELECT_PAGE_TITL_Choose_Zones_STR_M	Zvoliù zÛny
+TXT_SELECT_PAGE_TITL_Clear_All_STR_M	Vymazaù vöetko?
+TXT_SELECT_PAGE_TITL_Clear_Record_STR_M	Vymazaù z·znam?
+TXT_SELECT_PAGE_TITL_Clear_user_data_STR_M	Vymazaù ˙daje pouûÌvateæa?
+TXT_SELECT_PAGE_TITL_Configuration_STR_M	Konfigur·cia
+TXT_SELECT_PAGE_TITL_Cross_STR_M	Extr. lyû.
+TXT_SELECT_PAGE_TITL_Cycling_STR_M	Bicyklovanie
+TXT_SELECT_PAGE_TITL_Data_Recording_STR_M	Z·znam ˙dajov
+TXT_SELECT_PAGE_TITL_Delete_Activities_STR_M	Odstr·niù aktivity?
+TXT_SELECT_PAGE_TITL_Delete_Activity_STR_M	Odstr·niù aktivitu?
+TXT_SELECT_PAGE_TITL_Delete_Course_STR_M	Odstr·niù dr·hu?
+TXT_SELECT_PAGE_TITL_Delete_Location_STR_M	Vymazaù polohu?
+TXT_SELECT_PAGE_TITL_Delete_Workout_STR_M	Vymazaù cviËenie?
+TXT_SELECT_PAGE_TITL_Discard_STR_M	Odhodiù?
+TXT_SELECT_PAGE_TITL_Distance_STR_M	Vzdialenosù
+TXT_SELECT_PAGE_TITL_Elevation_STR_M	Nadmorsk· v˝öka
+TXT_SELECT_PAGE_TITL_End_Live_Track_STR_M	UkonËiù aplik·ciu LiveTrack?
+TXT_SELECT_PAGE_TITL_Exit_Sleep_Mode_STR_M	Chcete ukonËiù reûim sledovania sp·nku?
+TXT_SELECT_PAGE_TITL_FTP_hrm_required_STR_M	Na urËenie hod. FTP je potrebn˝ hrudn˝ snÌmaË srdc. tepu a†snÌmaË v˝konu.
+TXT_SELECT_PAGE_TITL_Fast_Alert_STR_M	Upozornenie na r˝chle tempo
+TXT_SELECT_PAGE_TITL_For_best_results_STR_M	Na najlepö.v˝sl., merajte kaûd˝ deÚ v†rovn.Ëase.
+TXT_SELECT_PAGE_TITL_Gender_STR_M	Pohlavie
+TXT_SELECT_PAGE_TITL_Height_STR_M	V˝öka
+TXT_SELECT_PAGE_TITL_High_Alert_STR_M	Upozornenie na vysok˙ hodnotu
+TXT_SELECT_PAGE_TITL_Hiking_STR_M	Turistika
+TXT_SELECT_PAGE_TITL_Include_transitions_STR_M	Zahrn˙ù presuny?
+TXT_SELECT_PAGE_TITL_Keyboard_Cancel_Confirm_STR_M	UkonËiù bez uloûenia?
+TXT_SELECT_PAGE_TITL_LTHR_hrm_required_STR_M	Na urËenie prahu lakt·tu je potrebn˝ hrudn˝ snÌmaË srdcovÈho tepu.
+TXT_SELECT_PAGE_TITL_LTHR_not_estimated_STR_M	Prah lakt·tu sa nenameral. Zadaù manu·lne?
+TXT_SELECT_PAGE_TITL_Low_Alert_STR_M	Upozornenie na nÌzku hodnotu
+TXT_SELECT_PAGE_TITL_Orientation_STR_M	Orient·cia
+TXT_SELECT_PAGE_TITL_Other_STR_M	InÈ
+TXT_SELECT_PAGE_TITL_Pace_Speed_STR_M	Tempo/r˝chlosù
+TXT_SELECT_PAGE_TITL_Power_Off_STR_M	Vypn˙ù?
+TXT_SELECT_PAGE_TITL_Power_Save_Timeout_STR_M	Zapn˙ù öetrenie energie
+TXT_SELECT_PAGE_TITL_RUN_Delete_Segment_STR_M	Odstr·niù segment?
+TXT_SELECT_PAGE_TITL_RUN_Stop_segment_STR_M	Zastaviù segment?
+TXT_SELECT_PAGE_TITL_Remove_STR_M	Odstr·niù?
+TXT_SELECT_PAGE_TITL_Remove_Widget_STR_M	Odstr·niù t˙to miniaplik·ciu?
+TXT_SELECT_PAGE_TITL_Remove_profile_STR_M	Odstr·niù profil?
+TXT_SELECT_PAGE_TITL_Repeat_STR_M	Opakovaù?
+TXT_SELECT_PAGE_TITL_Reset_Zones_STR_M	Vynul. zÛny p. tepu na pÙv. hod.?
+TXT_SELECT_PAGE_TITL_Reset_totals_STR_M	Vynulovaù s˙hrny?
+TXT_SELECT_PAGE_TITL_Restore_defaults_STR_M	Obnoviù predvolenÈ nastavenia?
+TXT_SELECT_PAGE_TITL_Restore_record_STR_M	Obnoviù z·znam?
+TXT_SELECT_PAGE_TITL_Row_STR_S	Veslovanie
+TXT_SELECT_PAGE_TITL_Running_STR_M	Beh
+TXT_SELECT_PAGE_TITL_STRESS_SCORE_hrm_required_STR_M	Na meranie skÛre stresu je potrebn˝ hrudn˝ snÌmaË srdcovÈho tepu.
+TXT_SELECT_PAGE_TITL_SUP_STR_S	P·dlovanie na surfovej doske
+TXT_SELECT_PAGE_TITL_Select_Segment_Type_STR_M	Vyberte typ segmentu
+TXT_SELECT_PAGE_TITL_Select_Units_STR_M	Vybraù jednotky
+TXT_SELECT_PAGE_TITL_Slow_Alert_STR_M	Upozornenie na pomalÈ tempo
+TXT_SELECT_PAGE_TITL_Stand_and_relax_STR_M	Na 3†min˙ty zostaÚte st·ù a†uvoænite sa.
+TXT_SELECT_PAGE_TITL_Stop_course_STR_M	Zastaviù dr·hu?
+TXT_SELECT_PAGE_TITL_Stop_navigation_STR_M	Zastaviù navig·ciu?
+TXT_SELECT_PAGE_TITL_Strength_STR_M	Sila
+TXT_SELECT_PAGE_TITL_Stress_score_will_calibrate_STR_M	SkÛre stresu sa nakalibruje po zistenÌ niekoæk˝ch v˝sledkov.
+TXT_SELECT_PAGE_TITL_Temperature_STR_M	Teplota
+TXT_SELECT_PAGE_TITL_Time_Format_STR_M	Form·t Ëasu
+TXT_SELECT_PAGE_TITL_Use_GPS_STR_M	Pouûiù GPS?
+TXT_SELECT_PAGE_TITL_User_Locations_STR_M	PouûÌvateæskÈ lokality
+TXT_SELECT_PAGE_TITL_VO2_Max_STR_M	VO2 Max.
+TXT_SELECT_PAGE_TITL_Weight_STR_M	Hmotnosù
+TXT_SELECT_PAGE_TITL_Widgets_Available_STR_M	œalöie dostupnÈ miniaplik·cie
+TXT_SELECT_PAGE_TITL_profile_added_STR_M	Profil pridan˝
+TXT_SELECT_PAGE_WIDGET_Phone_Connection_Required_STR_M	Vyûaduje sa pripojenie ku smartfÛnu.
+TXT_SELECT_PAGE_Yes_STR_L	¡no
+TXT_SELECT_POOL_LENGTH_UNITS_Meters_STR_L	Metre
+TXT_SELECT_POOL_LENGTH_UNITS_Yards_STR_L	Yardy
+TXT_SELECT_POOL_SIZE_CHANGE_meters_STR_M	Veækosù bazÈna sa zmenÌ o %1 metrov, aby sa zhodovala s cviËenÌm.
+TXT_SELECT_POOL_SIZE_CHANGE_yards_STR_M	Veækosù bazÈna sa zmenÌ o %1 yardov, aby sa zhodovala s cviËenÌm.
+TXT_SELECT_PWR_AUTOZERO_Auto_Zero_STR_L	AutomatickÈ vynulovanie
+TXT_SELECT_PWR_CALIBRATE_Calibrate_STR_L	Kalibrovaù
+TXT_SELECT_PWR_CALIBRATE_Calibration_Failed_FRMT_STR_L	Kalibr·cia zlyhala ñ Chyba: %1
+TXT_SELECT_PWR_CALIBRATE_Calibration_Recommended_STR_L	Odpor˙Ëa sa kalibr·cia. Na kalibr·ciu zloûte nohy z†ped·lov.
+TXT_SELECT_PWR_CALIBRATE_Try_Again_STR_L	Sk˙siù znova
+TXT_SELECT_PWR_CALIBRATE_Unclip_to_Calibrate_STR_L	Na kalibr·ciu zloûte nohy z†ped·lov.
+TXT_SELECT_PWR_SETUP_Begin_Setup_STR_L	Spustiù inötal.
+TXT_SELECT_PWR_SETUP_Initial_Setup_Required_STR_L	Pred pouûitÌm snÌmaËa Vector je potrebn· inötal·cia.
+TXT_SELECT_PWR_SRM_CALIBRATE_Calibration_Successful_STR_L	Kalibr·cia prebehla ˙speöne. Zvoæte hodnotu posunu.
+TXT_SELECT_PWR_SRM_CALIBRATE_Current_FRMT_STR_L	Aktu·lne: %1
+TXT_SELECT_PWR_SRM_CALIBRATE_Previous_FRMT_STR_L	Predch·dz.: %1
+TXT_SELECT_RECORDING_MODE_Manual_STR_L	Manu·lne
+TXT_SELECT_RECORDING_MODE_Timer_Start_Stop_STR_L	ätart/zast. ËasovaËa
+TXT_SELECT_RECOVERY_ADVISOR_Add_HR_STR_M	Pridaù ST
+TXT_SELECT_RECOVERY_ADVISOR_Recovery_Advisor_requires_STR_M	Poradca pre zotavenie vyûaduje monitor ST.
+TXT_SELECT_REMOVE_ACTIVITY_PROFILE_No_STR_L	Nie
+TXT_SELECT_REMOVE_ACTIVITY_PROFILE_Yes_STR_L	¡no
+TXT_SELECT_REMOVE_SENSOR_No_STR_L	Nie
+TXT_SELECT_REMOVE_SENSOR_Remove_STR_L	Odstr·niù?
+TXT_SELECT_REMOVE_SENSOR_Yes_STR_L	¡no
+TXT_SELECT_RETRY_HR_DATA_Download_failed_Retry_STR_L	Preberanie zlyhalo. Znova?
+TXT_SELECT_RETRY_HR_DATA_No_STR_L	Nie
+TXT_SELECT_RETRY_HR_DATA_Yes_STR_L	¡no
+TXT_SELECT_SAVE_LOCATION_Save_Location_STR_M	Uloûiù polohu
+TXT_SELECT_SAVE_WITHOUT_HR_Save_Session_without_HR_STR_L	Chcete uloûiù rel·ciu bez srdcovÈho tepu?
+TXT_SELECT_SAVE_WITHOUT_HR_Search_Again_STR_L	Vyhæadaù znova
+TXT_SELECT_SAVE_WITHOUT_HR_Yes_STR_L	¡no
+TXT_SELECT_SEGMENT_SPORT_Cycling_STR_L	Bicyklovanie
+TXT_SELECT_SEGMENT_SPORT_Running_STR_L	Beh
+TXT_SELECT_SENSOR_NOT_FOUND_Foot_Pod_STR_L	Na aktiv·ciu snÌmaËa kr·Ëajte.
+TXT_SELECT_SENSOR_NOT_FOUND_Heart_Rate_STR_L	Na pripojenie musÌte maù na sebe extern˝ monitor srdcovÈho tepu.
+TXT_SELECT_SENSOR_NOT_FOUND_Lights_STR_L	Ak chcete vytvoriù pripojenie, zapnite svetlo.
+TXT_SELECT_SENSOR_NOT_FOUND_MO2_STR_L	éiadny snÌmaË kyslÌka vo svaloch nie je v†dosahu.
+TXT_SELECT_SENSOR_NOT_FOUND_No_Sensors_Found_STR_L	Neboli rozpoznanÈ ûiadne snÌmaËe.
+TXT_SELECT_SENSOR_NOT_FOUND_Power_STR_L	Na aktiv·ciu snÌmaËa ped·lujte.
+TXT_SELECT_SENSOR_NOT_FOUND_Radar_STR_L	Ak chcete vytvoriù pripojenie, zapnite radar.
+TXT_SELECT_SENSOR_NOT_FOUND_Shimano_Di2_STR_L	Na pripoj. snÌmaËa Shimano Di2 zmeÚte stupeÚ zad. alebo pred. prevodu.
+TXT_SELECT_SENSOR_NOT_FOUND_Speed_Cadence_STR_L	Na aktiv·ciu snÌmaËa ped·lujte.
+TXT_SELECT_SENSOR_NOT_FOUND_Tempe_STR_L	SnÌmaË tempe nie je v†dosahu.
+TXT_SELECT_SENSOR_NOT_FOUND_Try_Again_STR_L	Sk˙siù znova
+TXT_SELECT_SENSOR_NOT_FOUND_Varia_Vision_STR_L	Ak chcete vytvoriù pripojenie, zapnite zariadenie Varia Vision.
+TXT_SELECT_SENSOR_NOT_FOUND_Virb_STR_L	Na pripojenie zapnite kameru a†povoæte nastavenia diaækov˝m ovl·danÌm.
+TXT_SELECT_SET_TARGET_DISTANCE_UNITS_Kilometers_STR_L	Kilometre
+TXT_SELECT_SET_TARGET_DISTANCE_UNITS_Miles_STR_L	MÌle
+TXT_SELECT_STRESS_SCORE_BUTN_Continue_STR_L	PokraËovaù
+TXT_SELECT_SW_UPDATE_FAILED_Done_STR_L	Hotovo
+TXT_SELECT_SW_UPDATE_FAILED_Updated_failed_Go_to_Garmin_Connect_STR_M	Aktualiz·cia zlyhala.  Sk˙ste to znova z†aplik·cie Garmin Connect.
+TXT_SELECT_TARGET_DETAIL_Accept_STR_L	S˙hlasÌm
+TXT_SELECT_TARGET_DETAIL_Pace_FRMT_STR_M	Tempo: %1
+TXT_SELECT_TARGET_DETAIL_Speed_FRMT_STR_M	R˝chlosù: %1
+TXT_SELECT_TARGET_DETAIL_Target_FRMT_STR_M	%1 Cieæ
+TXT_SELECT_TARGET_DETAIL_Time_FRMT_STR_M	»as: %1
+TXT_SELECT_TIMEOUT_Extended_STR_L	RozöÌrenÈ
+TXT_SELECT_TIMEOUT_Normal_STR_L	Norm·lne
+TXT_SELECT_TIME_FORMAT_12_Hour_STR_L	12-hodinov˝
+TXT_SELECT_TIME_FORMAT_24_Hour_STR_L	24-hodinov˝
+TXT_SELECT_UNITS_Celsius_STR_L	Stupne Celzia
+TXT_SELECT_UNITS_Fahrenheit_STR_L	Fahrenheit
+TXT_SELECT_USER_DATA_ERASED_Continue_STR_L	PokraËovaù
+TXT_SELECT_USER_DATA_ERASED_User_data_will_be_erased_STR_S	Nastavenia sa vymaû˙.
+TXT_SELECT_USER_LOCATIONS_Hide_STR_L	Skryù
+TXT_SELECT_USER_LOCATIONS_Show_STR_L	Zobraziù
+TXT_SELECT_VO2_MAX_SPORT_Cycling_STR_L	Bicyklovanie
+TXT_SELECT_VO2_MAX_SPORT_Running_STR_L	Beh
+TXT_SELECT_WATCH_FACE_Watch_Face_STR_S	Obr·zok pozadia
+TXT_SELECT_WEIGHT_UNITS_Kilograms_STR_L	Kilogramy
+TXT_SELECT_WEIGHT_UNITS_Pounds_STR_L	Libry
+TXT_SELECT_WHEEL_SIZE_Auto_STR_L	Automatick˝
+TXT_SELECT_WHEEL_SIZE_Manual_STR_L	Manu·lne
+TXT_SELECT_WHEEL_SIZE_Wheel_Size_STR_L	Veækosù kolesa
+TXT_SELECT_WIDGET_View_STR_L	Zobraziù
+TXT_SENSORS_TIP_Max_Sensors_Paired_STR_M	Sp·r. max poË. snÌmaËov.Na pridanie novÈho niektor˝ odstr·Úte.
+TXT_SEP_STR_M	Sep
+TXT_SETUP_ACTIVITY_LAPS_Interval_FRMT_STR_M	Interval %1
+TXT_SETUP_ACTIVITY_LAPS_Intervals_STR_S	Intervaly
+TXT_SETUP_ACTIVITY_LAPS_Lap_FRMT_STR_M	Okruh %1
+TXT_SETUP_ACTIVITY_LAPS_Laps_STR_S	Okruhy
+TXT_SETUP_ACTIVITY_LIST_Activities_STR_S	Aktivity
+TXT_SETUP_ACTIVITY_LIST_Friday_FRMT_STR_M	Piatok %1
+TXT_SETUP_ACTIVITY_LIST_Friday_STR_S	Piatok
+TXT_SETUP_ACTIVITY_LIST_Invalid_STR_M	NeplatnÈ
+TXT_SETUP_ACTIVITY_LIST_Invalid_STR_S	NeplatnÈ
+TXT_SETUP_ACTIVITY_LIST_Monday_FRMT_STR_M	Pondelok %1
+TXT_SETUP_ACTIVITY_LIST_Monday_STR_S	Pondelok
+TXT_SETUP_ACTIVITY_LIST_Saturday_FRMT_STR_M	Sobota %1
+TXT_SETUP_ACTIVITY_LIST_Saturday_STR_S	Sobota
+TXT_SETUP_ACTIVITY_LIST_Sunday_FRMT_STR_M	Nedeæa %1
+TXT_SETUP_ACTIVITY_LIST_Sunday_STR_S	Nedeæa
+TXT_SETUP_ACTIVITY_LIST_Thursday_FRMT_STR_M	ätvrtok %1
+TXT_SETUP_ACTIVITY_LIST_Thursday_STR_S	ätvrtok
+TXT_SETUP_ACTIVITY_LIST_Today_FRMT_STR_M	Dnes %1
+TXT_SETUP_ACTIVITY_LIST_Today_STR_S	Dnes
+TXT_SETUP_ACTIVITY_LIST_Tuesday_FRMT_STR_M	Utorok %1
+TXT_SETUP_ACTIVITY_LIST_Tuesday_STR_S	Utorok
+TXT_SETUP_ACTIVITY_LIST_Wednesday_FRMT_STR_M	Streda %1
+TXT_SETUP_ACTIVITY_LIST_Wednesday_STR_S	Streda
+TXT_SETUP_ACTIVITY_LIST_Yesterday_FRMT_STR_M	VËera %1
+TXT_SETUP_ACTIVITY_LIST_Yesterday_STR_S	VËera
+TXT_SETUP_ACTIVITY_MULTI_OPTIONS_Overall_STR_L	Celkovo
+TXT_SETUP_ACTIVITY_MULTI_OPTIONS_Transition_FRMT_STR_M	Presun %1
+TXT_SETUP_ACTIVITY_OPTIONS_Delete_STR_L	Vymazaù
+TXT_SETUP_ACTIVITY_OPTIONS_Details_STR_L	Podrobnosti
+TXT_SETUP_ACTIVITY_OPTIONS_Download_Heart_Rate_STR_L	Prevziaù srdcov˝ tep
+TXT_SETUP_ACTIVITY_OPTIONS_Intervals_STR_L	Intervaly
+TXT_SETUP_ACTIVITY_OPTIONS_Invalid_STR_S	NeplatnÈ
+TXT_SETUP_ACTIVITY_OPTIONS_Laps_STR_L	Okruhy
+TXT_SETUP_ACTIVITY_OPTIONS_Map_STR_L	Mapa
+TXT_SETUP_ACTIVITY_OPTIONS_Time_In_Zone_STR_L	»asov· zÛna
+TXT_SETUP_ACTIVITY_PROFILES_Activity_Profiles_STR_S	Profily aktivÌt
+TXT_SETUP_ACTIVITY_PROFILES_Add_New_STR_L	Pridaù novÈ
+TXT_SETUP_ACTIVITY_PROFILES_Apps_STR_L	Aplik·cie
+TXT_SETUP_ACTIVITY_PROFILES_OPTIONS_Apply_Profile_STR_L	Pouûiù profil
+TXT_SETUP_ACTIVITY_PROFILES_OPTIONS_Color_STR_L	Farba
+TXT_SETUP_ACTIVITY_PROFILES_OPTIONS_Edit_Profiles_STR_L	Upraviù profily
+TXT_SETUP_ACTIVITY_PROFILES_OPTIONS_Name_STR_L	N·zov
+TXT_SETUP_ACTIVITY_PROFILES_OPTIONS_Remove_Profile_STR_L	Odstr·niù profil
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Bike_Indoor_STR_L	Bicykl. v int.
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Bike_STR_L	Bicykel
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Brick_STR_L	Dve discipl.
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Cardio_STR_L	Kardio
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Cross_STR_L	Extr. lyû.
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Custom_STR_L	VlastnÈ
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Duathlon_STR_L	Duatlon
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_HDR_Choose_Profile_Name_STR_S	Vybraù n·zov profilu
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Hike_STR_L	Turistika
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Mountain_STR_L	Hors.cyklis.
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Open_Water_STR_L	Otvoren· voda
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Other_STR_L	InÈ
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Pool_Swim_STR_L	Pl. v bazÈne
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Race_STR_L	Pretek
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Road_STR_L	Cesta
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Row_STR_L	Veslovanie
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Run_Indoor_STR_L	Beh v interiÈri
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Run_STR_L	Beh
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_SUP_STR_L	P·d. surf. d.
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Strength_STR_L	Sila
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Trail_STR_L	Cezpoæn˝ beh
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Trainer_STR_L	Rotoped
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Treadmill_STR_L	Beûiaci p·s
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Triathlon_STR_L	Triatlon
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_PROFILE_Done_STR_L	Hotovo
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_PROFILE_HDR_Choose_Final_Profile_STR_S	Vyberte v˝sledn˝ profil
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_PROFILE_HDR_Choose_Profile_FRMT_STR_S	Vybraù profil %1
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_SETTINGS_Copy_FRMT_STR_L	KopÌrovaù profil %1
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_SETTINGS_HDR_Choose_Activity_Settings_STR_S	Vybraù nast. aktivity
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_SETTINGS_Use_Default_STR_L	Pouûiù predvolenÈ
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_SPORT_Cardio_STR_L	Kardio
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_SPORT_Cross_STR_L	Extr. lyû.
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_SPORT_Cycling_STR_L	Bicyklovanie
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_SPORT_HDR_Choose_Sport_STR_S	Vybraù öport
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_SPORT_Hike_STR_L	Turistika
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_SPORT_MULTISPORT_STR_L	Multiöport
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_SPORT_Open_Water_Swim_STR_L	Otvoren· voda
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_SPORT_Other_STR_L	InÈ
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_SPORT_Pool_Swim_STR_L	Pl. v bazÈne
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_SPORT_Row_STR_L	Veslovanie
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_SPORT_Running_STR_L	Beh
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_SPORT_SUP_STR_L	P·dlovanie na surfovej doske
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_SPORT_Strength_STR_L	Sila
+TXT_SETUP_ACTIVITY_REVIEW_Achievements_STR_L	⁄spechy
+TXT_SETUP_ACTIVITY_REVIEW_Done_STR_L	Hotovo
+TXT_SETUP_ACTIVITY_SETTINGS_Activity_Settings_STR_S	Nastavenia aktivÌt
+TXT_SETUP_ACTIVITY_SETTINGS_Alerts_STR_L	Upozornenia
+TXT_SETUP_ACTIVITY_SETTINGS_Auto_FRMT_STR_M	Automaticky %1
+TXT_SETUP_ACTIVITY_SETTINGS_Auto_Pause_STR_L	Auto Pause
+TXT_SETUP_ACTIVITY_SETTINGS_Auto_Scroll_STR_L	AutomatickÈ rolovanie
+TXT_SETUP_ACTIVITY_SETTINGS_BIKE_Segment_Alerts_STR_L	Upozor. segmentu
+TXT_SETUP_ACTIVITY_SETTINGS_Data_Screens_STR_L	Obrazovky s†˙dajmi
+TXT_SETUP_ACTIVITY_SETTINGS_Extended_STR_M	RozöÌrenÈ
+TXT_SETUP_ACTIVITY_SETTINGS_Fast_STR_M	R˝chlo
+TXT_SETUP_ACTIVITY_SETTINGS_GPS_GLONASS_STR_M	GPS + GLONASS
+TXT_SETUP_ACTIVITY_SETTINGS_GPS_Only_STR_M	Norm·lne (iba GPS)
+TXT_SETUP_ACTIVITY_SETTINGS_GPS_STR_L	GPS
+TXT_SETUP_ACTIVITY_SETTINGS_Laps_STR_L	Okruhy
+TXT_SETUP_ACTIVITY_SETTINGS_Manual_Only_STR_M	Iba manu·lne
+TXT_SETUP_ACTIVITY_SETTINGS_Medium_STR_M	StrednÈ
+TXT_SETUP_ACTIVITY_SETTINGS_Meters_FRMT_STR_M	%1 metrov
+TXT_SETUP_ACTIVITY_SETTINGS_Metronome_STR_L	MetronÛm
+TXT_SETUP_ACTIVITY_SETTINGS_Normal_STR_M	Norm·lne
+TXT_SETUP_ACTIVITY_SETTINGS_Pool_Size_STR_L	Veækosù bazÈna
+TXT_SETUP_ACTIVITY_SETTINGS_Power_Save_Timeout_STR_L	Zapn˙ù öetrenie energie
+TXT_SETUP_ACTIVITY_SETTINGS_Profile_Color_STR_L	Farba profilu
+TXT_SETUP_ACTIVITY_SETTINGS_RUN_Segment_Alerts_STR_L	Upoz. segmentu
+TXT_SETUP_ACTIVITY_SETTINGS_Repeat_STR_L	Opakovaù
+TXT_SETUP_ACTIVITY_SETTINGS_Slow_STR_M	Pomaly
+TXT_SETUP_ACTIVITY_SETTINGS_Stroke_Type_Detection_STR_L	Typ z·berov
+TXT_SETUP_ACTIVITY_SETTINGS_Training_Pages_STR_L	Str·nky trÈningu
+TXT_SETUP_ACTIVITY_SETTINGS_Transitions_STR_L	Presuny
+TXT_SETUP_ACTIVITY_SETTINGS_When_Stopped_STR_M	Pri zastavenÌ
+TXT_SETUP_ACTIVITY_SETTINGS_Yards_FRMT_STR_M	%1 yardov
+TXT_SETUP_ACTIVITY_TRACKING_Activity_Tracking_STR_M	Sledovanie aktivity
+TXT_SETUP_ACTIVITY_TRACKING_Off_STR_L	Vypn˙ù
+TXT_SETUP_ACTIVITY_TRACKING_On_STR_L	Zapn˙ù
+TXT_SETUP_ACTIVITY_TRACKING_SETTINGS_Activity_Tracking_STR_S	Sledovanie aktivity
+TXT_SETUP_ACTIVITY_TRACKING_SETTINGS_Move_Alert_STR_L	Upoz.na poh.
+TXT_SETUP_ACTIVITY_TRACKING_SETTINGS_Options_STR_S	Moûnosti
+TXT_SETUP_ACTIVITY_TRACKING_SETTINGS_Status_STR_L	Stav
+TXT_SETUP_ADD_SENSORS_Choose_Type_STR_S	Vyberte typ
+TXT_SETUP_ADD_SENSORS_Foot_Pod_STR_L	Krokomer
+TXT_SETUP_ADD_SENSORS_Heart_Rate_STR_L	Extern˝ monitor srdcovÈho tepu
+TXT_SETUP_ADD_SENSORS_Lights_STR_L	Svetl·
+TXT_SETUP_ADD_SENSORS_Muscle_Oxygen_STR_L	KyslÌk vo svaloch
+TXT_SETUP_ADD_SENSORS_Power_STR_L	V˝kon
+TXT_SETUP_ADD_SENSORS_Radar_STR_L	Radar
+TXT_SETUP_ADD_SENSORS_Search_All_STR_L	Hæadaù vöetko
+TXT_SETUP_ADD_SENSORS_Shimano_Di2_STR_L	Shimano Di2
+TXT_SETUP_ADD_SENSORS_Speed_Cadence_STR_L	R˝chlosù/kadencia
+TXT_SETUP_ADD_SENSORS_Tempe_STR_L	tempe
+TXT_SETUP_ADD_SENSORS_Virb_STR_L	VIRB
+TXT_SETUP_ALARM_Alarm_Settings_STR_L	Nastavenia budÌka
+TXT_SETUP_ALARM_Alarms_STR_L	Alarmy
+TXT_SETUP_ALARM_Daily_STR_L	Denne
+TXT_SETUP_ALARM_Never_STR_L	Nikdy
+TXT_SETUP_ALARM_Remove_STR_L	Odstr·niù
+TXT_SETUP_ALARM_Repeat_STR_L	Opakovaù
+TXT_SETUP_ALARM_Sounds_STR_L	Zvuky
+TXT_SETUP_ALARM_Status_STR_L	Stav
+TXT_SETUP_ALARM_Time_STR_L	»as
+TXT_SETUP_ALARM_Tone_STR_L	TÛny
+TXT_SETUP_ALARM_Tone_and_Vibration_STR_L	TÛny a†vibr·cie
+TXT_SETUP_ALARM_Vibration_STR_L	Vibr·cie
+TXT_SETUP_ALARM_Weekdays_STR_L	PracovnÈ dni
+TXT_SETUP_ALARM_Weekends_STR_L	VÌkendy
+TXT_SETUP_ALERTS_Add_New_STR_L	Pridaù novÈ
+TXT_SETUP_ALERTS_Alerts_STR_S	Upozornenia
+TXT_SETUP_ALERTS_BIKE_Cadence_STR_L	Kadencia
+TXT_SETUP_ALERTS_CHOOSE_TYPE_BIKE_Cadence_STR_L	Kadencia
+TXT_SETUP_ALERTS_CHOOSE_TYPE_Calories_STR_L	KalÛrie
+TXT_SETUP_ALERTS_CHOOSE_TYPE_Custom_STR_L	VlastnÈ
+TXT_SETUP_ALERTS_CHOOSE_TYPE_Distance_STR_L	Vzdialenosù
+TXT_SETUP_ALERTS_CHOOSE_TYPE_Heart_Rate_STR_L	Srdcov˝ tep
+TXT_SETUP_ALERTS_CHOOSE_TYPE_PADDLE_Stroke_Rate_STR_L	Intenzita z·beru
+TXT_SETUP_ALERTS_CHOOSE_TYPE_Pace_STR_L	Tempo
+TXT_SETUP_ALERTS_CHOOSE_TYPE_Power_STR_L	V˝kon
+TXT_SETUP_ALERTS_CHOOSE_TYPE_RUN_Cadence_STR_L	Kadencia
+TXT_SETUP_ALERTS_CHOOSE_TYPE_Run_Walk_STR_L	Beh/chÙdza
+TXT_SETUP_ALERTS_CHOOSE_TYPE_SWIM_Stroke_Rate_STR_L	PoËet z·berov
+TXT_SETUP_ALERTS_CHOOSE_TYPE_Speed_STR_L	R˝chlosù
+TXT_SETUP_ALERTS_CHOOSE_TYPE_Time_STR_L	»as
+TXT_SETUP_ALERTS_HDR_Choose_Alert_Message_STR_M	Vyberte spr.upozornenia
+TXT_SETUP_ALERTS_HDR_Choose_Alert_Type_STR_M	Vyberte typ upozornenia
+TXT_SETUP_ALERTS_Heart_Rate_STR_L	Srdcov˝ tep
+TXT_SETUP_ALERTS_Message_STR_L	Spr·va
+TXT_SETUP_ALERTS_PADDLE_Stroke_Rate_STR_L	Intenzita z·beru
+TXT_SETUP_ALERTS_Pace_STR_L	Tempo
+TXT_SETUP_ALERTS_Power_STR_L	V˝kon
+TXT_SETUP_ALERTS_RUN_Cadence_STR_L	Kadencia
+TXT_SETUP_ALERTS_Run_Walk_STR_L	Beh/chÙdza
+TXT_SETUP_ALERTS_SWIM_Stroke_Rate_STR_L	PoËet z·berov
+TXT_SETUP_ALERTS_Speed_STR_L	R˝chlosù
+TXT_SETUP_ALERT_Aerobic_Z3_STR_M	AerÛbna (Z3)
+TXT_SETUP_ALERT_BIKE_High_Cadence_STR_L	Najvyööia kadencia
+TXT_SETUP_ALERT_BIKE_Low_Cadence_STR_L	Najniûöia kadencia
+TXT_SETUP_ALERT_CADENCE_PAGE_BIKE_Cadence_STR_S	Kadencia
+TXT_SETUP_ALERT_CADENCE_PAGE_PADDLE_Stroke_Rate_STR_S	Intenzita z·beru
+TXT_SETUP_ALERT_CADENCE_PAGE_RUN_Cadence_STR_S	Kadencia
+TXT_SETUP_ALERT_CADENCE_PAGE_SWIM_Stroke_Rate_STR_S	PoËet z·berov
+TXT_SETUP_ALERT_CALORIES_PAGE_Calories_STR_S	KalÛrie
+TXT_SETUP_ALERT_Custom_FRMT_STR_M	%1 (vlastn·)
+TXT_SETUP_ALERT_Custom_STR_L	VlastnÈ
+TXT_SETUP_ALERT_Custom_STR_M	VlastnÈ
+TXT_SETUP_ALERT_DISTANCE_PAGE_Distance_STR_S	Vzdialenosù
+TXT_SETUP_ALERT_Easy_Z2_STR_M	ºahk· (Z2)
+TXT_SETUP_ALERT_Every_1_Length_STR_M	Kaûd˙ 1 dÂûku
+TXT_SETUP_ALERT_Every_STR_M	Kaûd˝ch %1
+TXT_SETUP_ALERT_Every_X_Lengths_STR_M	Kaûd˝ch %1 dÂûok
+TXT_SETUP_ALERT_Fast_Alert_STR_L	Up. na r˝ch. tem.
+TXT_SETUP_ALERT_Fastest_Pace_STR_L	Najr˝chlejöie tempo
+TXT_SETUP_ALERT_Frequency_STR_L	Frekvencia
+TXT_SETUP_ALERT_HEART_RATE_PAGE_Heart_Rate_STR_S	Srdcov˝ tep
+TXT_SETUP_ALERT_High_Alert_STR_L	Upozornenie na vysok˙ hodnotu
+TXT_SETUP_ALERT_High_Alert_STR_M	Upoz. na vys. hod.
+TXT_SETUP_ALERT_Highest_Speed_STR_L	Najvyööia r˝chlosù
+TXT_SETUP_ALERT_Low_Alert_STR_L	Upozornenie na nÌzku hodnotu
+TXT_SETUP_ALERT_Low_Alert_STR_M	Upoz. na nÌz. hodnotu
+TXT_SETUP_ALERT_Lowest_Speed_STR_L	Najniûöia r˝chlosù
+TXT_SETUP_ALERT_Maximum_Z5_STR_M	Maxim·lna (Z5)
+TXT_SETUP_ALERT_Off_STR_M	Vypn˙ù
+TXT_SETUP_ALERT_PACE_PAGE_Pace_STR_S	Tempo
+TXT_SETUP_ALERT_PADDLE_High_Stroke_Rate_STR_L	Vysok˝ poËet z·berov
+TXT_SETUP_ALERT_PADDLE_Low_Stroke_Rate_STR_L	NÌzky poËet z·berov
+TXT_SETUP_ALERT_POWER_PAGE_Power_STR_S	V˝kon
+TXT_SETUP_ALERT_RUN_High_Cadence_STR_L	Najvyööia kadencia
+TXT_SETUP_ALERT_RUN_Low_Cadence_STR_L	Najniûöia kadencia
+TXT_SETUP_ALERT_RUN_WALK_Run_Walk_STR_S	Beh/chÙdza
+TXT_SETUP_ALERT_Remove_STR_L	Odstr·niù
+TXT_SETUP_ALERT_Repeat_STR_L	Opakovaù
+TXT_SETUP_ALERT_Run_Time_STR_L	»as behu
+TXT_SETUP_ALERT_SPEED_PAGE_Speed_STR_S	R˝chlosù
+TXT_SETUP_ALERT_SWIM_High_Stroke_Rate_STR_L	Vysok˝ poËet z·berov
+TXT_SETUP_ALERT_SWIM_Low_Stroke_Rate_STR_L	NÌzky poËet z·berov
+TXT_SETUP_ALERT_SWITCH_High_Alert_STR_L	Upoz. na vys. hod.
+TXT_SETUP_ALERT_SWITCH_Low_Alert_STR_L	Upoz. na nÌz. hod.
+TXT_SETUP_ALERT_Slow_Alert_STR_L	Up. na pom. tem.
+TXT_SETUP_ALERT_Slowest_Pace_STR_L	Najpomalöie tempo
+TXT_SETUP_ALERT_Status_STR_L	Stav
+TXT_SETUP_ALERT_TIME_PAGE_Time_STR_S	»as
+TXT_SETUP_ALERT_Threshold_Z4_STR_M	Prahov· (Z4)
+TXT_SETUP_ALERT_Walk_Time_STR_L	Trvanie chÙdze
+TXT_SETUP_ALERT_Warm_Up_Z1_STR_M	RozcviËka (Z1)
+TXT_SETUP_ALERT_Z1_FRMT_STR_M	%1 (Z1)
+TXT_SETUP_ALERT_Z2_FRMT_STR_M	%1 (Z2)
+TXT_SETUP_ALERT_Z3_FRMT_STR_M	%1 (Z3)
+TXT_SETUP_ALERT_Z4_FRMT_STR_M	%1 (Z4)
+TXT_SETUP_ALERT_Z5_FRMT_STR_M	%1 (Z5)
+TXT_SETUP_ALERT_Zone_1_STR_L	ZÛna 1
+TXT_SETUP_ALERT_Zone_1_STR_M	ZÛna 1
+TXT_SETUP_ALERT_Zone_2_STR_L	ZÛna 2
+TXT_SETUP_ALERT_Zone_2_STR_M	ZÛna 2
+TXT_SETUP_ALERT_Zone_3_STR_L	ZÛna 3
+TXT_SETUP_ALERT_Zone_3_STR_M	ZÛna 3
+TXT_SETUP_ALERT_Zone_4_STR_L	ZÛna 4
+TXT_SETUP_ALERT_Zone_4_STR_M	ZÛna 4
+TXT_SETUP_ALERT_Zone_5_STR_L	ZÛna 5
+TXT_SETUP_ALERT_Zone_5_STR_M	ZÛna 5
+TXT_SETUP_ALERT_Zone_6_STR_L	ZÛna 6
+TXT_SETUP_ALERT_Zone_6_STR_M	ZÛna 6
+TXT_SETUP_ALERT_Zone_7_STR_L	ZÛna 7
+TXT_SETUP_ALERT_Zone_7_STR_M	ZÛna 7
+TXT_SETUP_AUTO_LAP_Auto_Distance_STR_L	Automatick· vzdialenosù
+TXT_SETUP_AUTO_LAP_Auto_Lap_STR_L	Auto Lap
+TXT_SETUP_AUTO_LAP_Lap_Alert_STR_L	Upozornenie na†kolo
+TXT_SETUP_AUTO_LAP_Laps_STR_S	Okruhy
+TXT_SETUP_BACKLIGHT_15_Seconds_STR_M	15 sek˙nd
+TXT_SETUP_BACKLIGHT_1_Minute_STR_M	1 min˙ta
+TXT_SETUP_BACKLIGHT_30_Seconds_STR_M	30 sek˙nd
+TXT_SETUP_BACKLIGHT_8_Seconds_STR_M	8 sek˙nd
+TXT_SETUP_BACKLIGHT_Backlight_STR_S	Podsvietenie
+TXT_SETUP_BACKLIGHT_Keys_Alerts_STR_L	TlaËidl· a upozor.
+TXT_SETUP_BACKLIGHT_Stays_On_STR_M	Zostane zapnutÈ
+TXT_SETUP_BACKLIGHT_Timeout_STR_L	»asov˝ limit
+TXT_SETUP_BACKLIGHT_Wrist_Turn_STR_L	OtoËenie z·p‰stia
+TXT_SETUP_BIKE_LIGHT_MODE_Auto_STR_L	Automaticky
+TXT_SETUP_BIKE_LIGHT_MODE_Auto_STR_M	Automaticky
+TXT_SETUP_BIKE_LIGHT_MODE_Flash_STR_L	Blikanie
+TXT_SETUP_BIKE_LIGHT_MODE_Flash_STR_M	Blikanie
+TXT_SETUP_BIKE_LIGHT_MODE_High_STR_L	Siln· intenzita
+TXT_SETUP_BIKE_LIGHT_MODE_High_STR_M	Siln· intenzita
+TXT_SETUP_BIKE_LIGHT_MODE_Low_STR_L	Slab· intenzita
+TXT_SETUP_BIKE_LIGHT_MODE_Low_STR_M	Slab· intenzita
+TXT_SETUP_BIKE_LIGHT_MODE_Medium_STR_L	Stredn· intenzita
+TXT_SETUP_BIKE_LIGHT_MODE_Medium_STR_M	Stredn· intenzita
+TXT_SETUP_BIKE_LIGHT_MODE_Off_STR_L	Vypn˙ù
+TXT_SETUP_BIKE_LIGHT_MODE_Off_STR_M	Vypn˙ù
+TXT_SETUP_BIKE_LIGHT_MODE_Other_STR_M	InÈ
+TXT_SETUP_BIKE_LIGHT_MODE_Overdrive_STR_L	ExtrÈmna intenzita
+TXT_SETUP_BIKE_LIGHT_MODE_Overdrive_STR_M	ExtrÈmna intenzita
+TXT_SETUP_BIKE_LIGHT_MODE_Power_Save_STR_M	⁄spora energie
+TXT_SETUP_BIKE_Light_Mode_STR_L	Reûim svetla
+TXT_SETUP_BIKE_Light_Mode_STR_M	Reûim svetla
+TXT_SETUP_BLUETOOTH_Bluetooth_STR_S	Bluetooth
+TXT_SETUP_BLUETOOTH_Connected_STR_M	PripojenÈ
+TXT_SETUP_BLUETOOTH_Connection_Alert_STR_L	Upozor. na pripoj.
+TXT_SETUP_BLUETOOTH_Pair_Mobile_Device_STR_L	Sp·rujte mobilnÈ zariadenie
+TXT_SETUP_BLUETOOTH_Smart_Notifications_STR_L	Smart notifik·cie
+TXT_SETUP_BLUETOOTH_Status_STR_L	Stav
+TXT_SETUP_BLUETOOTH_Stop_LiveTrack_STR_L	Vypn˙ù LiveTrack
+TXT_SETUP_BLUETOOTH_Waiting_for_App_STR_M	»ak· sa na aplik·ciu
+TXT_SETUP_BLUETOOTH_Waiting_to_Connect_STR_M	»ak· sa na pripojenie
+TXT_SETUP_CALENDAR_LIST_All_Day_STR_M	Cel˝ deÚ
+TXT_SETUP_CALENDAR_LIST_Calendar_STR_S	Kalend·r
+TXT_SETUP_CALENDAR_LIST_Now_STR_M	Teraz
+TXT_SETUP_CHANGE_MULTISPORT_LEGS_HDR_Choose_Final_Profile_STR_S	Vyberte v˝sledn˝ profil
+TXT_SETUP_CHANGE_MULTISPORT_LEGS_HDR_Choose_Profile_FRMT_STR_S	Vybraù profil %1
+TXT_SETUP_CHOOSE_WRKT_PROFILE_HDR_Cycling_STR_S	Vybraù profil cyklistiky
+TXT_SETUP_CHOOSE_WRKT_PROFILE_HDR_Other_STR_S	Vybraù in˝ profil
+TXT_SETUP_CHOOSE_WRKT_PROFILE_HDR_Running_STR_S	Vybraù profil behu
+TXT_SETUP_CHOOSE_WRKT_PROFILE_HDR_Swim_STR_S	Vybraù profil pl·vania
+TXT_SETUP_CLOCK_Clock_STR_S	Hodiny
+TXT_SETUP_CONNECT_IQ_APPS_LIST_IQ_Apps_STR_S	Aplik·cie Connect IQ
+TXT_SETUP_COURSE_LIST_Courses_Bike_STR_M	Dr·hy
+TXT_SETUP_COURSE_LIST_Courses_Run_STR_M	Dr·hy
+TXT_SETUP_COURSE_LIST_Downloaded_Races_STR_M	PrevzatÈ jazdy
+TXT_SETUP_COURSE_OPTIONS_Delete_STR_L	Vymazaù
+TXT_SETUP_COURSE_OPTIONS_Do_Course_STR_L	Vykonaù dr·hu
+TXT_SETUP_COURSE_OPTIONS_Elevation_Profile_STR_L	Profil nadmorskej v˝öky
+TXT_SETUP_COURSE_OPTIONS_Map_STR_L	Mapa
+TXT_SETUP_COURSE_OPTIONS_Name_STR_L	N·zov
+TXT_SETUP_COURSE_OPTIONS_Race_STR_L	Pretek
+TXT_SETUP_DATA_CNFG_OPTIONS_Field_1_STR_L	Pole 1
+TXT_SETUP_DATA_CNFG_OPTIONS_Field_2_STR_L	Pole 2
+TXT_SETUP_DATA_CNFG_OPTIONS_Field_3_STR_L	Pole 3
+TXT_SETUP_DATA_CNFG_OPTIONS_Field_4_STR_L	Pole 4
+TXT_SETUP_DATA_CNFG_OPTIONS_Layout_STR_L	Rozloûenie
+TXT_SETUP_DATA_CNFG_OPTIONS_Num_Fields_FRMT_STR_M	PoËet poli: %1
+TXT_SETUP_DATA_CNFG_OPTIONS_One_Field_STR_M	1 pole
+TXT_SETUP_DATA_CNFG_OPTIONS_Rest_Screen_STR_S	Obrazovka f·zy oddychu
+TXT_SETUP_DATA_CNFG_OPTIONS_Screen_1_STR_S	Obrazovka 1
+TXT_SETUP_DATA_CNFG_OPTIONS_Screen_2_STR_S	Obrazovka 2
+TXT_SETUP_DATA_CNFG_OPTIONS_Screen_3_STR_S	Obrazovka 3
+TXT_SETUP_DATA_CNFG_OPTIONS_Screen_4_STR_S	Obrazovka 4
+TXT_SETUP_DATA_CNFG_OPTIONS_Status_STR_L	Stav
+TXT_SETUP_DATA_FLD_CAT_Added_Fields_FRMT_STR_M	%1 pridane
+TXT_SETUP_DATA_FLD_CAT_Advanced_Power_STR_L	PokroËilÈ polia v˝konu
+TXT_SETUP_DATA_FLD_CAT_Advanced_Power_STR_S	PokroËilÈ polia v˝konu
+TXT_SETUP_DATA_FLD_CAT_BIKE_Cadence_STR_L	Polia kadencie
+TXT_SETUP_DATA_FLD_CAT_ConnectIQ_STR_L	Connect IQ
+TXT_SETUP_DATA_FLD_CAT_Cycling_Dynamics_STR_L	Polia dynamiky cyklistiky
+TXT_SETUP_DATA_FLD_CAT_Cycling_Dynamics_STR_S	Polia dynamiky cyklistiky
+TXT_SETUP_DATA_FLD_CAT_Data_Fields_STR_S	D·tovÈ polÌËka
+TXT_SETUP_DATA_FLD_CAT_Distance_STR_L	Polia vzdialenosti
+TXT_SETUP_DATA_FLD_CAT_Elevation_STR_L	Polia nadmorskej v˝öky
+TXT_SETUP_DATA_FLD_CAT_FTP_STR_L	Polia %FTP
+TXT_SETUP_DATA_FLD_CAT_FTP_STR_S	Polia %FTP
+TXT_SETUP_DATA_FLD_CAT_Gears_STR_L	Prevody
+TXT_SETUP_DATA_FLD_CAT_Heart_Rate_STR_L	Polia srdcovÈho tepu
+TXT_SETUP_DATA_FLD_CAT_Length_STR_L	Polia dÂûok
+TXT_SETUP_DATA_FLD_CAT_Muscle_Oxygen_STR_L	Polia snÌmaËa kyslÌka vo svaloch
+TXT_SETUP_DATA_FLD_CAT_Options_STR_S	Moûnosti
+TXT_SETUP_DATA_FLD_CAT_Other_STR_L	InÈ polia
+TXT_SETUP_DATA_FLD_CAT_PADDLE_Stroke_STR_L	Polia z·beru
+TXT_SETUP_DATA_FLD_CAT_Pace_STR_L	Polia tempa
+TXT_SETUP_DATA_FLD_CAT_Pedal_Stroke_STR_L	Polia öliapnutÌ na ped·le
+TXT_SETUP_DATA_FLD_CAT_Pedal_Stroke_STR_S	Polia öliapnutÌ na ped·le
+TXT_SETUP_DATA_FLD_CAT_Power_STR_L	Polia v˝konu
+TXT_SETUP_DATA_FLD_CAT_Power_STR_S	Polia v˝konu
+TXT_SETUP_DATA_FLD_CAT_Power_Zone_STR_L	Polia zÛny v˝konu
+TXT_SETUP_DATA_FLD_CAT_Power_Zone_STR_S	Polia zÛny v˝konu
+TXT_SETUP_DATA_FLD_CAT_RUN_Cadence_STR_L	Polia kadencie
+TXT_SETUP_DATA_FLD_CAT_Rest_STR_L	Polia oddychu
+TXT_SETUP_DATA_FLD_CAT_Running_Dynamics_STR_L	Dynamika behu
+TXT_SETUP_DATA_FLD_CAT_SWIM_Stroke_STR_L	Polia z·beru
+TXT_SETUP_DATA_FLD_CAT_Speed_STR_L	Polia r˝chlosti
+TXT_SETUP_DATA_FLD_CAT_Swolf_STR_L	Polia SWOLF
+TXT_SETUP_DATA_FLD_CAT_Tempe_STR_L	Polia teploty
+TXT_SETUP_DATA_FLD_CAT_Time_In_Zone_STR_S	»asov· zÛna
+TXT_SETUP_DATA_FLD_CAT_Timer_STR_L	Polia ËasovaËa
+TXT_SETUP_DND_SETTINGS_Do_Not_Disturb_STR_L	Neruöiù
+TXT_SETUP_DND_SETTINGS_Sleep_Time_STR_L	DÂûka sp·nku
+TXT_SETUP_DRILL_DIST_Drill_Distance_STR_L	Vzdialenosù cviËenia
+TXT_SETUP_DRILL_DIST_FRMT_Meters_STR_M	%1 metrov
+TXT_SETUP_DRILL_DIST_FRMT_Yards_STR_M	%1 yardov
+TXT_SETUP_EDIT_MULTISPORT_PROFILE_Add_New_STR_L	Pridaù novÈ
+TXT_SETUP_EDIT_MULTISPORT_PROFILE_Profile_FRMT_STR_L	Profil %1
+TXT_SETUP_EDIT_MULTISPORT_PROFILE_Profiles_FRMT_STR_S	Profily %1
+TXT_SETUP_FOOTPOD_CAL_Auto_Calibrate_STR_L	Aut. kalibrovaù
+TXT_SETUP_FOOTPOD_CAL_Calibration_Factor_STR_L	Faktor kalibr·cie
+TXT_SETUP_FOOTPOD_CAL_Set_Value_STR_L	Nastaviù hodnotu
+TXT_SETUP_FOOT_POD_Calibration_Factor_STR_L	Faktor kalibr·cie
+TXT_SETUP_FOOT_POD_Dist_Source_select_STR_L	Vzdialenosù
+TXT_SETUP_FOOT_POD_Speed_Source_Select_STR_L	Pouûiù ako zdroj r˝chl
+TXT_SETUP_FORMAT_Format_STR_S	Form·t
+TXT_SETUP_FORMAT_Monday_STR_M	Pondelok
+TXT_SETUP_FORMAT_Pace_Speed_Preference_STR_L	Preferencia tempa/r˝chlosti
+TXT_SETUP_FORMAT_Saturday_STR_M	Sobota
+TXT_SETUP_FORMAT_Start_Of_Week_STR_L	ZaËiatok t˝ûdÚa
+TXT_SETUP_FORMAT_Sunday_STR_M	Nedeæa
+TXT_SETUP_FUNCTIONAL_THRESHOLD_POWER_Auto_Detect_STR_L	Autom. rozpozn.
+TXT_SETUP_FUNCTIONAL_THRESHOLD_POWER_Do_Guided_Test_STR_L	Vykonaù test so sprievodcom
+TXT_SETUP_FUNCTIONAL_THRESHOLD_POWER_Est_18_31_min_M	Pribliûne 18†ñ†31†min.
+TXT_SETUP_FUNCTIONAL_THRESHOLD_POWER_FTP_STR_S	FTP
+TXT_SETUP_FUNCTIONAL_THRESHOLD_POWER_View_STR_L	Zobraziù
+TXT_SETUP_GENDER_Female_STR_L	éena
+TXT_SETUP_GENDER_Gender_STR_M	Pohlavie
+TXT_SETUP_GENDER_Male_STR_L	Muû
+TXT_SETUP_GPS_SETTINGS_GPS_GLONASS_STR_L	GPS + GLONASS
+TXT_SETUP_GPS_SETTINGS_GPS_Only_STR_L	Norm·lne (iba GPS)
+TXT_SETUP_GPS_SETTINGS_Off_STR_L	Vypn˙ù
+TXT_SETUP_HEART_RATE_MENU_Add_Sport_Heart_Rate_STR_L	Pridaù srdcov˝ tep pri öportovanÌ
+TXT_SETUP_HEART_RATE_MENU_Cycling_STR_S	Bicyklovanie
+TXT_SETUP_HEART_RATE_MENU_Heart_Rate_Zones_STR_L	Srdcov˝ tep
+TXT_SETUP_HEART_RATE_MENU_LTHR_STR_L	Prah lakt·tu
+TXT_SETUP_HEART_RATE_MENU_Max_HR_STR_L	Maxim·lny srdcov˝ tep
+TXT_SETUP_HEART_RATE_MENU_Remove_Cycling_HR_STR_L	Odstr·niù srdcov˝ tep pri bicyklovanÌ
+TXT_SETUP_HEART_RATE_MENU_Remove_Running_HR_STR_L	Odstr·niù srdcov˝ tep pri behu
+TXT_SETUP_HEART_RATE_MENU_Remove_Swimming_HR_STR_L	Odstr·niù srdcov˝ tep pri pl·vanÌ
+TXT_SETUP_HEART_RATE_MENU_Resting_HR_STR_L	Pokojov˝ srdcov˝ tep
+TXT_SETUP_HEART_RATE_MENU_Running_STR_S	Beh
+TXT_SETUP_HEART_RATE_MENU_Sport_Heart_Rate_STR_L	Srdcov˝ tep pri öportovanÌ
+TXT_SETUP_HEART_RATE_MENU_Sport_Heart_Rate_STR_S	Srdcov˝ tep pri öportovanÌ
+TXT_SETUP_HEART_RATE_MENU_Swimming_STR_S	Pl·vanie
+TXT_SETUP_HEART_RATE_MENU_Zones_STR_L	ZÛny
+TXT_SETUP_HEART_RATE_RESTING_HR_Resting_HR_STR_S	Pokojov˝ srdcov˝ tep
+TXT_SETUP_HEART_RATE_RESTING_HR_Set_Custom_STR_L	Nastaviù vlastn˝
+TXT_SETUP_HEART_RATE_RESTING_HR_Use_Average_STR_L	Pouûiù priemer
+TXT_SETUP_HEART_RATE_ZONES_BPM_STR_M	⁄DEROV/MIN.
+TXT_SETUP_HEART_RATE_ZONES_Based_On_STR_L	ZaloûenÈ na
+TXT_SETUP_HEART_RATE_ZONES_Cycling_Zones_STR_L	ZÛny pre bicyklovanie
+TXT_SETUP_HEART_RATE_ZONES_PERCENT_HRR_STR_M	%HRR
+TXT_SETUP_HEART_RATE_ZONES_PERCENT_LTHR_STR_M	% srdc.tepu prahu lakt·tu
+TXT_SETUP_HEART_RATE_ZONES_PERCENT_Max_HR_STR_M	max ST%
+TXT_SETUP_HEART_RATE_ZONES_Running_Zones_STR_L	ZÛny pre beh
+TXT_SETUP_HEART_RATE_ZONES_SPORTS_Add_Sport_STR_L	Pridaù öport
+TXT_SETUP_HEART_RATE_ZONES_Swimming_Zones_STR_L	ZÛny pre pl·vanie
+TXT_SETUP_HEART_RATE_ZONES_Zones_STR_L	ZÛny
+TXT_SETUP_HISTORY_Activities_STR_L	Aktivity
+TXT_SETUP_HISTORY_History_STR_S	HistÛria
+TXT_SETUP_HISTORY_OPTIONS_Delete_All_Activities_STR_L	Odstr·niù vöetky aktivity
+TXT_SETUP_HISTORY_OPTIONS_Options_STR_S	Moûnosti
+TXT_SETUP_HISTORY_OPTIONS_Reset_Totals_STR_L	Vynulovaù s˙hrny
+TXT_SETUP_HISTORY_Options_STR_L	Moûnosti
+TXT_SETUP_HISTORY_TOTALS_Last_Week_STR_S	Minul˝ t˝ûdeÚ
+TXT_SETUP_HISTORY_TOTALS_MONTHLY_April_STR_S	AprÌl
+TXT_SETUP_HISTORY_TOTALS_MONTHLY_August_STR_S	August
+TXT_SETUP_HISTORY_TOTALS_MONTHLY_December_STR_S	December
+TXT_SETUP_HISTORY_TOTALS_MONTHLY_February_STR_S	Febru·r
+TXT_SETUP_HISTORY_TOTALS_MONTHLY_January_STR_S	Janu·r
+TXT_SETUP_HISTORY_TOTALS_MONTHLY_July_STR_S	J˙l
+TXT_SETUP_HISTORY_TOTALS_MONTHLY_June_STR_S	J˙n
+TXT_SETUP_HISTORY_TOTALS_MONTHLY_March_STR_S	Marec
+TXT_SETUP_HISTORY_TOTALS_MONTHLY_May_STR_S	M·j
+TXT_SETUP_HISTORY_TOTALS_MONTHLY_November_STR_S	November
+TXT_SETUP_HISTORY_TOTALS_MONTHLY_October_STR_S	OktÛber
+TXT_SETUP_HISTORY_TOTALS_MONTHLY_September_STR_S	September
+TXT_SETUP_HISTORY_TOTALS_This_Week_STR_S	Tento t˝ûdeÚ
+TXT_SETUP_HISTORY_Totals_STR_L	CelkovÈ hodnoty
+TXT_SETUP_HISTORY_Upload_Pending_STR_L	Odovzdaù prebiehaj˙ce
+TXT_SETUP_HMD_Auto_STR_M	Automatick˝
+TXT_SETUP_HMD_BRIGHTNESS_Brightness_STR_L	Jas
+TXT_SETUP_HMD_BRIGHTNESS_Set_Automatically_STR_L	Nast.automaticky
+TXT_SETUP_HMD_BRIGHTNESS_Set_Brightness_STR_L	Nastavte jas
+TXT_SETUP_HMD_Brightness_STR_L	Jas
+TXT_SETUP_HMD_Display_Mode_STR_L	Reûim zobrazenia
+TXT_SETUP_HMD_Manual_STR_M	Manu·lne
+TXT_SETUP_HMD_On_Demand_STR_M	Len na vyûiad./pri upozor.
+TXT_SETUP_HMD_Stays_On_STR_M	Zostane zapnutÈ
+TXT_SETUP_HR_ZONES_Aerobic_Z3_STR_L	AerÛbna (Z3)
+TXT_SETUP_HR_ZONES_Easy_Z2_STR_L	ºahk· (Z2)
+TXT_SETUP_HR_ZONES_High_Aerobic_STR_L	Vysoko aerÛbne (Z3)
+TXT_SETUP_HR_ZONES_Low_Aerobic_STR_L	Mierne aerÛbne (Z2)
+TXT_SETUP_HR_ZONES_Maximum_Z5_STR_L	Maxim·lna (Z5)
+TXT_SETUP_HR_ZONES_Reset_Zones_STR_L	Vynulovaù zÛny
+TXT_SETUP_HR_ZONES_Threshold_Z4_STR_L	Prahov· (Z4)
+TXT_SETUP_HR_ZONES_Warm_Up_Z1_STR_L	RozcviËka (Z1)
+TXT_SETUP_INITIAL_Birth_Year_STR_S	Rok narodenia
+TXT_SETUP_INITIAL_Height_STR_S	V˝öka
+TXT_SETUP_INITIAL_Weight_STR_S	Hmotnosù
+TXT_SETUP_INIT_DISTANCE_UNITS_Distance_STR_M	Vzdialenosù
+TXT_SETUP_INIT_DISTANCE_UNITS_Kilometers_STR_L	Kilometre
+TXT_SETUP_INIT_DISTANCE_UNITS_Miles_STR_L	MÌle
+TXT_SETUP_INTERVAL_EDIT_Cool_Down_Run_STR_L	Prest·vka
+TXT_SETUP_INTERVAL_EDIT_Edit_Workout_STR_S	Upraviù cviËenie
+TXT_SETUP_INTERVAL_EDIT_Interval_STR_L	Interval
+TXT_SETUP_INTERVAL_EDIT_Repeat_STR_L	Opakovaù
+TXT_SETUP_INTERVAL_EDIT_Rest_STR_L	Oddych
+TXT_SETUP_INTERVAL_EDIT_Warm_Up_Run_STR_L	RozcviËka
+TXT_SETUP_INTERVAL_OPTIONS_Cancel_Workout_STR_L	Zruöiù cviËenie
+TXT_SETUP_INTERVAL_OPTIONS_Do_Workout_STR_L	CviËiù
+TXT_SETUP_INTERVAL_OPTIONS_Duration_Rest_FRMT_STR_S	%1 Oddych
+TXT_SETUP_INTERVAL_OPTIONS_Edit_STR_L	Upraviù
+TXT_SETUP_INTERVAL_OPTIONS_Intervals_STR_S	Intervaly
+TXT_SETUP_INTERVAL_OPTIONS_Laps_FRMT_STR_S	%1 KÙl
+TXT_SETUP_INTERVAL_OPTIONS_Open_Rest_STR_S	ZaËaù oddychovaù
+TXT_SETUP_INTERVAL_REST_STEP_EDIT_Edit_Rest_STR_S	Upraviù Ëas oddychu
+TXT_SETUP_INTERVAL_STEP_EDIT_Duration_STR_L	Trvanie
+TXT_SETUP_INTERVAL_STEP_EDIT_Edit_Interval_STR_S	Upraviù interval
+TXT_SETUP_INTERVAL_STEP_EDIT_Type_STR_L	Typ
+TXT_SETUP_LACTATE_THRESHOLD_Auto_Detect_STR_L	Autom. rozpozn.
+TXT_SETUP_LACTATE_THRESHOLD_Do_Guided_Test_STR_L	Vykonaù test so sprievodcom
+TXT_SETUP_LACTATE_THRESHOLD_Est_20_30_min_M	Pribliûne 20†ñ†30 min.
+TXT_SETUP_LACTATE_THRESHOLD_Lactate_Threshold_STR_S	Prah lakt·tu
+TXT_SETUP_LACTATE_THRESHOLD_View_STR_L	Zobraziù
+TXT_SETUP_LAP_BANNER_Lap_Alert_STR_M	Upozornenie na†kolo
+TXT_SETUP_LAP_BANNER_Off_STR_M	Vypn˙ù
+TXT_SETUP_LAP_BANNER_Preview_STR_L	Uk·û.
+TXT_SETUP_LAP_BANNER_Primary_Field_STR_L	Prim·rne pole
+TXT_SETUP_LAP_BANNER_Secondary_Field_STR_L	Sekund·rne pole
+TXT_SETUP_LAP_BANNER_Total_Time_STR_M	Celkov˝ Ëas
+TXT_SETUP_LIGHT_NETWORK_Auto_STR_L	Automaticky
+TXT_SETUP_LIGHT_NETWORK_Configuration_STR_L	Konfigur·cia
+TXT_SETUP_LIGHT_NETWORK_Individual_STR_L	JednotlivÈ
+TXT_SETUP_LIGHT_NETWORK_Lights_STR_S	Svetl·
+TXT_SETUP_LIGHT_NETWORK_Status_STR_L	Stav
+TXT_SETUP_LOCATIONS_Saved_Locations_STR_L	UloûenÈ polohy
+TXT_SETUP_LOCATIONS_Saved_Locations_STR_S	UloûenÈ polohy
+TXT_SETUP_LOCATIONS_TITL_Locations_STR_L	Miesta
+TXT_SETUP_LOCATIONS_Where_Am_I_STR_L	Kde som?
+TXT_SETUP_LOCATION_OPTIONS_Delete_STR_L	Vymazaù
+TXT_SETUP_LOCATION_OPTIONS_Details_STR_L	Podrobnosti
+TXT_SETUP_LOCATION_OPTIONS_GoTo_STR_L	Prejsù na
+TXT_SETUP_LOCATION_OPTIONS_Name_STR_L	N·zov
+TXT_SETUP_MAIN_MENU_Activity_Settings_STR_L	Nastavenia aktivÌt
+TXT_SETUP_MAIN_MENU_Activity_Tracking_STR_L	Sledovanie aktivity
+TXT_SETUP_MAIN_MENU_Back_To_Start_STR_L	Sp‰ù na ätart
+TXT_SETUP_MAIN_MENU_Cancel_Race_STR_L	Zruöiù jazdu
+TXT_SETUP_MAIN_MENU_Cancel_Target_STR_L	Zruöiù cieæ
+TXT_SETUP_MAIN_MENU_Cancel_Workout_STR_L	Zruöiù cviËenie
+TXT_SETUP_MAIN_MENU_Clock_STR_L	Hodiny
+TXT_SETUP_MAIN_MENU_Discard_STR_L	Odhodiù
+TXT_SETUP_MAIN_MENU_History_STR_L	HistÛria
+TXT_SETUP_MAIN_MENU_Menu_STR_S	Ponuka
+TXT_SETUP_MAIN_MENU_My_Stats_STR_L	Moje ötatistiky
+TXT_SETUP_MAIN_MENU_Resume_STR_L	Obnoviù
+TXT_SETUP_MAIN_MENU_Save_STR_L	Uloûiù
+TXT_SETUP_MAIN_MENU_Settings_STR_L	Nastavenia
+TXT_SETUP_MAIN_MENU_Smart_Notifications_STR_L	Upozornenia Smart
+TXT_SETUP_MAIN_MENU_Smart_Notifications_STR_M	Upozornenia Smart
+TXT_SETUP_MAIN_MENU_Stop_LiveTrack_STR_L	Vyp. f. LiveTrack
+TXT_SETUP_MAIN_MENU_Stop_Navigation_STR_L	Zastaviù navig·ciu
+TXT_SETUP_MAIN_MENU_Training_STR_L	TrÈning
+TXT_SETUP_MAP_Hide_Up_STR_M	Skryù
+TXT_SETUP_MAP_Map_STR_S	Mapa
+TXT_SETUP_MAP_North_Up_STR_M	Sever hore
+TXT_SETUP_MAP_Orientation_STR_L	Orient·cia
+TXT_SETUP_MAP_Show_STR_M	Zobraziù
+TXT_SETUP_MAP_Status_STR_L	Stav
+TXT_SETUP_MAP_Track_Up_STR_M	Trasa hore
+TXT_SETUP_MAP_User_Locations_STR_L	PouûÌvateæskÈ lokality
+TXT_SETUP_MAX_HEART_RATE_Auto_Detect_STR_L	Autom. rozpozn.
+TXT_SETUP_MAX_HEART_RATE_Max_HR_STR_S	Maxim·lny srdcov˝ tep
+TXT_SETUP_MAX_HEART_RATE_Set_Value_STR_L	Nastaviù hodnotu
+TXT_SETUP_METRONOME_Alert_Frequency_STR_L	Frekvencia upozornenÌ
+TXT_SETUP_METRONOME_Alert_Type_STR_L	Zvuky
+TXT_SETUP_METRONOME_Beats_Per_Minute_STR_L	⁄dery za min˙tu
+TXT_SETUP_METRONOME_Metronome_STR_S	MetronÛm
+TXT_SETUP_METRONOME_Mute_STR_L	StÌöiù
+TXT_SETUP_METRONOME_Preview_STR_L	Uk·û.
+TXT_SETUP_METRONOME_Status_STR_L	Stav
+TXT_SETUP_METRONOME_Unmute_STR_L	Zruöiù stÌöenie
+TXT_SETUP_MY_STATS_FTP_STR_L	FTP
+TXT_SETUP_MY_STATS_Functional_Threshold_Power_STR_L	FunkËn˝ prah v˝konu
+TXT_SETUP_MY_STATS_Lactate_Threshold_STR_L	Prah lakt·tu
+TXT_SETUP_MY_STATS_My_Stats_STR_S	Moje ötatistiky
+TXT_SETUP_MY_STATS_Race_Predictor_STR_L	PredvÌdanie jazdy
+TXT_SETUP_MY_STATS_Records_STR_L	Z·znamy
+TXT_SETUP_MY_STATS_Recovery_Advisor_STR_L	Poradca pre zotavenie
+TXT_SETUP_MY_STATS_User_Profile_STR_L	Profil pouûÌvateæa
+TXT_SETUP_MY_STATS_VO2_Max_STR_L	VO2 Max.
+TXT_SETUP_NAVIGATION_Back_To_Start_STR_L	Sp‰ù na ätart
+TXT_SETUP_NAVIGATION_Courses_Bike_STR_L	Dr·hy
+TXT_SETUP_NAVIGATION_Courses_Run_STR_L	Dr·hy
+TXT_SETUP_NAVIGATION_MENU_Navigation_STR_L	Navig·cia
+TXT_SETUP_NAVIGATION_Saved_Locations_STR_L	UloûenÈ polohy
+TXT_SETUP_NAVIGATION_Stop_Course_STR_L	Zastaviù dr·hu
+TXT_SETUP_NAVIGATION_Stop_Navigation_STR_L	Zastaviù navig·ciu
+TXT_SETUP_NAVIGATION_TITL_Navigation_STR_L	Navig·cia
+TXT_SETUP_NAVIGATION_Where_Am_I_STR_L	Kde som?
+TXT_SETUP_PACE_SPEED_PREF_Cardio_STR_L	Kardio
+TXT_SETUP_PACE_SPEED_PREF_Cross_STR_L	Extr. lyû.
+TXT_SETUP_PACE_SPEED_PREF_Cycling_STR_L	Bicyklovanie
+TXT_SETUP_PACE_SPEED_PREF_Hiking_STR_L	Turistika
+TXT_SETUP_PACE_SPEED_PREF_Other_STR_L	InÈ
+TXT_SETUP_PACE_SPEED_PREF_Pace_Speed_Preference_STR_S	Pref. tempa/r˝chlosti
+TXT_SETUP_PACE_SPEED_PREF_Running_STR_L	Beh
+TXT_SETUP_PACE_SPEED_PREF_Show_Pace_STR_M	Zobraziù tempo
+TXT_SETUP_PACE_SPEED_PREF_Show_Speed_STR_M	Zobraziù r˝chlosù
+TXT_SETUP_PACE_SPEED_PREF_Strength_STR_L	Sila
+TXT_SETUP_PAGE_ACTIVITY_REVIEW_Activity_Summary_STR_S	S˙hrn aktivÌt
+TXT_SETUP_PAGE_AM_STR	AM
+TXT_SETUP_PAGE_Allow_STR_M	Povoliù
+TXT_SETUP_PAGE_Disabled_STR_M	Vypn˙ù
+TXT_SETUP_PAGE_Do_Not_Allow_STR_M	Nepovoliù
+TXT_SETUP_PAGE_Enabled_STR_M	Zapn˙ù
+TXT_SETUP_PAGE_Off_STR_M	Vypn˙ù
+TXT_SETUP_PAGE_On_STR_M	Zapn˙ù
+TXT_SETUP_PAGE_PM_STR	PM
+TXT_SETUP_PAGE_SWITCH_DETECTION_Off_STR_M	Rozpozn·vanie vyp.
+TXT_SETUP_PAGE_SWITCH_DETECTION_On_STR_M	Rozpozn·vanie zap.
+TXT_SETUP_PAGE_SWITCH_Disabled_STR_M	Vypn˙ù
+TXT_SETUP_PAGE_SWITCH_Enabled_STR_M	Zapn˙ù
+TXT_SETUP_PAGE_SWITCH_Off_STR_M	Vypn˙ù
+TXT_SETUP_PAGE_SWITCH_On_STR_M	Zapn˙ù
+TXT_SETUP_PAGE_TITL_Alerts_STR_M	Upozornenia
+TXT_SETUP_PAGE_TITL_Auto_Lap_STR_M	Auto Lap
+TXT_SETUP_PAGE_TITL_Auto_Pause_STR_M	Auto Pause
+TXT_SETUP_PAGE_TITL_Auto_Scroll_STR_M	Automat. rolovan.
+TXT_SETUP_PAGE_TITL_Records_STR_M	Z·znamy
+TXT_SETUP_POOL_SIZE_25_Meters_STR_M	25 metrov
+TXT_SETUP_POOL_SIZE_25_Yards_STR_M	25 yardov
+TXT_SETUP_POOL_SIZE_33_1_3_Meters_STR_M	33 1/3 metrov
+TXT_SETUP_POOL_SIZE_33_1_3_Yards_STR_M	33 1/3 yardov
+TXT_SETUP_POOL_SIZE_50_Meters_STR_M	50 metrov
+TXT_SETUP_POOL_SIZE_Custom_STR_M	VlastnÈ
+TXT_SETUP_POOL_SIZE_Pool_Size_STR_S	Veækosù bazÈna
+TXT_SETUP_POWER_Auto_FRMT_STR_M	Automatick·: %1 mm
+TXT_SETUP_POWER_Auto_Zero_STR_L	AutomatickÈ vynulovanie
+TXT_SETUP_POWER_Calibrate_STR_L	Kalibrovaù
+TXT_SETUP_POWER_Crank_Length_STR_L	DÂûka kæuky
+TXT_SETUP_POWER_Left_Scale_Factor_STR_L	Ukazovateæ æavÈho ped·la
+TXT_SETUP_POWER_Manual_FRMT_STR_M	Manu·lna: %1 mm
+TXT_SETUP_POWER_Power_Phase_Peak_TXT_L	äpiËka v˝konovej f·zy
+TXT_SETUP_POWER_Right_Scale_Factor_STR_L	Ukazovateæ pravÈho ped·la
+TXT_SETUP_POWER_Slope_STR_L	Svah
+TXT_SETUP_POWER_Updating_STR_S	Aktualizuje sa
+TXT_SETUP_POWER_ZONES_Based_On_STR_L	ZaloûenÈ na
+TXT_SETUP_POWER_ZONES_FTP_STR_L	FTP
+TXT_SETUP_POWER_ZONES_Minimum_STR_L	Minimum
+TXT_SETUP_POWER_ZONES_PERCENT_FTP_STR_L	% FTP
+TXT_SETUP_POWER_ZONES_PERCENT_FTP_STR_M	% FTP
+TXT_SETUP_POWER_ZONES_Power_Zones_STR_S	ZÛny v˝konu
+TXT_SETUP_POWER_ZONES_Restore_Defaults_STR_L	Obnova predv. nastavenÌ
+TXT_SETUP_POWER_ZONES_Watts_STR_L	Watty
+TXT_SETUP_POWER_ZONES_Watts_STR_M	Watty
+TXT_SETUP_POWER_ZONES_Zone_FRMT_STR_L	ZÛna %1
+TXT_SETUP_POWER_ZONES_w_STR_S	w
+TXT_SETUP_RACE_ACTIVITY_Choose_Activity_STR_S	Zvoæte aktivitu
+TXT_SETUP_RACE_ACTIVITY_Downloaded_STR_L	PrevzatÈ
+TXT_SETUP_RACE_ACTIVITY_From_History_STR_L	Z histÛrie
+TXT_SETUP_RACE_TARGET_OPTIONS_Cancel_Race_STR_L	Zruöiù jazdu
+TXT_SETUP_RACE_TARGET_OPTIONS_Cancel_Target_STR_L	Zruöiù cieæ
+TXT_SETUP_RACE_TARGET_OPTIONS_Training_STR_S	TrÈning
+TXT_SETUP_RECORDS_SPORT_Cycling_STR_L	Bicyklovanie
+TXT_SETUP_RECORDS_SPORT_Running_STR_L	Beh
+TXT_SETUP_RECORDS_SPORT_Swimming_STR_L	Pl·vanie
+TXT_SETUP_RECOVERY_ADVISOR_Recovery_Advisor_STR_S	Poradca pre zotavenie
+TXT_SETUP_RECOVERY_ADVISOR_Recovery_Time_STR_L	»as zotavenia
+TXT_SETUP_RECOVERY_ADVISOR_Status_STR_L	Stav
+TXT_SETUP_RECOVERY_ADVISOR_days_FRMT_STR_M	%1 dnÌ
+TXT_SETUP_RECOVERY_ADVISOR_hour_FRMT_STR_M	%1 hodina
+TXT_SETUP_RECOVERY_ADVISOR_hours_FRMT_STR_M	%1 hodÌn
+TXT_SETUP_RUNNING_DYNAMICS_Cadence_STR_M	Kadencia
+TXT_SETUP_RUNNING_DYNAMICS_GCT_Balance_STR_M	Pom.doby kont.so†zem.
+TXT_SETUP_RUNNING_DYNAMICS_GCT_STR_M	GCT
+TXT_SETUP_RUNNING_DYNAMICS_Primary_Metric_STR_L	Prim·rne metrick˝ systÈm
+TXT_SETUP_RUNNING_DYNAMICS_Running_Dynamics_2_STR_L	Dynamika behu 2
+TXT_SETUP_RUNNING_DYNAMICS_Running_Dynamics_STR_L	Dynamika behu
+TXT_SETUP_RUNNING_DYNAMICS_Secondary_Metric_1_STR_L	Sekund·rny metrick˝ systÈm 1
+TXT_SETUP_RUNNING_DYNAMICS_Secondary_Metric_2_STR_L	Sekund·rny metrick˝ systÈm 2
+TXT_SETUP_RUNNING_DYNAMICS_Status_STR_L	Stav
+TXT_SETUP_RUNNING_DYNAMICS_Stride_Length_STR_M	DÂûka kroku
+TXT_SETUP_RUNNING_DYNAMICS_Vertical_Oscillation_STR_M	Vertik·lna oscil·cia
+TXT_SETUP_RUNNING_DYNAMICS_Vertical_Ratio_STR_M	Vertik·lny pomer
+TXT_SETUP_SEGMENT_LEADERBOARD_CR_STR_S	CR
+TXT_SETUP_SEGMENT_LEADERBOARD_Challenger_STR_S	Vyz˝vateæ
+TXT_SETUP_SEGMENT_LEADERBOARD_Club_Leader_STR_S	VÌùaz klubu
+TXT_SETUP_SEGMENT_LEADERBOARD_Connection_STR_S	Pripojenie
+TXT_SETUP_SEGMENT_LEADERBOARD_Goal_STR_S	Cieæ
+TXT_SETUP_SEGMENT_LEADERBOARD_Group_Leader_STR_S	VÌùaz skupiny
+TXT_SETUP_SEGMENT_LEADERBOARD_King_of_the_Mountain_STR_S	Kr·æ hÙr
+TXT_SETUP_SEGMENT_LEADERBOARD_Personal_Best_STR_S	Osobn˝ rekord
+TXT_SETUP_SEGMENT_LEADERBOARD_Personal_Record_STR_S	Osobn˝ rekord
+TXT_SETUP_SEGMENT_LEADERBOARD_Queen_of_the_Mountain_STR_S	QOM
+TXT_SETUP_SEGMENT_LEADERBOARD_Rival_STR_S	S˙per
+TXT_SETUP_SEGMENT_LEADERBOARD_Segment_Leader_STR_S	VÌùaz segmentu
+TXT_SETUP_SEGMENT_LEADERBOARD_Updated_STR_S	AktualizovanÈ %1
+TXT_SETUP_SEGMENT_LIST_BIKE_Garmin_Segments_STR_M	Segmenty Garmin
+TXT_SETUP_SEGMENT_LIST_Grade_STR_T	Sklon %1
+TXT_SETUP_SEGMENT_LIST_RUN_Garmin_Segments_STR_M	Segmenty Garmin
+TXT_SETUP_SEGMENT_LIST_Strava_Live_Segments_STR_M	Seg.Strava v†re·l.Ëase
+TXT_SETUP_SEGMENT_REVIEW_Delete_STR_L	Vymazaù
+TXT_SETUP_SEGMENT_REVIEW_Elevation_Profile_STR_L	Profil nadmorskej v˝öky
+TXT_SETUP_SEGMENT_REVIEW_Map_STR_L	Mapa
+TXT_SETUP_SEGMENT_REVIEW_Race_Time_STR_L	»as pretekov
+TXT_SETUP_SENSORS_Add_New_STR_L	Pridaù novÈ
+TXT_SETUP_SENSORS_Cadence_FRMT_STR_L	Kadencia ñ %1
+TXT_SETUP_SENSORS_FOUND_Select_to_Add_STR_S	Vyberte snÌm. na prid.
+TXT_SETUP_SENSORS_FOUND_Sensors_Found_STR_L	Rozpoznali sa snÌmaËe
+TXT_SETUP_SENSORS_Foot_Pod_FRMT_STR_L	Krokomer ñ %1
+TXT_SETUP_SENSORS_Heart_Rate_FRMT_STR_L	Monit. srd. tepu ñ %1
+TXT_SETUP_SENSORS_Lights_FRMT_STR_L	Svetlo ñ %1
+TXT_SETUP_SENSORS_Lights_STR_L	Svetl·
+TXT_SETUP_SENSORS_Muscle_Oxygen_FRMT_STR_L	KyslÌk vo svaloch†ñ†%1
+TXT_SETUP_SENSORS_Power_FRMT_STR_L	SnÌmaË v˝konu ñ %1
+TXT_SETUP_SENSORS_Radar_FRMT_STR_L	Radar ñ %1
+TXT_SETUP_SENSORS_Sensors_STR_S	SnÌmaËe a doplnky
+TXT_SETUP_SENSORS_Shimano_Di2_FRMT_STR_L	Di2 ñ %1
+TXT_SETUP_SENSORS_Speed_Cadence_FRMT_STR_L	Sn. r/kñ%1
+TXT_SETUP_SENSORS_Speed_FRMT_STR_L	SnÌmaË r˝chlosti ñ %1
+TXT_SETUP_SENSORS_Tempe_FRMT_STR_L	SnÌmaË tempe ñ %1
+TXT_SETUP_SENSORS_Varia_Vision_FRMT_STR_L	Varia Vision ñ %1
+TXT_SETUP_SENSORS_Virb_FRMT_STR_L	VIRT ñ %1
+TXT_SETUP_SENSOR_About_STR_L	Info
+TXT_SETUP_SENSOR_DETAILS_Custom_STR_M	VlastnÈ
+TXT_SETUP_SENSOR_DETAILS_Front_46_36T_STR_M	46-36T
+TXT_SETUP_SENSOR_DETAILS_Front_50_34T_STR_M	50-34T
+TXT_SETUP_SENSOR_DETAILS_Front_52_36T_STR_M	52-36T
+TXT_SETUP_SENSOR_DETAILS_Front_52_38T_STR_M	52-38T
+TXT_SETUP_SENSOR_DETAILS_Front_53_39T_STR_M	53-39T
+TXT_SETUP_SENSOR_DETAILS_Front_54_42T_STR_M	54-42T
+TXT_SETUP_SENSOR_DETAILS_Front_55_42T_STR_M	55-42T
+TXT_SETUP_SENSOR_DETAILS_Rear_11_23T_STR_M	11-23T
+TXT_SETUP_SENSOR_DETAILS_Rear_11_25T_STR_M	11-25T
+TXT_SETUP_SENSOR_DETAILS_Rear_11_28T_STR_M	11-28T
+TXT_SETUP_SENSOR_DETAILS_Rear_11_32T_STR_M	11-32T
+TXT_SETUP_SENSOR_DETAILS_Rear_12_25T_STR_M	12-25T
+TXT_SETUP_SENSOR_DETAILS_Rear_12_28T_STR_M	12-28T
+TXT_SETUP_SENSOR_SETTINGS_Connect_STR_L	Pripojiù
+TXT_SETUP_SENSOR_SETTINGS_Name_STR_L	N·zov
+TXT_SETUP_SENSOR_SETTINGS_Remove_STR_L	Odstr·niù
+TXT_SETUP_SENSOR_SETTINGS_Status_STR_L	Stav
+TXT_SETUP_SENSOR_SOURCE_Always_STR_M	Vûdy
+TXT_SETUP_SENSOR_SOURCE_Indoor_STR_M	Len pri zap.funk. GPS
+TXT_SETUP_SENSOR_SOURCE_Off_STR_M	Nikdy
+TXT_SETUP_SENSOR_Status_Connected_STR_M	PripojenÈ
+TXT_SETUP_SENSOR_Status_Not_Connected_STR_M	NepripojenÈ
+TXT_SETUP_SENSOR_Status_Off_STR_M	Vypn˙ù
+TXT_SETUP_SENSOR_Status_Searching_STR_M	Hæad· sa
+TXT_SETUP_SETTINGS_Activity_Profiles_STR_L	Profily aktivÌt
+TXT_SETUP_SETTINGS_Activity_Tracking_STR_L	Sledovanie aktivity
+TXT_SETUP_SETTINGS_Alarms_STR_L	Alarmy
+TXT_SETUP_SETTINGS_DND_STR_L	Neruöiù
+TXT_SETUP_SETTINGS_Heart_Rate_Monitor_STR_L	Monitor srdcovÈho tepu
+TXT_SETUP_SETTINGS_Sensors_and_Acessories_STR_L	SnÌmaËe a doplnky
+TXT_SETUP_SETTINGS_Settings_STR_S	Nastavenia
+TXT_SETUP_SETTINGS_System_STR_L	SystÈm
+TXT_SETUP_SETTINGS_Widgets_STR_L	Miniaplik·cie
+TXT_SETUP_SET_TARGET_DISTANCE_10k_STR_L	10 km
+TXT_SETUP_SET_TARGET_DISTANCE_1_mi_STR_L	1 mi
+TXT_SETUP_SET_TARGET_DISTANCE_1k_STR_L	1 km
+TXT_SETUP_SET_TARGET_DISTANCE_40k_STR_L	40†km
+TXT_SETUP_SET_TARGET_DISTANCE_5k_STR_L	5 km
+TXT_SETUP_SET_TARGET_DISTANCE_Custom_STR_L	VlastnÈ
+TXT_SETUP_SET_TARGET_DISTANCE_Half_Marathon_STR_L	PolmaratÛn
+TXT_SETUP_SET_TARGET_DISTANCE_Marathon_STR_L	MaratÛn
+TXT_SETUP_SET_TARGET_DISTANCE_Select_Distance_STR_S	Vyberte vzdialenosù
+TXT_SETUP_SET_TARGET_SELECT_Distance_Only_STR_L	Len vzdialenosù
+TXT_SETUP_SET_TARGET_SELECT_Distance_and_Pace_STR_L	Vzdialenosù a tempo
+TXT_SETUP_SET_TARGET_SELECT_Distance_and_Speed_STR_L	Vzdialenosù a r˝chlosù
+TXT_SETUP_SET_TARGET_SELECT_Distance_and_Time_STR_L	Vzdialenosù a Ëas
+TXT_SETUP_SET_TARGET_SELECT_Select_Target_STR_S	Vyberte cieæ
+TXT_SETUP_SET_TARGET_TIME_Enter_Manually_STR_L	Zadajte manu·lne
+TXT_SETUP_SET_TARGET_TIME_Select_Time_STR_S	Vyberte Ëas
+TXT_SETUP_SET_TARGET_TIME_Use_Prediction_STR_L	Pouûiù predpoveÔ
+TXT_SETUP_SET_TARGET_TIME_Use_Record_STR_L	Pouûiù z·znam
+TXT_SETUP_SHIMANO_DI2_GEARS_Front_Gears_STR_L	PrednÈ prevody
+TXT_SETUP_SHIMANO_DI2_GEARS_Gear_FRMT_STR_L	Prevod %1
+TXT_SETUP_SHIMANO_DI2_GEARS_Gear_Presets_STR_L	PredvolenÈ nastavenia prevodu
+TXT_SETUP_SHIMANO_DI2_GEARS_Rear_Gears_STR_L	ZadnÈ prevody
+TXT_SETUP_SHORTCUTS_Alert_Frequency_STR_L	Frekvencia upozornenÌ
+TXT_SETUP_SHORTCUTS_Alert_Type_STR_L	Zvuky
+TXT_SETUP_SHORTCUTS_BIKE_Stop_Segment_STR_M	Zastaviù segment
+TXT_SETUP_SHORTCUTS_Back_to_Start_STR_M	Sp‰ù na ätart
+TXT_SETUP_SHORTCUTS_Beats_Per_Minute_STR_L	⁄dery za min˙tu
+TXT_SETUP_SHORTCUTS_Calibrate_Power_STR_M	Kalibrovaù snÌmaË v˝konu
+TXT_SETUP_SHORTCUTS_Cancel_Race_STR_M	Zruöiù jazdu
+TXT_SETUP_SHORTCUTS_Cancel_Target_STR_M	Zruöiù cieæ
+TXT_SETUP_SHORTCUTS_Cancel_Workout_STR_M	Zruöiù cviËenie
+TXT_SETUP_SHORTCUTS_Clock_Options_STR_M	Moûnosti hodÌn
+TXT_SETUP_SHORTCUTS_Edit_Data_Fields_STR_M	Upraviù d·tovÈ polia
+TXT_SETUP_SHORTCUTS_Lock_Device_STR_M	Uzamkn˙ù zariadenie
+TXT_SETUP_SHORTCUTS_Music_Controls_STR_M	Ovl·danie hudby
+TXT_SETUP_SHORTCUTS_Mute_STR_L	StÌöiù
+TXT_SETUP_SHORTCUTS_Options_STR_S	Moûnosti
+TXT_SETUP_SHORTCUTS_Orientation_STR_M	Orient·cia
+TXT_SETUP_SHORTCUTS_Primary_Metric_STR_M	Prim·rne metrick˝ systÈm
+TXT_SETUP_SHORTCUTS_RUN_Stop_Segment_STR_M	Zastaviù segment
+TXT_SETUP_SHORTCUTS_Recording_Mode_STR_M	Reûim z·znamu
+TXT_SETUP_SHORTCUTS_Save_Location_STR_M	Uloûiù polohu
+TXT_SETUP_SHORTCUTS_Secondary_Metric_1_STR_L	Sekund·rny metrick˝ systÈm 1
+TXT_SETUP_SHORTCUTS_Secondary_Metric_2_STR_L	Sekund·rny metrick˝ systÈm 2
+TXT_SETUP_SHORTCUTS_Set_Pace_STR_M	Nastaviù tempo
+TXT_SETUP_SHORTCUTS_Set_Speed_STR_M	Nastaviù r˝chlosù
+TXT_SETUP_SHORTCUTS_Start_Recording_STR_M	Spustiù z·znam
+TXT_SETUP_SHORTCUTS_Stop_Course_STR_M	Zastaviù dr·hu
+TXT_SETUP_SHORTCUTS_Stop_Livetrack_STR_M	Vypn˙ù funkciu LiveTrack
+TXT_SETUP_SHORTCUTS_Stop_Navigation_STR_M	Zastaviù navig·ciu
+TXT_SETUP_SHORTCUTS_Stop_Recording_STR_M	Zastaviù z·znam
+TXT_SETUP_SHORTCUTS_Take_Picture_STR_M	NasnÌmaù obr·zok
+TXT_SETUP_SHORTCUTS_Unmute_STR_L	Zruöiù stÌöenie
+TXT_SETUP_SHORTCUTS_User_Locations_STR_M	PouûÌvateæskÈ lokality
+TXT_SETUP_SHORTCUTS_Zoom_STR_M	PriblÌûenie
+TXT_SETUP_SMART_NTFCTN_LIST_Notifications_STR_S	Upozornenia
+TXT_SETUP_SMART_NTFCTN_SETTINGS_ACT_During_Activity_STR_L	PoËas aktivity
+TXT_SETUP_SMART_NTFCTN_SETTINGS_ACT_Not_During_Activity_STR_L	Nie poËas aktivity
+TXT_SETUP_SMART_NTFCTN_SETTINGS_During_Activity_STR_L	PoËas aktivity
+TXT_SETUP_SMART_NTFCTN_SETTINGS_Not_During_Activity_STR_L	Nie poËas aktivity
+TXT_SETUP_SMART_NTFCTN_SETTINGS_Notifications_STR_L	Upozornenia
+TXT_SETUP_SMART_NTFCTN_SETTINGS_Options_STR_S	Moûnosti
+TXT_SETUP_SMART_NTFCTN_SETTINGS_Show_All_STR_M	Zobraziù vöetky
+TXT_SETUP_SMART_NTFCTN_SETTINGS_Show_Calls_Only_STR_M	Zobraziù len hovory
+TXT_SETUP_SMART_NTFCTN_SETTINGS_Smart_Notifications_STR_S	Upozornenia Smart
+TXT_SETUP_SMART_NTFCTN_SETTINGS_Sounds_STR_L	Zvuky
+TXT_SETUP_SMART_NTFCTN_SETTINGS_Status_STR_L	Stav
+TXT_SETUP_SMART_NTFCTN_SETTINGS_Tone_STR_M	TÛny
+TXT_SETUP_SMART_NTFCTN_SETTINGS_Tone_and_Vibration_STR_M	TÛny a†vibr·cie
+TXT_SETUP_SMART_NTFCTN_SETTINGS_Vibration_STR_M	Vibr·cie
+TXT_SETUP_SOUNDS_Alert_Tones_STR_L	TÛny v˝strah
+TXT_SETUP_SOUNDS_Key_Tones_STR_L	TÛny tlaËidiel
+TXT_SETUP_SOUNDS_Sounds_STR_S	Zvuky
+TXT_SETUP_SOUNDS_Vibration_STR_L	Vibr·cie
+TXT_SETUP_SPD_CAD_Auto_FRMT_STR_M	Automatick·: %1 mm
+TXT_SETUP_SPD_CAD_Manual_FRMT_STR_M	Manu·lna: %1 mm
+TXT_SETUP_SPD_CAD_Wheel_Size_STR_L	Veækosù kolesa
+TXT_SETUP_STEP_TYPE_Distance_STR_M	Vzdialenosù
+TXT_SETUP_STEP_TYPE_Open_STR_M	OtvorenÈ
+TXT_SETUP_STEP_TYPE_Time_STR_M	»as
+TXT_SETUP_STRESS_SCORE_Last_7_Days_STR_L	Posledn˝ch 7†dnÌ
+TXT_SETUP_STRESS_SCORE_Last_Measurement_STR_L	PoslednÈ meranie
+TXT_SETUP_STRESS_SCORE_Measure_Again_STR_L	NovÈ meranie
+TXT_SETUP_STRESS_SCORE_Stress_Score_STR_S	SkÛre stresu
+TXT_SETUP_SW_UPDATE_Available_FRMT_STR_M	DostupnÈ %1
+TXT_SETUP_SW_UPDATE_Dismiss_STR_M	Zruöiù
+TXT_SETUP_SW_UPDATE_Est_Time_FRMT_STR_M	Odhadovan˝ »as: %1
+TXT_SETUP_SW_UPDATE_Install_Now_STR_M	Inötalovaù teraz
+TXT_SETUP_SW_UPDATE_Remind_Me_STR_M	PripomeÚ mi
+TXT_SETUP_SW_UPDATE_Update_Available_STR_M	Je dostupn· aktualiz·cia
+TXT_SETUP_SYSTEM_About_STR_L	Info
+TXT_SETUP_SYSTEM_Backlight_STR_L	Podsvietenie
+TXT_SETUP_SYSTEM_Clock_STR_L	Hodiny
+TXT_SETUP_SYSTEM_Data_Recording_STR_L	Z·znam ˙dajov
+TXT_SETUP_SYSTEM_Every_Second_STR_M	Kaûd˙ sekundu
+TXT_SETUP_SYSTEM_Format_STR_L	Form·t
+TXT_SETUP_SYSTEM_Language_STR_L	Jazyk
+TXT_SETUP_SYSTEM_Restore_Defaults_STR_L	Obnova predv. nastavenÌ
+TXT_SETUP_SYSTEM_Smart_STR_M	InteligentnÈ
+TXT_SETUP_SYSTEM_Software_Update_STR_L	Aktualiz·cia softvÈru
+TXT_SETUP_SYSTEM_Sounds_STR_L	Zvuky
+TXT_SETUP_SYSTEM_System_STR_S	SystÈm
+TXT_SETUP_SYSTEM_Units_STR_L	Jednotky
+TXT_SETUP_TIME_12_Hour_STR_M	12-hodinov˝
+TXT_SETUP_TIME_24_Hour_STR_M	24-hodinov˝
+TXT_SETUP_TIME_Alarms_STR_L	Alarmy
+TXT_SETUP_TIME_Background_STR_L	Pozadie
+TXT_SETUP_TIME_Black_STR_M	»ierna
+TXT_SETUP_TIME_Digital_STR_M	Digit·lne
+TXT_SETUP_TIME_FORMAT_12_Hour_STR_L	12-hodinov˝
+TXT_SETUP_TIME_FORMAT_24_Hour_STR_L	24-hodinov˝
+TXT_SETUP_TIME_FORMAT_Time_Format_STR_M	Form·t Ëasu
+TXT_SETUP_TIME_IN_ZONE_OPTNS_Change_Zone_STR_S	Zmeniù zÛnu
+TXT_SETUP_TIME_IN_ZONE_OPTNS_Choose_Other_Data_Field_STR_S	Vybraù inÈ d·tovÈ pole
+TXT_SETUP_TIME_IN_ZONE_OPTNS_Time_In_HR_Zone_FRMT_STR_S	»as v zÛne tepu %1
+TXT_SETUP_TIME_IN_ZONE_OPTNS_Time_In_Power_Zone_FRMT_STR_S	»as v†zÛne v˝konu†%1
+TXT_SETUP_TIME_No_STR_M	Nie
+TXT_SETUP_TIME_Profile_Color_STR_L	Pouûiù farbu prof.
+TXT_SETUP_TIME_Set_Automatically_STR_L	Nast.automaticky
+TXT_SETUP_TIME_Set_Time_STR_L	Nastaviù Ëas
+TXT_SETUP_TIME_Time_Format_STR_L	Form·t Ëasu
+TXT_SETUP_TIME_Time_STR_L	»as
+TXT_SETUP_TIME_Watch_Face_STR_L	Obr·zok pozadia
+TXT_SETUP_TIME_White_STR_M	Biela
+TXT_SETUP_TIME_Yes_STR_M	¡no
+TXT_SETUP_TOTALS_Cycling_STR_L	Bicyklovanie
+TXT_SETUP_TOTALS_Running_STR_L	Beh
+TXT_SETUP_TOTALS_Swimming_STR_L	Pl·vanie
+TXT_SETUP_TOTALS_Totals_STR_S	CelkovÈ hodnoty
+TXT_SETUP_TRAINING_CALENDAR_Training_Calendar_STR_S	TrÈningov˝ kalend·r
+TXT_SETUP_TRAINING_Intervals_STR_L	Intervaly
+TXT_SETUP_TRAINING_My_Workouts_STR_L	Moje trÈningy
+TXT_SETUP_TRAINING_PAGES_Clock_STR_L	Hodiny
+TXT_SETUP_TRAINING_PAGES_Data_Screens_STR_S	Obrazovky s†˙dajmi
+TXT_SETUP_TRAINING_PAGES_Drill_Log_STR_L	Z·znam cviËenia
+TXT_SETUP_TRAINING_PAGES_Map_STR_L	Mapa
+TXT_SETUP_TRAINING_PAGES_Page_HR_Zone_Gauge_STR_L	Mer. zÛny tepu
+TXT_SETUP_TRAINING_PAGES_Rest_Screen_STR_L	Obrazovka f·zy oddychu
+TXT_SETUP_TRAINING_PAGES_Running_Dynamics_2_STR_L	Dynamika behu 2
+TXT_SETUP_TRAINING_PAGES_Running_Dynamics_STR_L	Dynamika behu
+TXT_SETUP_TRAINING_PAGES_Screen_1_STR_L	Obrazovka 1
+TXT_SETUP_TRAINING_PAGES_Screen_2_STR_L	Obrazovka 2
+TXT_SETUP_TRAINING_PAGES_Screen_3_STR_L	Obrazovka 3
+TXT_SETUP_TRAINING_PAGES_Screen_4_STR_L	Obrazovka 4
+TXT_SETUP_TRAINING_Race_an_Activity_STR_L	Sledovaù aktivitu
+TXT_SETUP_TRAINING_Segments_STR_L	Segmenty
+TXT_SETUP_TRAINING_Set_a_Target_STR_L	Stanoviù cieæ
+TXT_SETUP_TRAINING_Strava_Live_Segments_STR_L	Segmenty Strava v†re·lnom Ëase
+TXT_SETUP_TRAINING_Training_Calendar_STR_L	TrÈningov˝ kalend·r
+TXT_SETUP_TRAINING_Training_STR_S	TrÈning
+TXT_SETUP_UNITS_Celsius_STR_M	Stupne Celzia
+TXT_SETUP_UNITS_Centimeters_STR_M	Centimetre
+TXT_SETUP_UNITS_Distance_STR_L	Vzdialenosù
+TXT_SETUP_UNITS_Elevation_STR_L	Nadmorsk· v˝öka
+TXT_SETUP_UNITS_Fahrenheit_STR_M	Fahrenheit
+TXT_SETUP_UNITS_Feet_STR_M	Stopy
+TXT_SETUP_UNITS_Height_STR_L	V˝öka
+TXT_SETUP_UNITS_Kilograms_STR_M	Kilogramy
+TXT_SETUP_UNITS_Kilometers_STR_M	Kilometre
+TXT_SETUP_UNITS_Meters_STR_M	Metre
+TXT_SETUP_UNITS_Miles_STR_M	MÌle
+TXT_SETUP_UNITS_Pace_Speed_STR_L	Tempo/r˝chlosù
+TXT_SETUP_UNITS_Pounds_STR_M	Libry
+TXT_SETUP_UNITS_Temperature_STR_L	Teplota
+TXT_SETUP_UNITS_Units_STR_S	Jednotky
+TXT_SETUP_UNITS_Weight_STR_L	Hmotnosù
+TXT_SETUP_USER_PROFILE_Birth_Year_STR_L	Rok narod.
+TXT_SETUP_USER_PROFILE_Female_STR_M	éena
+TXT_SETUP_USER_PROFILE_Gender_STR_L	Pohlavie
+TXT_SETUP_USER_PROFILE_Heart_Rate_STR_L	Srdcov˝ tep
+TXT_SETUP_USER_PROFILE_Height_STR_L	V˝öka
+TXT_SETUP_USER_PROFILE_Male_STR_M	Muû
+TXT_SETUP_USER_PROFILE_Power_Zones_STR_L	ZÛny v˝konu
+TXT_SETUP_USER_PROFILE_User_Profile_STR_S	Profil pouûÌvateæa
+TXT_SETUP_USER_PROFILE_Weight_STR_L	Hmotnosù
+TXT_SETUP_VIRB_MENU_Options_STR_S	Moûnosti
+TXT_SETUP_VIRB_MENU_Start_Recording_STR_L	Spustiù z·znam
+TXT_SETUP_VIRB_MENU_Stop_Recording_STR_L	Zastaviù z·znam
+TXT_SETUP_VIRB_MENU_Take_Picture_STR_L	NasnÌmaù obr·zok
+TXT_SETUP_VIRB_Manual_STR_L	Manu·lne
+TXT_SETUP_VIRB_Recording_Mode_STR_L	Reûim z·znamu
+TXT_SETUP_VIRB_Timer_Start_Stop_STR_L	ätart/zast. ËasovaËa
+TXT_SETUP_VIRTUAL_PARTNER_Set_Pace_STR_L	Nastaviù tempo
+TXT_SETUP_VIRTUAL_PARTNER_Set_Speed_STR_L	Nastaviù r˝chlosù
+TXT_SETUP_VIRTUAL_PARTNER_Status_STR_L	Stav
+TXT_SETUP_WIDGET_Pair_Now_STR_M	Sp·rovaù
+TXT_SETUP_WIDGET_Select_To_Add_STR_L	Vyberte snÌm. na prid.
+TXT_SETUP_WIDGET_Select_To_Remove_STR_L	V˝berom odstr·Úte
+TXT_SETUP_WIDGET_Widgets_Add_STR_L	Pridaù miniaplik·cie
+TXT_SETUP_WIDGET_Widgets_STR_L	Miniaplik·cie
+TXT_SETUP_WIRELESS_Bluetooth_STR_L	Bluetooth
+TXT_SETUP_WIRELESS_CONTROLS_Bluetooth_STR_M	Bluetooth
+TXT_SETUP_WIRELESS_CONTROLS_Controls_STR_S	Ovl·dacie prvky
+TXT_SETUP_WIRELESS_CONTROLS_Do_Not_Disturb_STR_M	Neruöiù
+TXT_SETUP_WIRELESS_CONTROLS_Find_My_Phone_STR_M	N·jsù mÙj telefÛn
+TXT_SETUP_WIRELESS_CONTROLS_Sync_STR_M	Synchroniz·cia
+TXT_SETUP_WORKOUT_CATEGORIES_LIST_Cycling_STR_M	Bicyklovanie
+TXT_SETUP_WORKOUT_CATEGORIES_LIST_Multisport_STR_M	Multiöport
+TXT_SETUP_WORKOUT_CATEGORIES_LIST_My_Workouts_STR_M	Moje trÈningy
+TXT_SETUP_WORKOUT_CATEGORIES_LIST_Open_Water_Swimming_STR_M	Pl·vanie v†otvorenej vode
+TXT_SETUP_WORKOUT_CATEGORIES_LIST_Other_STR_M	InÈ
+TXT_SETUP_WORKOUT_CATEGORIES_LIST_Pool_Swimming_STR_M	Pl·vanie v†bazÈne
+TXT_SETUP_WORKOUT_CATEGORIES_LIST_Running_STR_M	Beh
+TXT_SETUP_WORKOUT_LIST_Cycling_STR_S	Bicyklovanie
+TXT_SETUP_WORKOUT_LIST_Invalid_STR_M	NeplatnÈ
+TXT_SETUP_WORKOUT_LIST_Multisport_STR_S	Multiöport
+TXT_SETUP_WORKOUT_LIST_My_Workouts_STR_S	Moje trÈningy
+TXT_SETUP_WORKOUT_LIST_Open_Water_Swimming_STR_S	Pl·vanie v†otvorenej vode
+TXT_SETUP_WORKOUT_LIST_Other_STR_S	InÈ
+TXT_SETUP_WORKOUT_LIST_Pool_Swimming_STR_S	Pl·vanie v†bazÈne
+TXT_SETUP_WORKOUT_LIST_Running_STR_S	Beh
+TXT_SETUP_WORKOUT_LIST_Today_STR_S	Dnes
+TXT_SETUP_WORKOUT_LIST_Tomorrow_STR_S	Zajtra
+TXT_SETUP_WORKOUT_LIST_Yesterday_STR_S	VËera
+TXT_SETUP_WORKOUT_OPTIONS_1_Step_STR_L	1 krok
+TXT_SETUP_WORKOUT_OPTIONS_Cancel_Workout_STR_L	Zruöiù cviËenie
+TXT_SETUP_WORKOUT_OPTIONS_Delete_STR_L	Vymazaù
+TXT_SETUP_WORKOUT_OPTIONS_Do_Workout_STR_L	CviËiù
+TXT_SETUP_WORKOUT_OPTIONS_Steps_STR_L	PoËet krokov: %1
+TXT_SETUP_WORKOUT_OPTIONS_View_STR_L	Zobraziù
+TXT_START_AUTO_MS_TIP_for_Next_Leg_STR_M	na ÔalöÌ ˙sek
+TXT_START_AUTO_MS_TIP_to_Begin_STR_M	ZaËaù
+TXT_START_WRKT_TIP_for_Each_Rest_STR_M	pre kaû.d.odd.
+TXT_START_WRKT_TIP_to_Begin_STR_M	ZaËaù
+TXT_STATUS_CANNOT_SET_TORQUE_SCALE_Cannot_Update_Scale_STR_M	Ned· sa nast. nov˙ hodn., k˝m sn. Vect. ned. akt. uk.
+TXT_STATUS_PAGE_ACTIVE_PROFILE_REMOVAL_Cannot_Remove_Active_profile_STR_M	Nie je moûnÈ odstr·niù aktÌvny profil
+TXT_STATUS_PAGE_ACTIVITY_PROFILES_INVALID_REMOVAL_Profile_is_in_the_active_FRMT_STR_M	%1 je aktÌvny profil a nie je moûnÈ ho odstr·niù.
+TXT_STATUS_PAGE_ACTIVITY_PROFILES_LIMIT_REACHED_Multisport_profiles_STR_M	Ned· sa pr. ÔalöÌ mult. profil. Odstr. profil a sk. znova.
+TXT_STATUS_PAGE_ACTIVITY_PROFILES_LIMIT_REACHED_Single_sport_profiles_STR_M	Nie je moûnÈ pridaù ÔalöÌ öportov˝ profil. Odstr·Úte profil a sk˙ste znova.
+TXT_STATUS_PAGE_APPLYING_SETTINGS_Updating_STR_M	Aktualizuje sa
+TXT_STATUS_PAGE_AUTO_MS_Auto_Multisport_Complete_FRMT_STR_M	DokonËenÈ: %1
+TXT_STATUS_PAGE_BATTERY_LOW_SW_UPDATE_Battery_too_low_to_update_STR_M	Stav batÈrie je prÌliö nÌzky na aktualiz·ciu softvÈru.
+TXT_STATUS_PAGE_BIKE_Deleting_Segment_STR_M	OdstraÚuje sa segment
+TXT_STATUS_PAGE_BIKE_LIGHT_Set_individual_to_adjust_mode_STR_M	Ak chcete prispÙsobiù reûim, konfig. nastav. na Individu·lna.
+TXT_STATUS_PAGE_BLUETOOTH_PAIRING_Connecting_STR_M	Prip·ja sa
+TXT_STATUS_PAGE_BLUETOOTH_PAIRING_Initializing_STR_M	Inicializuje sa
+TXT_STATUS_PAGE_BLUETOOTH_PAIRING_Paired_with_FRMT_STR_M	Sp·rovanÈ s %1
+TXT_STATUS_PAGE_BLUETOOTH_PAIRING_Passkey_STR_T	PrÌstupov˝ kæ˙Ë
+TXT_STATUS_PAGE_BLUETOOTH_PAIRING_Ready_to_Pair_STR_M	Prip. na p·rovanie
+TXT_STATUS_PAGE_CALCULATE_TOTALS_Loading_Totals_STR_M	NaËÌtavaj˙ sa s˙hrny
+TXT_STATUS_PAGE_COMPLETE_ACTIVITY_Complete_activity_to_access_menu_STR_M	Na prÌstup k tejto ponuke dokonËite aktu·lnu aktivitu.
+TXT_STATUS_PAGE_CONNECTIQ_DATA_FLDS_Replace_Remove_Fields_STR_M	Ak prid. inÈ pole apl. Con. IQ na obr., nahr./odstr. exist.
+TXT_STATUS_PAGE_DELETING_ACTIVITIES_All_Activities_Deleted_STR_M	Vöetky aktivity boli odstr·nenÈ
+TXT_STATUS_PAGE_DELETING_ACTIVITIES_Deleting_All_Activities_STR_M	OdstraÚuj˙ sa vöetky aktivity
+TXT_STATUS_PAGE_DELETING_RECORDS_All_Records_Cleared_STR_M	Vöetky z·znamy vymazanÈ
+TXT_STATUS_PAGE_DELETING_RECORDS_Clearing_All_Records_STR_M	Vymaz·vaj˙ sa vöetky z·znamy
+TXT_STATUS_PAGE_DISCARDING_ACTIVITY_Activity_Discarded_STR_M	Aktivita bola zahoden·
+TXT_STATUS_PAGE_DISCARDING_ACTIVITY_Discarding_STR_M	Zahadzuje sa
+TXT_STATUS_PAGE_DOWNLOAD_CALENDAR_Download_Training_Calendar_STR_M	Prevezmite si svoj trÈningov˝ kalend·r z†aplik·cie Garmin Connect.
+TXT_STATUS_PAGE_DOWNLOAD_WORKOUTS_Download_workouts_STR_M	Prebieha preberanie cviËenÌ z†aplik·cie Garmin Connect.
+TXT_STATUS_PAGE_DUPLICATE_PROFILE_NAME_Profile_Name_Exists_STR_M	Profil aktivity uû existuje
+TXT_STATUS_PAGE_Downloading_stored_HR_data_STR_M	Preberaj˙ sa uloû. ˙daje monitora srdcovÈho tepu
+TXT_STATUS_PAGE_FTP_COOLDOWN_Cool_Down_Recommended_STR_M	Odpor˙Ëa sa prest·vka
+TXT_STATUS_PAGE_HRM_PWR_REQUIRED_HRM_and_PWR_Required_STR_M	Vyûaduje sa hrudn˝ monitor srdcovÈho tepu a†snÌmaË v˝konu
+TXT_STATUS_PAGE_HRM_REQUIRED_Heart_Rate_Monitor_Required_STR_M	Vyûaduje sa hrudn˝ snÌmaË srdcovÈho tepu
+TXT_STATUS_PAGE_HRM_Run_Enabled_STR_M	Obrazovka sa zobrazÌ pri pouûitÌ vybavenia HRM-Tri alebo HRM-Run.
+TXT_STATUS_PAGE_HR_data_download_successful_STR_M	Preberanie ˙dajov monitora srdcovÈho tepu bolo ˙speönÈ
+TXT_STATUS_PAGE_INSTALLING_SW_UPDATE_Complete_STR_M	Aktualiz·cia snÌmaËa sa dokonËila
+TXT_STATUS_PAGE_INSTALLING_SW_UPDATE_Connected_STR_M	PripojenÈ
+TXT_STATUS_PAGE_INSTALLING_SW_UPDATE_Installing_Update_STR_M	Inötaluje sa aktualiz·cia
+TXT_STATUS_PAGE_INSTALLING_SW_UPDATE_Left_Pedal_Complete_STR_M	ºav˝ ped·l dokonËen˝
+TXT_STATUS_PAGE_INSTALLING_SW_UPDATE_Left_pedal_STR_M	Aktualizuje sa æav˝ ped·l
+TXT_STATUS_PAGE_INSTALLING_SW_UPDATE_Restarting_STR_M	Reötartuje sa...
+TXT_STATUS_PAGE_INSTALLING_SW_UPDATE_Right_Pedal_Complete_STR_M	Prav˝ ped·l dokonËen˝
+TXT_STATUS_PAGE_INSTALLING_SW_UPDATE_Right_pedal_STR_M	Aktualizuje sa prav˝ ped·l
+TXT_STATUS_PAGE_INSTALLING_SW_UPDATE_Searching_STR_M	Hæad· sa
+TXT_STATUS_PAGE_INSTALLING_SW_UPDATE_Searching_left_STR_M	Vyhæad·va sa æav˝ ped·l.  MÙûe to trvaù p·r min˙t.
+TXT_STATUS_PAGE_INSTALLING_SW_UPDATE_Searching_right_STR_M	Vyhæad·va sa prav˝ ped·l. MÙûe to trvaù p·r min˙t.
+TXT_STATUS_PAGE_INSTALLING_SW_UPDATE_Update_Complete_STR_M	Aktualiz·cia sa dokonËila
+TXT_STATUS_PAGE_INSTALLING_SW_UPDATE_Updating_STR_M	Aktualizuje sa
+TXT_STATUS_PAGE_INSTALLING_SW_UPDATE_Waiting_For_Sensor_reboot_STR_M	»ak· sa na reötartovanie snÌmaËa.
+TXT_STATUS_PAGE_LACTATE_COOLDOWN_Cool_Down_Recommended_STR_M	Odpor˙Ëa sa prest·vka
+TXT_STATUS_PAGE_LIVETRACK_Ending_LiveTrack_Session_STR_M	UkonËiù rel·ciu aplik·cie LiveTrack?
+TXT_STATUS_PAGE_LOADING_ELEVATION_DATA_Loading_STR_M	NaËÌtava sa
+TXT_STATUS_PAGE_LOADING_LAP_DATA_Loading_STR_M	NaËÌtava sa
+TXT_STATUS_PAGE_LOADING_SESSION_DATA_Loading_STR_M	NaËÌtava sa
+TXT_STATUS_PAGE_LTHR_GPS_REQUIRED_GPS_Required_STR_M	Vyûaduje sa GPS. Zapnite GPS a†test dokonËite vonku.
+TXT_STATUS_PAGE_LTHR_UPDATE_ZONES_HR_Zones_Updated_STR_M	ZÛny srdcovÈho tepu boli aktualizovanÈ
+TXT_STATUS_PAGE_MAX_HR_DETECTED_New_Cycling_Max_HR_Detected_STR_M	Zazn. nov˝ m. tep v cykl.
+TXT_STATUS_PAGE_MAX_HR_DETECTED_New_Default_Max_HR_Detected_STR_M	Z. nov˝ pr. m. tep v cykl.
+TXT_STATUS_PAGE_MAX_HR_DETECTED_New_Running_Max_HR_Detected_STR_M	Zazn. nov˝ m. tep v behu
+TXT_STATUS_PAGE_NAVIGATION_GPS_OFF_GPS_is_off_STR_M	GPS je vyp. Zap. GPS v nast. aktivÌt alebo zvoæte in˙ aktivitu.
+TXT_STATUS_PAGE_NEW_RECORDS_New_Record_STR_L	%1 nov˝ rekord!
+TXT_STATUS_PAGE_NEW_RECORDS_New_Records_STR_L	%1 nov˝ch rekordov!
+TXT_STATUS_PAGE_NO_ACTIVITIES_SAVED_No_Activities_Saved_STR_M	Neuloûili sa ûiadne aktivity
+TXT_STATUS_PAGE_NO_BLUETOOTH_CONNECTION_No_Bluetooth_Connection_STR_M	éiadne pripojenie Bluetooth
+TXT_STATUS_PAGE_NO_COURSES_SAVED_No_Courses_Saved_STR_M	Neuloûili sa ûiadne dr·hy
+TXT_STATUS_PAGE_NO_CUSTOM_WATCHFACE_Download_From_ConnectIQ_STR_M	Prevziaù z†Connect IQ Store
+TXT_STATUS_PAGE_NO_ELEV_DATA_BIKE_No_Segment_Elevation_Data_STR_M	éiadne ˙daje o†nadmorskej v˝öke segmentu
+TXT_STATUS_PAGE_NO_ELEV_DATA_No_Course_Elevation_Data_STR_M	éiadne ˙daje o nadmorskej v˝öke dr·hy
+TXT_STATUS_PAGE_NO_ELEV_DATA_RUN_No_Segment_Elevation_Data_STR_M	éiadne ˙daje o†nadmorskej v˝öke segmentu
+TXT_STATUS_PAGE_NO_SAVED_LOCATIONS_No_Locations_Saved_STR_M	Neboli uloûenÈ ûiadne polohy
+TXT_STATUS_PAGE_NO_SEGMENTS_SAVED_No_Segments_Saved_STR_M	Nie s˙ uloûenÈ ûiadne segmenty
+TXT_STATUS_PAGE_NO_SMART_NOTIFICATIONS_No_Notifications_STR_M	éiadne upozornenia
+TXT_STATUS_PAGE_NO_SW_UPDATES_Go_to_Garmin_Connect_STR_M	Inform·cie o†aktualiz·ci·ch zÌskate v†aplik·cii Garmin Connect.
+TXT_STATUS_PAGE_NO_SW_UPDATES_Last_WiFi_Connection_STR_M	PoslednÈ pripojenie Wi-Fi:
+TXT_STATUS_PAGE_NO_SW_UPDATES_No_Updates_STR_M	éiadne aktualiz·cie
+TXT_STATUS_PAGE_NO_UPCOMING_WORKOUTS_No_upcoming_workouts_STR_M	éiadne nasleduj˙ce cviËenia.
+TXT_STATUS_PAGE_No_HR_data_to_download_STR_M	éiadne ˙daje monitora srdcovÈho tepu na†prevzatie
+TXT_STATUS_PAGE_Processing_downloaded_HR_data_STR_M	Sprac˙vaj˙ sa prevz. ˙daje monitora srdc. tepu
+TXT_STATUS_PAGE_RACE_PREDICTOR_VO2_Max_Needed_STR_M	Na zistenie predp. Ëasu beûte v exteriÈri 10 min. so snÌmaËom tepu.
+TXT_STATUS_PAGE_RESETTING_TOTALS_All_Totals_Reset_STR_M	Vöetky s˙hrny boli vynulovanÈ
+TXT_STATUS_PAGE_RESETTING_TOTALS_Resetting_All_Totals_STR_M	Prebieha vynulovanie vöetk˝ch s˙hrnov
+TXT_STATUS_PAGE_RUN_Deleting_Segment_STR_M	OdstraÚuje sa segment
+TXT_STATUS_PAGE_SAVING_ACTIVITY_Saving_STR_M	Ukladanie
+TXT_STATUS_PAGE_SAVING_COURSE_NAME_Saving_STR_M	Ukladanie
+TXT_STATUS_PAGE_SETTING_UNAVAILABLE_Cancel_workout_STR_M	Zruöte alebo ukonËite aktÌvne cviËenie na zmenu nastavenia.
+TXT_STATUS_PAGE_SETTING_UNAVAILABLE_Setting_Unavailable_STR_M	UkonËÌte aktu·lnu aktivitu na zmenu nastavenia.
+TXT_STATUS_PAGE_SYNC_Battery_Is_Too_Low_To_Connect_To_WiFi_STR_M	Na pripojenie k†sieti Wi-Fi je prÌliö slab· batÈria.
+TXT_STATUS_PAGE_SYNC_No_App_Connection_Available_STR_M	Nie s˙ dostupnÈ ûiadne pripojenia k†aplik·ci·m
+TXT_STATUS_PAGE_SYNC_No_App_or_WiFi_Connection_Available_STR_M	Nie s˙ dostupnÈ ûiadne prip. k†apl. ani sieti Wi-Fi
+TXT_STATUS_PAGE_SYNC_Searching_For_Wifi_Network_STR_M	Vyhæad·va sa sieù Wi-Fi
+TXT_STATUS_PAGE_SYNC_Set_Up_WiFi_Using_Garmin_Express_STR_M	Nastavte sieù Wi-Fi pomocou aplik·cie Garmin Express.
+TXT_STATUS_PAGE_SYNC_Transfer_Already_in_Progress_STR_M	Prenos uû prebieha
+TXT_STATUS_PAGE_SYNC_Transfer_Complete_STR_M	Prenos dokonËen˝
+TXT_STATUS_PAGE_SYNC_Transfer_Failed_STR_M	Prenos zlyhal
+TXT_STATUS_PAGE_SYNC_Transferring_STR_M	Prenos
+TXT_STATUS_PAGE_Searching_for_stored_HR_data_STR_M	Vyhæad·vaj˙ sa uloû.˙daje mon.srdc.tepu
+TXT_STATUS_PAGE_Set_Run_Time_STR_M	Zadajte Ëas behu
+TXT_STATUS_PAGE_Set_Walk_Time_STR_M	Zadajte Ëas chÙdze
+TXT_STATUS_PAGE_TARGET_10k_STR_M	10 km
+TXT_STATUS_PAGE_TARGET_1_mi_STR_M	1 mi
+TXT_STATUS_PAGE_TARGET_1k_STR_M	1 km
+TXT_STATUS_PAGE_TARGET_40k_STR_M	40†km
+TXT_STATUS_PAGE_TARGET_5k_STR_M	5 km
+TXT_STATUS_PAGE_TARGET_Ahead_by_FRMT_STR_M	- %1
+TXT_STATUS_PAGE_TARGET_Behind_by_FRMT_STR_M	+%1
+TXT_STATUS_PAGE_TARGET_Half_Marathon_STR_M	PolmaratÛn
+TXT_STATUS_PAGE_TARGET_Marathon_STR_M	MaratÛn
+TXT_STATUS_PAGE_TARGET_Race_Finished_STR_M	Pretek dokonËen˝
+TXT_STATUS_PAGE_Updating_STR_M	Aktualizuje sa
+TXT_STATUS_PAGE_VO2MAX_DETECTED_New_Cycling_VO2Max_Detected_STR_M	Rozp. novÈ VO2 Max cykl.
+TXT_STATUS_PAGE_VO2MAX_DETECTED_New_Running_VO2Max_Detected_STR_M	Rozp. novÈ VO2 Max behu
+TXT_STATUS_PAGE_VO2MAX_DETECTED_New_VO2Max_Detected_STR_M	Rozpoznalo sa novÈ VO2 Max
+TXT_STATUS_PAGE_VO2_MAX_ESTIMATE_Ride_for_20_00_high_intensity_HR_STR_M	Na dos. VO2 Max., jazdite pri st. v. int. 20 min. so sn. t. a v˝k.
+TXT_STATUS_PAGE_VO2_MAX_ESTIMATE_Ride_for_20_00_high_intensity_chest_HR_STR_M	VO2Max-jazdite s vys. intenz. 20min. s†hrud. snÌm. srdc. tepu a†v˝konu.
+TXT_STATUS_PAGE_VO2_MAX_ESTIMATE_Run_for_10_00_outdoors_STR_M	Na zistenie max. VO2 beûte v ext. 10†min. so sn. sr. tepu.
+TXT_STATUS_PAGE_WAIT_UNTIL_GPS_Wait_until_GPS_STR_M	PoËkajte, k˝m bude GPS pripravenÈ zobrazovaù vaöu aktu·lnu polohu.
+TXT_STATUS_PAGE_WIDGET_Connect_IQ_STR_M	œalöie miniaplik·cie si mÙûete stiahnuù z†obchodu Connect IQ.
+TXT_STATUS_PAGE_WIDGET_Go_To_Settings_STR_M	Miniaplik·cie mÙûete neskÙr spravovaù v†poloûk·ch Nastav.> Miniapl.
+TXT_STATUS_PAGE_WORKOUT_OUT_OF_SPACE_Remove_a_single_STR_M	Na pridanie öportu pouû. v†tomto cviË. odstr. profil akt. 1 öportu.
+TXT_STATUS_PAGE_Wrist_HRM_Disabled_STR_M	PoËas plavec. aktivÌt je z·p‰stn˝ monitor srdcovÈho tepu vypnut˝.
+TXT_STATUS_PWR_CALIBRATE_Calibrating_Power_Sensor_STR_L	Kalibruje sa snÌmaË v˝konu
+TXT_STATUS_PWR_CALIBRATE_Calibration_Successful_STR_L	Kalibr. prebehla ˙speöne
+TXT_STATUS_PWR_CALIBRATE_Offset_STR_L	Vyv·ûenie
+TXT_STATUS_PWR_CALIBRATE_Torque_STR_L	Kr˙tiaci moment
+TXT_STATUS_PWR_SETUP_Pedal_to_Set_Angles_STR_L	Na nas.uh.s.ped.80ñ90 ot./min.
+TXT_STATUS_PWR_SETUP_Select_to_Complete_Setup_STR_L	Na dok.inö.s.Vector vyb.po.Kalibrovaù v pon.snÌm.v˝k.
+TXT_STATUS_PWR_SETUP_Vector_Setup_Complete_STR_L	Uhly snÌmaËa s˙ nastavene. PoËiat. inötal·cia snÌmaËa Vector je dokonËen·.
+TXT_STATUS_RECOVERY_ADVISOR_Recovery_Time_STR_M	»as zotavenia
+TXT_STATUS_RECOVERY_ADVISOR_Run_with_heart_rate_STR_M	Na zistenie Ëasu zotavenia beûte so snÌmaËom srdcovÈho tepu.
+TXT_STATUS_RECOVERY_ADVISOR_days_STR_S	dni
+TXT_STATUS_RECOVERY_ADVISOR_hour_STR_S	hodina
+TXT_STATUS_RECOVERY_ADVISOR_hours_STR_S	hodiny
+TXT_STATUS_REPLACE_SENSOR_Connected_FRMT_STR_L	SnÌmaË %1 pripoj.
+TXT_STATUS_REPLACE_SENSOR_Failed_to_Connect_FRMT_STR_L	Zlyh. prip. sn. %1
+TXT_STATUS_REPLACE_SENSOR_Searching_for_FRMT_STR_L	Vyhæad·vanie %1
+TXT_STATUS_SEARCHING_SENSOR_Searching_For_All_Sensors_STR_L	Hæadaj˙ sa vöetky najbliûöie snÌmaËe a doplnky.
+TXT_STATUS_SEARCHING_SENSOR_Searching_For_Sensor_STR_L	Vyhæad·va sa snÌmaË.
+TXT_STRESS_SCORE_APP_Measure_STR_M	Meranie
+TXT_STRESS_SCORE_HIST_Avg_FRMT_STR_M	Priemer: %1
+TXT_STRESS_SCORE_HIST_Last_7_Days_STR_M	Posledn˝ch 7†dnÌ
+TXT_STRESS_SCORE_TITL_High_Stress_STR_M	Vysok· n·maha
+TXT_STRESS_SCORE_TITL_Low_Stress_STR_M	NÌzka n·maha
+TXT_STRESS_SCORE_TITL_Moderate_Stress_STR_M	Mierna n·maha
+TXT_STRESS_SCORE_TITL_Very_High_Stress_STR_M	Veæmi vysok· n·maha
+TXT_SUMMART_ACTIVITY_LAP_DETAILS_Rear_Shifts_STR_S	Zad.prevody:
+TXT_SUMMARY_ACTIVITY_DETAILS_TITL_Overall_STR_S	Celkovo
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_500m_Pace_STR_S	Tem. 500†m:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Avg_HR_STR_S	Priem. tep:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Avg_Power_STR_S	Pr. v˝kon:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Avg_Speed_STR_S	Pri.r˝ch.:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_BACK_FRMT_STR_S	%1 ñ ZNAK:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_BIKE_Cadence_STR_S	Kadencia:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_BREAST_FRMT_STR_S	%1 ñ PR.:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Calories_STR_S	KalÛrie:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Distance_STR_S	Vzdial.:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_FLY_FRMT_STR_S	%1 ñ M.:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_FREE_FRMT_STR_S	%1 ñ V.:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Front_Shifts_STR_S	Pred.prevod:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_GCT_Balance_STR_S	Kon.so†zem.
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_GCT_STR_S	DKZ:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Int_Factor_STR_S	IF:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_LR_Balance_STR_S	Rovnov·ha:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_LR_Smoothness_STR_S	Plynulosù:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_LR_Torque_Eff_STR_S	Efek. öliap.:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Left_Avg_PCO_STR_M	PCO væavo:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Left_Power_Phase_Peak_STR_T	PPP væavo:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Left_Power_Phase_STR_T	PP væavo:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Max_HR_STR_S	Max.srd.tep:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Max_Power_STR_S	Max. v˝kon:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Max_Speed_STR_S	Max.r˝ch.:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Norm_Power_STR_S	NP:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_PADDLE_Stroke_Distance_STR_S	Vzdial. z·b.:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_PADDLE_Stroke_Rate_STR_S	PoËet z·b.:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Pace_STR_S	Tempo:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_RUN_Cadence_STR_S	Kadencia:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Right_Avg_PCO_STR_M	PCO vpravo:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Right_Power_Phase_Peak_STR_T	PPP vpravo:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Right_Power_Phase_STR_T	PP vpravo:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_SWIM_Stroke_Distance_STR_S	Vzdial. z·b.:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_SWIM_Stroke_Rate_STR_S	PoËet z·b.:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_SWOLF_STR_S	SWOLF:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Stride_Length_STR_S	DÂûka kroku:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Strokes_Length_STR_S	Z·b./dÂûka:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Swim_Time_STR_S	»as pl·v.:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_TITL_Friday_FRMT_STR_S	Piatok %1
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_TITL_Interval_BACK_FRMT_STR_S	Interval %1 ñ ZNAK
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_TITL_Interval_BREAST_FRMT_STR_S	Interval %1 ñPRSIA
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_TITL_Interval_DRILL_FRMT_STR_S	Int. %1 ñ C.
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_TITL_Interval_FLY_FRMT_STR_S	Int. %1 ñ M.
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_TITL_Interval_FREE_FRMT_STR_S	Int. %1 ñ V.
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_TITL_Interval_IM_FRMT_STR_S	Int. %1 ñ Iä
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_TITL_Interval_MIXED_FRMT_STR_S	Int. %1 ñ Zä
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_TITL_Interval_UNKNOWN_FRMT_STR_S	Interval %1
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_TITL_Lap_FRMT_STR_S	Okruh %1
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_TITL_Lengths_FRMT_STR_S	PoËet dÂûok ñ %1
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_TITL_Monday_FRMT_STR_S	Pondelok %1
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_TITL_Saturday_FRMT_STR_S	Sobota %1
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_TITL_Sunday_FRMT_STR_S	Nedeæa %1
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_TITL_Thursday_FRMT_STR_S	ätvrtok %1
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_TITL_Today_FRMT_STR_S	Dnes %1
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_TITL_Tuesday_FRMT_STR_S	Utorok %1
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_TITL_Wednesday_FRMT_STR_S	Streda %1
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_TITL_Yesterday_FRMT_STR_S	VËera %1
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_TSS_STR_S	TSS:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Time_STR_S	»as:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Time_Standing_STR_S	»as postoj.:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Training_Effect_STR_S	TE:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Vert_Osc_STR_S	VertOscil:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Vert_Ratio_STR_S	Vert.pomer:
+TXT_SUMMARY_LOCATION_DETAILS_Elevation_STR_S	Nad.v˝ö.:
+TXT_SUMMARY_LOCATION_DETAILS_Position_STR_S	PozÌcia:
+TXT_SUMMARY_RACE_PREDICTOR_10K_STR_S	10†km:
+TXT_SUMMARY_RACE_PREDICTOR_5K_STR_S	5†km:
+TXT_SUMMARY_RACE_PREDICTOR_Half_STR_S	PolmaratÛn:
+TXT_SUMMARY_RACE_PREDICTOR_Marathon_STR_S	MaratÛn:
+TXT_SUMMARY_RACE_PREDICTOR_Race_Predictor_STR_S	PredvÌdanie jazdy
+TXT_SUMMARY_SENSORS_ABOUT_HDR_Device_STR_S	Zariadenie
+TXT_SUMMARY_SENSORS_ABOUT_HDR_Sensor_Errors_STR_S	Chyby snÌmaËov
+TXT_SUMMARY_SENSORS_ABOUT_HDR_Sensor_Status_STR_S	Stav snÌmaËa
+TXT_SUMMARY_SENSORS_ABOUT_LBL_Battery_STR_S	BatÈria:
+TXT_SUMMARY_SENSORS_ABOUT_LBL_Id_STR_S	ID:
+TXT_SUMMARY_SENSORS_ABOUT_LBL_Left_STR_S	ºavÈ:
+TXT_SUMMARY_SENSORS_ABOUT_LBL_Manufacturer_STR_S	V˝r. Ë.:
+TXT_SUMMARY_SENSORS_ABOUT_LBL_Model_STR_S	Model Ë.:
+TXT_SUMMARY_SENSORS_ABOUT_LBL_Right_STR_S	PravÈ:
+TXT_SUMMARY_SENSORS_ABOUT_LBL_SW_Ver_STR_S	Ver. softv.:
+TXT_SUMMARY_SENSORS_ABOUT_LBL_Serial_STR_S	SÈriovÈ Ë.:
+TXT_SUMMARY_SENSORS_ABOUT_STATUS_Charging_STR_S	NabÌja sa
+TXT_SUMMARY_SENSORS_ABOUT_STATUS_Connected_STR_S	PripojenÈ
+TXT_SUMMARY_SENSORS_ABOUT_STATUS_Critical_STR_S	Kritick˝
+TXT_SUMMARY_SENSORS_ABOUT_STATUS_Disconnected_STR_S	OdpojenÈ
+TXT_SUMMARY_SENSORS_ABOUT_STATUS_Good_STR_S	Dobr˝
+TXT_SUMMARY_SENSORS_ABOUT_STATUS_Invalid_STR_S	Chybn˝
+TXT_SUMMARY_SENSORS_ABOUT_STATUS_Low_STR_S	NÌzky
+TXT_SUMMARY_SENSORS_ABOUT_STATUS_Mismatch_STR_S	Nezhoda
+TXT_SUMMARY_SENSORS_ABOUT_STATUS_New_STR_S	NovÈ
+TXT_SUMMARY_SENSORS_ABOUT_STATUS_Ok_STR_S	OK
+TXT_SWIM_Avg_Stroke_Distance_STR_L	Priemern· vzdialenosù z·beru
+TXT_SWIM_Avg_Stroke_Distance_STR_M	Priem. vzdialenosù z·beru
+TXT_SWIM_Avg_Stroke_Distance_STR_S	Priem. vzd. z·b.
+TXT_SWIM_Avg_Stroke_Rate_STR_L	Priemern· frekvencia z·berov
+TXT_SWIM_Avg_Stroke_Rate_STR_M	Priemern˝ poËet z·berov
+TXT_SWIM_Avg_Stroke_Rate_STR_S	Priem.fr. z·berov
+TXT_SWIM_Lap_Stroke_Distance_STR_L	Vzdialenosù z·ber/okruh
+TXT_SWIM_Lap_Stroke_Distance_STR_M	Vzdialenosù z·ber/okruh
+TXT_SWIM_Lap_Stroke_Distance_STR_S	Vzdial. z·b./okr.
+TXT_SWIM_Lap_Stroke_Rate_STR_L	PoËet z·berov/okruh
+TXT_SWIM_Lap_Stroke_Rate_STR_M	PoËet z·berov/okruh
+TXT_SWIM_Lap_Stroke_Rate_STR_S	PoË. z·b./okruh
+TXT_SWIM_Lap_Strokes_STR_L	Z·bery za okruh
+TXT_SWIM_Lap_Strokes_STR_M	Z·bery za okruh
+TXT_SWIM_Lap_Strokes_STR_S	Z·bery za okruh
+TXT_SWIM_Last_Lap_Stroke_Distance_STR_L	Vzdialenosù na z·ber poslednÈho okruhu
+TXT_SWIM_Last_Lap_Stroke_Distance_STR_M	Vzdial. na z·ber posl. okr.
+TXT_SWIM_Last_Lap_Stroke_Distance_STR_S	Vzd. na z. p. okr.
+TXT_SWIM_Last_Lap_Stroke_Rate_STR_L	Frekvencia z·berov poslednÈho okruhu
+TXT_SWIM_Last_Lap_Stroke_Rate_STR_M	Frekvencia z·b. posl. okr.
+TXT_SWIM_Last_Lap_Stroke_Rate_STR_S	Frekv. z·b. p. okr.
+TXT_SWIM_Last_Lap_Strokes_STR_L	PoËet z·berov poslednÈho okruhu
+TXT_SWIM_Last_Lap_Strokes_STR_M	PoËet z·b. posl. okruhu
+TXT_SWIM_Last_Lap_Strokes_STR_S	PoË. z·b. p. okr.
+TXT_SWIM_REST_Rest_STR_L	Oddy.
+TXT_SWIM_Stroke_Rate_STR_L	PoËet z·berov
+TXT_SWIM_Stroke_Rate_STR_M	PoËet z·berov
+TXT_SWIM_Stroke_Rate_STR_S	PoËet z·berov
+TXT_SWIM_Strokes_Distance_STR_L	Vzdialenosù na jeden z·ber
+TXT_SWIM_Strokes_Distance_STR_M	Vzdial. na jeden z·ber
+TXT_SWIM_Strokes_Distance_STR_S	Vzdial. na z·ber
+TXT_SWIM_Strokes_STR_L	Z·bery
+TXT_SWIM_Strokes_STR_M	Z·bery
+TXT_SWIM_Strokes_STR_S	Z·bery
+TXT_Sa_STR_M	S
+TXT_Sat_FRMT_STR_M	Sobota %1
+TXT_Sat_STR_M	So
+TXT_Software_Version_STR_M	Verzia softvÈru
+TXT_Spd_Avg_Run_STR_L	Priemern· r˝chlosù
+TXT_Spd_Avg_Run_STR_M	Priemern· r˝chlosù
+TXT_Spd_Avg_Run_STR_S	Priem. r˝chly.
+TXT_Spd_Crnt_Lap_STR_L	R˝chlosù okruhu
+TXT_Spd_Crnt_Lap_STR_M	R˝chlosù okruhu
+TXT_Spd_Crnt_Lap_STR_S	R˝chlosù okruhu
+TXT_Spd_Last_Lap_STR_L	R˝chlosù posled-\nnÈho okruhu
+TXT_Spd_Last_Lap_STR_M	R˝chl. posl. okruhu
+TXT_Spd_Last_Lap_STR_S	R˝ch. pos. ok.
+TXT_Speed_Nautical_STR_L	N·morn· r˝chlosù
+TXT_Speed_Nautical_STR_M	N·morn· r˝chlosù
+TXT_Speed_Nautical_STR_S	N·m.r˝chlosù
+TXT_Speed_SHORT_STR_S	R˝chlosù
+TXT_Speed_STR_L	R˝chlosù
+TXT_Speed_STR_M	R˝chlosù
+TXT_Speed_STR_S	R˝chlosù
+TXT_Step_Avg_Power_STR_L	Priemern˝ v˝kon kroku
+TXT_Step_Avg_Power_STR_M	Priemern˝ v˝kon kroku
+TXT_Step_Avg_Power_STR_S	Priem.v˝k.kroku
+TXT_Step_Distance_STR_L	Vzdialenosù kroku
+TXT_Step_Distance_STR_M	Vzdialenosù kroku
+TXT_Step_Distance_STR_S	Vzdial.kroku
+TXT_Step_Pace_SHORT_STR_S	Tempo kroku
+TXT_Step_Pace_STR_L	Tempo kroku
+TXT_Step_Pace_STR_M	Tempo kroku
+TXT_Step_Pace_STR_S	Tempo kroku
+TXT_Step_Speed_SHORT_STR_S	R˝chl. kroku
+TXT_Step_Speed_STR_L	R˝chlosù kroku
+TXT_Step_Speed_STR_M	R˝chlosù kroku
+TXT_Step_Speed_STR_S	R˝chlosù kroku
+TXT_Step_Time_STR_L	»as kroku
+TXT_Step_Time_STR_M	»as kroku
+TXT_Step_Time_STR_S	»as kroku
+TXT_Stride_Len_STR_S	DÂûka kroku
+TXT_Stride_Length_STR_L	DÂûka kroku
+TXT_Stride_Length_STR_M	DÂûka kroku
+TXT_Su_STR_M	N
+TXT_Sun_FRMT_STR_M	Nedeæa %1
+TXT_Sun_STR_M	Ne
+TXT_Sunrise_STR_L	V˝chod slnka
+TXT_Sunrise_STR_M	V˝chod slnka
+TXT_Sunrise_STR_S	V˝chod slnka
+TXT_Sunset_STR_L	Z·pad slnka
+TXT_Sunset_STR_M	Z·pad slnka
+TXT_Sunset_STR_S	Z·pad slnka
+TXT_TEMPE_Crnt_STR_L	Teplota
+TXT_TEMPE_Crnt_STR_M	Teplota
+TXT_TEMPE_Crnt_STR_S	Teplota
+TXT_TEMPE_High_STR_L	Max. teplota za 24 hodÌn
+TXT_TEMPE_High_STR_M	Max. teplota za 24 hodÌn
+TXT_TEMPE_High_STR_S	Max.tepl.za 24h.
+TXT_TEMPE_Low_STR_L	Min. teplota za 24 hodÌn
+TXT_TEMPE_Low_STR_M	Min. teplota za 24 hodÌn
+TXT_TEMPE_Low_STR_S	Min.tepl.za 24 h.
+TXT_TOTAL_TIME_Total_Time_STR_M	Celkov˝ Ëas
+TXT_TSS_PWR_STR_L	Training Stress Score
+TXT_TSS_PWR_STR_M	Training Stress Score
+TXT_TSS_PWR_STR_S	TSS
+TXT_T_STR_M	U
+TXT_Th_STR_M	ä
+TXT_Thur_FRMT_STR_M	ätvrtok %1
+TXT_Thur_STR_M	ätv.
+TXT_Time_Ahead_STR_L	»as napred
+TXT_Time_Ahead_STR_M	»as napred
+TXT_Time_Ahead_STR_S	»as napred
+TXT_Time_Avg_Lap_STR_L	Priemern˝ Ëas kola
+TXT_Time_Avg_Lap_STR_M	Priemern˝ Ëas kola
+TXT_Time_Avg_Lap_STR_S	Priem.Ëas okr.
+TXT_Time_Behind_STR_L	»as pozadu
+TXT_Time_Behind_STR_M	»as pozadu
+TXT_Time_Behind_STR_S	»as pozadu
+TXT_Time_Lap_Crnt_STR_L	»as kola
+TXT_Time_Lap_Crnt_STR_M	»as kola
+TXT_Time_Lap_Crnt_STR_S	»as kola
+TXT_Time_Last_Lap_STR_L	»as poslednÈho okruhu
+TXT_Time_Last_Lap_STR_M	»as poslednÈho okruhu
+TXT_Time_Last_Lap_STR_S	»as posl.okruhu
+TXT_Time_Run_STR_L	»asovaË
+TXT_Time_Run_STR_M	»asovaË
+TXT_Time_Run_STR_S	»asovaË
+TXT_Time_To_Go_STR_L	Zost·vaj˙ci Ëas
+TXT_Time_To_Go_STR_M	Zost·vaj˙ci Ëas
+TXT_Time_To_Go_STR_S	Zost·vaj˙ci Ëas
+TXT_Time_of_Day_STR_L	Denn˝ Ëas
+TXT_Time_of_Day_STR_M	Denn˝ Ëas
+TXT_Time_of_Day_STR_S	Denn˝ Ëas
+TXT_Torque_Effectiveness_STR_L	Efektivita ped·lovania
+TXT_Torque_Effectiveness_STR_M	Efektivita ped·lovania
+TXT_Training_Effect_STR_L	Training Effect
+TXT_Training_Effect_STR_M	Training Effect
+TXT_Training_Effect_STR_S	Training Effect
+TXT_Transition_STR	Presun
+TXT_Tue_FRMT_STR_M	Utorok %1
+TXT_Tue_STR_M	Ut
+TXT_UNITS_ANG_MAG_STR_L	∞ M
+TXT_UNITS_ANG_MAG_STR_S	∞ M
+TXT_UNITS_ANG_TRUE_STR_L	∞ T
+TXT_UNITS_ANG_TRUE_STR_S	∞ T
+TXT_UNITS_ANG_USER_STR_L	∞ M
+TXT_UNITS_ANG_USER_STR_S	∞ M
+TXT_UNITS_BPM_STR_L	ud/min
+TXT_UNITS_BPM_STR_S	ud/min
+TXT_UNITS_CAL_STR_L	kcal
+TXT_UNITS_CAL_STR_S	kcal
+TXT_UNITS_CELS_STR_L	∞C
+TXT_UNITS_CELS_STR_S	∞C
+TXT_UNITS_CM_STR_L	cm
+TXT_UNITS_CM_STR_S	cm
+TXT_UNITS_DEG_E_STR_L	∞V
+TXT_UNITS_DEG_E_STR_S	∞V
+TXT_UNITS_DEG_L_STR_L	∞ º
+TXT_UNITS_DEG_L_STR_S	∞ º
+TXT_UNITS_DEG_R_STR_L	∞P
+TXT_UNITS_DEG_R_STR_S	∞P
+TXT_UNITS_DEG_STR_L	∞
+TXT_UNITS_DEG_STR_S	∞
+TXT_UNITS_DEG_W_STR_L	∞ Z
+TXT_UNITS_DEG_W_STR_S	∞ Z
+TXT_UNITS_FAH_STR_L	∞F
+TXT_UNITS_FAH_STR_S	∞F
+TXT_UNITS_FT_STR_L	ft
+TXT_UNITS_FT_STR_S	ft
+TXT_UNITS_INCH_STR_L	in
+TXT_UNITS_INCH_STR_S	in
+TXT_UNITS_KFT_STR_L	kft
+TXT_UNITS_KFT_STR_S	kft
+TXT_UNITS_KG_STR_L	kg
+TXT_UNITS_KG_STR_S	kg
+TXT_UNITS_KJ_STR_L	kJ
+TXT_UNITS_KJ_STR_S	kJ
+TXT_UNITS_KM_STR_L	km
+TXT_UNITS_KM_STR_S	km
+TXT_UNITS_KPH_STR_L	km/h
+TXT_UNITS_KPH_STR_S	km/h
+TXT_UNITS_KT_STR_L	uz.
+TXT_UNITS_KT_STR_S	uz.
+TXT_UNITS_LB_STR_L	lb
+TXT_UNITS_LB_STR_S	lb
+TXT_UNITS_MIL_E_STR_L	V
+TXT_UNITS_MIL_E_STR_S	V
+TXT_UNITS_MIL_L_STR_L	º
+TXT_UNITS_MIL_L_STR_S	º
+TXT_UNITS_MIL_R_STR_L	P
+TXT_UNITS_MIL_R_STR_S	P
+TXT_UNITS_MIL_W_STR_L	Z
+TXT_UNITS_MIL_W_STR_S	Z
+TXT_UNITS_MI_STR_L	mi
+TXT_UNITS_MI_STR_S	mi
+TXT_UNITS_MM_STR_L	mm
+TXT_UNITS_MM_STR_S	mm
+TXT_UNITS_MN_STR_L	nm
+TXT_UNITS_MN_STR_S	nm
+TXT_UNITS_MPH_STR_L	mi/h
+TXT_UNITS_MPH_STR_S	mi/h
+TXT_UNITS_MS_STR_L	ms
+TXT_UNITS_MS_STR_S	ms
+TXT_UNITS_MT_STR_L	m
+TXT_UNITS_MT_STR_S	m
+TXT_UNITS_NM_STR_L	nm
+TXT_UNITS_NM_STR_S	nm
+TXT_UNITS_P100M_STR_L	/100m
+TXT_UNITS_P100M_STR_S	/100m
+TXT_UNITS_P100YD_STR_L	/100†yd
+TXT_UNITS_P100YD_STR_S	/100†yd
+TXT_UNITS_P500M_STR_L	/500m
+TXT_UNITS_P500M_STR_S	/500m
+TXT_UNITS_PADDLE_SPM_STR_L	kr/m.
+TXT_UNITS_PADDLE_SPM_STR_S	kr/m.
+TXT_UNITS_PCT_STR_L	%
+TXT_UNITS_PCT_STR_S	%
+TXT_UNITS_PH_STR_L	/h.
+TXT_UNITS_PH_STR_S	/hod
+TXT_UNITS_PKM_STR_L	/km
+TXT_UNITS_PKM_STR_S	/km
+TXT_UNITS_PMAX_STR_L	%m
+TXT_UNITS_PMAX_STR_S	%m
+TXT_UNITS_PMI_STR_L	/mi
+TXT_UNITS_PMI_STR_S	/mi
+TXT_UNITS_PRSRV_STR_L	%r
+TXT_UNITS_PRSRV_STR_S	%r
+TXT_UNITS_RPM_STR_L	rpm
+TXT_UNITS_RPM_STR_S	rpm
+TXT_UNITS_SPM_STR_L	krok/m
+TXT_UNITS_SPM_STR_S	krok/m
+TXT_UNITS_SWIM_SPM_STR_L	k./m.
+TXT_UNITS_SWIM_SPM_STR_S	k./m.
+TXT_UNITS_SWIM_YD_STR_L	yd
+TXT_UNITS_SWIM_YD_STR_S	yd
+TXT_UNITS_TM_DIF_MS_STR_L	m:s
+TXT_UNITS_TM_DIF_MS_STR_S	m:s
+TXT_UNITS_TM_LCL12_AM_STR_L	am
+TXT_UNITS_TM_LCL12_AM_STR_S	am
+TXT_UNITS_TM_LCL12_PM_STR_L	pm
+TXT_UNITS_TM_LCL12_PM_STR_S	pm
+TXT_UNITS_TM_LCL24_STR_L	mies.Ëas
+TXT_UNITS_TM_LCL24_STR_S	mies.Ëas
+TXT_UNITS_TM_UTC24_STR_L	utc
+TXT_UNITS_TM_UTC24_STR_S	utc
+TXT_UNITS_VLT_STR_L	V
+TXT_UNITS_VLT_STR_S	V
+TXT_UNITS_WPKG_STR_L	W/kg
+TXT_UNITS_WPKG_STR_S	W/kg
+TXT_UNITS_W_STR_L	W
+TXT_UNITS_W_STR_S	W
+TXT_UNITS_YD_STR_L	yd
+TXT_UNITS_YD_STR_S	yd
+TXT_UNLOCK_PAGE_Device_Locked_STR_M	Zariadenie uzamknutÈ
+TXT_UNLOCK_PAGE_Unlock_Tip_STR_M	PodrûanÌm tlaËidla hore odomknite
+TXT_Unit_ID_STR_M	ID jednotky
+TXT_Unknown_STR_L	Nezn·my
+TXT_Unknown_STR_M	Nezn·my
+TXT_Until_Cal_FRMT_STR	Do %1 kalÛriÌ
+TXT_Until_HR_GT_BPM_FRMT_STR	ST do > %1 ⁄/MIN
+TXT_Until_HR_GT_PERCENT_HRR_FRMT_STR	ST do > %1% ST
+TXT_Until_HR_GT_PERCENT_Max_FRMT_STR	ST do > %1% Max.
+TXT_Until_HR_LT_BPM_FRMT_STR	ST do < %1 ⁄/MIN
+TXT_Until_HR_LT_PERCENT_HRR_FRMT_STR	ST do < %1% ST
+TXT_Until_HR_LT_PERCENT_Max_FRMT_STR	ST do < %1% Max.
+TXT_Until_Lap_Press_STR	aû do stl. tl. Lap
+TXT_Until_Last_Step_Max_PWR_GT_PERCENT_FTP_FRMT_STR	MaxV›KON po posl. krok>%1% FTP
+TXT_Until_Last_Step_Max_PWR_GT_Watts_FRMT_STR	Max.V›K.po posl.krok > %1 W
+TXT_Until_Last_Step_Max_PWR_LT_FRMT_STR	Max. V›K. po posl. krok < %1 W
+TXT_Until_Last_Step_Max_PWR_LT_PERCENT_FTP_FRMT_STR	MaxV›KON po posl.krok < %1%FTP
+TXT_Until_Last_Step_PWR_FRMT_STR	V›KON po posledn˝ krok < %1 W
+TXT_Until_Last_Step_PWR_GT_PERCENT_FTP_FRMT_STR	Po v˝k.posl.kroku> %1% FTP
+TXT_Until_Last_Step_PWR_GT_Watts_FRMT_STR	V›KON po posledn˝ krok > %1 W
+TXT_Until_Last_Step_PWR_LT_PERCENT_FTP_FRMT_STR	Po v˝kon posl.kroku< %1%FTP
+TXT_Until_PWR_GT_PERCENT_FTP_FRMT_STR	Do V›K.> %1%FTP
+TXT_Until_PWR_GT_Watts_FRMT_STR	Do V›KONU > %1 W
+TXT_Until_PWR_LT_PERCENT_FTP_FRMT_STR	Do V›K.< %1%FTP
+TXT_Until_PWR_LT_Watts_FRMT_STR	Do V›KONU < %1 W
+TXT_Until_TSS_GT_FRMT_STR	Do TSS > %1
+TXT_VIRB_PAGE_Photo_Taken_STR_M	OdfotenÈ
+TXT_VIRB_PAGE_Searching_STR_M	Hæad· sa
+TXT_VIRB_PAGE_min_hr_FRMT_STR_S	%1hod. %2min.
+TXT_VO2_MAX_Cycling_VO2_Max_STR_M	VO2 Max. pre cyklistiku
+TXT_VO2_MAX_Running_VO2_Max_STR_M	VO2 Max. pre beh
+TXT_VO2_MAX_VO2_Max_STR_M	VO2 Max.
+TXT_VO2_MAX_VO2_New_STR_M	NovÈ
+TXT_VP_Pace_STR_S	Tempo VP
+TXT_VP_Speed_STR_S	R˝chlosù VP
+TXT_Vert_Osc_STR_S	Vert.osc.
+TXT_Vert_Ratio_STR_S	Vert. pomer
+TXT_Vertical_Oscillation_STR_L	Vertik·lna oscil·cia
+TXT_Vertical_Oscillation_STR_M	Vertik·lna oscil·cia
+TXT_Vertical_Ratio_STR_L	Vertik·lny pomer
+TXT_Vertical_Ratio_STR_M	Vertik·lny pomer
+TXT_WATCH_FOUND_STR_M	Naöli sa hodinky!
+TXT_WEATHER_Daily_STR_M	Denne
+TXT_WEATHER_Fri_STR_S	Pia
+TXT_WEATHER_Hourly_STR_M	Kaûd˙ hodinu
+TXT_WEATHER_Mon_STR_S	Pon
+TXT_WEATHER_Sat_STR_S	So
+TXT_WEATHER_Sun_STR_S	Ne
+TXT_WEATHER_Thur_STR_S	ätv.
+TXT_WEATHER_Tue_STR_S	Ut
+TXT_WEATHER_Weather_STR_S	PoËasie
+TXT_WEATHER_Wed_STR_S	Str
+TXT_WEATHER_a_FRMT_STR_S	%1a
+TXT_WEATHER_p_FRMT_STR_S	%1p
+TXT_WHR_Crnt_STR_L	Srdcov˝ tep na z·p‰stÌ
+TXT_WHR_Crnt_STR_M	Srdcov˝ tep na z·p‰stÌ
+TXT_WHR_Crnt_STR_S	ST na z·p‰stÌ
+TXT_WIDGET_App_Connection_Required_STR_M	Vyûaduje sa pripojenie k†aplik·cii
+TXT_WIDGET_CALENDAR_All_Day_STR_S	Cel˝ deÚ
+TXT_WIDGET_CALENDAR_Calendar_STR_S	Kalend·r
+TXT_WIDGET_CALENDAR_Fri_STR	Pia
+TXT_WIDGET_CALENDAR_Mon_STR	Pon
+TXT_WIDGET_CALENDAR_No_Upcoming_Events_STR	éiadne pripravovanÈ udalosti
+TXT_WIDGET_CALENDAR_Now_STR_S	Teraz
+TXT_WIDGET_CALENDAR_Sat_STR	So
+TXT_WIDGET_CALENDAR_Sun_STR	Ne
+TXT_WIDGET_CALENDAR_Thur_STR	ätv.
+TXT_WIDGET_CALENDAR_Tue_STR	Ut
+TXT_WIDGET_CALENDAR_Wed_STR	Str
+TXT_WIDGET_CALORIES_Active_STR_S	AktÌvne
+TXT_WIDGET_CALORIES_Consumed_STR_S	PrijatÈ
+TXT_WIDGET_CALORIES_Remaining_STR_S	Zost·va
+TXT_WIDGET_CALORIES_Resting_STR_S	Pokoj
+TXT_WIDGET_Calendar_STR_EXT	Kalend·r
+TXT_WIDGET_Calendar_STR_M	Kalend·r
+TXT_WIDGET_Calories_STR_EXT	KalÛrie
+TXT_WIDGET_Calories_STR_M	KalÛrie
+TXT_WIDGET_Controls_STR_EXT	Ovl·dacie prvky
+TXT_WIDGET_Controls_STR_M	Ovl·dacie prvky
+TXT_WIDGET_Heart_Rate_STR_EXT	Srdcov˝ tep
+TXT_WIDGET_Heart_Rate_STR_M	Srdcov˝ tep
+TXT_WIDGET_Intensity_Minutes_STR_EXT	Min˙ty intenzÌvneho cviËenia
+TXT_WIDGET_Intensity_Minutes_STR_M	Min. intenz. cviËenia
+TXT_WIDGET_Last_Bike_STR_EXT	Posledn· jazda
+TXT_WIDGET_Last_Bike_STR_M	Posledn· jazda
+TXT_WIDGET_Last_Run_STR_EXT	Posledn˝ beh
+TXT_WIDGET_Last_Run_STR_M	Posledn˝ beh
+TXT_WIDGET_Last_Sport_STR_EXT	Posledn˝ öport
+TXT_WIDGET_Last_Sport_STR_M	Posledn˝ öport
+TXT_WIDGET_Last_Swim_STR_EXT	PoslednÈ pl·vanie
+TXT_WIDGET_Last_Swim_STR_M	PoslednÈ pl·vanie
+TXT_WIDGET_My_Day_STR_EXT	MÙj deÚ
+TXT_WIDGET_My_Day_STR_M	MÙj deÚ
+TXT_WIDGET_Notifications_STR_EXT	Upozornenia
+TXT_WIDGET_Notifications_STR_M	Upozornenia
+TXT_WIDGET_SMRT_NTFCTN_No_Notifications_STR_M	éiadne upozornenia
+TXT_WIDGET_SMRT_NTFCTN_Notifications_STR_M	Upozornenia
+TXT_WIDGET_Steps_STR_EXT	Kroky
+TXT_WIDGET_Steps_STR_M	Kroky
+TXT_WIDGET_Virb_STR_EXT	VIRB
+TXT_WIDGET_Virb_STR_M	VIRB
+TXT_WIDGET_Waiting_for_Data_STR_M	»ak· sa na ˙daje
+TXT_WIDGET_Weather_STR_EXT	PoËasie
+TXT_WIDGET_Weather_STR_M	PoËasie
+TXT_WIRELESS_CONTROLS_WIDGET_PAGE_Controls_STR_M	Ovl·dacie prvky
+TXT_WRKT_TRANSITION_TIP_Press_Lap_to_End_STR_M	TlaËidlom Lap ukonËite trÈning
+TXT_WRKT_TRANSITION_TIP_to_Begin_STR_M	ZaËaù
+TXT_W_STR_M	S
+TXT_Warmup_Bike_STR	RozcviËka
+TXT_Warmup_STR	RozcviËka
+TXT_Warmup_Swim_STR	RozcviËka
+TXT_Watts_abbr_STR	W
+TXT_Watts_per_kg_STR_L	Pomer v˝konu k hmotnosti
+TXT_Watts_per_kg_STR_M	Pom. v˝k.k hmot.
+TXT_Watts_per_kg_STR_S	Pom. v˝k.k hmot.
+TXT_Wed_FRMT_STR_M	Streda %1
+TXT_Wed_STR_M	Str
+TXT_Workout_Ended_STR_L	CviËenie ukonËenÈ
+TXT_ZONE_CHART_Z0_STR_S	Z0
+TXT_ZONE_CHART_Z1_STR_S	Z1
+TXT_ZONE_CHART_Z2_STR_S	Z2
+TXT_ZONE_CHART_Z3_STR_S	Z3
+TXT_ZONE_CHART_Z4_STR_S	Z4
+TXT_ZONE_CHART_Z5_STR_S	Z5
+TXT_ZONE_CHART_Z6_STR_S	Z6
+TXT_ZONE_CHART_Z7_STR_S	Z7
+TXT_a_STR_L	a
+TXT_a_STR_M	a
+TXT_bpm_STR	ud/min
+TXT_on_FRMT_STR	v %1
+TXT_p_STR_L	p
+TXT_p_STR_M	p
+TXT_rpm_STR	rpm
+TXT_spm_STR	krok/m

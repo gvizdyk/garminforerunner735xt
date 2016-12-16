@@ -1,0 +1,2878 @@
+006-D5586-09|v02.50
+TXT_LANG_ID_STR_M	Svenska
+TXT_ALARM_PAGE_AM_STR	fm
+TXT_ALARM_PAGE_Dismiss_STR_M	Avslå
+TXT_ALARM_PAGE_PM_STR	em
+TXT_ALARM_PAGE_Snooze_STR_M	Snooze
+TXT_ALERTS_MSG_Custom_STR_L	Egna
+TXT_ALERTS_MSG_Drink_STR_L	Drick
+TXT_ALERTS_MSG_Eat_STR_L	Ät
+TXT_ALERTS_MSG_Go_Home_STR_L	Kör hem
+TXT_ALERTS_MSG_Turn_Around_STR_L	Vänd
+TXT_ALERT_PAGE_Fast_STR_S	För snabbt!
+TXT_ALERT_PAGE_High_STR_S	Hög
+TXT_ALERT_PAGE_Low_STR_S	Låg
+TXT_ALERT_PAGE_Run_STR_S	Löpning
+TXT_ALERT_PAGE_Slow_STR_S	För långsamt!
+TXT_ALERT_PAGE_Walk_STR_S	Gång
+TXT_APR_STR_M	Apr
+TXT_AUG_STR_M	Aug
+TXT_Active_Calories_STR_M	Aktiva kalorier
+TXT_Altitude_STR_L	Höjd
+TXT_Altitude_STR_M	Höjd
+TXT_Altitude_STR_S	Höjd
+TXT_Any_STR	Alla
+TXT_Avg_Ground_Cont_STR_S	Mdl markkont.
+TXT_Avg_Ground_Contact_STR_L	Medeltid för markkontakt
+TXT_Avg_Ground_Contact_STR_M	Medeltid för markkontakt
+TXT_Avg_HR_PHRR_STR_L	Medel %HRR
+TXT_Avg_HR_PHRR_STR_M	Medel %HRR
+TXT_Avg_HR_PHRR_STR_S	Med. %HRR
+TXT_Avg_HR_PMax_STR_L	Medelpuls %Max.
+TXT_Avg_HR_PMax_STR_M	Medelpuls %Max.
+TXT_Avg_HR_PMax_STR_S	Medelpuls %Max.
+TXT_Avg_HR_STR_L	Medel puls
+TXT_Avg_HR_STR_M	Medel puls
+TXT_Avg_HR_STR_S	Medelpuls
+TXT_Avg_L_R_Balance_STR_L	Medelbalans
+TXT_Avg_L_R_Balance_STR_M	Med. balans
+TXT_Avg_L_R_Balance_STR_S	Medelbalans %
+TXT_Avg_Lap_L_R_Balance_STR_L	Varvbalans
+TXT_Avg_Lap_L_R_Balance_STR_M	Varvbalans
+TXT_Avg_Lap_L_R_Balance_STR_S	Balans varv %
+TXT_Avg_Last_Lap_L_R_Balance_STR_L	Balans för senaste varv
+TXT_Avg_Last_Lap_L_R_Balance_STR_M	Balans för senaste varv
+TXT_Avg_Last_Lap_L_R_Balance_STR_S	Bal. sen. varv %
+TXT_Avg_Last_Lap_PWR_STR_L	Kraft  för senaste varv
+TXT_Avg_Last_Lap_PWR_STR_M	Kraft  för senaste varv
+TXT_Avg_Last_Lap_PWR_STR_S	Kraft - Sen. varv
+TXT_Avg_PWR_STR_L	Medel Kraft
+TXT_Avg_PWR_STR_M	Medel Kraft
+TXT_Avg_PWR_STR_S	Medelkraft
+TXT_Avg_Stride_Length_STR_L	Medelsteglängd
+TXT_Avg_Stride_Length_STR_M	Medelsteglängd
+TXT_Avg_Stride_Length_STR_S	Medelsteglängd
+TXT_Avg_Strokes_Per_Length_STR_L	Medelsimtag/längd
+TXT_Avg_Strokes_Per_Length_STR_M	Medelsimtag/längd
+TXT_Avg_Strokes_Per_Length_STR_S	Medsimt./längd
+TXT_Avg_Swolf_STR_L	SWOLF i genomsnitt
+TXT_Avg_Swolf_STR_M	SWOLF i genomsnitt
+TXT_Avg_Swolf_STR_S	SWOLF genomsn.
+TXT_Avg_Vert_Osc_STR_S	Med vert. rörelse
+TXT_Avg_Vertical_Oscillation_STR_L	Medelvärde för vertikal rörelse
+TXT_Avg_Vertical_Oscillation_STR_M	Medelvärde vert. rörelse
+TXT_Avg_Vertical_Ratio_STR_L	Medelkvot vertikal rörelse/steglängd
+TXT_Avg_Vertical_Ratio_STR_M	Med.kvot vert. rör./stegl.
+TXT_Avg_Vertical_Ratio_STR_S	Medelkvot vert.
+TXT_BIKE_Avg_Cadence_STR_L	Medelkadens
+TXT_BIKE_Avg_Cadence_STR_M	Medelkadens
+TXT_BIKE_Avg_Cadence_STR_S	Medelkadens
+TXT_BIKE_Cadence_STR_L	Kadens
+TXT_BIKE_Cadence_STR_M	Kadens
+TXT_BIKE_Cadence_STR_S	Kadens
+TXT_BIKE_LIGHT_Headlight_FRMT_STR_L	Strålkast. – %1
+TXT_BIKE_LIGHT_Other_FRMT_STR_L	Övriga – %1
+TXT_BIKE_LIGHT_Signal_FRMT_STR_L	Signal – %1
+TXT_BIKE_LIGHT_Taillight_FRMT_STR_L	Baklykta – %1
+TXT_BIKE_Lap_Cadence_STR_L	Varvkadens
+TXT_BIKE_Lap_Cadence_STR_M	Varvkadens
+TXT_BIKE_Lap_Cadence_STR_S	Varvkadens
+TXT_BIKE_Last_Lap_Cadence_STR_L	Senaste varvets kadens
+TXT_BIKE_Last_Lap_Cadence_STR_M	Senaste varvets kadens
+TXT_BIKE_Last_Lap_Cadence_STR_S	Sen. varvkadens
+TXT_BIKE_Segment_Pace_STR_L	Segment, tempo
+TXT_BIKE_Segment_Pace_STR_M	Segment, tempo
+TXT_BIKE_Segment_Pace_STR_S	Segment, tempo
+TXT_BIKE_Segment_Speed_STR_L	Segment, fart
+TXT_BIKE_Segment_Speed_STR_M	Segment, fart
+TXT_BIKE_Segment_Speed_STR_S	Segment, fart
+TXT_BLE_ERROR_PAGE_Controls_STR_S	Kontroll
+TXT_BUTTON_CANCEL_STR_M	Stoppa
+TXT_Back_STR	Rygg
+TXT_Back_STR_L	Rygg
+TXT_Back_STR_M	Rygg
+TXT_Best_Power_STR_L	Bästa kraften!
+TXT_Bike_SHORT_STR	Cykling
+TXT_Bike_STR	Cykling
+TXT_Bluetooth_MAC_Address_STR_M	Bluetooth MAC-adress
+TXT_Breast_STR	Bröst
+TXT_Breast_STR_L	Bröst
+TXT_Breast_STR_M	Bröst
+TXT_Calorie_abbr_STR	kCal
+TXT_Calories_STR_L	Kalorier
+TXT_Calories_STR_M	Kalorier
+TXT_Calories_STR_S	Kalorier
+TXT_Cals_To_Go_STR_L	Kalorier kvar
+TXT_Cals_To_Go_STR_M	Kalorier kvar
+TXT_Cals_To_Go_STR_S	Kalorier kvar
+TXT_Cnfg_List_Avg_CAD_Seated_STR_L	Medelkadens, sittande
+TXT_Cnfg_List_Avg_CAD_Seated_STR_M	Sittande kadens
+TXT_Cnfg_List_Avg_CAD_Seated_STR_S	Sittande kadens
+TXT_Cnfg_List_Avg_CAD_Standing_STR_L	Medelkadens, stående
+TXT_Cnfg_List_Avg_CAD_Standing_STR_M	Stående kadens
+TXT_Cnfg_List_Avg_CAD_Standing_STR_S	Stående kadens
+TXT_Cnfg_List_Avg_PWR_Seated_STR_L	Medelkraft, sittande
+TXT_Cnfg_List_Avg_PWR_Seated_STR_M	Kraft, sittande
+TXT_Cnfg_List_Avg_PWR_Seated_STR_S	Kraft, sittande
+TXT_Cnfg_List_Avg_PWR_Standing_STR_L	Medelkraft, stående
+TXT_Cnfg_List_Avg_PWR_Standing_STR_M	Kraft, stående
+TXT_Cnfg_List_Avg_PWR_Standing_STR_S	Kraft, stående
+TXT_Cnfg_List_Cadence_Eccentricity_STR_L	Kadensexcentricitet
+TXT_Cnfg_List_Cadence_Eccentricity_STR_M	Kadensexcentricitet
+TXT_Cnfg_List_Cadence_Eccentricity_STR_S	Kadensexcentr.
+TXT_Cnfg_List_Lap_CAD_Seated_STR_L	Kadens för aktuellt varv, sittande
+TXT_Cnfg_List_Lap_CAD_Seated_STR_M	Kadens varv, sittande
+TXT_Cnfg_List_Lap_CAD_Seated_STR_S	Kad. varv, sitt
+TXT_Cnfg_List_Lap_CAD_Standing_STR_L	Kadens för aktuellt varv, stående
+TXT_Cnfg_List_Lap_CAD_Standing_STR_M	Kad. akt. varv, stå
+TXT_Cnfg_List_Lap_CAD_Standing_STR_S	Kad. varv, stå
+TXT_Cnfg_List_Lap_PWR_Seated_STR_L	Kraft för aktuellt varv, sittande
+TXT_Cnfg_List_Lap_PWR_Seated_STR_M	Kraft akt. varv, sittande
+TXT_Cnfg_List_Lap_PWR_Seated_STR_S	Kraft varv, sitt
+TXT_Cnfg_List_Lap_PWR_Standing_STR_L	Kraft för aktuellt varv, stående
+TXT_Cnfg_List_Lap_PWR_Standing_STR_M	Kraft varv, stående
+TXT_Cnfg_List_Lap_PWR_Standing_STR_S	Kraft varv, stå
+TXT_Cnfg_List_Last_Lap_CAD_Seated_STR_L	Kadens sittande – senaste varvet
+TXT_Cnfg_List_Last_Lap_CAD_Seated_STR_M	Kad. sittande sen. varv
+TXT_Cnfg_List_Last_Lap_CAD_Seated_STR_S	Kad. sitt sen varv
+TXT_Cnfg_List_Last_Lap_CAD_Standing_STR_L	Kadens stående – senaste varvet
+TXT_Cnfg_List_Last_Lap_CAD_Standing_STR_M	Kad. stående sen. varvet
+TXT_Cnfg_List_Last_Lap_CAD_Standing_STR_S	Kad ståen sen vrv
+TXT_Cnfg_List_Last_Lap_PWR_Seated_STR_L	Kraft sittande – senaste varvet
+TXT_Cnfg_List_Last_Lap_PWR_Seated_STR_M	Kraft sitt. senaste varvet
+TXT_Cnfg_List_Last_Lap_PWR_Seated_STR_S	Krft sitt. sen varv
+TXT_Cnfg_List_Last_Lap_PWR_Standing_STR_L	Kraft stående – senaste varvet
+TXT_Cnfg_List_Last_Lap_PWR_Standing_STR_M	Kraft stående sen. varv
+TXT_Cnfg_List_Last_Lap_PWR_Standing_STR_S	Krft stå sen. varv
+TXT_Cnfg_List_Left_PP_Peak_Start_Avg_STR_L	Medeltoppkraftfas vänster
+TXT_Cnfg_List_Left_PP_Peak_Start_Avg_STR_M	Med.toppkr. v
+TXT_Cnfg_List_Left_PP_Peak_Start_Avg_STR_S	Med.toppkr. v
+TXT_Cnfg_List_Left_PP_Peak_Start_Lap_STR_L	Toppkraftfas vänster – varv
+TXT_Cnfg_List_Left_PP_Peak_Start_Lap_STR_M	Toppkraftfas för varv, v
+TXT_Cnfg_List_Left_PP_Peak_Start_Lap_STR_S	Toppkr. varv, v
+TXT_Cnfg_List_Left_PP_Peak_Start_Last_Lap_STR_L	Toppkraftfas vänster – senaste varvet
+TXT_Cnfg_List_Left_PP_Peak_Start_Last_Lap_STR_M	Toppkraftfas vä sen. varv
+TXT_Cnfg_List_Left_PP_Peak_Start_Last_Lap_STR_S	Toppkr vä sen vrv
+TXT_Cnfg_List_Left_PP_Peak_Start_STR_L	Toppkraftfas vänster
+TXT_Cnfg_List_Left_PP_Peak_Start_STR_M	Toppkraftfas vänster
+TXT_Cnfg_List_Left_PP_Peak_Start_STR_S	TKF vänster
+TXT_Cnfg_List_Left_PP_Start_Avg_STR_L	Med. kraftfas vänster
+TXT_Cnfg_List_Left_PP_Start_Avg_STR_M	Med. kraftfas vänster
+TXT_Cnfg_List_Left_PP_Start_Avg_STR_S	Med. kraftfas v
+TXT_Cnfg_List_Left_PP_Start_Lap_STR_L	Kraftfas för aktuellt varv, vänster
+TXT_Cnfg_List_Left_PP_Start_Lap_STR_M	Kraftfas f. akt. varv, v
+TXT_Cnfg_List_Left_PP_Start_Lap_STR_S	Kraftfas varv, v
+TXT_Cnfg_List_Left_PP_Start_Last_Lap_STR_L	Kraftfas vänster – senaste varvet
+TXT_Cnfg_List_Left_PP_Start_Last_Lap_STR_M	Kraftfas vä. sen. varvet
+TXT_Cnfg_List_Left_PP_Start_Last_Lap_STR_S	Kraftf vä sen vrv
+TXT_Cnfg_List_Left_PP_Start_STR_L	Kraftfas, vänster
+TXT_Cnfg_List_Left_PP_Start_STR_M	Kraftfas vänster
+TXT_Cnfg_List_Left_PP_Start_STR_S	Kraftfas vänster
+TXT_Cnfg_List_PCO_Avg_STR_L	Med. PCO
+TXT_Cnfg_List_PCO_Avg_STR_M	Med. PCO
+TXT_Cnfg_List_PCO_Avg_STR_S	Med. PCO
+TXT_Cnfg_List_PCO_Lap_STR_L	PCO varv
+TXT_Cnfg_List_PCO_Lap_STR_M	PCO varv
+TXT_Cnfg_List_PCO_Lap_STR_S	PCO varv
+TXT_Cnfg_List_PCO_Last_Lap_STR_L	PCO – senaste varvet
+TXT_Cnfg_List_PCO_Last_Lap_STR_M	PCO – senaste varvet
+TXT_Cnfg_List_PCO_Last_Lap_STR_S	PCO sen. varvet
+TXT_Cnfg_List_PCO_STR_L	PCO
+TXT_Cnfg_List_PCO_STR_M	PCO
+TXT_Cnfg_List_PCO_STR_S	PCO
+TXT_Cnfg_List_Pedal_Weight_STR_L	Pedalvikt
+TXT_Cnfg_List_Pedal_Weight_STR_M	Pedalvikt
+TXT_Cnfg_List_Pedal_Weight_STR_S	Pedalvikt
+TXT_Cnfg_List_Right_PP_Peak_Start_Avg_STR_L	Med. toppkraftfas höger
+TXT_Cnfg_List_Right_PP_Peak_Start_Avg_STR_M	Med. toppkraftfas höger
+TXT_Cnfg_List_Right_PP_Peak_Start_Avg_STR_S	MTK höger
+TXT_Cnfg_List_Right_PP_Peak_Start_Lap_STR_L	Toppkraftfas höger – varv
+TXT_Cnfg_List_Right_PP_Peak_Start_Lap_STR_M	Toppkraftfas varv, h
+TXT_Cnfg_List_Right_PP_Peak_Start_Lap_STR_S	Toppkr. varv, h
+TXT_Cnfg_List_Right_PP_Peak_Start_Last_Lap_STR_L	Toppkraftfas höger – senaste varvet
+TXT_Cnfg_List_Right_PP_Peak_Start_Last_Lap_STR_M	Toppkraftfas hö sen. varv
+TXT_Cnfg_List_Right_PP_Peak_Start_Last_Lap_STR_S	Toppkr hö sen vrv
+TXT_Cnfg_List_Right_PP_Peak_Start_STR_L	Toppkraftfas höger
+TXT_Cnfg_List_Right_PP_Peak_Start_STR_M	Toppkraftfas höger
+TXT_Cnfg_List_Right_PP_Peak_Start_STR_S	TKF höger
+TXT_Cnfg_List_Right_PP_Start_Avg_STR_L	Med. kraftfas höger
+TXT_Cnfg_List_Right_PP_Start_Avg_STR_M	Med. kraftfas höger
+TXT_Cnfg_List_Right_PP_Start_Avg_STR_S	Med.kraftfas, h
+TXT_Cnfg_List_Right_PP_Start_Lap_STR_L	Kraftfas för aktuellt varv, höger
+TXT_Cnfg_List_Right_PP_Start_Lap_STR_M	Kraftfas aktuellt varv, h
+TXT_Cnfg_List_Right_PP_Start_Lap_STR_S	Kraftf. varv, h
+TXT_Cnfg_List_Right_PP_Start_Last_Lap_STR_L	Kraftfas höger – senaste varvet
+TXT_Cnfg_List_Right_PP_Start_Last_Lap_STR_M	Kraftfas hö. sen. varvet
+TXT_Cnfg_List_Right_PP_Start_Last_Lap_STR_S	Kraftf hö sen vrv
+TXT_Cnfg_List_Right_PP_Start_STR_L	Kraftfas, höger
+TXT_Cnfg_List_Right_PP_Start_STR_M	Kraftfas höger
+TXT_Cnfg_List_Right_PP_Start_STR_S	Kraftfas höger
+TXT_Cnfg_List_Time_Seated_Lap_STR_L	Tid sittande – varv
+TXT_Cnfg_List_Time_Seated_Lap_STR_M	Tid sittande, varv
+TXT_Cnfg_List_Time_Seated_Lap_STR_S	Tid sittande, varv
+TXT_Cnfg_List_Time_Seated_Last_Lap_STR_L	Tid sittande – senaste varvet
+TXT_Cnfg_List_Time_Seated_Last_Lap_STR_M	Tid sittand senaste varvet
+TXT_Cnfg_List_Time_Seated_Last_Lap_STR_S	Tid sitt sen varv
+TXT_Cnfg_List_Time_Seated_STR_L	Tid sittande
+TXT_Cnfg_List_Time_Seated_STR_M	Tid sittande
+TXT_Cnfg_List_Time_Seated_STR_S	Tid sittande
+TXT_Cnfg_List_Time_Standing_Lap_STR_L	Tid stående – varv
+TXT_Cnfg_List_Time_Standing_Lap_STR_M	Tid stående, varv
+TXT_Cnfg_List_Time_Standing_Lap_STR_S	Tid stående, varv
+TXT_Cnfg_List_Time_Standing_Last_Lap_STR_L	Tid stående – senaste varvet
+TXT_Cnfg_List_Time_Standing_Last_Lap_STR_M	Tid stående senaste varv
+TXT_Cnfg_List_Time_Standing_Last_Lap_STR_S	Tid stå sen. varv
+TXT_Cnfg_List_Time_Standing_STR_L	Tid stående
+TXT_Cnfg_List_Time_Standing_STR_M	Tid stående
+TXT_Cnfg_List_Time_Standing_STR_S	Tid stående
+TXT_Cnfg_List_Vector_State_STR_L	Vector-status
+TXT_Cnfg_List_Vector_State_STR_M	Vector-status
+TXT_Cnfg_List_Vector_State_STR_S	Vector-status
+TXT_Cnfg_List_Vector_Status_2_STR_L	Vector-status 2
+TXT_Cnfg_List_Vector_Status_2_STR_M	Vector-status 2
+TXT_Cnfg_List_Vector_Status_2_STR_S	Vector-status 2
+TXT_Cnfg_List_Vector_Status_3_STR_L	Vector-status 3
+TXT_Cnfg_List_Vector_Status_3_STR_M	Vector-status 3
+TXT_Cnfg_List_Vector_Status_3_STR_S	Vector-status 3
+TXT_Cnfg_List_Vector_Status_STR_L	Vector-status
+TXT_Cnfg_List_Vector_Status_STR_M	Vector-status
+TXT_Cnfg_List_Vector_Status_STR_S	Vector-status
+TXT_Cnfg_Title_Pedal_Smoothness_STR_S	Pedaljämnhet %
+TXT_Cnfg_Title_Torque_Effectiveness_STR_S	Momenteffekt. %
+TXT_ConnectIQ_STR_L	Connect IQ
+TXT_ConnectIQ_STR_M	Connect IQ
+TXT_ConnectIQ_STR_S	Connect IQ
+TXT_Cooldown_Bike_STR	Varva ned
+TXT_Cooldown_STR	Varva ned
+TXT_Cooldown_Swim_STR	Varva ned
+TXT_DEC_STR_M	Dec
+TXT_DIST_REM_STR_S	Återst. sträcka
+TXT_DRILL_LOG_PAGE_Drill_Ended_STR_M	Övning avslutades
+TXT_DRILL_LOG_PAGE_TITL_Drill_Log_STR_M	Träningslogg
+TXT_DRILL_LOG_PAGE_To_Begin_STR_M	för start av övning
+TXT_DRILL_LOG_PAGE_To_End_STR_M	för att avsl. övn.
+TXT_Di2_Battery_STR_L	Di2-batteri
+TXT_Di2_Battery_STR_M	Di2-batteri
+TXT_Di2_Battery_STR_S	Di2-batteri
+TXT_Dist_Ahead_STR_L	Distans framåt
+TXT_Dist_Ahead_STR_M	Distans framåt
+TXT_Dist_Ahead_STR_S	Distans framåt
+TXT_Dist_Behind_STR_S	Avstånd bakom
+TXT_Dist_Nautical_STR_L	Nautisk distans
+TXT_Dist_Nautical_STR_M	Nautisk distans
+TXT_Dist_Nautical_STR_S	Nautisk distans
+TXT_Dist_Remaining_STR_S	Dist. Återstående
+TXT_Dist_Run_STR_L	Distans
+TXT_Dist_Run_STR_M	Distans
+TXT_Dist_Run_STR_S	Distans
+TXT_Distance_Remaining_STR_L	Återstående distans
+TXT_Distance_Remaining_STR_M	Återstående distans
+TXT_Distance_To_Go_STR_L	Sträcka kvar
+TXT_Distance_To_Go_STR_M	Sträcka kvar
+TXT_Distance_To_Go_STR_S	Sträcka kvar
+TXT_Drill_STR	Övning
+TXT_Elapsed_Run_Time_STR_L	Total tid
+TXT_Elapsed_Run_Time_STR_M	Total tid
+TXT_Elapsed_Run_Time_STR_S	Total tid
+TXT_Est_Finish_Time_STR_S	Beräknad sluttid
+TXT_Estimated_Finish_Time_STR_L	Beräknad sluttid
+TXT_Estimated_Finish_Time_STR_M	Beräknad sluttid
+TXT_External_Profile_STR_S	Extern profil
+TXT_FEB_STR_M	Feb
+TXT_FIND_MY_PHONE_Find_My_Phone_STR_L	Hitta min telefon
+TXT_FTP_ALERT_PAGE_FTP_Detected_STR_L	FTP hittades
+TXT_FTP_CONFIRM_Accept_STR_L	Godkänn
+TXT_FTP_CONFIRM_Decline_STR_L	Avvisa
+TXT_FTP_CONFIRM_New_FTP_Detected_STR_L	Ny FTP hittades!
+TXT_FTP_GUIDED_WRKT_CMPLT_FTP_Not_Detected_STR_M	FTP hittades inte
+TXT_FTP_PAGE_FTP_Detected_STR_L	FTP hittades
+TXT_FTP_PAGE_FTP_STR_L	FTP
+TXT_FTP_PAGE_Manual_Entry_STR_L	Angavs manuellt
+TXT_FTP_WORKOUT_Final_Step_STR	Slutmoment
+TXT_FTP_WORKOUT_Slow_Easy_Speed_STR	Långsamt & försiktigt
+TXT_FTP_WORKOUT_Steady_Max_Effort_STR	Max. kont. ansträngn.
+TXT_F_STR_M	F
+TXT_Fastest_1000YD_STR_L	Snabbaste 1 000 yard!
+TXT_Fastest_100M_STR_L	Snabbaste 100 m!
+TXT_Fastest_100YD_STR_L	Snabbaste 100 yard!
+TXT_Fastest_10K_STR_L	Snabbaste 10 km!
+TXT_Fastest_1500M_STR_L	Snabbaste 1 500 m!
+TXT_Fastest_1650YD_STR_L	Snabbaste 1 650 yard!
+TXT_Fastest_1K_RUN_STR_L	Snabbaste 1 km!
+TXT_Fastest_1K_SWIM_STR_L	Snabbaste 1 000 m!
+TXT_Fastest_400M_STR_L	Snabbaste 400 m!
+TXT_Fastest_40K_STR_L	Snabbaste 40 km!
+TXT_Fastest_500YD_STR_L	Snabbaste 500 yard!
+TXT_Fastest_5K_STR_L	Snabbaste 5 km!
+TXT_Fastest_750M_STR_L	Snabbaste 750 m!
+TXT_Fastest_Half_STR_L	Snabbaste halvmaraton!
+TXT_Fastest_Marathon_STR_L	Snabbaste maraton!
+TXT_Fastest_Mile_STR_L	Snabbaste mile!
+TXT_Fly_STR	Fjäril
+TXT_Fly_STR_L	Fjäril
+TXT_Fly_STR_M	Fjäril
+TXT_Free_STR	Frisim
+TXT_Free_STR_L	Frisim
+TXT_Free_STR_M	Frisim
+TXT_Fri_FRMT_STR_M	Fredag %1
+TXT_Fri_STR_M	Fre
+TXT_Front_Gear_STR_L	Fram
+TXT_Front_Gear_STR_M	Fram
+TXT_Front_Gear_STR_S	Fram
+TXT_GCT_Avg_Balance_STR_L	Medelmarkkontakt, balans
+TXT_GCT_Avg_Balance_STR_M	Med. h/v-bal., markkont.
+TXT_GCT_Avg_Balance_STR_S	M. h/v-bal. mark
+TXT_GCT_Bal_STR_S	GCT, h/v-bal.
+TXT_GCT_Balance_STR_L	Markkontakttid, höger/vänster-balans
+TXT_GCT_Balance_STR_M	Markkontakttid, h/v-bal.
+TXT_GCT_Lap_Balance_STR_L	Kontakttidsbalans, varv
+TXT_GCT_Lap_Balance_STR_M	Kontakttidsbalans, varv
+TXT_GCT_Lap_Balance_STR_S	Kont.bal. varv
+TXT_GCT_Last_Lap_Balance_STR_L	MKT balans sen. varv
+TXT_GCT_Last_Lap_Balance_STR_M	MKT balans sen. varv
+TXT_GCT_Last_Lap_Balance_STR_S	MKT balans varv
+TXT_GPS_Accuracy_STR_L	GPS-noggrannhet
+TXT_GPS_Accuracy_STR_M	GPS-noggrannhet
+TXT_GPS_Accuracy_STR_S	GPS-nog.-het
+TXT_Gear_Ratio_STR_L	Utväxlingsförhållande
+TXT_Gear_Ratio_STR_M	Utväxlingsförhållande
+TXT_Gear_Ratio_STR_S	Utväxl.-förhåll
+TXT_Gears_STR_L	Växlar
+TXT_Gears_STR_M	Växlar
+TXT_Gears_STR_S	Växlar
+TXT_Go_STR	Kör
+TXT_Ground_Cont_STR_S	MARKKONT.
+TXT_Ground_Contact_STR_L	Markkontakttid
+TXT_Ground_Contact_STR_M	Markkontakttid
+TXT_HNDL_GUIDED_WORKOUT_Using_Profile_FRMT_STR	Använder %1
+TXT_HNDL_Using_Profiles_1_FRMT_STR	Använder %1
+TXT_HNDL_Using_Profiles_2_FRMT_STR	Anv %1, %2
+TXT_HNDL_Using_Profiles_3_FRMT_STR	Anv. %1, %2, %3
+TXT_HNDL_Using_Profiles_4_FRMT_STR	Använder %1, %2, %3, %4
+TXT_HNDL_Using_Profiles_5_FRMT_STR	Använder %1, %2, %3, %4, %5
+TXT_HOMESCREEN_Activity_STR_M	Aktivitet
+TXT_HR_2_Crnt_STR_L	Puls nr 2
+TXT_HR_2_Crnt_STR_M	Puls nr 2
+TXT_HR_2_Crnt_STR_S	Puls nr 2
+TXT_HR_Crnt_PHRR_STR_L	%HRR
+TXT_HR_Crnt_PHRR_STR_M	%HRR
+TXT_HR_Crnt_PHRR_STR_S	%HRR
+TXT_HR_Crnt_PMax_STR_L	Puls %Max.
+TXT_HR_Crnt_PMax_STR_M	Puls %Max.
+TXT_HR_Crnt_PMax_STR_S	Puls %Max.
+TXT_HR_Crnt_STR_L	Puls
+TXT_HR_Crnt_STR_M	Puls
+TXT_HR_Crnt_STR_S	Puls
+TXT_HR_GRAPH_PAGE_Aerobic_STR_L	Kondit.
+TXT_HR_GRAPH_PAGE_Easy_STR_L	Lätt träning
+TXT_HR_GRAPH_PAGE_High_Aerobic_STR_L	Hård kond.trän.
+TXT_HR_GRAPH_PAGE_Low_Aerobic_STR_L	Lätt kond.-trän.
+TXT_HR_GRAPH_PAGE_Maximum_STR_L	Högint.
+TXT_HR_GRAPH_PAGE_No_HR_STR_L	Ingen puls
+TXT_HR_GRAPH_PAGE_No_Zone_STR_L	Ingen zon
+TXT_HR_GRAPH_PAGE_Threshold_STR_L	Tröskelträning
+TXT_HR_GRAPH_PAGE_Warm_Up_STR_L	Uppvärmning
+TXT_HR_STR	HR
+TXT_HR_Time_in_Zone_0_STR_L	Tid i pulszon 0
+TXT_HR_Time_in_Zone_0_STR_M	Tid i pulszon 0
+TXT_HR_Time_in_Zone_0_STR_S	Pulszon 0
+TXT_HR_Time_in_Zone_1_STR_L	Tid i pulszon 1
+TXT_HR_Time_in_Zone_1_STR_M	Tid i pulszon 1
+TXT_HR_Time_in_Zone_1_STR_S	Pulszon 1
+TXT_HR_Time_in_Zone_2_STR_L	Tid i pulszon 2
+TXT_HR_Time_in_Zone_2_STR_M	Tid i pulszon 2
+TXT_HR_Time_in_Zone_2_STR_S	Pulszon 2
+TXT_HR_Time_in_Zone_3_STR_L	Tid i pulszon 3
+TXT_HR_Time_in_Zone_3_STR_M	Tid i pulszon 3
+TXT_HR_Time_in_Zone_3_STR_S	Pulszon 3
+TXT_HR_Time_in_Zone_4_STR_L	Tid i pulszon 4
+TXT_HR_Time_in_Zone_4_STR_M	Tid i pulszon 4
+TXT_HR_Time_in_Zone_4_STR_S	Pulszon 4
+TXT_HR_Time_in_Zone_5_STR_L	Tid i pulszon 5
+TXT_HR_Time_in_Zone_5_STR_M	Tid i pulszon 5
+TXT_HR_Time_in_Zone_5_STR_S	Pulszon 5
+TXT_HR_Time_in_Zone_6_STR_L	Tid i pulszon 6
+TXT_HR_Time_in_Zone_6_STR_M	Tid i pulszon 6
+TXT_HR_Time_in_Zone_6_STR_S	Pulszon 6
+TXT_HR_To_Go_STR_L	Puls kvar
+TXT_HR_To_Go_STR_M	Puls kvar
+TXT_HR_To_Go_STR_S	Puls kvar
+TXT_HR_WIDGET_MENU_Auto_STR_M	Auto
+TXT_HR_WIDGET_MENU_Heart_Rate_Monitor_STR_L	Puls
+TXT_HR_WIDGET_MENU_Options_STR_L	Alternativ
+TXT_HR_WIDGET_PAGE_Heart_Rate_STR_L	Puls
+TXT_HR_WIDGET_PAGE_High_FRMT_STR_M	Högt: %1
+TXT_HR_WIDGET_PAGE_Hours_FRMT_STR_M	De senaste %1 timmarna
+TXT_HR_WIDGET_PAGE_Low_FRMT_STR_M	Lågt: %1
+TXT_HR_WIDGET_PAGE_Minutes_FRMT_STR_M	De senaste %1 minuterna
+TXT_HR_WIDGET_PAGE_RHR_STR_L	RHR
+TXT_HR_Zone_FRMT_STR	Pulszon %1
+TXT_HR_Zone_STR_L	Pulszon
+TXT_HR_Zone_STR_M	Pulszon
+TXT_HR_Zone_STR_S	Pulszon
+TXT_Heading_STR_L	Riktning
+TXT_Heading_STR_M	Riktning
+TXT_Heading_STR_S	Riktning
+TXT_Hold_Up_Key_to_Change_STR_S	Håll ned uppknappen för att ändra
+TXT_IF_PWR_STR_L	Intensity Factor
+TXT_IF_PWR_STR_M	Intensity Factor
+TXT_IF_PWR_STR_S	IF
+TXT_IM_STR	Medley
+TXT_INTENSITY_MINUTES_GOAL_MET_PAGE_Met_Goal_L	Målet nåddes för veckan!
+TXT_INTENSITY_MINUTES_GOAL_MET_PAGE_Remaining_L	Min. som återstår
+TXT_INTENSITY_MINUTES_WIDGET_GOAL_Moderate_L	Medel
+TXT_INTENSITY_MINUTES_WIDGET_GOAL_Or_L	ELLER
+TXT_INTENSITY_MINUTES_WIDGET_GOAL_Title_L	Intensiva minuter för att nå målet
+TXT_INTENSITY_MINUTES_WIDGET_GOAL_Vigorous_L	Hög
+TXT_INTENSITY_MINUTES_WIDGET_This_Week_STR_S	Denna vecka
+TXT_INTENSITY_MINUTES_WIDGET_Weekly_Goal_L	Veckomål
+TXT_Int_Avg_HR_PHRR_STR_L	Med% pulsreserv int.
+TXT_Int_Avg_HR_PHRR_STR_M	Med% pulsreserv int.
+TXT_Int_Avg_HR_PHRR_STR_S	Med% pulsr. int.
+TXT_Int_Avg_HR_PMax_STR_L	Medelprocent av maxpuls för intervall
+TXT_Int_Avg_HR_PMax_STR_M	Med% maxpuls int.
+TXT_Int_Avg_HR_PMax_STR_S	Med% max. int.
+TXT_Int_Avg_HR_STR_L	Medelpuls för intervall
+TXT_Int_Avg_HR_STR_M	Medelpuls för intervall
+TXT_Int_Avg_HR_STR_S	Med. puls int.
+TXT_Int_Max_HR_PHRR_STR_L	Max% av pulsres. int.
+TXT_Int_Max_HR_PHRR_STR_M	Max% av pulsres. int.
+TXT_Int_Max_HR_PHRR_STR_S	Max% pulsr. int.
+TXT_Int_Max_HR_PMax_STR_L	Maxprocent av maxpuls för intervall
+TXT_Int_Max_HR_PMax_STR_M	Max% av maxpuls int.
+TXT_Int_Max_HR_PMax_STR_S	Max% maxp. int.
+TXT_Int_Max_HR_STR_L	Maxpuls för intervall
+TXT_Int_Max_HR_STR_M	Maxpuls för intervall
+TXT_Int_Max_HR_STR_S	Max. puls int.
+TXT_Int_Stroke_Rate_STR_L	Intervallsimtagstempo
+TXT_Int_Stroke_Rate_STR_M	Intervall- simtagstempo
+TXT_Int_Stroke_Rate_STR_S	Intervalltempo
+TXT_Int_Stroke_Type_STR_L	Intervallsimtagstyp
+TXT_Int_Stroke_Type_STR_M	Intervallsimtagstyp
+TXT_Int_Stroke_Type_STR_S	Int.-simtagstyp
+TXT_Int_Strokes_Per_Length_STR_L	Intervallsimtag/längd
+TXT_Int_Strokes_Per_Length_STR_M	Simtag/längd för intervall
+TXT_Int_Strokes_Per_Length_STR_S	Interv. simt/län
+TXT_Interval_Distance_STR_L	Intervallavstånd
+TXT_Interval_Distance_STR_M	Intervallavstånd
+TXT_Interval_Distance_STR_S	Intervall- distans
+TXT_Interval_Lengths_STR_L	Intervallängder
+TXT_Interval_Lengths_STR_M	Intervallängder
+TXT_Interval_Lengths_STR_S	Intervallängder
+TXT_Interval_Pace_STR_L	Intervalltempo
+TXT_Interval_Pace_STR_M	Intervalltempo
+TXT_Interval_Pace_STR_S	Intervall- tempo
+TXT_Interval_Swolf_STR_L	SWOLF för intervall
+TXT_Interval_Swolf_STR_M	SWOLF för intervall
+TXT_Interval_Swolf_STR_S	SWOLF intervall
+TXT_Interval_Time_STR_L	Intervalltid
+TXT_Interval_Time_STR_M	Intervalltid
+TXT_Interval_Time_STR_S	Intervall- tid
+TXT_JAN_STR_M	Jan
+TXT_JUL_STR_M	Jul
+TXT_JUN_STR_M	Jun
+TXT_KiloJoules_PWR_STR_L	Energi
+TXT_KiloJoules_PWR_STR_M	Energi
+TXT_KiloJoules_PWR_STR_S	Energi
+TXT_LAST7DAYS_STEPS_MAX_VAL_IN_K_FRMT_STR_M	%1T
+TXT_LIST_SELECT_15_Seconds_STR_L	15 sekunder
+TXT_LIST_SELECT_1_Minute_STR_L	1 minut
+TXT_LIST_SELECT_30_Seconds_STR_L	30 sekunder
+TXT_LIST_SELECT_8_Seconds_STR_L	8 sekunder
+TXT_LIST_SELECT_BPM_STR_L	BPM
+TXT_LIST_SELECT_Custom_STR_L	Egna
+TXT_LIST_SELECT_Distance_STR_L	Distans
+TXT_LIST_SELECT_Every_Beat_STR_L	Varje slag
+TXT_LIST_SELECT_Every_Fourth_Beat_STR_L	Vart fjärde slag
+TXT_LIST_SELECT_Every_Other_Beat_STR_L	Vartannan slag
+TXT_LIST_SELECT_Every_Sixth_Beat_STR_L	Vart sjätte slag
+TXT_LIST_SELECT_Every_Third_Beat_STR_L	Vart tredje slag
+TXT_LIST_SELECT_Fast_STR_L	Snabbt
+TXT_LIST_SELECT_HDR_Alert_Frequency_STR_S	Varningsfrekvens
+TXT_LIST_SELECT_HDR_Alert_Type_STR_S	Avisering
+TXT_LIST_SELECT_HDR_Auto_Pause_STR_S	Auto Pause
+TXT_LIST_SELECT_HDR_Auto_Scroll_STR_S	Auto Scroll
+TXT_LIST_SELECT_HDR_Based_On_STR_S	Baserat på
+TXT_LIST_SELECT_HDR_Language_STR_S	Språk
+TXT_LIST_SELECT_HDR_Notifications_STR_S	Aviseringar
+TXT_LIST_SELECT_HDR_Primary_Field_STR_M	Primärt fält
+TXT_LIST_SELECT_HDR_Primary_Metric_STR_S	Primär måttenhet
+TXT_LIST_SELECT_HDR_Secondary_Field_STR_M	Sekundärt fält
+TXT_LIST_SELECT_HDR_Secondary_Metric_1_STR_S	Sekundära mätdata 1
+TXT_LIST_SELECT_HDR_Secondary_Metric_2_STR_S	Sekundära mätdata 2
+TXT_LIST_SELECT_HDR_Sounds_STR_S	Avisering
+TXT_LIST_SELECT_HDR_Start_Of_Week_STR_S	Början på vecka
+TXT_LIST_SELECT_HDR_Timeout_STR_S	Tidsgräns
+TXT_LIST_SELECT_HDR_Type_STR_S	Typ
+TXT_LIST_SELECT_High_Alert_STR_M	Högt larm
+TXT_LIST_SELECT_Low_Alert_STR_M	Lågt larm
+TXT_LIST_SELECT_Medium_STR_L	Medel
+TXT_LIST_SELECT_Monday_STR_L	Måndag
+TXT_LIST_SELECT_More_STR_L	Mer
+TXT_LIST_SELECT_Off_STR_L	Av
+TXT_LIST_SELECT_Open_STR_L	Öppen
+TXT_LIST_SELECT_PERCENT_HRR_STR_L	%HRR
+TXT_LIST_SELECT_PERCENT_LTHR_STR_L	Pulsvärde mjölksyratröskel i %
+TXT_LIST_SELECT_PERCENT_Max_HR_STR_L	% maximal puls
+TXT_LIST_SELECT_SMART_NTFCTN_SETTINGS_Off_STR_L	Av
+TXT_LIST_SELECT_SMART_NTFCTN_SETTINGS_Show_All_STR_L	Visa alla
+TXT_LIST_SELECT_SMART_NTFCTN_SETTINGS_Show_Calls_Only_STR_L	Visa endast samtal
+TXT_LIST_SELECT_SMART_NTFCTN_SETTINGS_Tone_STR_L	Ljudsignal
+TXT_LIST_SELECT_SMART_NTFCTN_SETTINGS_Tone_and_Vibration_STR_L	Ljud & Vibration
+TXT_LIST_SELECT_SMART_NTFCTN_SETTINGS_Vibration_STR_L	Vibration
+TXT_LIST_SELECT_Saturday_STR_L	Lördag
+TXT_LIST_SELECT_Slow_STR_L	Sakta
+TXT_LIST_SELECT_Sounds_Tone_And_Vibr_STR_L	Ljud & Vibration
+TXT_LIST_SELECT_Sounds_Tone_STR_L	Ljudsignal
+TXT_LIST_SELECT_Sounds_Vibration_STR_L	Vibration
+TXT_LIST_SELECT_Stays_On_STR_L	Alltid på
+TXT_LIST_SELECT_Sunday_STR_L	Söndag
+TXT_LIST_SELECT_Time_STR_L	Tid
+TXT_LIST_SELECT_Total_Time_STR_L	Total tid
+TXT_LIST_SELECT_When_Stopped_STR_L	Vid stopp
+TXT_LST_SLCT_Choose_Zone_STR_S	Välj zon
+TXT_LTHR_CONFIRM_Accept_STR_L	Godkänn
+TXT_LTHR_CONFIRM_Decline_STR_L	Avvisa
+TXT_LTHR_CONFIRM_New_Threshold_Detected_STR_L	Ny tröskel hittades!
+TXT_LTHR_PAGE_LTHR_STR_L	P. mj.sy.tr:
+TXT_LTHR_PAGE_Manual_Entry_STR_L	Angavs manuellt
+TXT_LTHR_PAGE_T_Pace_STR_L	Trsk.temp:
+TXT_LTHR_PAGE_Threshold_Detected_STR_L	Tröskelvärde hittades
+TXT_LTHR_PAGE_Threshold_STR_L	Tröskelträning
+TXT_LT_GUIDED_WORKOUT_VO2_Max_Required_STR_M	VO2 Max krävs
+TXT_LT_GUIDED_WRKT_CMPLT_Threshold_Not_Detected_STR_M	Inget tröskelvärde hittades
+TXT_L_R_Balance_STR_L	Balans
+TXT_L_R_Balance_STR_M	Balans
+TXT_L_R_Balance_STR_S	Balans %
+TXT_Lap_Dist_STR_L	Varv distans
+TXT_Lap_Dist_STR_M	Varv distans
+TXT_Lap_Dist_STR_S	Varv distans
+TXT_Lap_Ground_Cont_STR_S	Marktid varv
+TXT_Lap_Ground_Contact_STR_L	Markkontakttid för varv
+TXT_Lap_Ground_Contact_STR_M	Markkontakttid för varv
+TXT_Lap_HR_PHRR_STR_L	Varv %HRR
+TXT_Lap_HR_PHRR_STR_M	Varv %HRR
+TXT_Lap_HR_PHRR_STR_S	Varv %HRR
+TXT_Lap_HR_PMax_STR_L	Varvpuls %Max.
+TXT_Lap_HR_PMax_STR_M	Varvpuls %Max.
+TXT_Lap_HR_PMax_STR_S	Varvpuls %Max.
+TXT_Lap_HR_STR_L	Varv puls
+TXT_Lap_HR_STR_M	Varv puls
+TXT_Lap_HR_STR_S	Varv puls
+TXT_Lap_Num_STR_L	Varv
+TXT_Lap_Num_STR_M	Varv
+TXT_Lap_Num_STR_S	Varv
+TXT_Lap_PWR_STR_L	Kraft - Varv
+TXT_Lap_PWR_STR_M	Kraft - Varv
+TXT_Lap_PWR_STR_S	Kraft - Varv
+TXT_Lap_Stride_Length_STR_L	Medelsteglängd för aktuellt varv
+TXT_Lap_Stride_Length_STR_M	Steglängd varv
+TXT_Lap_Stride_Length_STR_S	Steglängd varv
+TXT_Lap_Swolf_STR_L	SWOLF
+TXT_Lap_Swolf_STR_M	SWOLF
+TXT_Lap_Swolf_STR_S	SWOLF
+TXT_Lap_Vert_Osc_STR_S	Vert sv. varv
+TXT_Lap_Vertical_Oscillation_STR_L	Vertikal rörelse för varv
+TXT_Lap_Vertical_Oscillation_STR_M	Vertikal rörelse för varv
+TXT_Lap_Vertical_Ratio_STR_L	Kvot vertikal rörelse/steglängd, varv
+TXT_Lap_Vertical_Ratio_STR_M	Vertikal kvot, varv
+TXT_Lap_Vertical_Ratio_STR_S	Vert. kvot, varv
+TXT_Last_7_Days_STR_M	De senaste 7 dagarna
+TXT_Last_Int_Avg_HR_PHRR_STR_L	Med. %HRR för senaste intervall
+TXT_Last_Int_Avg_HR_PHRR_STR_M	Med. %HRR för sen. interv
+TXT_Last_Int_Avg_HR_PHRR_STR_S	Md %HRR f sn itv
+TXT_Last_Int_Avg_HR_PMax_STR_L	Med. %Max. för senaste intervall
+TXT_Last_Int_Avg_HR_PMax_STR_M	Med. %Max. för sen interv
+TXT_Last_Int_Avg_HR_PMax_STR_S	Md %Mx f sen itv
+TXT_Last_Int_Avg_HR_STR_L	Med. puls för senaste intervall
+TXT_Last_Int_Avg_HR_STR_M	Med. puls för sen interv
+TXT_Last_Int_Avg_HR_STR_S	Mdlpuls f sen itv
+TXT_Last_Int_Distance_STR_L	Senaste intervalldistans
+TXT_Last_Int_Distance_STR_M	Sen. int. Sträcka
+TXT_Last_Int_Distance_STR_S	Sen. interv.dist
+TXT_Last_Int_Max_HR_PHRR_STR_L	Maximal %HRR för senaste intervall
+TXT_Last_Int_Max_HR_PHRR_STR_M	Max %HRR f sen. intervall
+TXT_Last_Int_Max_HR_PHRR_STR_S	Mx %HRR f sn itv
+TXT_Last_Int_Max_HR_PMax_STR_L	Maximal %Max. för senaste intervall
+TXT_Last_Int_Max_HR_PMax_STR_M	Max %Max för sen interv.
+TXT_Last_Int_Max_HR_PMax_STR_S	Mx %Mx f sn itv
+TXT_Last_Int_Max_HR_STR_L	Maximal puls för senaste intervall
+TXT_Last_Int_Max_HR_STR_M	Max puls för sen intervall
+TXT_Last_Int_Max_HR_STR_S	Mx puls f sen itv
+TXT_Last_Int_Pace_STR_L	Tempo för senaste intervall
+TXT_Last_Int_Pace_STR_M	Tempo sen. interv.
+TXT_Last_Int_Pace_STR_S	Sen. int. Tempo
+TXT_Last_Int_Stroke_Rate_STR_L	Simtagstempo under senaste intervall
+TXT_Last_Int_Stroke_Rate_STR_M	Simt.tempo sen. int
+TXT_Last_Int_Stroke_Rate_STR_S	Tempo sen. int.
+TXT_Last_Int_Stroke_Type_STR_L	Simtagstyp under senaste intervall
+TXT_Last_Int_Stroke_Type_STR_M	Simtagstyp sen. int.
+TXT_Last_Int_Stroke_Type_STR_S	Sen. int.simt.typ
+TXT_Last_Int_Strokes_Per_Length_STR_L	Antal simt/längd under sen. interv.
+TXT_Last_Int_Strokes_Per_Length_STR_M	Senaste interv. simt./län.
+TXT_Last_Int_Strokes_Per_Length_STR_S	Sen. int.simt/län.
+TXT_Last_Int_Time_STR_L	Senaste intervalltid
+TXT_Last_Int_Time_STR_M	Senaste intervalltid
+TXT_Last_Int_Time_STR_S	Sen. intervall Tid
+TXT_Last_Interval_Lengths_STR_L	Senaste intervallängder
+TXT_Last_Interval_Lengths_STR_M	Senaste intervallängder
+TXT_Last_Interval_Lengths_STR_S	Sen. int.längder
+TXT_Last_Interval_Swolf_STR_L	Senaste SWOLF för intervall
+TXT_Last_Interval_Swolf_STR_M	SWOLF sen. interv.
+TXT_Last_Interval_Swolf_STR_S	Sen. SWOLF int.
+TXT_Last_Lap_Dist_STR_L	Senaste varvdistans
+TXT_Last_Lap_Dist_STR_M	Senaste varvdistans
+TXT_Last_Lap_Dist_STR_S	Sen. varv dist.
+TXT_Last_Lap_Ground_Cont_STR_S	Markkont s varv
+TXT_Last_Lap_Ground_Contact_STR_L	Markkontakttid för senaste varv
+TXT_Last_Lap_Ground_Contact_STR_M	Markkontakttid sen varv
+TXT_Last_Lap_HR_PHRR_STR_L	Senaste varv %HRR
+TXT_Last_Lap_HR_PHRR_STR_M	Senaste varv %HRR
+TXT_Last_Lap_HR_PHRR_STR_S	Sen. varv %HRR
+TXT_Last_Lap_HR_PMax_STR_L	Puls i procent av maxpuls senaste varv
+TXT_Last_Lap_HR_PMax_STR_M	Puls % av max sen varv
+TXT_Last_Lap_HR_PMax_STR_S	% maxpuls varv
+TXT_Last_Lap_HR_STR_L	Puls för senaste varv
+TXT_Last_Lap_HR_STR_M	Puls för senaste varv
+TXT_Last_Lap_HR_STR_S	Puls sen. varv
+TXT_Last_Lap_Stride_Length_STR_L	Medelsteglängd för senaste varv
+TXT_Last_Lap_Stride_Length_STR_M	Medelstegl. senaste varv
+TXT_Last_Lap_Stride_Length_STR_S	Sen. varv stegl.
+TXT_Last_Lap_Swolf_STR_L	Senaste SWOLF
+TXT_Last_Lap_Swolf_STR_M	Senaste SWOLF
+TXT_Last_Lap_Swolf_STR_S	Senaste SWOLF
+TXT_Last_Lap_Vert_Osc_STR_S	Vert rör. s. varv
+TXT_Last_Lap_Vertical_Oscillation_STR_L	Vertikal rörelse för senaste varv
+TXT_Last_Lap_Vertical_Oscillation_STR_M	Vertikal rörelse sen varv
+TXT_Last_Lap_Vertical_Ratio_STR_L	Med.kvot v. rör/stegl sen v
+TXT_Last_Lap_Vertical_Ratio_STR_M	M. vert. rör./stegl. sen. v.
+TXT_Last_Lap_Vertical_Ratio_STR_S	Sen. varv v. rör.
+TXT_Last_Leg_Distance_STR_L	Distans för senaste etapp
+TXT_Last_Leg_Distance_STR_M	Distans för senaste etapp
+TXT_Last_Leg_Distance_STR_S	Dist. sen. etapp
+TXT_Last_Leg_Time_STR_L	Tid senaste etapp
+TXT_Last_Leg_Time_STR_M	Tid senaste etapp
+TXT_Last_Leg_Time_STR_S	Tid sen. etapp
+TXT_Last_Length_Pace_STR_L	Tempo för senaste längd
+TXT_Last_Length_Pace_STR_M	Tempo för senaste längd
+TXT_Last_Length_Pace_STR_S	Sen. längd Tempo
+TXT_Last_Length_Stroke_Rate_STR_L	Simtagstempo för senaste längd
+TXT_Last_Length_Stroke_Rate_STR_M	Simtagstempo. sen. längd
+TXT_Last_Length_Stroke_Rate_STR_S	Tempo s. längd
+TXT_Last_Length_Stroke_Type_STR_L	Typ av simtag för senaste längd
+TXT_Last_Length_Stroke_Type_STR_M	Simt.typ senaste längd
+TXT_Last_Length_Stroke_Type_STR_S	Simtag sen läng
+TXT_Last_Length_Strokes_STR_L	Simtag för senaste längd
+TXT_Last_Length_Strokes_STR_M	Simtag för senaste längd
+TXT_Last_Length_Strokes_STR_S	Simtag sen. län.
+TXT_Last_Length_Swolf_STR_L	SWOLF för senaste längd
+TXT_Last_Length_Swolf_STR_M	SWOLF för senaste längd
+TXT_Last_Length_Swolf_STR_S	SWOLF sen längd
+TXT_Lengths_STR_L	Längder
+TXT_Lengths_STR_M	Längder
+TXT_Lengths_STR_S	Längder
+TXT_Longest_Ride_STR_L	Längsta cykelrunda!
+TXT_Longest_Run_STR_L	Längsta löpningen!
+TXT_Longest_Swim_STR_L	Längsta simturen!
+TXT_MAR_STR_M	Mar
+TXT_MAY_STR_M	Maj
+TXT_MENU_HISTORY_TOTALS_Monthly_STR_L	Månad
+TXT_MENU_HISTORY_TOTALS_Monthly_Totals_STR_L	Månadssammanställning
+TXT_MENU_HISTORY_TOTALS_Weekly_STR_L	Vecka
+TXT_MENU_HISTORY_TOTALS_Weekly_Totals_STR_L	Veckosammanställning
+TXT_MENU_RECORDS_1000yd_STR_M	1 000 yard
+TXT_MENU_RECORDS_100m_STR_M	100 m
+TXT_MENU_RECORDS_100yd_STR_M	100 yard
+TXT_MENU_RECORDS_10k_STR_M	10 km
+TXT_MENU_RECORDS_1500m_STR_M	1 500 m
+TXT_MENU_RECORDS_1650yd_STR_M	1 650 yard
+TXT_MENU_RECORDS_1_mi_STR_M	1 mil (eng)
+TXT_MENU_RECORDS_1k_STR_M	1 km
+TXT_MENU_RECORDS_1k_SWIM_STR_M	1 000 m
+TXT_MENU_RECORDS_400m_STR_M	400 m
+TXT_MENU_RECORDS_40k_STR_M	40 km
+TXT_MENU_RECORDS_500yd_STR_M	500 yard
+TXT_MENU_RECORDS_5k_STR_M	5 km
+TXT_MENU_RECORDS_750m_STR_M	750 m
+TXT_MENU_RECORDS_Best_Power_STR_M	Bästa kraft
+TXT_MENU_RECORDS_Best_Power_STR_S	Bästa kraft
+TXT_MENU_RECORDS_Clear_All_Records_STR_L	Rensa alla rekord
+TXT_MENU_RECORDS_Clear_Record_STR_L	Rensa rekord
+TXT_MENU_RECORDS_Fastest_1000YD_STR_S	Snabbaste 1 000 yard
+TXT_MENU_RECORDS_Fastest_100M_STR_S	Snabbaste 100 m
+TXT_MENU_RECORDS_Fastest_100YD_STR_S	Snabbaste 100 yard
+TXT_MENU_RECORDS_Fastest_10K_STR_S	Snabbaste 10 km
+TXT_MENU_RECORDS_Fastest_1500M_STR_S	Snabbaste 1 500 m
+TXT_MENU_RECORDS_Fastest_1650YD_STR_S	Snabbaste 1 650 yard
+TXT_MENU_RECORDS_Fastest_1KM_SWIM_STR_S	Snabbaste 1 000 m
+TXT_MENU_RECORDS_Fastest_1K_RUN_STR_S	Snabbaste 1 km
+TXT_MENU_RECORDS_Fastest_400M_STR_S	Snabbaste 400 m
+TXT_MENU_RECORDS_Fastest_40k_STR_S	Snabbaste 40 km
+TXT_MENU_RECORDS_Fastest_500YD_STR_S	Snabbaste 500 yard
+TXT_MENU_RECORDS_Fastest_5K_STR_S	Snabbaste 5 km
+TXT_MENU_RECORDS_Fastest_750M_STR_S	Snabbaste 750 m
+TXT_MENU_RECORDS_Fastest_Half_STR_S	Snabbaste halvmaraton
+TXT_MENU_RECORDS_Fastest_Marathon_STR_S	Snabbaste maraton
+TXT_MENU_RECORDS_Fastest_Mile_STR_S	Snabbaste mile
+TXT_MENU_RECORDS_Half_STR_M	Halvmaraton
+TXT_MENU_RECORDS_Longest_Ride_STR_M	Längsta cykelrunda
+TXT_MENU_RECORDS_Longest_Ride_STR_S	Längsta cykelrunda
+TXT_MENU_RECORDS_Longest_Run_STR_M	Längsta löpning
+TXT_MENU_RECORDS_Longest_Run_STR_S	Längsta löpning
+TXT_MENU_RECORDS_Longest_Swim_STR_M	Längsta simturen
+TXT_MENU_RECORDS_Longest_Swim_STR_S	Längsta simturen
+TXT_MENU_RECORDS_Marathon_STR_M	Maraton
+TXT_MENU_RECORDS_Previous_STR_M	Föregående
+TXT_MENU_RECORDS_Records_STR_S	Rekord
+TXT_MENU_RECORDS_View_Record_STR_L	Visa rekord
+TXT_MESSAGE_BANNER_Acquire_a_GPS_fix_to_access_menu_STR_M	GPS-position behövs för att komma till menyn.
+TXT_MESSAGE_BANNER_Acquire_a_GPS_fix_to_start_the_timer_STR_M	GPS-position behövs för att starta tiduret.
+TXT_MESSAGE_BANNER_Ahead_Of_Virtual_Partner_STR_M	Framför Virtual Partner
+TXT_MESSAGE_BANNER_Approaching_Turn_STR_M	Kommande sväng
+TXT_MESSAGE_BANNER_Arriving_at_Destination_STR_M	Ankommer till
+TXT_MESSAGE_BANNER_Batteries_Low_STR_M	Batterispänningen är låg
+TXT_MESSAGE_BANNER_Behind_Virtual_Partner_STR_M	Bakom Virtual Partner
+TXT_MESSAGE_BANNER_Bike_light_batt_low_STR_M	Låg batterinivå i cykellampan.
+TXT_MESSAGE_BANNER_Bike_light_num_batt_low_STR_M	Låg batterinivå i cykellampan %1.
+TXT_MESSAGE_BANNER_Cad_batt_low_STR_M	Lågt batteri i kadenssensorn.
+TXT_MESSAGE_BANNER_Calibrate_Success_STR_M	Kalibreringen lyckades. Faktor = %1
+TXT_MESSAGE_BANNER_Cancel_target_to_change_profile_STR_M	Avbryt eller slutför målet för att ändra val av profil.
+TXT_MESSAGE_BANNER_Cancel_workout_to_change_profile_STR_M	Avbryt eller avsluta träningspasset för att ändra val av profil.
+TXT_MESSAGE_BANNER_Cannot_Calibrate_STR_M	Återställ aktuell aktivitet före kalibrering.
+TXT_MESSAGE_BANNER_Complete_multisport_activity_to_change_profile_STR_M	Slutför multisportaktiviteten för att ändra val av profil.
+TXT_MESSAGE_BANNER_Database_Error_STR_M	Databasfel
+TXT_MESSAGE_BANNER_Error_Creating_Race_STR_M	Fel vid skapande av lopp.
+TXT_MESSAGE_BANNER_Foot_Pod_Detected_Low_Batt_STR_M	Foot pod batteri är lågt.
+TXT_MESSAGE_BANNER_HR_batt_low_STR_M	Lågt batteri för\npulsmätaren.
+TXT_MESSAGE_BANNER_Headlight_batt_low_STR_M	Låg batterispänning i framlyktan.
+TXT_MESSAGE_BANNER_Headlight_num_batt_low_STR_M	Låg batterispänning i framlyktan %1.
+TXT_MESSAGE_BANNER_Hold_Up_key_to_access_page_options_STR_M	Håll ned uppåtknappen för att komma till sidalternativ.
+TXT_MESSAGE_BANNER_Hold_up_key_to_calibrate_power_STR_M	Håll ned uppknappen för att kalibrera kraftsensorn före varje tur.
+TXT_MESSAGE_BANNER_In_Desired_Zone_STR_M	I önskad zon
+TXT_MESSAGE_BANNER_Invalid_Msg_STR_M	Ogiltigt meddelande
+TXT_MESSAGE_BANNER_Location_Memory_Full_STR_M	Platsminnet är fullt.
+TXT_MESSAGE_BANNER_Low_High_Values_Adjusted_STR_M	Lägsta och högsta varningsvärde har justerats.
+TXT_MESSAGE_BANNER_Memory_Almost_Full_STR_M	Ont om minne. Överför till Garmin Connect.
+TXT_MESSAGE_BANNER_Memory_Full_STR_M	Minnet fullt
+TXT_MESSAGE_BANNER_Multiple_Bike_Sensor__STR_M	Flera cykelsensorer upptäcktes.
+TXT_MESSAGE_BANNER_Multiple_CAD__STR_M	Flera kadenssensorer upptäcktes.
+TXT_MESSAGE_BANNER_Multiple_FP__STR_M	Flera foot pods upptäcktes.
+TXT_MESSAGE_BANNER_Multiple_HR__STR_M	Flera pulssensorer upptäcktes.
+TXT_MESSAGE_BANNER_Multiple_PWR__STR_M	Flera kraftsensorer upptäcktes.
+TXT_MESSAGE_BANNER_Multiple_SPD__STR_M	Flera fartsensorer upptäcktes.
+TXT_MESSAGE_BANNER_Name_Already_Used_STR_M	Namnet används redan.
+TXT_MESSAGE_BANNER_PWR_batt_low_STR_M	Lågt batteri för\nkraftmätaren.
+TXT_MESSAGE_BANNER_Phone_Battery_Low_STR_M	Låg batterinivå i telefonen
+TXT_MESSAGE_BANNER_Race_Memory_Full_STR_M	Tävlingsminnet är fullt.
+TXT_MESSAGE_BANNER_Radar_batt_low_STR_M	Lågt batteri i radarn.
+TXT_MESSAGE_BANNER_Recovery_Heart_Rate_STR_M	Återhämtningspuls %1
+TXT_MESSAGE_BANNER_Shimano_Di2_batt_low_STR_M	Låg batterinivå för Shimano Di2.
+TXT_MESSAGE_BANNER_Slow_Fast_Values_Adjusted_STR_M	Långsammaste och snabbaste varningsvärde har justerats.
+TXT_MESSAGE_BANNER_Speed_Cadence_Battery_Low_STR_M	Lågt batteri i hastighets-/kadenssensorn.
+TXT_MESSAGE_BANNER_Speed_batt_low_STR_M	Lågt batteri för\nfartsensorn.
+TXT_MESSAGE_BANNER_Start_Timer_Workout_Tip_STR_M	Starta tiduret för att börja träna.
+TXT_MESSAGE_BANNER_Taillight_batt_low_STR_M	Låg batterinivå i baklyktan.
+TXT_MESSAGE_BANNER_Taillight_num_batt_low_STR_M	Låg batterinivå i baklyktan %1.
+TXT_MESSAGE_BANNER_Timer_Error_STR_M	Timerfel
+TXT_MESSAGE_BANNER_Varia_Vision_batt_low_STR_M	Låg batterinivå i Varia Vision.
+TXT_MESSAGE_BANNER_Virb_batt_low_STR_M	Låg batterinivå i VIRB.
+TXT_MESSAGE_BANNER_Weight_Scale_Detected_STR_M	Viktskala identifierad
+TXT_MESSAGE_BANNER_Wheel_Size_Computed_STR_M	Hjulstorlek har\nberäknats.
+TXT_MESSAGE_BANNER_to_view_installed_apps_FRMT_STR_M	%1 för att visa Connect IQ-appar.
+TXT_METRONOME_PAGE_Metronome_STR_S	Metronom
+TXT_MULTISPORT_TRANSITION_Transition_FRMT_STR_M	Övergång %1
+TXT_MUSIC_PAGE_Hold_Up_for_Track_STR_M	Håll upp-knappen för spår
+TXT_MUSIC_PAGE_Hold_Up_for_Volume_STR_M	Håll upp-knappen för volym
+TXT_MUSIC_PAGE_Next_STR_M	Nästa
+TXT_MUSIC_PAGE_Play_Pause_STR_M	Play/Pause
+TXT_MUSIC_PAGE_Previous_STR_M	Föregående
+TXT_MUSIC_PAGE_Volume_Down_STR_M	Sänk volym
+TXT_MUSIC_PAGE_Volume_Up_STR_M	Höj volym
+TXT_MY_DAY_CAL_FRMT_STR_L	%1 kal
+TXT_MY_DAY_INT_MIN_FRMT_STR_S	%1 minuter
+TXT_MY_DAY_NO_DATA_STR_S	Ingen aktiv. sparad
+TXT_MY_DAY_SLEEP_TIME_FRMT_STR_S	%1t %2m
+TXT_MY_DAY_TITLE_STR_M	Min dag
+TXT_M_STR_M	M
+TXT_Max_Lap_PWR_STR_L	Maximal kraft för varv
+TXT_Max_Lap_PWR_STR_M	Maximal kraft för varv
+TXT_Max_Lap_PWR_STR_S	Max. kraft varv
+TXT_Max_Last_Lap_PWR_STR_L	Maximal kraft för senaste varv
+TXT_Max_Last_Lap_PWR_STR_S	Maxkraft s. varv
+TXT_Max_PWR_Last_Lap_STR_M	Maxkraft senaste varv
+TXT_Max_PWR_STR_L	Max. Kraft
+TXT_Max_PWR_STR_M	Maximal kraft
+TXT_Max_PWR_STR_S	Max. Kraft
+TXT_Maximum_Speed_STR_L	Maxfart
+TXT_Maximum_Speed_STR_M	Maxfart
+TXT_Maximum_Speed_STR_S	Max. fart
+TXT_Mixed_STR	Blandat
+TXT_Mixed_STR_L	Blandat
+TXT_Mixed_STR_M	Blandat
+TXT_Mon_FRMT_STR_M	Måndag %1
+TXT_Mon_STR_M	Mån
+TXT_Mov_Avg_L_R_Balance_10s_STR_L	10 sek medelbalans
+TXT_Mov_Avg_L_R_Balance_10s_STR_M	10 sek medelbalans
+TXT_Mov_Avg_L_R_Balance_10s_STR_S	10 s medelbal. %
+TXT_Mov_Avg_L_R_Balance_30s_STR_L	30 sek medelbalans
+TXT_Mov_Avg_L_R_Balance_30s_STR_M	30 sek medelbalans
+TXT_Mov_Avg_L_R_Balance_30s_STR_S	30 s medelbal. %
+TXT_Mov_Avg_L_R_Balance_3s_STR_L	3 sek medelbalans
+TXT_Mov_Avg_L_R_Balance_3s_STR_M	3 sek medelbalans
+TXT_Mov_Avg_L_R_Balance_3s_STR_S	3 s medelbal. %
+TXT_Mov_Avg_PWR_10s_STR_L	10 sek medelkraft
+TXT_Mov_Avg_PWR_10s_STR_M	10 sek medelkraft
+TXT_Mov_Avg_PWR_10s_STR_S	10 s medelkraft
+TXT_Mov_Avg_PWR_30s_STR_L	30 sek medelkraft
+TXT_Mov_Avg_PWR_30s_STR_M	30 sek medelkraft
+TXT_Mov_Avg_PWR_30s_STR_S	30 s medelkraft
+TXT_Mov_Avg_PWR_3s_STR_L	3 sek medelkraft
+TXT_Mov_Avg_PWR_3s_STR_M	3 sek medelkraft
+TXT_Mov_Avg_PWR_3s_STR_S	3 sek medelkraft
+TXT_Multisport_Time_STR_L	Multisporttid
+TXT_Multisport_Time_STR_M	Multisporttid
+TXT_Multisport_Time_STR_S	Multisporttid
+TXT_Muscle_O2_Sat_Percent_STR_L	Muskelsyremättnad %
+TXT_Muscle_O2_Sat_Percent_STR_M	SmO2
+TXT_Muscle_O2_Sat_Percent_STR_S	SmO2
+TXT_Muscle_O2_Sat_Total_STR_L	Totalhemoglobin
+TXT_Muscle_O2_Sat_Total_STR_M	tHb
+TXT_Muscle_O2_Sat_Total_STR_S	tHb
+TXT_NATIVE_APP_Stress_Score_STR_EXT	Träningsbelastning
+TXT_NATIVE_APP_Stress_Score_STR_M	Träningsbelastning
+TXT_NAVIGATION_Back_To_Start_STR_S	Tillb. t. start
+TXT_NAVIGATION_Course_Complete_STR_S	Bana slutförd
+TXT_NOTIFICATION_Cadence_Connected_STR_M	Kadenssensor ansluten
+TXT_NOTIFICATION_Charged_STR_M	Laddad
+TXT_NOTIFICATION_Charging_STR_M	Laddar
+TXT_NOTIFICATION_Di2_Connected_STR_M	Di2 ansluten
+TXT_NOTIFICATION_Foot_Pod_Connected_STR_M	Foot pod ansluten
+TXT_NOTIFICATION_GPS_is_Ready_STR_M	GPS är klar
+TXT_NOTIFICATION_HR_Connected_STR_M	Extern pulsmätare ansluten
+TXT_NOTIFICATION_Headlight_Connected_STR_M	Framlykta ansluten
+TXT_NOTIFICATION_Headlight_Disconnected_STR_M	Framlykta frånkopplad
+TXT_NOTIFICATION_Light_Connected_STR_M	Lampa ansluten
+TXT_NOTIFICATION_Light_Disconnected_STR_M	Lampa frånkopplad
+TXT_NOTIFICATION_Livetrack_Ended_STR_M	LiveTrack avslutad
+TXT_NOTIFICATION_Livetrack_Started_STR_M	LiveTrack startad
+TXT_NOTIFICATION_MO2_Connected_STR_M	Muskelsyre – ansluten
+TXT_NOTIFICATION_Move_STR_M	Rör dig!
+TXT_NOTIFICATION_Network_Formed_STR_M	Nätverk har skapats
+TXT_NOTIFICATION_Network_Forming_STR_M	Nätverk skapas
+TXT_NOTIFICATION_Off_Course_STR_M	Ur kurs
+TXT_NOTIFICATION_On_Course_STR_M	På banan
+TXT_NOTIFICATION_Phone_Connected_STR_M	Telefonen ansluten
+TXT_NOTIFICATION_Phone_Disconnected_STR_M	Telefonen frånkopplad
+TXT_NOTIFICATION_Power_Connected_STR_M	Kraft ansluten
+TXT_NOTIFICATION_Radar_Connected_STR_M	Radar ansluten
+TXT_NOTIFICATION_Radar_Vehicle_Approaching_STR_M	Fordon närmar sig
+TXT_NOTIFICATION_Read_STR_M	Läs
+TXT_NOTIFICATION_SEGMENT_Off_Segment_STR_M	Utanför segmentet
+TXT_NOTIFICATION_Sensor_Connected_FRMT_STR_M	%1 ansluten
+TXT_NOTIFICATION_Sensor_Disconnected_FRMT_STR_M	%1 frånkopplad
+TXT_NOTIFICATION_Speed_Cadence_Connected_STR_M	Fart-/kadenssensor ansluten
+TXT_NOTIFICATION_Speed_Connected_STR_M	Fart ansluten
+TXT_NOTIFICATION_TEMPE_Connected_STR_M	tempe är ansluten
+TXT_NOTIFICATION_Tail_Light_Connected_STR_M	Baklykta ansluten
+TXT_NOTIFICATION_Tail_Light_Disconnected_STR_M	Baklykta frånkopplad
+TXT_NOTIFICATION_Transfer_Complete_STR_M	Överföring klar
+TXT_NOTIFICATION_Transfer_Failed_STR_M	Överföringen misslyckades
+TXT_NOTIFICATION_Varia_Vision_Connected_STR_M	Varia Vision ansluten
+TXT_NOTIFICATION_Virb_Connected_STR_M	VIRB ansluten
+TXT_NOTIFICATION_Wait_for_GPS_STR_M	Vänta på GPS
+TXT_NOTIFICATION_Widget_Added_STR_M	Widget har lagts till
+TXT_NOTIFICATION_Wrist_HR_Ready_STR_M	Pulsmätn. vid handled, klar
+TXT_NOV_STR_M	Nov
+TXT_NUM_PICK_AM_STR	fm
+TXT_NUM_PICK_Cal_FRMT_STR_M	%1 kalorier
+TXT_NUM_PICK_Fields_FRMT_STR_M	%1 fält
+TXT_NUM_PICK_Lengths_FRMT_STR_M	%1 längder
+TXT_NUM_PICK_PERCENT_FTP_STR_M	% FTP
+TXT_NUM_PICK_PM_STR	em
+TXT_NUM_PICK_Reps_FRMT_STR_M	%1 repetitioner
+TXT_NUM_PICK_Set_BPM_STR_M	Ställ in metron.
+TXT_NUM_PICK_Set_Cadence_Bike_STR_M	Ställ in kadens
+TXT_NUM_PICK_Set_Cadence_Run_STR_M	Ställ in kadens
+TXT_NUM_PICK_Set_Calib_STR_M	Ställ in kalibr.fkt.
+TXT_NUM_PICK_Set_Calories_STR_M	Ställ in kalorier
+TXT_NUM_PICK_Set_Distance_STR_M	Ställ in sträcka
+TXT_NUM_PICK_Set_Feet_STR_M	Ställ in antal fot
+TXT_NUM_PICK_Set_Heart_Rate_STR_M	Ställ in puls
+TXT_NUM_PICK_Set_Height_STR_M	Ange längd
+TXT_NUM_PICK_Set_Hours_STR_M	Ställ in timmar
+TXT_NUM_PICK_Set_Inches_STR_M	Ställ in tum
+TXT_NUM_PICK_Set_LTHR_STR_M	Inst puls mj.sy.tr.
+TXT_NUM_PICK_Set_Layout_STR_M	Ställ in layout
+TXT_NUM_PICK_Set_Length_STR_M	Ställ in längd
+TXT_NUM_PICK_Set_Lengths_STR_M	Ställ in längder
+TXT_NUM_PICK_Set_Minutes_STR_M	Ställ in minuter
+TXT_NUM_PICK_Set_Power_STR_M	Ställ in kraft
+TXT_NUM_PICK_Set_Reps_STR_M	Ställ in repetition
+TXT_NUM_PICK_Set_Seconds_STR_M	Ställ in sekunder
+TXT_NUM_PICK_Set_Speed_STR_M	Ange fart
+TXT_NUM_PICK_Set_Stroke_Paddle_STR_M	Ställ in tagtempo
+TXT_NUM_PICK_Set_Stroke_Swim_STR_M	Ställ in sim.temp.
+TXT_NUM_PICK_Set_Tooth_Count_STR_M	Ställ in ant. kugg
+TXT_NUM_PICK_Set_Weight_STR_M	Ställ in vikt
+TXT_NUM_PICK_Set_Wheel_Size_STR_M	Ange hjulstorlek
+TXT_NUM_PICK_Set_Year_STR_M	Ange år
+TXT_NUM_PICK_Set_Zone_STR_M	Ställ in zon
+TXT_NUM_PICK_m_STR_M	m
+TXT_No_records_set_or_downloaded_STR_M	Inga rekord har ställts in eller hämtats.
+TXT_Norm_Lap_PWR_STR_L	Normalized Power för varv
+TXT_Norm_Lap_PWR_STR_M	NP - Varv
+TXT_Norm_Lap_PWR_STR_S	NP - Varv
+TXT_Norm_Last_Lap_PWR_STR_L	Normalized Power – senaste varvet
+TXT_Norm_Last_Lap_PWR_STR_M	NP för senaste varv
+TXT_Norm_Last_Lap_PWR_STR_S	NP senaste varv
+TXT_Norm_PWR_STR_L	Normalized Power
+TXT_Norm_PWR_STR_M	Normalized Power
+TXT_Norm_PWR_STR_S	NP
+TXT_OCT_STR_M	Okt.
+TXT_OHR_MENU_Auto_STR_M	Auto
+TXT_OHR_MENU_Heart_Rate_Monitor_STR_L	Puls
+TXT_OHR_MENU_Options_STR_L	Alternativ
+TXT_PADDLE_Avg_Stroke_Distance_STR_L	Medelpaddel-/årtagsdistans
+TXT_PADDLE_Avg_Stroke_Distance_STR_M	Med. pad.-/årtagsdistans
+TXT_PADDLE_Avg_Stroke_Distance_STR_S	Med. tagdistans
+TXT_PADDLE_Avg_Stroke_Rate_STR_L	Medelpaddel-/årtagstempo
+TXT_PADDLE_Avg_Stroke_Rate_STR_M	Med. pad.-/årtagstempo
+TXT_PADDLE_Avg_Stroke_Rate_STR_S	Med. tagtempo
+TXT_PADDLE_Lap_Stroke_Distance_STR_L	Paddel-/årtagsdistans, längd
+TXT_PADDLE_Lap_Stroke_Distance_STR_M	Tagdistans, längd
+TXT_PADDLE_Lap_Stroke_Distance_STR_S	Tagdist., längd
+TXT_PADDLE_Lap_Stroke_Rate_STR_L	Paddel-/årtagstempo, längd
+TXT_PADDLE_Lap_Stroke_Rate_STR_M	Tagtempo, längd
+TXT_PADDLE_Lap_Stroke_Rate_STR_S	Tagtempo, längd
+TXT_PADDLE_Lap_Strokes_STR_L	Paddel-/årtag, längd
+TXT_PADDLE_Lap_Strokes_STR_M	Paddel-/årtag, längd
+TXT_PADDLE_Lap_Strokes_STR_S	Tag, längd
+TXT_PADDLE_Last_Lap_Stroke_Distance_STR_L	Pad.-/årtagsdistans, senaste längd
+TXT_PADDLE_Last_Lap_Stroke_Distance_STR_M	Tagdistans, senaste längd
+TXT_PADDLE_Last_Lap_Stroke_Distance_STR_S	Tagdist., se. län.
+TXT_PADDLE_Last_Lap_Stroke_Rate_STR_L	Pad.-/årtagstempo, senaste längd
+TXT_PADDLE_Last_Lap_Stroke_Rate_STR_M	Tagtempo, senaste längd
+TXT_PADDLE_Last_Lap_Stroke_Rate_STR_S	Tagtempo, se. lä.
+TXT_PADDLE_Last_Lap_Strokes_STR_L	Paddel-/årtag, senaste längd
+TXT_PADDLE_Last_Lap_Strokes_STR_M	Tag, senaste längd
+TXT_PADDLE_Last_Lap_Strokes_STR_S	Tag, sen. längd
+TXT_PADDLE_Stroke_Rate_STR_L	Paddeltagstempo
+TXT_PADDLE_Stroke_Rate_STR_M	Paddeltagstempo
+TXT_PADDLE_Stroke_Rate_STR_S	Paddeltagtempo
+TXT_PADDLE_Strokes_Distance_STR_L	Distans per paddel-/årtag
+TXT_PADDLE_Strokes_Distance_STR_M	Distans per paddel-/årtag
+TXT_PADDLE_Strokes_Distance_STR_S	Distans per tag
+TXT_PADDLE_Strokes_STR_L	Årtag
+TXT_PADDLE_Strokes_STR_M	Årtag
+TXT_PADDLE_Strokes_STR_S	Årtag
+TXT_PERCENT_FTP_STR	% FTP
+TXT_PERCENT_HRR_STR	% HRR
+TXT_PERCENT_Max_STR	% max.
+TXT_PERF_COND_DESC_Baseline_STR_M	Grundnivå
+TXT_PERF_COND_DESC_Excellent_STR_M	Utmärkt
+TXT_PERF_COND_DESC_Fair_STR_M	Ganska bra
+TXT_PERF_COND_DESC_Good_STR_M	Bra
+TXT_PERF_COND_DESC_Poor_STR_M	Dåligt
+TXT_PERF_COND_TITL_Performance_Condition_STR_S	Prestationsförhållande
+TXT_PROFILE_COLOR_Blue_STR_M	Blå
+TXT_PROFILE_COLOR_Choose_Profile_Color_STR_S	Välj profilfärg
+TXT_PROFILE_COLOR_Green_STR_M	Grön
+TXT_PROFILE_COLOR_Light_Blue_STR_M	Ljusblå
+TXT_PROFILE_COLOR_Light_Green_STR_M	Ljusgrön
+TXT_PROFILE_COLOR_Orange_STR_M	Orange
+TXT_PROFILE_COLOR_Pink_STR_M	Rosa
+TXT_PROFILE_COLOR_Purple_STR_M	Lila
+TXT_PROFILE_COLOR_Red_STR_M	Röd
+TXT_PROFILE_COLOR_Yellow_STR_M	Gul
+TXT_PWR_Crnt_STR_L	Kraft
+TXT_PWR_Crnt_STR_M	Kraft
+TXT_PWR_Crnt_STR_S	Kraft
+TXT_PWR_Pftp_STR_L	%FTP
+TXT_PWR_Pftp_STR_M	%FTP
+TXT_PWR_Pftp_STR_S	%FTP
+TXT_PWR_Time_in_Zone_0_STR_L	Tid i kraftzon 0
+TXT_PWR_Time_in_Zone_0_STR_M	Tid i kraftzon 0
+TXT_PWR_Time_in_Zone_0_STR_S	Kraftzon 0
+TXT_PWR_Time_in_Zone_1_STR_L	Tid i kraftzon 1
+TXT_PWR_Time_in_Zone_1_STR_M	Tid i kraftzon 1
+TXT_PWR_Time_in_Zone_1_STR_S	Kraftzon 1
+TXT_PWR_Time_in_Zone_2_STR_L	Tid i kraftzon 2
+TXT_PWR_Time_in_Zone_2_STR_M	Tid i kraftzon 2
+TXT_PWR_Time_in_Zone_2_STR_S	Kraftzon 2
+TXT_PWR_Time_in_Zone_3_STR_L	Tid i kraftzon 3
+TXT_PWR_Time_in_Zone_3_STR_M	Tid i kraftzon 3
+TXT_PWR_Time_in_Zone_3_STR_S	Kraftzon 3
+TXT_PWR_Time_in_Zone_4_STR_L	Tid i kraftzon 4
+TXT_PWR_Time_in_Zone_4_STR_M	Tid i kraftzon 4
+TXT_PWR_Time_in_Zone_4_STR_S	Kraftzon 4
+TXT_PWR_Time_in_Zone_5_STR_L	Tid i kraftzon 5
+TXT_PWR_Time_in_Zone_5_STR_M	Tid i kraftzon 5
+TXT_PWR_Time_in_Zone_5_STR_S	Kraftzon 5
+TXT_PWR_Time_in_Zone_6_STR_L	Tid i kraftzon 6
+TXT_PWR_Time_in_Zone_6_STR_M	Tid i kraftzon 6
+TXT_PWR_Time_in_Zone_6_STR_S	Kraftzon 6
+TXT_PWR_Time_in_Zone_7_STR_L	Tid i kraftzon 7
+TXT_PWR_Time_in_Zone_7_STR_M	Tid i kraftzon 7
+TXT_PWR_Time_in_Zone_7_STR_S	Kraftzon 7
+TXT_PWR_Zone_FRMT_STR	Kraftzon %1
+TXT_PWR_Zone_STR_L	Kraftzon
+TXT_PWR_Zone_STR_M	Kraftzon
+TXT_PWR_Zone_STR_S	Kraftzon
+TXT_Pace_500m_Avg_Run_STR_L	Medeltempo för 500 m
+TXT_Pace_500m_Avg_Run_STR_M	Medeltempo för 500 m
+TXT_Pace_500m_Avg_Run_STR_S	M.tempo 500 m
+TXT_Pace_500m_Crnt_Lap_STR_L	Medeltempo för 500 m, aktuellt varv
+TXT_Pace_500m_Crnt_Lap_STR_M	M.t. 500m, ak. v.
+TXT_Pace_500m_Crnt_Lap_STR_S	M.t. 500m, ak. v.
+TXT_Pace_500m_Last_Lap_STR_L	Medeltempo för 500 m, senaste varv
+TXT_Pace_500m_Last_Lap_STR_M	Tempo 500 m sen vrv
+TXT_Pace_500m_Last_Lap_STR_S	M.t. 500m, se. v.
+TXT_Pace_500m_STR_L	Tempo för 500 m
+TXT_Pace_500m_STR_M	Tempo för 500 m
+TXT_Pace_500m_STR_S	Tempo för 500 m
+TXT_Pace_Avg_Run_STR_L	Medeltempo
+TXT_Pace_Avg_Run_STR_M	Medeltempo
+TXT_Pace_Avg_Run_STR_S	Medeltempo
+TXT_Pace_Crnt_Lap_STR_L	Varvtempo
+TXT_Pace_Crnt_Lap_STR_M	Varvtempo
+TXT_Pace_Crnt_Lap_STR_S	Varvtempo
+TXT_Pace_Last_Lap_STR_L	Sen. varvtempo
+TXT_Pace_Last_Lap_STR_M	Sen. varvtempo
+TXT_Pace_Last_Lap_STR_S	Sen. varvtempo
+TXT_Pace_SHORT_STR_S	Tempo
+TXT_Pace_STR_L	Tempo
+TXT_Pace_STR_M	Tempo
+TXT_Pace_STR_S	Tempo
+TXT_Pedal_Smoothness_STR_L	Pedaljämnhet
+TXT_Pedal_Smoothness_STR_M	Pedaljämnhet
+TXT_Performance_Cond_STR_L	Prestationsförhållande
+TXT_Performance_Cond_STR_M	Prestationsförhållande
+TXT_Performance_Cond_STR_S	Prestationsförh
+TXT_Power_save_in_STR_M	Strömspar om
+TXT_Press_Lap_For_Rest_STR	Tryck på Lap för vila
+TXT_Press_Up_or_Down_FRMT_STR_M	Tryck på %1 eller %2
+TXT_RBS_WIDGET_CALORIES_STR_M	Kalorier
+TXT_RBS_WIDGET_DISTANCE_STR_M	Distans
+TXT_RBS_WIDGET_HEART_RATE_STR_M	Med.puls
+TXT_RBS_WIDGET_LAST_BIKE_STR_M	Senaste tur
+TXT_RBS_WIDGET_LAST_RUN_STR_M	Senaste löptur
+TXT_RBS_WIDGET_LAST_SPORT_STR_M	Senaste sport
+TXT_RBS_WIDGET_LAST_SWIM_STR_M	Senaste simning
+TXT_RBS_WIDGET_PACE_STR_M	Tempo
+TXT_RBS_WIDGET_SPEED_STR_M	Fart
+TXT_RBS_WIDGET_STRK_RATE_PADDLE_STR_M	Tagtmpo
+TXT_RBS_WIDGET_STRK_RATE_SWIM_STR_M	Sim.tem.
+TXT_RBS_WIDGET_TIME_STR_M	Tid
+TXT_RBS_WIDGET_WEEK_STR_M	Vecka
+TXT_RHR_HIST_PAGE_Avg_FRMT_STR_M	M.-RHR %1
+TXT_RHR_HIST_PAGE_Last_7_Days_STR_M	Sen. 7 dagar
+TXT_RUN_Avg_Cadence_STR_L	Medelkadens
+TXT_RUN_Avg_Cadence_STR_M	Medelkadens
+TXT_RUN_Avg_Cadence_STR_S	Medelkadens
+TXT_RUN_Cadence_STR_L	Kadens
+TXT_RUN_Cadence_STR_M	Kadens
+TXT_RUN_Cadence_STR_S	Kadens
+TXT_RUN_Lap_Cadence_STR_L	Varvkadens
+TXT_RUN_Lap_Cadence_STR_M	Varvkadens
+TXT_RUN_Lap_Cadence_STR_S	Varvkadens
+TXT_RUN_Last_Lap_Cadence_STR_L	Senaste varvets kadens
+TXT_RUN_Last_Lap_Cadence_STR_M	Senaste varvets kadens
+TXT_RUN_Last_Lap_Cadence_STR_S	Sen. varvkadens
+TXT_RUN_Segment_Pace_STR_L	Segment, tempo
+TXT_RUN_Segment_Pace_STR_M	Segment, tempo
+TXT_RUN_Segment_Pace_STR_S	Segment, tempo
+TXT_RUN_Segment_Speed_STR_L	Segment, fart
+TXT_RUN_Segment_Speed_STR_M	Segment, fart
+TXT_RUN_Segment_Speed_STR_S	Segment, fart
+TXT_Rear_Gear_STR_L	Bak
+TXT_Rear_Gear_STR_M	Bak
+TXT_Rear_Gear_STR_S	Bak
+TXT_Recover_STR	Återhämt.
+TXT_Rep_Time_STR	Repetitionstid
+TXT_Repeat_FRMT_STR	Upprepa %1
+TXT_Repeat_On_STR_L	Repetera vid
+TXT_Repeat_On_STR_M	Repetera vid
+TXT_Repeat_On_STR_S	Repetera vid
+TXT_Repeat__FRMT_STR	Upprepa %1-%2
+TXT_Repetition_STR_L	Upprepning
+TXT_Repetition_STR_M	Upprepning
+TXT_Repetition_STR_S	Upprepning
+TXT_Rest_STR	Vila
+TXT_Rest_Time_STR	Vilotid
+TXT_Rest_Timer_STR_L	Vilotimer
+TXT_Rest_Timer_STR_M	Vilotimer
+TXT_Rest_Timer_STR_S	Vilotimer
+TXT_Run_SHORT_STR	Löpning
+TXT_Run_STR	Löpning
+TXT_SEGMENT_APPROACHING_PAGE_Approaching_STR_M	Ankommer
+TXT_SEGMENT_COMPLETE_AHEAD_STR_M	FÖRE
+TXT_SEGMENT_COMPLETE_BEHIND_STR_M	EFTER
+TXT_SEGMENT_COMPLETE_Segment_Complete_STR_M	Segmentet slutfört
+TXT_SEGMENT_START_PAGE_Go_STR_M	Kör!
+TXT_SELECT_ALARM_REMOVE_No_STR_L	Nej
+TXT_SELECT_ALARM_REMOVE_Remove_STR_L	Ta bort?
+TXT_SELECT_ALARM_REMOVE_Yes_STR_L	Ja
+TXT_SELECT_BLUETOOTH_Failed_to_end_LiveTrack_session_STR_M	Det gick inte att avsluta LiveTrack-sessionen.
+TXT_SELECT_BLUETOOTH_Follow_steps_on_Garmin_Connect_Mobile_STR_M	Para ihop genom att följa stegen på Garmin Connect Mobile.
+TXT_SELECT_BLUETOOTH_Try_Again_STR_L	Försök igen
+TXT_SELECT_CHOOSE_SENSOR_Choose_Sensor_STR_L	Flera sensorer hittades. Välj en sensor.
+TXT_SELECT_COLOR_Black_STR_L	Svart
+TXT_SELECT_COLOR_White_STR_L	Vit
+TXT_SELECT_COURSE_CANCEL_Continue_STR_M	Fortsätt
+TXT_SELECT_COURSE_CANCEL_This_will_cancel_STR_M	Det här avbryter aktuell bana.
+TXT_SELECT_CRANK_LENGTH_Auto_STR_L	Auto
+TXT_SELECT_CRANK_LENGTH_Crank_Length_STR_L	Longitud de biela
+TXT_SELECT_CRANK_LENGTH_Manual_STR_L	Manuell
+TXT_SELECT_DATA_RECORDING_Every_Second_STR_L	Varje sekund
+TXT_SELECT_DATA_RECORDING_Smart_STR_L	Smart
+TXT_SELECT_DISTANCE_UNITS_Kilometers_STR_L	Kilometer
+TXT_SELECT_DISTANCE_UNITS_Miles_STR_L	Engelska mil
+TXT_SELECT_ELEVATION_UNITS_Feet_STR_L	Fot
+TXT_SELECT_ELEVATION_UNITS_Meters_STR_L	Meter
+TXT_SELECT_FORMAT_Show_Pace_STR_L	Visa tempo
+TXT_SELECT_FORMAT_Show_Speed_STR_L	Visa fart
+TXT_SELECT_FTP_Guided_Complete_STR_M	Testet har slutförts när FTP har hittats.
+TXT_SELECT_FTP_Guided_Intensity_STR_M	Intensitetsmålen ökar var tredje till var fjärde minut.
+TXT_SELECT_FTP_Guided_Warmup_STR_M	Värm upp långsamt och försiktigt i 10 till 20 minuter.
+TXT_SELECT_GENDER_Female_STR_L	Kvinna
+TXT_SELECT_GENDER_Male_STR_L	Man
+TXT_SELECT_HEIGHT_UNITS_Centimeters_STR_L	Centimeter
+TXT_SELECT_HEIGHT_UNITS_Feet_STR_L	Fot
+TXT_SELECT_LACTATE_THRESHOLD_BUTN_Continue_STR_L	Fortsätt
+TXT_SELECT_LACTATE_THRESHOLD_BUTN_Done_STR_L	Klar
+TXT_SELECT_LACTATE_THRESHOLD_Guided_Complete_STR_M	Testet har slutförts när tröskelvärdet har hittats.
+TXT_SELECT_LACTATE_THRESHOLD_Guided_Intensity_STR_M	Intensitetsmålen ökar var tredje till var fjärde minut.
+TXT_SELECT_LACTATE_THRESHOLD_Guided_Warmup_STR_M	Värm upp långsamt i 10 till 15 minuter.
+TXT_SELECT_LIGHT_NETWORK_CONFIG_Auto_STR_L	Auto
+TXT_SELECT_LIGHT_NETWORK_CONFIG_Individual_STR_L	Egen
+TXT_SELECT_LTHR_UPDATE_ZONES_Update_HR_Zones_STR_M	Uppdatera pulszoner med tröskelpulsvärdet?
+TXT_SELECT_MAP_ORIENTATION_North_Up_STR_L	Norr upp
+TXT_SELECT_MAP_ORIENTATION_Track_Up_STR_L	Spår uppåt
+TXT_SELECT_NO_HRM_CONNECTION_No_HRM_Connection_STR_L	Ingen pulsmätare ansluten
+TXT_SELECT_NO_HRM_CONNECTION_Search_Again_STR_L	Sök igen
+TXT_SELECT_NO_HRM_CONNECTION_Skip_STR_L	Hoppa över
+TXT_SELECT_PACE_SPEED_UNITS_Kilometers_STR_L	Kilometer
+TXT_SELECT_PACE_SPEED_UNITS_Miles_STR_L	Engelska mil
+TXT_SELECT_PAGE_APPLY_PROFILE_Apply_profile_FRMT_STR_M	Använd %1-profil?
+TXT_SELECT_PAGE_Add_STR_M	Lägg till
+TXT_SELECT_PAGE_CHANGE_REMOVE_PROFILE_Change_STR_L	Ändra
+TXT_SELECT_PAGE_CHANGE_REMOVE_PROFILE_Remove_STR_L	Ta bort
+TXT_SELECT_PAGE_Continue_STR_M	Fortsätt
+TXT_SELECT_PAGE_Disable_STR_L	Avaktivera
+TXT_SELECT_PAGE_EDIT_AP_SETTINGS_Done_STR_L	Klar
+TXT_SELECT_PAGE_EDIT_AP_SETTINGS_Edit_Settings_STR_L	Ändra inställningar
+TXT_SELECT_PAGE_Enable_STR_L	Aktivera
+TXT_SELECT_PAGE_Heart_Rate_STR_L	Puls
+TXT_SELECT_PAGE_INCLUDE_TRANSITIONS_No_STR_L	Nej
+TXT_SELECT_PAGE_INCLUDE_TRANSITIONS_Yes_STR_L	Ja
+TXT_SELECT_PAGE_No_STR_L	Nej
+TXT_SELECT_PAGE_Off_STR_L	Av
+TXT_SELECT_PAGE_On_STR_L	På
+TXT_SELECT_PAGE_PROFILE_REMOVAL_WARNING_Remove_STR_M	Ta bort
+TXT_SELECT_PAGE_PROFILE_REMOVAL_WARNING_This_will_modify_and_remove_multisport_profiles_FRMT_STR_M	Det här tar bort %1 och ändrar %2 multisportprofiler.
+TXT_SELECT_PAGE_PROFILE_REMOVAL_WARNING_This_will_modify_multisport_profiles_FRMT_STR_M	Det här ändrar %1 multisportprofiler.
+TXT_SELECT_PAGE_PROFILE_REMOVAL_WARNING_This_will_modify_the_profile_FRMT_STR_M	Det här ändrar multisportprofilen: %1.
+TXT_SELECT_PAGE_PROFILE_REMOVAL_WARNING_This_will_remove_multisport_profiles_FRMT_STR_M	Det här tar bort %1 multisportprofiler.
+TXT_SELECT_PAGE_PROFILE_REMOVAL_WARNING_This_will_remove_the_profile_FRMT_STR_M	Det här tar bort multisportprofilen: %1.
+TXT_SELECT_PAGE_Power_STR_L	Kraft
+TXT_SELECT_PAGE_TITL_BIKE_Delete_Segment_STR_M	Ta bort segment?
+TXT_SELECT_PAGE_TITL_BIKE_Stop_segment_STR_M	Stoppa segment?
+TXT_SELECT_PAGE_TITL_Background_STR_M	Bakgrund
+TXT_SELECT_PAGE_TITL_Cancel_STR_M	Avbryta?
+TXT_SELECT_PAGE_TITL_Cancel_measurement_STR_M	Avbryta mätning?
+TXT_SELECT_PAGE_TITL_Cancel_race_STR_M	Avbryt lopp?
+TXT_SELECT_PAGE_TITL_Cardio_STR_M	Kondition
+TXT_SELECT_PAGE_TITL_Choose_Zones_STR_M	Välj zoner
+TXT_SELECT_PAGE_TITL_Clear_All_STR_M	Rensa alla?
+TXT_SELECT_PAGE_TITL_Clear_Record_STR_M	Rensa rekord?
+TXT_SELECT_PAGE_TITL_Clear_user_data_STR_M	Radera användardata?
+TXT_SELECT_PAGE_TITL_Configuration_STR_M	Konfiguration
+TXT_SELECT_PAGE_TITL_Cross_STR_M	Längdskidåkning
+TXT_SELECT_PAGE_TITL_Cycling_STR_M	Cykling
+TXT_SELECT_PAGE_TITL_Data_Recording_STR_M	Dataregistrering
+TXT_SELECT_PAGE_TITL_Delete_Activities_STR_M	Ta bort aktiviteter?
+TXT_SELECT_PAGE_TITL_Delete_Activity_STR_M	Ta bort aktivitet?
+TXT_SELECT_PAGE_TITL_Delete_Course_STR_M	Ta bort banan?
+TXT_SELECT_PAGE_TITL_Delete_Location_STR_M	Ta bort plats?
+TXT_SELECT_PAGE_TITL_Delete_Workout_STR_M	Ta bort träningspass?
+TXT_SELECT_PAGE_TITL_Discard_STR_M	Ta bort?
+TXT_SELECT_PAGE_TITL_Distance_STR_M	Distans
+TXT_SELECT_PAGE_TITL_Elevation_STR_M	Höjd
+TXT_SELECT_PAGE_TITL_End_Live_Track_STR_M	Avsluta LiveTrack?
+TXT_SELECT_PAGE_TITL_Exit_Sleep_Mode_STR_M	Avsluta viloläget?
+TXT_SELECT_PAGE_TITL_FTP_hrm_required_STR_M	Bröstpulsmätare (HRM) och kraftsensor krävs för att uppskatta FTP.
+TXT_SELECT_PAGE_TITL_Fast_Alert_STR_M	Varning för snabbt tempo
+TXT_SELECT_PAGE_TITL_For_best_results_STR_M	För bästa resultat bör du mäta vid samma tidpunkt varje dag.
+TXT_SELECT_PAGE_TITL_Gender_STR_M	Kön
+TXT_SELECT_PAGE_TITL_Height_STR_M	Längd
+TXT_SELECT_PAGE_TITL_High_Alert_STR_M	Högt larm
+TXT_SELECT_PAGE_TITL_Hiking_STR_M	Vandring
+TXT_SELECT_PAGE_TITL_Include_transitions_STR_M	Ta med övergångar?
+TXT_SELECT_PAGE_TITL_Keyboard_Cancel_Confirm_STR_M	Stänga utan att spara?
+TXT_SELECT_PAGE_TITL_LTHR_hrm_required_STR_M	Bröstpulsmätare (HRM) krävs för att uppskatta din mjölksyratröskel.
+TXT_SELECT_PAGE_TITL_LTHR_not_estimated_STR_M	Pulsvärde f. mjölk-syratrösk. ej upp-mätt.
+TXT_SELECT_PAGE_TITL_Low_Alert_STR_M	Lågt larm
+TXT_SELECT_PAGE_TITL_Orientation_STR_M	Orientering
+TXT_SELECT_PAGE_TITL_Other_STR_M	Annan
+TXT_SELECT_PAGE_TITL_Pace_Speed_STR_M	Tempo/fart
+TXT_SELECT_PAGE_TITL_Power_Off_STR_M	Stäng av?
+TXT_SELECT_PAGE_TITL_Power_Save_Timeout_STR_M	Tidsgräns för energisparläge
+TXT_SELECT_PAGE_TITL_RUN_Delete_Segment_STR_M	Ta bort segment?
+TXT_SELECT_PAGE_TITL_RUN_Stop_segment_STR_M	Stoppa segment?
+TXT_SELECT_PAGE_TITL_Remove_STR_M	Ta bort?
+TXT_SELECT_PAGE_TITL_Remove_Widget_STR_M	Ta bort den här widgeten?
+TXT_SELECT_PAGE_TITL_Remove_profile_STR_M	Ta bort profil?
+TXT_SELECT_PAGE_TITL_Repeat_STR_M	Upprepa?
+TXT_SELECT_PAGE_TITL_Reset_Zones_STR_M	Återställa pulszoner till standard?
+TXT_SELECT_PAGE_TITL_Reset_totals_STR_M	Nollställa totaler?
+TXT_SELECT_PAGE_TITL_Restore_defaults_STR_M	Återställ till fabriksinställningarna?
+TXT_SELECT_PAGE_TITL_Restore_record_STR_M	Nollställa rekord?
+TXT_SELECT_PAGE_TITL_Row_STR_S	Rodd
+TXT_SELECT_PAGE_TITL_Running_STR_M	Löpning
+TXT_SELECT_PAGE_TITL_STRESS_SCORE_hrm_required_STR_M	Bröstpulsmätare krävs för att mäta träningsbelastning.
+TXT_SELECT_PAGE_TITL_SUP_STR_S	SUP
+TXT_SELECT_PAGE_TITL_Select_Segment_Type_STR_M	Välj segmentstyp
+TXT_SELECT_PAGE_TITL_Select_Units_STR_M	Välj enhet
+TXT_SELECT_PAGE_TITL_Slow_Alert_STR_M	Varning för lågt tempo
+TXT_SELECT_PAGE_TITL_Stand_and_relax_STR_M	Stå stilla och slappna av i tre minuter.
+TXT_SELECT_PAGE_TITL_Stop_course_STR_M	Avbryta bana?
+TXT_SELECT_PAGE_TITL_Stop_navigation_STR_M	Avbryta navigering?
+TXT_SELECT_PAGE_TITL_Strength_STR_M	Styrka
+TXT_SELECT_PAGE_TITL_Stress_score_will_calibrate_STR_M	Träningsbelastningen kalibreras efter några gånger.
+TXT_SELECT_PAGE_TITL_Temperature_STR_M	Temperatur
+TXT_SELECT_PAGE_TITL_Time_Format_STR_M	Tidsformat
+TXT_SELECT_PAGE_TITL_Use_GPS_STR_M	Använd GPS?
+TXT_SELECT_PAGE_TITL_User_Locations_STR_M	Användarplatser
+TXT_SELECT_PAGE_TITL_VO2_Max_STR_M	VO2 Max
+TXT_SELECT_PAGE_TITL_Weight_STR_M	Vikt
+TXT_SELECT_PAGE_TITL_Widgets_Available_STR_M	Fler widgets tillgängliga
+TXT_SELECT_PAGE_TITL_profile_added_STR_M	Profilen har lagts till
+TXT_SELECT_PAGE_WIDGET_Phone_Connection_Required_STR_M	Smartphone-anslutning krävs
+TXT_SELECT_PAGE_Yes_STR_L	Ja
+TXT_SELECT_POOL_LENGTH_UNITS_Meters_STR_L	Meter
+TXT_SELECT_POOL_LENGTH_UNITS_Yards_STR_L	Yard
+TXT_SELECT_POOL_SIZE_CHANGE_meters_STR_M	Bassänglängden ändras till %1 m så att den matchar passet.
+TXT_SELECT_POOL_SIZE_CHANGE_yards_STR_M	Bassänglängden ändras till %1 yard så att den matchar passet.
+TXT_SELECT_PWR_AUTOZERO_Auto_Zero_STR_L	Automatiskt noll
+TXT_SELECT_PWR_CALIBRATE_Calibrate_STR_L	Kalibrera
+TXT_SELECT_PWR_CALIBRATE_Calibration_Failed_FRMT_STR_L	Kalibreringen misslyckades\nFel: %1
+TXT_SELECT_PWR_CALIBRATE_Calibration_Recommended_STR_L	Kalibrering rekom-menderas. Koppla loss från pedaler för kalibrering.
+TXT_SELECT_PWR_CALIBRATE_Try_Again_STR_L	Försök igen
+TXT_SELECT_PWR_CALIBRATE_Unclip_to_Calibrate_STR_L	Koppla loss från pedalerna för att kalibrera.
+TXT_SELECT_PWR_SETUP_Begin_Setup_STR_L	Påbörja konfig.
+TXT_SELECT_PWR_SETUP_Initial_Setup_Required_STR_L	En första konfigurering krävs för att använda Vector.
+TXT_SELECT_PWR_SRM_CALIBRATE_Calibration_Successful_STR_L	Kalibreringen lyckades. Välj kompens.värde.
+TXT_SELECT_PWR_SRM_CALIBRATE_Current_FRMT_STR_L	Aktuellt: %1
+TXT_SELECT_PWR_SRM_CALIBRATE_Previous_FRMT_STR_L	Föreg.: %1
+TXT_SELECT_RECORDING_MODE_Manual_STR_L	Manuellt
+TXT_SELECT_RECORDING_MODE_Timer_Start_Stop_STR_L	Tidur start/stopp
+TXT_SELECT_RECOVERY_ADVISOR_Add_HR_STR_M	Lägg till pulsm.
+TXT_SELECT_RECOVERY_ADVISOR_Recovery_Advisor_requires_STR_M	Pulsmätare krävs för återhämtningsrådgivare.
+TXT_SELECT_REMOVE_ACTIVITY_PROFILE_No_STR_L	Nej
+TXT_SELECT_REMOVE_ACTIVITY_PROFILE_Yes_STR_L	Ja
+TXT_SELECT_REMOVE_SENSOR_No_STR_L	Nej
+TXT_SELECT_REMOVE_SENSOR_Remove_STR_L	Ta bort?
+TXT_SELECT_REMOVE_SENSOR_Yes_STR_L	Ja
+TXT_SELECT_RETRY_HR_DATA_Download_failed_Retry_STR_L	Hämtningen misslyckades. Försök igen?
+TXT_SELECT_RETRY_HR_DATA_No_STR_L	Nej
+TXT_SELECT_RETRY_HR_DATA_Yes_STR_L	Ja
+TXT_SELECT_SAVE_LOCATION_Save_Location_STR_M	Spara plats
+TXT_SELECT_SAVE_WITHOUT_HR_Save_Session_without_HR_STR_L	Spara aktivitet utan puls?
+TXT_SELECT_SAVE_WITHOUT_HR_Search_Again_STR_L	Sök igen
+TXT_SELECT_SAVE_WITHOUT_HR_Yes_STR_L	Ja
+TXT_SELECT_SEGMENT_SPORT_Cycling_STR_L	Cykling
+TXT_SELECT_SEGMENT_SPORT_Running_STR_L	Löpning
+TXT_SELECT_SENSOR_NOT_FOUND_Foot_Pod_STR_L	Aktivera sensorn genom att gå omkring.
+TXT_SELECT_SENSOR_NOT_FOUND_Heart_Rate_STR_L	Bär den externa pulsmätaren för att ansluta.
+TXT_SELECT_SENSOR_NOT_FOUND_Lights_STR_L	Sätt på lampan för att ansluta.
+TXT_SELECT_SENSOR_NOT_FOUND_MO2_STR_L	Ingen muskelsyresensor inom räckhåll.
+TXT_SELECT_SENSOR_NOT_FOUND_No_Sensors_Found_STR_L	Hittade inga sensorer
+TXT_SELECT_SENSOR_NOT_FOUND_Power_STR_L	Trampa för att aktivera sensorn.
+TXT_SELECT_SENSOR_NOT_FOUND_Radar_STR_L	Slå på radarn för att ansluta.
+TXT_SELECT_SENSOR_NOT_FOUND_Shimano_Di2_STR_L	Växla med fram- eller bakväxlarna för att ansluta till Shimano Di2-sensorn.
+TXT_SELECT_SENSOR_NOT_FOUND_Speed_Cadence_STR_L	Trampa för att aktivera sensorn.
+TXT_SELECT_SENSOR_NOT_FOUND_Tempe_STR_L	Ingen tempe inom räckhåll.
+TXT_SELECT_SENSOR_NOT_FOUND_Try_Again_STR_L	Försök igen
+TXT_SELECT_SENSOR_NOT_FOUND_Varia_Vision_STR_L	Slå på Varia Vision-enheten för att ansluta.
+TXT_SELECT_SENSOR_NOT_FOUND_Virb_STR_L	Sätt på kameran och aktivera fjärrinställningar för att ansluta.
+TXT_SELECT_SET_TARGET_DISTANCE_UNITS_Kilometers_STR_L	Kilometer
+TXT_SELECT_SET_TARGET_DISTANCE_UNITS_Miles_STR_L	Engelska mil
+TXT_SELECT_STRESS_SCORE_BUTN_Continue_STR_L	Fortsätt
+TXT_SELECT_SW_UPDATE_FAILED_Done_STR_L	Klar
+TXT_SELECT_SW_UPDATE_FAILED_Updated_failed_Go_to_Garmin_Connect_STR_M	Det gick inte att uppdatera. \nFörsök igen med Garmin Connect.
+TXT_SELECT_TARGET_DETAIL_Accept_STR_L	Godkänn
+TXT_SELECT_TARGET_DETAIL_Pace_FRMT_STR_M	Tempo: %1
+TXT_SELECT_TARGET_DETAIL_Speed_FRMT_STR_M	Fart: %1
+TXT_SELECT_TARGET_DETAIL_Target_FRMT_STR_M	%1 mål
+TXT_SELECT_TARGET_DETAIL_Time_FRMT_STR_M	Tid: %1
+TXT_SELECT_TIMEOUT_Extended_STR_L	Utökad
+TXT_SELECT_TIMEOUT_Normal_STR_L	Normal
+TXT_SELECT_TIME_FORMAT_12_Hour_STR_L	12 timmar
+TXT_SELECT_TIME_FORMAT_24_Hour_STR_L	24 timmar
+TXT_SELECT_UNITS_Celsius_STR_L	Celsius
+TXT_SELECT_UNITS_Fahrenheit_STR_L	Fahrenheit
+TXT_SELECT_USER_DATA_ERASED_Continue_STR_L	Fortsätt
+TXT_SELECT_USER_DATA_ERASED_User_data_will_be_erased_STR_S	Inställningarna raderas.
+TXT_SELECT_USER_LOCATIONS_Hide_STR_L	Dölj
+TXT_SELECT_USER_LOCATIONS_Show_STR_L	Visa
+TXT_SELECT_VO2_MAX_SPORT_Cycling_STR_L	Cykling
+TXT_SELECT_VO2_MAX_SPORT_Running_STR_L	Löpning
+TXT_SELECT_WATCH_FACE_Watch_Face_STR_S	Urtavla
+TXT_SELECT_WEIGHT_UNITS_Kilograms_STR_L	Kilogram
+TXT_SELECT_WEIGHT_UNITS_Pounds_STR_L	Pund
+TXT_SELECT_WHEEL_SIZE_Auto_STR_L	Auto
+TXT_SELECT_WHEEL_SIZE_Manual_STR_L	Manuell
+TXT_SELECT_WHEEL_SIZE_Wheel_Size_STR_L	Hjulstorlek
+TXT_SELECT_WIDGET_View_STR_L	Visa
+TXT_SENSORS_TIP_Max_Sensors_Paired_STR_M	Max. antal sensorer ihopparade. Ta bort en sensor för att lägga till en ny.
+TXT_SEP_STR_M	Sep
+TXT_SETUP_ACTIVITY_LAPS_Interval_FRMT_STR_M	Intervall %1
+TXT_SETUP_ACTIVITY_LAPS_Intervals_STR_S	Intervaller
+TXT_SETUP_ACTIVITY_LAPS_Lap_FRMT_STR_M	Varv %1
+TXT_SETUP_ACTIVITY_LAPS_Laps_STR_S	Varv
+TXT_SETUP_ACTIVITY_LIST_Activities_STR_S	Aktiviteter
+TXT_SETUP_ACTIVITY_LIST_Friday_FRMT_STR_M	Fredag %1
+TXT_SETUP_ACTIVITY_LIST_Friday_STR_S	Fredag
+TXT_SETUP_ACTIVITY_LIST_Invalid_STR_M	Ogiltig
+TXT_SETUP_ACTIVITY_LIST_Invalid_STR_S	Ogiltig
+TXT_SETUP_ACTIVITY_LIST_Monday_FRMT_STR_M	Måndag %1
+TXT_SETUP_ACTIVITY_LIST_Monday_STR_S	Måndag
+TXT_SETUP_ACTIVITY_LIST_Saturday_FRMT_STR_M	Lördag %1
+TXT_SETUP_ACTIVITY_LIST_Saturday_STR_S	Lördag
+TXT_SETUP_ACTIVITY_LIST_Sunday_FRMT_STR_M	Söndag %1
+TXT_SETUP_ACTIVITY_LIST_Sunday_STR_S	Söndag
+TXT_SETUP_ACTIVITY_LIST_Thursday_FRMT_STR_M	Torsdag %1
+TXT_SETUP_ACTIVITY_LIST_Thursday_STR_S	Torsdag
+TXT_SETUP_ACTIVITY_LIST_Today_FRMT_STR_M	Idag %1
+TXT_SETUP_ACTIVITY_LIST_Today_STR_S	Idag
+TXT_SETUP_ACTIVITY_LIST_Tuesday_FRMT_STR_M	Tisdag %1
+TXT_SETUP_ACTIVITY_LIST_Tuesday_STR_S	Tisdag
+TXT_SETUP_ACTIVITY_LIST_Wednesday_FRMT_STR_M	Onsdag %1
+TXT_SETUP_ACTIVITY_LIST_Wednesday_STR_S	Onsdag
+TXT_SETUP_ACTIVITY_LIST_Yesterday_FRMT_STR_M	Igår %1
+TXT_SETUP_ACTIVITY_LIST_Yesterday_STR_S	I går
+TXT_SETUP_ACTIVITY_MULTI_OPTIONS_Overall_STR_L	Totalt
+TXT_SETUP_ACTIVITY_MULTI_OPTIONS_Transition_FRMT_STR_M	Övergång %1
+TXT_SETUP_ACTIVITY_OPTIONS_Delete_STR_L	Ta bort
+TXT_SETUP_ACTIVITY_OPTIONS_Details_STR_L	Information
+TXT_SETUP_ACTIVITY_OPTIONS_Download_Heart_Rate_STR_L	Hämta puls
+TXT_SETUP_ACTIVITY_OPTIONS_Intervals_STR_L	Intervaller
+TXT_SETUP_ACTIVITY_OPTIONS_Invalid_STR_S	Ogiltig
+TXT_SETUP_ACTIVITY_OPTIONS_Laps_STR_L	Varv
+TXT_SETUP_ACTIVITY_OPTIONS_Map_STR_L	Karta
+TXT_SETUP_ACTIVITY_OPTIONS_Time_In_Zone_STR_L	Tid i zon
+TXT_SETUP_ACTIVITY_PROFILES_Activity_Profiles_STR_S	Aktivitetsprofiler
+TXT_SETUP_ACTIVITY_PROFILES_Add_New_STR_L	Lägg till ny
+TXT_SETUP_ACTIVITY_PROFILES_Apps_STR_L	Appar
+TXT_SETUP_ACTIVITY_PROFILES_OPTIONS_Apply_Profile_STR_L	Använd profil
+TXT_SETUP_ACTIVITY_PROFILES_OPTIONS_Color_STR_L	Färg
+TXT_SETUP_ACTIVITY_PROFILES_OPTIONS_Edit_Profiles_STR_L	Redigera profiler
+TXT_SETUP_ACTIVITY_PROFILES_OPTIONS_Name_STR_L	Namn
+TXT_SETUP_ACTIVITY_PROFILES_OPTIONS_Remove_Profile_STR_L	Ta bort profil
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Bike_Indoor_STR_L	Cykling inne
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Bike_STR_L	Cykling
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Brick_STR_L	Brick
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Cardio_STR_L	Kondition
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Cross_STR_L	Längdskidor
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Custom_STR_L	Egna
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Duathlon_STR_L	Duathlon
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_HDR_Choose_Profile_Name_STR_S	Välj profilnamn
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Hike_STR_L	Vandring
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Mountain_STR_L	Mountainbike
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Open_Water_STR_L	Öppet vatten
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Other_STR_L	Annan
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Pool_Swim_STR_L	Simbassäng
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Race_STR_L	Tävling
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Road_STR_L	Landsväg
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Row_STR_L	Rodd
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Run_Indoor_STR_L	Löpning inne
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Run_STR_L	Löpning
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_SUP_STR_L	SUP
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Strength_STR_L	Styrka
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Trail_STR_L	Trailrun
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Trainer_STR_L	Trainer
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Treadmill_STR_L	Löpband
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Triathlon_STR_L	Triathlon
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_PROFILE_Done_STR_L	Klar
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_PROFILE_HDR_Choose_Final_Profile_STR_S	Välj sista profil
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_PROFILE_HDR_Choose_Profile_FRMT_STR_S	Välj profil %1
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_SETTINGS_Copy_FRMT_STR_L	Kopiera %1
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_SETTINGS_HDR_Choose_Activity_Settings_STR_S	Välj aktivitetsinställn.
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_SETTINGS_Use_Default_STR_L	Använd standard
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_SPORT_Cardio_STR_L	Kondition
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_SPORT_Cross_STR_L	Längdskidåkning
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_SPORT_Cycling_STR_L	Cykling
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_SPORT_HDR_Choose_Sport_STR_S	Välj sport
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_SPORT_Hike_STR_L	Vandring
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_SPORT_MULTISPORT_STR_L	Multisport
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_SPORT_Open_Water_Swim_STR_L	Öppet vatten
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_SPORT_Other_STR_L	Annan
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_SPORT_Pool_Swim_STR_L	Simbassäng
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_SPORT_Row_STR_L	Rodd
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_SPORT_Running_STR_L	Löpning
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_SPORT_SUP_STR_L	SUP
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_SPORT_Strength_STR_L	Styrka
+TXT_SETUP_ACTIVITY_REVIEW_Achievements_STR_L	Prestationer
+TXT_SETUP_ACTIVITY_REVIEW_Done_STR_L	Klar
+TXT_SETUP_ACTIVITY_SETTINGS_Activity_Settings_STR_S	Aktivitetsinställningar
+TXT_SETUP_ACTIVITY_SETTINGS_Alerts_STR_L	Varningar
+TXT_SETUP_ACTIVITY_SETTINGS_Auto_FRMT_STR_M	Automatisk %1
+TXT_SETUP_ACTIVITY_SETTINGS_Auto_Pause_STR_L	Auto Pause
+TXT_SETUP_ACTIVITY_SETTINGS_Auto_Scroll_STR_L	Auto Scroll
+TXT_SETUP_ACTIVITY_SETTINGS_BIKE_Segment_Alerts_STR_L	Segment, varning
+TXT_SETUP_ACTIVITY_SETTINGS_Data_Screens_STR_L	Datasidor
+TXT_SETUP_ACTIVITY_SETTINGS_Extended_STR_M	Utökad
+TXT_SETUP_ACTIVITY_SETTINGS_Fast_STR_M	Snabbt
+TXT_SETUP_ACTIVITY_SETTINGS_GPS_GLONASS_STR_M	GPS + GLONASS
+TXT_SETUP_ACTIVITY_SETTINGS_GPS_Only_STR_M	Normalt (enbart GPS)
+TXT_SETUP_ACTIVITY_SETTINGS_GPS_STR_L	GPS
+TXT_SETUP_ACTIVITY_SETTINGS_Laps_STR_L	Varv
+TXT_SETUP_ACTIVITY_SETTINGS_Manual_Only_STR_M	Endast manuell
+TXT_SETUP_ACTIVITY_SETTINGS_Medium_STR_M	Medel
+TXT_SETUP_ACTIVITY_SETTINGS_Meters_FRMT_STR_M	%1 meter
+TXT_SETUP_ACTIVITY_SETTINGS_Metronome_STR_L	Metronom
+TXT_SETUP_ACTIVITY_SETTINGS_Normal_STR_M	Normal
+TXT_SETUP_ACTIVITY_SETTINGS_Pool_Size_STR_L	Bassänglängd
+TXT_SETUP_ACTIVITY_SETTINGS_Power_Save_Timeout_STR_L	Tidsgräns för energisparläge
+TXT_SETUP_ACTIVITY_SETTINGS_Profile_Color_STR_L	Profilfärg
+TXT_SETUP_ACTIVITY_SETTINGS_RUN_Segment_Alerts_STR_L	Segment, varning
+TXT_SETUP_ACTIVITY_SETTINGS_Repeat_STR_L	Repetitioner
+TXT_SETUP_ACTIVITY_SETTINGS_Slow_STR_M	Sakta
+TXT_SETUP_ACTIVITY_SETTINGS_Stroke_Type_Detection_STR_L	Typ av simtag
+TXT_SETUP_ACTIVITY_SETTINGS_Training_Pages_STR_L	Träningssidor
+TXT_SETUP_ACTIVITY_SETTINGS_Transitions_STR_L	Övergångar
+TXT_SETUP_ACTIVITY_SETTINGS_When_Stopped_STR_M	Vid stopp
+TXT_SETUP_ACTIVITY_SETTINGS_Yards_FRMT_STR_M	%1 yard
+TXT_SETUP_ACTIVITY_TRACKING_Activity_Tracking_STR_M	Aktivitetsmätning
+TXT_SETUP_ACTIVITY_TRACKING_Off_STR_L	Av
+TXT_SETUP_ACTIVITY_TRACKING_On_STR_L	På
+TXT_SETUP_ACTIVITY_TRACKING_SETTINGS_Activity_Tracking_STR_S	Aktivitetsmätning
+TXT_SETUP_ACTIVITY_TRACKING_SETTINGS_Move_Alert_STR_L	Rörelseavisering
+TXT_SETUP_ACTIVITY_TRACKING_SETTINGS_Options_STR_S	Alternativ
+TXT_SETUP_ACTIVITY_TRACKING_SETTINGS_Status_STR_L	Status
+TXT_SETUP_ADD_SENSORS_Choose_Type_STR_S	Välj typ
+TXT_SETUP_ADD_SENSORS_Foot_Pod_STR_L	Foot pod
+TXT_SETUP_ADD_SENSORS_Heart_Rate_STR_L	Extern pulsmätare
+TXT_SETUP_ADD_SENSORS_Lights_STR_L	Lampor
+TXT_SETUP_ADD_SENSORS_Muscle_Oxygen_STR_L	Muskelsyre
+TXT_SETUP_ADD_SENSORS_Power_STR_L	Kraft
+TXT_SETUP_ADD_SENSORS_Radar_STR_L	Radar
+TXT_SETUP_ADD_SENSORS_Search_All_STR_L	Söka alla
+TXT_SETUP_ADD_SENSORS_Shimano_Di2_STR_L	Shimano Di2
+TXT_SETUP_ADD_SENSORS_Speed_Cadence_STR_L	Fart/kadens
+TXT_SETUP_ADD_SENSORS_Tempe_STR_L	tempe
+TXT_SETUP_ADD_SENSORS_Virb_STR_L	VIRB
+TXT_SETUP_ALARM_Alarm_Settings_STR_L	Alarminställningar
+TXT_SETUP_ALARM_Alarms_STR_L	Larm
+TXT_SETUP_ALARM_Daily_STR_L	Varje dag
+TXT_SETUP_ALARM_Never_STR_L	Aldrig
+TXT_SETUP_ALARM_Remove_STR_L	Ta bort
+TXT_SETUP_ALARM_Repeat_STR_L	Upprepa
+TXT_SETUP_ALARM_Sounds_STR_L	Avisering
+TXT_SETUP_ALARM_Status_STR_L	Status
+TXT_SETUP_ALARM_Time_STR_L	Tid
+TXT_SETUP_ALARM_Tone_STR_L	Ljudsignal
+TXT_SETUP_ALARM_Tone_and_Vibration_STR_L	Ljud & Vibration
+TXT_SETUP_ALARM_Vibration_STR_L	Vibration
+TXT_SETUP_ALARM_Weekdays_STR_L	Vardagar
+TXT_SETUP_ALARM_Weekends_STR_L	Helger
+TXT_SETUP_ALERTS_Add_New_STR_L	Lägg till ny
+TXT_SETUP_ALERTS_Alerts_STR_S	Varningar
+TXT_SETUP_ALERTS_BIKE_Cadence_STR_L	Kadens
+TXT_SETUP_ALERTS_CHOOSE_TYPE_BIKE_Cadence_STR_L	Kadens
+TXT_SETUP_ALERTS_CHOOSE_TYPE_Calories_STR_L	Kalorier
+TXT_SETUP_ALERTS_CHOOSE_TYPE_Custom_STR_L	Egna
+TXT_SETUP_ALERTS_CHOOSE_TYPE_Distance_STR_L	Distans
+TXT_SETUP_ALERTS_CHOOSE_TYPE_Heart_Rate_STR_L	Puls
+TXT_SETUP_ALERTS_CHOOSE_TYPE_PADDLE_Stroke_Rate_STR_L	Paddeltagstempo
+TXT_SETUP_ALERTS_CHOOSE_TYPE_Pace_STR_L	Tempo
+TXT_SETUP_ALERTS_CHOOSE_TYPE_Power_STR_L	Kraft
+TXT_SETUP_ALERTS_CHOOSE_TYPE_RUN_Cadence_STR_L	Kadens
+TXT_SETUP_ALERTS_CHOOSE_TYPE_Run_Walk_STR_L	Löpning/gång
+TXT_SETUP_ALERTS_CHOOSE_TYPE_SWIM_Stroke_Rate_STR_L	Simtagstempo
+TXT_SETUP_ALERTS_CHOOSE_TYPE_Speed_STR_L	Fart
+TXT_SETUP_ALERTS_CHOOSE_TYPE_Time_STR_L	Tid
+TXT_SETUP_ALERTS_HDR_Choose_Alert_Message_STR_M	Välj varningsmeddelande
+TXT_SETUP_ALERTS_HDR_Choose_Alert_Type_STR_M	Välj varningstyp
+TXT_SETUP_ALERTS_Heart_Rate_STR_L	Puls
+TXT_SETUP_ALERTS_Message_STR_L	Meddelande
+TXT_SETUP_ALERTS_PADDLE_Stroke_Rate_STR_L	Paddeltagstempo
+TXT_SETUP_ALERTS_Pace_STR_L	Tempo
+TXT_SETUP_ALERTS_Power_STR_L	Kraft
+TXT_SETUP_ALERTS_RUN_Cadence_STR_L	Kadens
+TXT_SETUP_ALERTS_Run_Walk_STR_L	Löpning/gång
+TXT_SETUP_ALERTS_SWIM_Stroke_Rate_STR_L	Simtagstempo
+TXT_SETUP_ALERTS_Speed_STR_L	Fart
+TXT_SETUP_ALERT_Aerobic_Z3_STR_M	Konditionsträning (Z3)
+TXT_SETUP_ALERT_BIKE_High_Cadence_STR_L	Hög kadens
+TXT_SETUP_ALERT_BIKE_Low_Cadence_STR_L	Låg kadens
+TXT_SETUP_ALERT_CADENCE_PAGE_BIKE_Cadence_STR_S	Kadens
+TXT_SETUP_ALERT_CADENCE_PAGE_PADDLE_Stroke_Rate_STR_S	Paddeltagstempo
+TXT_SETUP_ALERT_CADENCE_PAGE_RUN_Cadence_STR_S	Kadens
+TXT_SETUP_ALERT_CADENCE_PAGE_SWIM_Stroke_Rate_STR_S	Simtagstempo
+TXT_SETUP_ALERT_CALORIES_PAGE_Calories_STR_S	Kalorier
+TXT_SETUP_ALERT_Custom_FRMT_STR_M	%1 (egen)
+TXT_SETUP_ALERT_Custom_STR_L	Egna
+TXT_SETUP_ALERT_Custom_STR_M	Egna
+TXT_SETUP_ALERT_DISTANCE_PAGE_Distance_STR_S	Distans
+TXT_SETUP_ALERT_Easy_Z2_STR_M	Lätt träning (Z2)
+TXT_SETUP_ALERT_Every_1_Length_STR_M	Varje längd
+TXT_SETUP_ALERT_Every_STR_M	Varje %1
+TXT_SETUP_ALERT_Every_X_Lengths_STR_M	En gång per %1 längder
+TXT_SETUP_ALERT_Fast_Alert_STR_L	Varn. högt tempo
+TXT_SETUP_ALERT_Fastest_Pace_STR_L	Snabbaste tempot
+TXT_SETUP_ALERT_Frequency_STR_L	Frekvens
+TXT_SETUP_ALERT_HEART_RATE_PAGE_Heart_Rate_STR_S	Puls
+TXT_SETUP_ALERT_High_Alert_STR_L	Högt larm
+TXT_SETUP_ALERT_High_Alert_STR_M	Högt larm
+TXT_SETUP_ALERT_Highest_Speed_STR_L	Högsta hastighet
+TXT_SETUP_ALERT_Low_Alert_STR_L	Lågt larm
+TXT_SETUP_ALERT_Low_Alert_STR_M	Lågt larm
+TXT_SETUP_ALERT_Lowest_Speed_STR_L	Lägsta hastighet
+TXT_SETUP_ALERT_Maximum_Z5_STR_M	Högintensiv träning (Z5)
+TXT_SETUP_ALERT_Off_STR_M	Av
+TXT_SETUP_ALERT_PACE_PAGE_Pace_STR_S	Tempo
+TXT_SETUP_ALERT_PADDLE_High_Stroke_Rate_STR_L	Högt paddel-/årtagstempo
+TXT_SETUP_ALERT_PADDLE_Low_Stroke_Rate_STR_L	Lågt paddel-/årtagstempo
+TXT_SETUP_ALERT_POWER_PAGE_Power_STR_S	Kraft
+TXT_SETUP_ALERT_RUN_High_Cadence_STR_L	Hög kadens
+TXT_SETUP_ALERT_RUN_Low_Cadence_STR_L	Låg kadens
+TXT_SETUP_ALERT_RUN_WALK_Run_Walk_STR_S	Löpning/gång
+TXT_SETUP_ALERT_Remove_STR_L	Ta bort
+TXT_SETUP_ALERT_Repeat_STR_L	Repetitioner
+TXT_SETUP_ALERT_Run_Time_STR_L	Löpningstid
+TXT_SETUP_ALERT_SPEED_PAGE_Speed_STR_S	Fart
+TXT_SETUP_ALERT_SWIM_High_Stroke_Rate_STR_L	Högt simtagstempo
+TXT_SETUP_ALERT_SWIM_Low_Stroke_Rate_STR_L	Lågt simtagstempo
+TXT_SETUP_ALERT_SWITCH_High_Alert_STR_L	Högt larm
+TXT_SETUP_ALERT_SWITCH_Low_Alert_STR_L	Lågt larm
+TXT_SETUP_ALERT_Slow_Alert_STR_L	Varn. lågt tempo
+TXT_SETUP_ALERT_Slowest_Pace_STR_L	Långsammast tempo
+TXT_SETUP_ALERT_Status_STR_L	Status
+TXT_SETUP_ALERT_TIME_PAGE_Time_STR_S	Tid
+TXT_SETUP_ALERT_Threshold_Z4_STR_M	Tröskelträning (Z4)
+TXT_SETUP_ALERT_Walk_Time_STR_L	Gångtid
+TXT_SETUP_ALERT_Warm_Up_Z1_STR_M	Uppvärmning (Z1)
+TXT_SETUP_ALERT_Z1_FRMT_STR_M	%1 (pulszon 1)
+TXT_SETUP_ALERT_Z2_FRMT_STR_M	%1 (pulszon 2)
+TXT_SETUP_ALERT_Z3_FRMT_STR_M	%1 (pulszon 3)
+TXT_SETUP_ALERT_Z4_FRMT_STR_M	%1 (pulszon 4)
+TXT_SETUP_ALERT_Z5_FRMT_STR_M	%1 (pulszon 5)
+TXT_SETUP_ALERT_Zone_1_STR_L	Zon 1
+TXT_SETUP_ALERT_Zone_1_STR_M	Zon 1
+TXT_SETUP_ALERT_Zone_2_STR_L	Zon 2
+TXT_SETUP_ALERT_Zone_2_STR_M	Zon 2
+TXT_SETUP_ALERT_Zone_3_STR_L	Zon 3
+TXT_SETUP_ALERT_Zone_3_STR_M	Zon 3
+TXT_SETUP_ALERT_Zone_4_STR_L	Zon 4
+TXT_SETUP_ALERT_Zone_4_STR_M	Zon 4
+TXT_SETUP_ALERT_Zone_5_STR_L	Zon 5
+TXT_SETUP_ALERT_Zone_5_STR_M	Zon 5
+TXT_SETUP_ALERT_Zone_6_STR_L	Zon 6
+TXT_SETUP_ALERT_Zone_6_STR_M	Zon 6
+TXT_SETUP_ALERT_Zone_7_STR_L	Zon 7
+TXT_SETUP_ALERT_Zone_7_STR_M	Zon 7
+TXT_SETUP_AUTO_LAP_Auto_Distance_STR_L	Automatisk sträcka
+TXT_SETUP_AUTO_LAP_Auto_Lap_STR_L	Auto Lap
+TXT_SETUP_AUTO_LAP_Lap_Alert_STR_L	Varvvarning
+TXT_SETUP_AUTO_LAP_Laps_STR_S	Varv
+TXT_SETUP_BACKLIGHT_15_Seconds_STR_M	15 sekunder
+TXT_SETUP_BACKLIGHT_1_Minute_STR_M	1 minut
+TXT_SETUP_BACKLIGHT_30_Seconds_STR_M	30 sekunder
+TXT_SETUP_BACKLIGHT_8_Seconds_STR_M	8 sekunder
+TXT_SETUP_BACKLIGHT_Backlight_STR_S	Bakgrundsbelysning
+TXT_SETUP_BACKLIGHT_Keys_Alerts_STR_L	Knapp och aviser
+TXT_SETUP_BACKLIGHT_Stays_On_STR_M	Alltid på
+TXT_SETUP_BACKLIGHT_Timeout_STR_L	Tidsgräns
+TXT_SETUP_BACKLIGHT_Wrist_Turn_STR_L	Handledsvridning
+TXT_SETUP_BIKE_LIGHT_MODE_Auto_STR_L	Auto
+TXT_SETUP_BIKE_LIGHT_MODE_Auto_STR_M	Auto
+TXT_SETUP_BIKE_LIGHT_MODE_Flash_STR_L	Blinkande
+TXT_SETUP_BIKE_LIGHT_MODE_Flash_STR_M	Blinkande
+TXT_SETUP_BIKE_LIGHT_MODE_High_STR_L	Hög
+TXT_SETUP_BIKE_LIGHT_MODE_High_STR_M	Hög
+TXT_SETUP_BIKE_LIGHT_MODE_Low_STR_L	Låg
+TXT_SETUP_BIKE_LIGHT_MODE_Low_STR_M	Låg
+TXT_SETUP_BIKE_LIGHT_MODE_Medium_STR_L	Medel
+TXT_SETUP_BIKE_LIGHT_MODE_Medium_STR_M	Medel
+TXT_SETUP_BIKE_LIGHT_MODE_Off_STR_L	Av
+TXT_SETUP_BIKE_LIGHT_MODE_Off_STR_M	Av
+TXT_SETUP_BIKE_LIGHT_MODE_Other_STR_M	Annan
+TXT_SETUP_BIKE_LIGHT_MODE_Overdrive_STR_L	Turbo
+TXT_SETUP_BIKE_LIGHT_MODE_Overdrive_STR_M	Turbo
+TXT_SETUP_BIKE_LIGHT_MODE_Power_Save_STR_M	Strömsparläge
+TXT_SETUP_BIKE_Light_Mode_STR_L	Ljusläge
+TXT_SETUP_BIKE_Light_Mode_STR_M	Ljusläge
+TXT_SETUP_BLUETOOTH_Bluetooth_STR_S	Bluetooth
+TXT_SETUP_BLUETOOTH_Connected_STR_M	Ansluten
+TXT_SETUP_BLUETOOTH_Connection_Alert_STR_L	Anslutn.-meddel.
+TXT_SETUP_BLUETOOTH_Pair_Mobile_Device_STR_L	Para ihop med mobil enhet
+TXT_SETUP_BLUETOOTH_Smart_Notifications_STR_L	Smartaviseringar
+TXT_SETUP_BLUETOOTH_Status_STR_L	Status
+TXT_SETUP_BLUETOOTH_Stop_LiveTrack_STR_L	Avsluta LiveTrack
+TXT_SETUP_BLUETOOTH_Waiting_for_App_STR_M	Väntar på appen
+TXT_SETUP_BLUETOOTH_Waiting_to_Connect_STR_M	Väntar på att ansluta
+TXT_SETUP_CALENDAR_LIST_All_Day_STR_M	Heldag
+TXT_SETUP_CALENDAR_LIST_Calendar_STR_S	Kalender
+TXT_SETUP_CALENDAR_LIST_Now_STR_M	Nu
+TXT_SETUP_CHANGE_MULTISPORT_LEGS_HDR_Choose_Final_Profile_STR_S	Välj sista profil
+TXT_SETUP_CHANGE_MULTISPORT_LEGS_HDR_Choose_Profile_FRMT_STR_S	Välj profil %1
+TXT_SETUP_CHOOSE_WRKT_PROFILE_HDR_Cycling_STR_S	Välj cyklingsprofil
+TXT_SETUP_CHOOSE_WRKT_PROFILE_HDR_Other_STR_S	Välj annan profil
+TXT_SETUP_CHOOSE_WRKT_PROFILE_HDR_Running_STR_S	Välj löpningsprofil
+TXT_SETUP_CHOOSE_WRKT_PROFILE_HDR_Swim_STR_S	Välj simningsprofil
+TXT_SETUP_CLOCK_Clock_STR_S	Klocka
+TXT_SETUP_CONNECT_IQ_APPS_LIST_IQ_Apps_STR_S	Connect IQ-appar
+TXT_SETUP_COURSE_LIST_Courses_Bike_STR_M	Banor
+TXT_SETUP_COURSE_LIST_Courses_Run_STR_M	Banor
+TXT_SETUP_COURSE_LIST_Downloaded_Races_STR_M	Hämtade lopp
+TXT_SETUP_COURSE_OPTIONS_Delete_STR_L	Ta bort
+TXT_SETUP_COURSE_OPTIONS_Do_Course_STR_L	Kör bana
+TXT_SETUP_COURSE_OPTIONS_Elevation_Profile_STR_L	Höjdprofil
+TXT_SETUP_COURSE_OPTIONS_Map_STR_L	Karta
+TXT_SETUP_COURSE_OPTIONS_Name_STR_L	Namn
+TXT_SETUP_COURSE_OPTIONS_Race_STR_L	Tävling
+TXT_SETUP_DATA_CNFG_OPTIONS_Field_1_STR_L	Fält 1
+TXT_SETUP_DATA_CNFG_OPTIONS_Field_2_STR_L	Fält 2
+TXT_SETUP_DATA_CNFG_OPTIONS_Field_3_STR_L	Fält 3
+TXT_SETUP_DATA_CNFG_OPTIONS_Field_4_STR_L	Fält 4
+TXT_SETUP_DATA_CNFG_OPTIONS_Layout_STR_L	Layout
+TXT_SETUP_DATA_CNFG_OPTIONS_Num_Fields_FRMT_STR_M	%1 fält
+TXT_SETUP_DATA_CNFG_OPTIONS_One_Field_STR_M	1 fält
+TXT_SETUP_DATA_CNFG_OPTIONS_Rest_Screen_STR_S	Viloskärm
+TXT_SETUP_DATA_CNFG_OPTIONS_Screen_1_STR_S	Skärm 1
+TXT_SETUP_DATA_CNFG_OPTIONS_Screen_2_STR_S	Skärm 2
+TXT_SETUP_DATA_CNFG_OPTIONS_Screen_3_STR_S	Skärm 3
+TXT_SETUP_DATA_CNFG_OPTIONS_Screen_4_STR_S	Skärm 4
+TXT_SETUP_DATA_CNFG_OPTIONS_Status_STR_L	Status
+TXT_SETUP_DATA_FLD_CAT_Added_Fields_FRMT_STR_M	%1 har lagts till
+TXT_SETUP_DATA_FLD_CAT_Advanced_Power_STR_L	Avancerade kraftfält
+TXT_SETUP_DATA_FLD_CAT_Advanced_Power_STR_S	Avancerade kraftfält
+TXT_SETUP_DATA_FLD_CAT_BIKE_Cadence_STR_L	Kadensfält
+TXT_SETUP_DATA_FLD_CAT_ConnectIQ_STR_L	Connect IQ
+TXT_SETUP_DATA_FLD_CAT_Cycling_Dynamics_STR_L	Fält för cykeldynamik
+TXT_SETUP_DATA_FLD_CAT_Cycling_Dynamics_STR_S	Fält för cykeldynamik
+TXT_SETUP_DATA_FLD_CAT_Data_Fields_STR_S	Datafält
+TXT_SETUP_DATA_FLD_CAT_Distance_STR_L	Avståndsfält
+TXT_SETUP_DATA_FLD_CAT_Elevation_STR_L	Höjdfält
+TXT_SETUP_DATA_FLD_CAT_FTP_STR_L	%FTP-fält
+TXT_SETUP_DATA_FLD_CAT_FTP_STR_S	%FTP-fält
+TXT_SETUP_DATA_FLD_CAT_Gears_STR_L	Växlar
+TXT_SETUP_DATA_FLD_CAT_Heart_Rate_STR_L	Pulsfält
+TXT_SETUP_DATA_FLD_CAT_Length_STR_L	Längdfält
+TXT_SETUP_DATA_FLD_CAT_Muscle_Oxygen_STR_L	Muskelsyrefält
+TXT_SETUP_DATA_FLD_CAT_Options_STR_S	Alternativ
+TXT_SETUP_DATA_FLD_CAT_Other_STR_L	Övriga fält
+TXT_SETUP_DATA_FLD_CAT_PADDLE_Stroke_STR_L	Paddel-/årtagsfält
+TXT_SETUP_DATA_FLD_CAT_Pace_STR_L	Tempofält
+TXT_SETUP_DATA_FLD_CAT_Pedal_Stroke_STR_L	Pedalrörelsefält
+TXT_SETUP_DATA_FLD_CAT_Pedal_Stroke_STR_S	Pedalrörelsefält
+TXT_SETUP_DATA_FLD_CAT_Power_STR_L	Kraftfält
+TXT_SETUP_DATA_FLD_CAT_Power_STR_S	Kraftfält
+TXT_SETUP_DATA_FLD_CAT_Power_Zone_STR_L	Kraftzonsfält
+TXT_SETUP_DATA_FLD_CAT_Power_Zone_STR_S	Kraftzonsfält
+TXT_SETUP_DATA_FLD_CAT_RUN_Cadence_STR_L	Kadensfält
+TXT_SETUP_DATA_FLD_CAT_Rest_STR_L	Vilofält
+TXT_SETUP_DATA_FLD_CAT_Running_Dynamics_STR_L	Löpdynamik
+TXT_SETUP_DATA_FLD_CAT_SWIM_Stroke_STR_L	Simtagsfält
+TXT_SETUP_DATA_FLD_CAT_Speed_STR_L	Fartfält
+TXT_SETUP_DATA_FLD_CAT_Swolf_STR_L	SWOLF-fält
+TXT_SETUP_DATA_FLD_CAT_Tempe_STR_L	Temperaturfält
+TXT_SETUP_DATA_FLD_CAT_Time_In_Zone_STR_S	Tid i zon
+TXT_SETUP_DATA_FLD_CAT_Timer_STR_L	Tidursfält
+TXT_SETUP_DND_SETTINGS_Do_Not_Disturb_STR_L	Stör ej
+TXT_SETUP_DND_SETTINGS_Sleep_Time_STR_L	Sovtid
+TXT_SETUP_DRILL_DIST_Drill_Distance_STR_L	Övningssträcka
+TXT_SETUP_DRILL_DIST_FRMT_Meters_STR_M	%1 meter
+TXT_SETUP_DRILL_DIST_FRMT_Yards_STR_M	%1 yard
+TXT_SETUP_EDIT_MULTISPORT_PROFILE_Add_New_STR_L	Lägg till ny
+TXT_SETUP_EDIT_MULTISPORT_PROFILE_Profile_FRMT_STR_L	Profil %1
+TXT_SETUP_EDIT_MULTISPORT_PROFILE_Profiles_FRMT_STR_S	%1-profiler
+TXT_SETUP_FOOTPOD_CAL_Auto_Calibrate_STR_L	Autokalibrering
+TXT_SETUP_FOOTPOD_CAL_Calibration_Factor_STR_L	Kalibreringsfaktor
+TXT_SETUP_FOOTPOD_CAL_Set_Value_STR_L	Ställ in värde
+TXT_SETUP_FOOT_POD_Calibration_Factor_STR_L	Kalibreringsfaktor
+TXT_SETUP_FOOT_POD_Dist_Source_select_STR_L	Distans
+TXT_SETUP_FOOT_POD_Speed_Source_Select_STR_L	Använd som fartkälla
+TXT_SETUP_FORMAT_Format_STR_S	Format
+TXT_SETUP_FORMAT_Monday_STR_M	Måndag
+TXT_SETUP_FORMAT_Pace_Speed_Preference_STR_L	Inställning för tempo/fart
+TXT_SETUP_FORMAT_Saturday_STR_M	Lördag
+TXT_SETUP_FORMAT_Start_Of_Week_STR_L	Början på vecka
+TXT_SETUP_FORMAT_Sunday_STR_M	Söndag
+TXT_SETUP_FUNCTIONAL_THRESHOLD_POWER_Auto_Detect_STR_L	Upptäck autom.
+TXT_SETUP_FUNCTIONAL_THRESHOLD_POWER_Do_Guided_Test_STR_L	Gör testet med guidning
+TXT_SETUP_FUNCTIONAL_THRESHOLD_POWER_Est_18_31_min_M	Cirka 18–31 minuter
+TXT_SETUP_FUNCTIONAL_THRESHOLD_POWER_FTP_STR_S	FTP
+TXT_SETUP_FUNCTIONAL_THRESHOLD_POWER_View_STR_L	Visa
+TXT_SETUP_GENDER_Female_STR_L	Kvinna
+TXT_SETUP_GENDER_Gender_STR_M	Kön
+TXT_SETUP_GENDER_Male_STR_L	Man
+TXT_SETUP_GPS_SETTINGS_GPS_GLONASS_STR_L	GPS + GLONASS
+TXT_SETUP_GPS_SETTINGS_GPS_Only_STR_L	Normalt (enbart GPS)
+TXT_SETUP_GPS_SETTINGS_Off_STR_L	Av
+TXT_SETUP_HEART_RATE_MENU_Add_Sport_Heart_Rate_STR_L	Lägg till puls för sport
+TXT_SETUP_HEART_RATE_MENU_Cycling_STR_S	Cykling
+TXT_SETUP_HEART_RATE_MENU_Heart_Rate_Zones_STR_L	Puls
+TXT_SETUP_HEART_RATE_MENU_LTHR_STR_L	Pulsvärde för mjölksyratröskel
+TXT_SETUP_HEART_RATE_MENU_Max_HR_STR_L	Maximal puls
+TXT_SETUP_HEART_RATE_MENU_Remove_Cycling_HR_STR_L	Ta bort puls för cykling
+TXT_SETUP_HEART_RATE_MENU_Remove_Running_HR_STR_L	Ta bort puls för löpning
+TXT_SETUP_HEART_RATE_MENU_Remove_Swimming_HR_STR_L	Ta bort puls för simning
+TXT_SETUP_HEART_RATE_MENU_Resting_HR_STR_L	Vilopuls
+TXT_SETUP_HEART_RATE_MENU_Running_STR_S	Löpning
+TXT_SETUP_HEART_RATE_MENU_Sport_Heart_Rate_STR_L	Puls för sport
+TXT_SETUP_HEART_RATE_MENU_Sport_Heart_Rate_STR_S	Puls för sport
+TXT_SETUP_HEART_RATE_MENU_Swimming_STR_S	Simning
+TXT_SETUP_HEART_RATE_MENU_Zones_STR_L	Zoner
+TXT_SETUP_HEART_RATE_RESTING_HR_Resting_HR_STR_S	Vilopuls
+TXT_SETUP_HEART_RATE_RESTING_HR_Set_Custom_STR_L	Ange egen
+TXT_SETUP_HEART_RATE_RESTING_HR_Use_Average_STR_L	Använd medelvärde
+TXT_SETUP_HEART_RATE_ZONES_BPM_STR_M	BPM
+TXT_SETUP_HEART_RATE_ZONES_Based_On_STR_L	Baserat på
+TXT_SETUP_HEART_RATE_ZONES_Cycling_Zones_STR_L	Cyklingszoner
+TXT_SETUP_HEART_RATE_ZONES_PERCENT_HRR_STR_M	%HRR
+TXT_SETUP_HEART_RATE_ZONES_PERCENT_LTHR_STR_M	Pulsvärde mjölksyratr. i %
+TXT_SETUP_HEART_RATE_ZONES_PERCENT_Max_HR_STR_M	% maximal puls
+TXT_SETUP_HEART_RATE_ZONES_Running_Zones_STR_L	Löpningszoner
+TXT_SETUP_HEART_RATE_ZONES_SPORTS_Add_Sport_STR_L	Lägg till sport
+TXT_SETUP_HEART_RATE_ZONES_Swimming_Zones_STR_L	Simningszoner
+TXT_SETUP_HEART_RATE_ZONES_Zones_STR_L	Zoner
+TXT_SETUP_HISTORY_Activities_STR_L	Aktiviteter
+TXT_SETUP_HISTORY_History_STR_S	Historik
+TXT_SETUP_HISTORY_OPTIONS_Delete_All_Activities_STR_L	Ta bort alla aktiviteter?
+TXT_SETUP_HISTORY_OPTIONS_Options_STR_S	Alternativ
+TXT_SETUP_HISTORY_OPTIONS_Reset_Totals_STR_L	Nollställa totaler
+TXT_SETUP_HISTORY_Options_STR_L	Alternativ
+TXT_SETUP_HISTORY_TOTALS_Last_Week_STR_S	Senaste veckan
+TXT_SETUP_HISTORY_TOTALS_MONTHLY_April_STR_S	April
+TXT_SETUP_HISTORY_TOTALS_MONTHLY_August_STR_S	Augusti
+TXT_SETUP_HISTORY_TOTALS_MONTHLY_December_STR_S	December
+TXT_SETUP_HISTORY_TOTALS_MONTHLY_February_STR_S	Februari
+TXT_SETUP_HISTORY_TOTALS_MONTHLY_January_STR_S	Januari
+TXT_SETUP_HISTORY_TOTALS_MONTHLY_July_STR_S	Juli
+TXT_SETUP_HISTORY_TOTALS_MONTHLY_June_STR_S	Juni
+TXT_SETUP_HISTORY_TOTALS_MONTHLY_March_STR_S	Mars
+TXT_SETUP_HISTORY_TOTALS_MONTHLY_May_STR_S	Maj
+TXT_SETUP_HISTORY_TOTALS_MONTHLY_November_STR_S	November
+TXT_SETUP_HISTORY_TOTALS_MONTHLY_October_STR_S	Oktober
+TXT_SETUP_HISTORY_TOTALS_MONTHLY_September_STR_S	September
+TXT_SETUP_HISTORY_TOTALS_This_Week_STR_S	Denna vecka
+TXT_SETUP_HISTORY_Totals_STR_L	Totaler
+TXT_SETUP_HISTORY_Upload_Pending_STR_L	Väntar på överföring
+TXT_SETUP_HMD_Auto_STR_M	Auto
+TXT_SETUP_HMD_BRIGHTNESS_Brightness_STR_L	Ljusstyrka
+TXT_SETUP_HMD_BRIGHTNESS_Set_Automatically_STR_L	Ställ in autom.
+TXT_SETUP_HMD_BRIGHTNESS_Set_Brightness_STR_L	Ställ in ljusstyrka
+TXT_SETUP_HMD_Brightness_STR_L	Ljusstyrka
+TXT_SETUP_HMD_Display_Mode_STR_L	Visningssätt
+TXT_SETUP_HMD_Manual_STR_M	Manuell
+TXT_SETUP_HMD_On_Demand_STR_M	På begäran/bara varning
+TXT_SETUP_HMD_Stays_On_STR_M	Alltid på
+TXT_SETUP_HR_ZONES_Aerobic_Z3_STR_L	Konditionsträning (Z3)
+TXT_SETUP_HR_ZONES_Easy_Z2_STR_L	Lätt träning (Z2)
+TXT_SETUP_HR_ZONES_High_Aerobic_STR_L	Hård konditionsträn. (Z3)
+TXT_SETUP_HR_ZONES_Low_Aerobic_STR_L	Lätt konditionsträn. (Z2)
+TXT_SETUP_HR_ZONES_Maximum_Z5_STR_L	Högintensiv träning (Z5)
+TXT_SETUP_HR_ZONES_Reset_Zones_STR_L	Återställ zoner
+TXT_SETUP_HR_ZONES_Threshold_Z4_STR_L	Tröskelträning (Z4)
+TXT_SETUP_HR_ZONES_Warm_Up_Z1_STR_L	Uppvärmning (Z1)
+TXT_SETUP_INITIAL_Birth_Year_STR_S	Födelseår
+TXT_SETUP_INITIAL_Height_STR_S	Längd
+TXT_SETUP_INITIAL_Weight_STR_S	Vikt
+TXT_SETUP_INIT_DISTANCE_UNITS_Distance_STR_M	Distans
+TXT_SETUP_INIT_DISTANCE_UNITS_Kilometers_STR_L	Kilometer
+TXT_SETUP_INIT_DISTANCE_UNITS_Miles_STR_L	Engelska mil
+TXT_SETUP_INTERVAL_EDIT_Cool_Down_Run_STR_L	Varva ned
+TXT_SETUP_INTERVAL_EDIT_Edit_Workout_STR_S	Red. träningspass
+TXT_SETUP_INTERVAL_EDIT_Interval_STR_L	Intervall
+TXT_SETUP_INTERVAL_EDIT_Repeat_STR_L	Repetitioner
+TXT_SETUP_INTERVAL_EDIT_Rest_STR_L	Vila
+TXT_SETUP_INTERVAL_EDIT_Warm_Up_Run_STR_L	Uppvärmning
+TXT_SETUP_INTERVAL_OPTIONS_Cancel_Workout_STR_L	Avbryt träningspass
+TXT_SETUP_INTERVAL_OPTIONS_Do_Workout_STR_L	Kör träningspass
+TXT_SETUP_INTERVAL_OPTIONS_Duration_Rest_FRMT_STR_S	Vila %1
+TXT_SETUP_INTERVAL_OPTIONS_Edit_STR_L	Ändra
+TXT_SETUP_INTERVAL_OPTIONS_Intervals_STR_S	Intervaller
+TXT_SETUP_INTERVAL_OPTIONS_Laps_FRMT_STR_S	%1 varv
+TXT_SETUP_INTERVAL_OPTIONS_Open_Rest_STR_S	Öppen vila
+TXT_SETUP_INTERVAL_REST_STEP_EDIT_Edit_Rest_STR_S	Redigera vila
+TXT_SETUP_INTERVAL_STEP_EDIT_Duration_STR_L	Varaktighet
+TXT_SETUP_INTERVAL_STEP_EDIT_Edit_Interval_STR_S	Redigera intervall
+TXT_SETUP_INTERVAL_STEP_EDIT_Type_STR_L	Typ
+TXT_SETUP_LACTATE_THRESHOLD_Auto_Detect_STR_L	Upptäck autom.
+TXT_SETUP_LACTATE_THRESHOLD_Do_Guided_Test_STR_L	Gör testet med guidning
+TXT_SETUP_LACTATE_THRESHOLD_Est_20_30_min_M	Ca 20–30 minuter
+TXT_SETUP_LACTATE_THRESHOLD_Lactate_Threshold_STR_S	Mjölksyratröskel
+TXT_SETUP_LACTATE_THRESHOLD_View_STR_L	Visa
+TXT_SETUP_LAP_BANNER_Lap_Alert_STR_M	Varvvarning
+TXT_SETUP_LAP_BANNER_Off_STR_M	Av
+TXT_SETUP_LAP_BANNER_Preview_STR_L	Förhandsvisning
+TXT_SETUP_LAP_BANNER_Primary_Field_STR_L	Primärt fält
+TXT_SETUP_LAP_BANNER_Secondary_Field_STR_L	Sekundärt fält
+TXT_SETUP_LAP_BANNER_Total_Time_STR_M	Total tid
+TXT_SETUP_LIGHT_NETWORK_Auto_STR_L	Auto
+TXT_SETUP_LIGHT_NETWORK_Configuration_STR_L	Konfiguration
+TXT_SETUP_LIGHT_NETWORK_Individual_STR_L	Egen
+TXT_SETUP_LIGHT_NETWORK_Lights_STR_S	Lampor
+TXT_SETUP_LIGHT_NETWORK_Status_STR_L	Status
+TXT_SETUP_LOCATIONS_Saved_Locations_STR_L	Sparade platser
+TXT_SETUP_LOCATIONS_Saved_Locations_STR_S	Sparade platser
+TXT_SETUP_LOCATIONS_TITL_Locations_STR_L	Positioner
+TXT_SETUP_LOCATIONS_Where_Am_I_STR_L	Var är jag?
+TXT_SETUP_LOCATION_OPTIONS_Delete_STR_L	Ta bort
+TXT_SETUP_LOCATION_OPTIONS_Details_STR_L	Information
+TXT_SETUP_LOCATION_OPTIONS_GoTo_STR_L	Gå till
+TXT_SETUP_LOCATION_OPTIONS_Name_STR_L	Namn
+TXT_SETUP_MAIN_MENU_Activity_Settings_STR_L	Aktivitetsinställningar
+TXT_SETUP_MAIN_MENU_Activity_Tracking_STR_L	Aktivitetsmätning
+TXT_SETUP_MAIN_MENU_Back_To_Start_STR_L	Tillbaka till start
+TXT_SETUP_MAIN_MENU_Cancel_Race_STR_L	Avbryt lopp
+TXT_SETUP_MAIN_MENU_Cancel_Target_STR_L	Avbryt mål
+TXT_SETUP_MAIN_MENU_Cancel_Workout_STR_L	Avbryt trän.pass
+TXT_SETUP_MAIN_MENU_Clock_STR_L	Klocka
+TXT_SETUP_MAIN_MENU_Discard_STR_L	Ta bort
+TXT_SETUP_MAIN_MENU_History_STR_L	Historik
+TXT_SETUP_MAIN_MENU_Menu_STR_S	Meny
+TXT_SETUP_MAIN_MENU_My_Stats_STR_L	Min statistik
+TXT_SETUP_MAIN_MENU_Resume_STR_L	Fortsätt
+TXT_SETUP_MAIN_MENU_Save_STR_L	Spara
+TXT_SETUP_MAIN_MENU_Settings_STR_L	Inställningar
+TXT_SETUP_MAIN_MENU_Smart_Notifications_STR_L	Smartaviseringar
+TXT_SETUP_MAIN_MENU_Smart_Notifications_STR_M	Smartaviseringar
+TXT_SETUP_MAIN_MENU_Stop_LiveTrack_STR_L	Avsluta LiveTrack
+TXT_SETUP_MAIN_MENU_Stop_Navigation_STR_L	Stoppa navigering
+TXT_SETUP_MAIN_MENU_Training_STR_L	Träning
+TXT_SETUP_MAP_Hide_Up_STR_M	Dölj
+TXT_SETUP_MAP_Map_STR_S	Karta
+TXT_SETUP_MAP_North_Up_STR_M	Norr upp
+TXT_SETUP_MAP_Orientation_STR_L	Orientering
+TXT_SETUP_MAP_Show_STR_M	Visa
+TXT_SETUP_MAP_Status_STR_L	Status
+TXT_SETUP_MAP_Track_Up_STR_M	Spår uppåt
+TXT_SETUP_MAP_User_Locations_STR_L	Användarplatser
+TXT_SETUP_MAX_HEART_RATE_Auto_Detect_STR_L	Upptäck autom.
+TXT_SETUP_MAX_HEART_RATE_Max_HR_STR_S	Maximal puls
+TXT_SETUP_MAX_HEART_RATE_Set_Value_STR_L	Ställ in värde
+TXT_SETUP_METRONOME_Alert_Frequency_STR_L	Varningsfrekvens
+TXT_SETUP_METRONOME_Alert_Type_STR_L	Avisering
+TXT_SETUP_METRONOME_Beats_Per_Minute_STR_L	Slag per minut
+TXT_SETUP_METRONOME_Metronome_STR_S	Metronom
+TXT_SETUP_METRONOME_Mute_STR_L	Tyst
+TXT_SETUP_METRONOME_Preview_STR_L	Förhandsvisning
+TXT_SETUP_METRONOME_Status_STR_L	Status
+TXT_SETUP_METRONOME_Unmute_STR_L	Ingen sekretess
+TXT_SETUP_MY_STATS_FTP_STR_L	FTP
+TXT_SETUP_MY_STATS_Functional_Threshold_Power_STR_L	FTP (Functional Threshold Power)
+TXT_SETUP_MY_STATS_Lactate_Threshold_STR_L	Mjölksyratröskel
+TXT_SETUP_MY_STATS_My_Stats_STR_S	Min statistik
+TXT_SETUP_MY_STATS_Race_Predictor_STR_L	Förutsäg tävlingstider
+TXT_SETUP_MY_STATS_Records_STR_L	Rekord
+TXT_SETUP_MY_STATS_Recovery_Advisor_STR_L	Återhämtningsrådgivare
+TXT_SETUP_MY_STATS_User_Profile_STR_L	Användarprofil
+TXT_SETUP_MY_STATS_VO2_Max_STR_L	VO2 Max
+TXT_SETUP_NAVIGATION_Back_To_Start_STR_L	Tillbaka till start
+TXT_SETUP_NAVIGATION_Courses_Bike_STR_L	Banor
+TXT_SETUP_NAVIGATION_Courses_Run_STR_L	Banor
+TXT_SETUP_NAVIGATION_MENU_Navigation_STR_L	Navigation
+TXT_SETUP_NAVIGATION_Saved_Locations_STR_L	Sparade platser
+TXT_SETUP_NAVIGATION_Stop_Course_STR_L	Avbryt bana
+TXT_SETUP_NAVIGATION_Stop_Navigation_STR_L	Stoppa navigering
+TXT_SETUP_NAVIGATION_TITL_Navigation_STR_L	Navigation
+TXT_SETUP_NAVIGATION_Where_Am_I_STR_L	Var är jag?
+TXT_SETUP_PACE_SPEED_PREF_Cardio_STR_L	Kondition
+TXT_SETUP_PACE_SPEED_PREF_Cross_STR_L	Längdskidåkning
+TXT_SETUP_PACE_SPEED_PREF_Cycling_STR_L	Cykling
+TXT_SETUP_PACE_SPEED_PREF_Hiking_STR_L	Vandring
+TXT_SETUP_PACE_SPEED_PREF_Other_STR_L	Annan
+TXT_SETUP_PACE_SPEED_PREF_Pace_Speed_Preference_STR_S	Inställning för tempo/fart
+TXT_SETUP_PACE_SPEED_PREF_Running_STR_L	Löpning
+TXT_SETUP_PACE_SPEED_PREF_Show_Pace_STR_M	Visa tempo
+TXT_SETUP_PACE_SPEED_PREF_Show_Speed_STR_M	Visa fart
+TXT_SETUP_PACE_SPEED_PREF_Strength_STR_L	Styrka
+TXT_SETUP_PAGE_ACTIVITY_REVIEW_Activity_Summary_STR_S	Aktivitetssummering
+TXT_SETUP_PAGE_AM_STR	fm
+TXT_SETUP_PAGE_Allow_STR_M	Tillåt
+TXT_SETUP_PAGE_Disabled_STR_M	Avaktiverad
+TXT_SETUP_PAGE_Do_Not_Allow_STR_M	Tillåt inte
+TXT_SETUP_PAGE_Enabled_STR_M	Aktiverad
+TXT_SETUP_PAGE_Off_STR_M	Av
+TXT_SETUP_PAGE_On_STR_M	På
+TXT_SETUP_PAGE_PM_STR	em
+TXT_SETUP_PAGE_SWITCH_DETECTION_Off_STR_M	Avkänning av
+TXT_SETUP_PAGE_SWITCH_DETECTION_On_STR_M	Avkänning på
+TXT_SETUP_PAGE_SWITCH_Disabled_STR_M	Avaktiverad
+TXT_SETUP_PAGE_SWITCH_Enabled_STR_M	Aktiverad
+TXT_SETUP_PAGE_SWITCH_Off_STR_M	Av
+TXT_SETUP_PAGE_SWITCH_On_STR_M	På
+TXT_SETUP_PAGE_TITL_Alerts_STR_M	Varningar
+TXT_SETUP_PAGE_TITL_Auto_Lap_STR_M	Auto Lap
+TXT_SETUP_PAGE_TITL_Auto_Pause_STR_M	Auto Pause
+TXT_SETUP_PAGE_TITL_Auto_Scroll_STR_M	Auto Scroll
+TXT_SETUP_PAGE_TITL_Records_STR_M	Rekord
+TXT_SETUP_POOL_SIZE_25_Meters_STR_M	25 meter
+TXT_SETUP_POOL_SIZE_25_Yards_STR_M	25 Yards
+TXT_SETUP_POOL_SIZE_33_1_3_Meters_STR_M	33 1/3 meter
+TXT_SETUP_POOL_SIZE_33_1_3_Yards_STR_M	33 1/3 yard
+TXT_SETUP_POOL_SIZE_50_Meters_STR_M	50 meter
+TXT_SETUP_POOL_SIZE_Custom_STR_M	Egna
+TXT_SETUP_POOL_SIZE_Pool_Size_STR_S	Bassänglängd
+TXT_SETUP_POWER_Auto_FRMT_STR_M	Automatisk: %1 mm
+TXT_SETUP_POWER_Auto_Zero_STR_L	Automatiskt noll
+TXT_SETUP_POWER_Calibrate_STR_L	Kalibrera
+TXT_SETUP_POWER_Crank_Length_STR_L	Tramplängd
+TXT_SETUP_POWER_Left_Scale_Factor_STR_L	Vänster skalningsfaktor
+TXT_SETUP_POWER_Manual_FRMT_STR_M	Manuell: %1 mm
+TXT_SETUP_POWER_Power_Phase_Peak_TXT_L	Toppkraftfas
+TXT_SETUP_POWER_Right_Scale_Factor_STR_L	Höger skalningsfaktor
+TXT_SETUP_POWER_Slope_STR_L	Sluttning
+TXT_SETUP_POWER_Updating_STR_S	Uppdateras
+TXT_SETUP_POWER_ZONES_Based_On_STR_L	Baserat på
+TXT_SETUP_POWER_ZONES_FTP_STR_L	FTP
+TXT_SETUP_POWER_ZONES_Minimum_STR_L	Lägsta
+TXT_SETUP_POWER_ZONES_PERCENT_FTP_STR_L	% FTP
+TXT_SETUP_POWER_ZONES_PERCENT_FTP_STR_M	% FTP
+TXT_SETUP_POWER_ZONES_Power_Zones_STR_S	Kraftzoner
+TXT_SETUP_POWER_ZONES_Restore_Defaults_STR_L	Återställ standardinställningar
+TXT_SETUP_POWER_ZONES_Watts_STR_L	Watt
+TXT_SETUP_POWER_ZONES_Watts_STR_M	Watt
+TXT_SETUP_POWER_ZONES_Zone_FRMT_STR_L	Zon %1
+TXT_SETUP_POWER_ZONES_w_STR_S	W
+TXT_SETUP_RACE_ACTIVITY_Choose_Activity_STR_S	Välj aktivitet
+TXT_SETUP_RACE_ACTIVITY_Downloaded_STR_L	Hämtade
+TXT_SETUP_RACE_ACTIVITY_From_History_STR_L	I historiken
+TXT_SETUP_RACE_TARGET_OPTIONS_Cancel_Race_STR_L	Avbryt lopp
+TXT_SETUP_RACE_TARGET_OPTIONS_Cancel_Target_STR_L	Avbryt mål
+TXT_SETUP_RACE_TARGET_OPTIONS_Training_STR_S	Träning
+TXT_SETUP_RECORDS_SPORT_Cycling_STR_L	Cykling
+TXT_SETUP_RECORDS_SPORT_Running_STR_L	Löpning
+TXT_SETUP_RECORDS_SPORT_Swimming_STR_L	Simning
+TXT_SETUP_RECOVERY_ADVISOR_Recovery_Advisor_STR_S	Återhämtningsrådgivare
+TXT_SETUP_RECOVERY_ADVISOR_Recovery_Time_STR_L	Återhämtningstid
+TXT_SETUP_RECOVERY_ADVISOR_Status_STR_L	Status
+TXT_SETUP_RECOVERY_ADVISOR_days_FRMT_STR_M	%1 dagar
+TXT_SETUP_RECOVERY_ADVISOR_hour_FRMT_STR_M	%1 timmar
+TXT_SETUP_RECOVERY_ADVISOR_hours_FRMT_STR_M	%1 timmar
+TXT_SETUP_RUNNING_DYNAMICS_Cadence_STR_M	Kadens
+TXT_SETUP_RUNNING_DYNAMICS_GCT_Balance_STR_M	Markkontakttid, h/v-bal.
+TXT_SETUP_RUNNING_DYNAMICS_GCT_STR_M	Markkontakttid
+TXT_SETUP_RUNNING_DYNAMICS_Primary_Metric_STR_L	Primär måttenhet
+TXT_SETUP_RUNNING_DYNAMICS_Running_Dynamics_2_STR_L	Löpdynamik 2
+TXT_SETUP_RUNNING_DYNAMICS_Running_Dynamics_STR_L	Löpdynamik
+TXT_SETUP_RUNNING_DYNAMICS_Secondary_Metric_1_STR_L	Sekundära mätdata 1
+TXT_SETUP_RUNNING_DYNAMICS_Secondary_Metric_2_STR_L	Sekundära mätdata 2
+TXT_SETUP_RUNNING_DYNAMICS_Status_STR_L	Status
+TXT_SETUP_RUNNING_DYNAMICS_Stride_Length_STR_M	Steglängd
+TXT_SETUP_RUNNING_DYNAMICS_Vertical_Oscillation_STR_M	Vertikal rörelse
+TXT_SETUP_RUNNING_DYNAMICS_Vertical_Ratio_STR_M	Förh. vert./steglängd
+TXT_SETUP_SEGMENT_LEADERBOARD_CR_STR_S	Banrekord
+TXT_SETUP_SEGMENT_LEADERBOARD_Challenger_STR_S	Utmanare
+TXT_SETUP_SEGMENT_LEADERBOARD_Club_Leader_STR_S	Klubbmästare
+TXT_SETUP_SEGMENT_LEADERBOARD_Connection_STR_S	Kontakt
+TXT_SETUP_SEGMENT_LEADERBOARD_Goal_STR_S	Mål
+TXT_SETUP_SEGMENT_LEADERBOARD_Group_Leader_STR_S	Gruppledare
+TXT_SETUP_SEGMENT_LEADERBOARD_King_of_the_Mountain_STR_S	KOM
+TXT_SETUP_SEGMENT_LEADERBOARD_Personal_Best_STR_S	Personligt rekord
+TXT_SETUP_SEGMENT_LEADERBOARD_Personal_Record_STR_S	Personligt rekord
+TXT_SETUP_SEGMENT_LEADERBOARD_Queen_of_the_Mountain_STR_S	QOM
+TXT_SETUP_SEGMENT_LEADERBOARD_Rival_STR_S	Medtävlare
+TXT_SETUP_SEGMENT_LEADERBOARD_Segment_Leader_STR_S	Segmentledare
+TXT_SETUP_SEGMENT_LEADERBOARD_Updated_STR_S	Uppdaterades %1
+TXT_SETUP_SEGMENT_LIST_BIKE_Garmin_Segments_STR_M	Garmin-segment
+TXT_SETUP_SEGMENT_LIST_Grade_STR_T	%1 lutning
+TXT_SETUP_SEGMENT_LIST_RUN_Garmin_Segments_STR_M	Garmin-segment
+TXT_SETUP_SEGMENT_LIST_Strava_Live_Segments_STR_M	Strava Live-segment
+TXT_SETUP_SEGMENT_REVIEW_Delete_STR_L	Ta bort
+TXT_SETUP_SEGMENT_REVIEW_Elevation_Profile_STR_L	Höjdprofil
+TXT_SETUP_SEGMENT_REVIEW_Map_STR_L	Karta
+TXT_SETUP_SEGMENT_REVIEW_Race_Time_STR_L	Tävlingstid
+TXT_SETUP_SENSORS_Add_New_STR_L	Lägg till ny
+TXT_SETUP_SENSORS_Cadence_FRMT_STR_L	Kadens – %1
+TXT_SETUP_SENSORS_FOUND_Select_to_Add_STR_S	Välj för att lägga till
+TXT_SETUP_SENSORS_FOUND_Sensors_Found_STR_L	Sensorer hittades
+TXT_SETUP_SENSORS_Foot_Pod_FRMT_STR_L	Fotenhet - %1
+TXT_SETUP_SENSORS_Heart_Rate_FRMT_STR_L	Puls - %1
+TXT_SETUP_SENSORS_Lights_FRMT_STR_L	Lampa – %1
+TXT_SETUP_SENSORS_Lights_STR_L	Lampor
+TXT_SETUP_SENSORS_Muscle_Oxygen_FRMT_STR_L	Muskelsyre – %1
+TXT_SETUP_SENSORS_Power_FRMT_STR_L	Kraft - %1
+TXT_SETUP_SENSORS_Radar_FRMT_STR_L	Radar – %1
+TXT_SETUP_SENSORS_Sensors_STR_S	Sensorer och tillbehör
+TXT_SETUP_SENSORS_Shimano_Di2_FRMT_STR_L	Di2 – %1
+TXT_SETUP_SENSORS_Speed_Cadence_FRMT_STR_L	Fart/kadens – %1
+TXT_SETUP_SENSORS_Speed_FRMT_STR_L	Fart - %1
+TXT_SETUP_SENSORS_Tempe_FRMT_STR_L	tempe – %1
+TXT_SETUP_SENSORS_Varia_Vision_FRMT_STR_L	Varia Vision – %1
+TXT_SETUP_SENSORS_Virb_FRMT_STR_L	VIRB - %1
+TXT_SETUP_SENSOR_About_STR_L	Om
+TXT_SETUP_SENSOR_DETAILS_Custom_STR_M	Egna
+TXT_SETUP_SENSOR_DETAILS_Front_46_36T_STR_M	46–36 T
+TXT_SETUP_SENSOR_DETAILS_Front_50_34T_STR_M	50–34 T
+TXT_SETUP_SENSOR_DETAILS_Front_52_36T_STR_M	52–36 T
+TXT_SETUP_SENSOR_DETAILS_Front_52_38T_STR_M	52–38 T
+TXT_SETUP_SENSOR_DETAILS_Front_53_39T_STR_M	53–39 T
+TXT_SETUP_SENSOR_DETAILS_Front_54_42T_STR_M	54–42 T
+TXT_SETUP_SENSOR_DETAILS_Front_55_42T_STR_M	55–42 T
+TXT_SETUP_SENSOR_DETAILS_Rear_11_23T_STR_M	11–23 T
+TXT_SETUP_SENSOR_DETAILS_Rear_11_25T_STR_M	11–25 T
+TXT_SETUP_SENSOR_DETAILS_Rear_11_28T_STR_M	11–28 T
+TXT_SETUP_SENSOR_DETAILS_Rear_11_32T_STR_M	11–32 T
+TXT_SETUP_SENSOR_DETAILS_Rear_12_25T_STR_M	12–25 T
+TXT_SETUP_SENSOR_DETAILS_Rear_12_28T_STR_M	12–28 T
+TXT_SETUP_SENSOR_SETTINGS_Connect_STR_L	Anslut
+TXT_SETUP_SENSOR_SETTINGS_Name_STR_L	Namn
+TXT_SETUP_SENSOR_SETTINGS_Remove_STR_L	Ta bort
+TXT_SETUP_SENSOR_SETTINGS_Status_STR_L	Status
+TXT_SETUP_SENSOR_SOURCE_Always_STR_M	Alltid
+TXT_SETUP_SENSOR_SOURCE_Indoor_STR_M	Endast GPS avstängd
+TXT_SETUP_SENSOR_SOURCE_Off_STR_M	Aldrig
+TXT_SETUP_SENSOR_Status_Connected_STR_M	Ansluten
+TXT_SETUP_SENSOR_Status_Not_Connected_STR_M	Inte ansluten
+TXT_SETUP_SENSOR_Status_Off_STR_M	Av
+TXT_SETUP_SENSOR_Status_Searching_STR_M	Söker
+TXT_SETUP_SETTINGS_Activity_Profiles_STR_L	Aktivitetsprofiler
+TXT_SETUP_SETTINGS_Activity_Tracking_STR_L	Aktivitetsmätning
+TXT_SETUP_SETTINGS_Alarms_STR_L	Larm
+TXT_SETUP_SETTINGS_DND_STR_L	Stör ej
+TXT_SETUP_SETTINGS_Heart_Rate_Monitor_STR_L	Pulsmätare
+TXT_SETUP_SETTINGS_Sensors_and_Acessories_STR_L	Sensorer och tillbehör
+TXT_SETUP_SETTINGS_Settings_STR_S	Inställningar
+TXT_SETUP_SETTINGS_System_STR_L	System
+TXT_SETUP_SETTINGS_Widgets_STR_L	Widgets
+TXT_SETUP_SET_TARGET_DISTANCE_10k_STR_L	10 km
+TXT_SETUP_SET_TARGET_DISTANCE_1_mi_STR_L	1 mile
+TXT_SETUP_SET_TARGET_DISTANCE_1k_STR_L	1 km
+TXT_SETUP_SET_TARGET_DISTANCE_40k_STR_L	40 km
+TXT_SETUP_SET_TARGET_DISTANCE_5k_STR_L	5 km
+TXT_SETUP_SET_TARGET_DISTANCE_Custom_STR_L	Egna
+TXT_SETUP_SET_TARGET_DISTANCE_Half_Marathon_STR_L	Halvmaraton
+TXT_SETUP_SET_TARGET_DISTANCE_Marathon_STR_L	Maraton
+TXT_SETUP_SET_TARGET_DISTANCE_Select_Distance_STR_S	Välj distans
+TXT_SETUP_SET_TARGET_SELECT_Distance_Only_STR_L	Endast distans
+TXT_SETUP_SET_TARGET_SELECT_Distance_and_Pace_STR_L	Distans och tempo
+TXT_SETUP_SET_TARGET_SELECT_Distance_and_Speed_STR_L	Distans och fart
+TXT_SETUP_SET_TARGET_SELECT_Distance_and_Time_STR_L	Distans och tid
+TXT_SETUP_SET_TARGET_SELECT_Select_Target_STR_S	Välj mål
+TXT_SETUP_SET_TARGET_TIME_Enter_Manually_STR_L	Ange manuellt
+TXT_SETUP_SET_TARGET_TIME_Select_Time_STR_S	Välj tid
+TXT_SETUP_SET_TARGET_TIME_Use_Prediction_STR_L	Använd förutsägelse
+TXT_SETUP_SET_TARGET_TIME_Use_Record_STR_L	Använd rekord
+TXT_SETUP_SHIMANO_DI2_GEARS_Front_Gears_STR_L	Framväxlar
+TXT_SETUP_SHIMANO_DI2_GEARS_Gear_FRMT_STR_L	Växel %1
+TXT_SETUP_SHIMANO_DI2_GEARS_Gear_Presets_STR_L	Växelförinställningar
+TXT_SETUP_SHIMANO_DI2_GEARS_Rear_Gears_STR_L	Bakväxlar
+TXT_SETUP_SHORTCUTS_Alert_Frequency_STR_L	Varningsfrekvens
+TXT_SETUP_SHORTCUTS_Alert_Type_STR_L	Avisering
+TXT_SETUP_SHORTCUTS_BIKE_Stop_Segment_STR_M	Avsluta segment
+TXT_SETUP_SHORTCUTS_Back_to_Start_STR_M	Tillbaka till start
+TXT_SETUP_SHORTCUTS_Beats_Per_Minute_STR_L	Slag per minut
+TXT_SETUP_SHORTCUTS_Calibrate_Power_STR_M	Kalibrera kraft
+TXT_SETUP_SHORTCUTS_Cancel_Race_STR_M	Avbryt lopp
+TXT_SETUP_SHORTCUTS_Cancel_Target_STR_M	Avbryt mål
+TXT_SETUP_SHORTCUTS_Cancel_Workout_STR_M	Avbryt träningspass
+TXT_SETUP_SHORTCUTS_Clock_Options_STR_M	Klockalternativ
+TXT_SETUP_SHORTCUTS_Edit_Data_Fields_STR_M	Redigera datafält
+TXT_SETUP_SHORTCUTS_Lock_Device_STR_M	Lås enheten
+TXT_SETUP_SHORTCUTS_Music_Controls_STR_M	Musikkontroller
+TXT_SETUP_SHORTCUTS_Mute_STR_L	Tyst
+TXT_SETUP_SHORTCUTS_Options_STR_S	Alternativ
+TXT_SETUP_SHORTCUTS_Orientation_STR_M	Orientering
+TXT_SETUP_SHORTCUTS_Primary_Metric_STR_M	Primär måttenhet
+TXT_SETUP_SHORTCUTS_RUN_Stop_Segment_STR_M	Avsluta segment
+TXT_SETUP_SHORTCUTS_Recording_Mode_STR_M	Inspelningsläge
+TXT_SETUP_SHORTCUTS_Save_Location_STR_M	Spara plats
+TXT_SETUP_SHORTCUTS_Secondary_Metric_1_STR_L	Sekundära mätdata 1
+TXT_SETUP_SHORTCUTS_Secondary_Metric_2_STR_L	Sekundära mätdata 2
+TXT_SETUP_SHORTCUTS_Set_Pace_STR_M	Ange tempo
+TXT_SETUP_SHORTCUTS_Set_Speed_STR_M	Ange fart
+TXT_SETUP_SHORTCUTS_Start_Recording_STR_M	Starta inspelning
+TXT_SETUP_SHORTCUTS_Stop_Course_STR_M	Avbryt bana
+TXT_SETUP_SHORTCUTS_Stop_Livetrack_STR_M	Avsluta LiveTrack
+TXT_SETUP_SHORTCUTS_Stop_Navigation_STR_M	Stoppa navigering
+TXT_SETUP_SHORTCUTS_Stop_Recording_STR_M	Stoppa inspelning
+TXT_SETUP_SHORTCUTS_Take_Picture_STR_M	Ta bild
+TXT_SETUP_SHORTCUTS_Unmute_STR_L	Ingen sekretess
+TXT_SETUP_SHORTCUTS_User_Locations_STR_M	Användarplatser
+TXT_SETUP_SHORTCUTS_Zoom_STR_M	Zoom
+TXT_SETUP_SMART_NTFCTN_LIST_Notifications_STR_S	Aviseringar
+TXT_SETUP_SMART_NTFCTN_SETTINGS_ACT_During_Activity_STR_L	Under aktivitet
+TXT_SETUP_SMART_NTFCTN_SETTINGS_ACT_Not_During_Activity_STR_L	Inte under aktivitet
+TXT_SETUP_SMART_NTFCTN_SETTINGS_During_Activity_STR_L	Under aktivitet
+TXT_SETUP_SMART_NTFCTN_SETTINGS_Not_During_Activity_STR_L	Inte under aktivitet
+TXT_SETUP_SMART_NTFCTN_SETTINGS_Notifications_STR_L	Aviseringar
+TXT_SETUP_SMART_NTFCTN_SETTINGS_Options_STR_S	Alternativ
+TXT_SETUP_SMART_NTFCTN_SETTINGS_Show_All_STR_M	Visa alla
+TXT_SETUP_SMART_NTFCTN_SETTINGS_Show_Calls_Only_STR_M	Visa endast samtal
+TXT_SETUP_SMART_NTFCTN_SETTINGS_Smart_Notifications_STR_S	Smartaviseringar
+TXT_SETUP_SMART_NTFCTN_SETTINGS_Sounds_STR_L	Avisering
+TXT_SETUP_SMART_NTFCTN_SETTINGS_Status_STR_L	Status
+TXT_SETUP_SMART_NTFCTN_SETTINGS_Tone_STR_M	Ljudsignal
+TXT_SETUP_SMART_NTFCTN_SETTINGS_Tone_and_Vibration_STR_M	Ljud & Vibration
+TXT_SETUP_SMART_NTFCTN_SETTINGS_Vibration_STR_M	Vibration
+TXT_SETUP_SOUNDS_Alert_Tones_STR_L	Larmljud
+TXT_SETUP_SOUNDS_Key_Tones_STR_L	Knappljud
+TXT_SETUP_SOUNDS_Sounds_STR_S	Avisering
+TXT_SETUP_SOUNDS_Vibration_STR_L	Vibration
+TXT_SETUP_SPD_CAD_Auto_FRMT_STR_M	Automatisk: %1 mm
+TXT_SETUP_SPD_CAD_Manual_FRMT_STR_M	Manuell: %1 mm
+TXT_SETUP_SPD_CAD_Wheel_Size_STR_L	Hjulstorlek
+TXT_SETUP_STEP_TYPE_Distance_STR_M	Distans
+TXT_SETUP_STEP_TYPE_Open_STR_M	Öppen
+TXT_SETUP_STEP_TYPE_Time_STR_M	Tid
+TXT_SETUP_STRESS_SCORE_Last_7_Days_STR_L	De senaste 7 dagarna
+TXT_SETUP_STRESS_SCORE_Last_Measurement_STR_L	Senaste mätningen
+TXT_SETUP_STRESS_SCORE_Measure_Again_STR_L	Mät igen
+TXT_SETUP_STRESS_SCORE_Stress_Score_STR_S	Träningsbelastning
+TXT_SETUP_SW_UPDATE_Available_FRMT_STR_M	%1 tillgänglig
+TXT_SETUP_SW_UPDATE_Dismiss_STR_M	Avslå
+TXT_SETUP_SW_UPDATE_Est_Time_FRMT_STR_M	Uppskattad tid: %1
+TXT_SETUP_SW_UPDATE_Install_Now_STR_M	Installera nu
+TXT_SETUP_SW_UPDATE_Remind_Me_STR_M	Påminn mig
+TXT_SETUP_SW_UPDATE_Update_Available_STR_M	Uppdatering tillgänglig
+TXT_SETUP_SYSTEM_About_STR_L	Om
+TXT_SETUP_SYSTEM_Backlight_STR_L	Bakgrundsbelysning
+TXT_SETUP_SYSTEM_Clock_STR_L	Klocka
+TXT_SETUP_SYSTEM_Data_Recording_STR_L	Dataregistrering
+TXT_SETUP_SYSTEM_Every_Second_STR_M	Varje sekund
+TXT_SETUP_SYSTEM_Format_STR_L	Format
+TXT_SETUP_SYSTEM_Language_STR_L	Språk
+TXT_SETUP_SYSTEM_Restore_Defaults_STR_L	Återställ standardinställningar
+TXT_SETUP_SYSTEM_Smart_STR_M	Smart
+TXT_SETUP_SYSTEM_Software_Update_STR_L	Programuppdatering
+TXT_SETUP_SYSTEM_Sounds_STR_L	Avisering
+TXT_SETUP_SYSTEM_System_STR_S	System
+TXT_SETUP_SYSTEM_Units_STR_L	Enheter
+TXT_SETUP_TIME_12_Hour_STR_M	12-timmars
+TXT_SETUP_TIME_24_Hour_STR_M	24-timmars
+TXT_SETUP_TIME_Alarms_STR_L	Larm
+TXT_SETUP_TIME_Background_STR_L	Bakgrund
+TXT_SETUP_TIME_Black_STR_M	Svart
+TXT_SETUP_TIME_Digital_STR_M	Digitalt
+TXT_SETUP_TIME_FORMAT_12_Hour_STR_L	12 timmar
+TXT_SETUP_TIME_FORMAT_24_Hour_STR_L	24 timmar
+TXT_SETUP_TIME_FORMAT_Time_Format_STR_M	Tidsformat
+TXT_SETUP_TIME_IN_ZONE_OPTNS_Change_Zone_STR_S	Ändra zon
+TXT_SETUP_TIME_IN_ZONE_OPTNS_Choose_Other_Data_Field_STR_S	Välj annan datafält
+TXT_SETUP_TIME_IN_ZONE_OPTNS_Time_In_HR_Zone_FRMT_STR_S	Tid i pulszon %1
+TXT_SETUP_TIME_IN_ZONE_OPTNS_Time_In_Power_Zone_FRMT_STR_S	Tid i kraftzon %1
+TXT_SETUP_TIME_No_STR_M	Nej
+TXT_SETUP_TIME_Profile_Color_STR_L	Använd profilfärg
+TXT_SETUP_TIME_Set_Automatically_STR_L	Ställ in autom.
+TXT_SETUP_TIME_Set_Time_STR_L	Ställ in tid
+TXT_SETUP_TIME_Time_Format_STR_L	Tidsformat
+TXT_SETUP_TIME_Time_STR_L	Tid
+TXT_SETUP_TIME_Watch_Face_STR_L	Urtavla
+TXT_SETUP_TIME_White_STR_M	Vit
+TXT_SETUP_TIME_Yes_STR_M	Ja
+TXT_SETUP_TOTALS_Cycling_STR_L	Cykling
+TXT_SETUP_TOTALS_Running_STR_L	Löpning
+TXT_SETUP_TOTALS_Swimming_STR_L	Simning
+TXT_SETUP_TOTALS_Totals_STR_S	Totaler
+TXT_SETUP_TRAINING_CALENDAR_Training_Calendar_STR_S	Träningskalender
+TXT_SETUP_TRAINING_Intervals_STR_L	Intervaller
+TXT_SETUP_TRAINING_My_Workouts_STR_L	Mina träningspass
+TXT_SETUP_TRAINING_PAGES_Clock_STR_L	Klocka
+TXT_SETUP_TRAINING_PAGES_Data_Screens_STR_S	Datasidor
+TXT_SETUP_TRAINING_PAGES_Drill_Log_STR_L	Träningslogg
+TXT_SETUP_TRAINING_PAGES_Map_STR_L	Karta
+TXT_SETUP_TRAINING_PAGES_Page_HR_Zone_Gauge_STR_L	Pulszonsmätare
+TXT_SETUP_TRAINING_PAGES_Rest_Screen_STR_L	Viloskärm
+TXT_SETUP_TRAINING_PAGES_Running_Dynamics_2_STR_L	Löpdynamik 2
+TXT_SETUP_TRAINING_PAGES_Running_Dynamics_STR_L	Löpdynamik
+TXT_SETUP_TRAINING_PAGES_Screen_1_STR_L	Skärm 1
+TXT_SETUP_TRAINING_PAGES_Screen_2_STR_L	Skärm 2
+TXT_SETUP_TRAINING_PAGES_Screen_3_STR_L	Skärm 3
+TXT_SETUP_TRAINING_PAGES_Screen_4_STR_L	Skärm 4
+TXT_SETUP_TRAINING_Race_an_Activity_STR_L	Tävla i en aktivitet
+TXT_SETUP_TRAINING_Segments_STR_L	Segment
+TXT_SETUP_TRAINING_Set_a_Target_STR_L	Ställ in ett mål
+TXT_SETUP_TRAINING_Strava_Live_Segments_STR_L	Strava Live-segment
+TXT_SETUP_TRAINING_Training_Calendar_STR_L	Träningskalender
+TXT_SETUP_TRAINING_Training_STR_S	Träning
+TXT_SETUP_UNITS_Celsius_STR_M	Celsius
+TXT_SETUP_UNITS_Centimeters_STR_M	Centimeter
+TXT_SETUP_UNITS_Distance_STR_L	Distans
+TXT_SETUP_UNITS_Elevation_STR_L	Höjd
+TXT_SETUP_UNITS_Fahrenheit_STR_M	Fahrenheit
+TXT_SETUP_UNITS_Feet_STR_M	Fot
+TXT_SETUP_UNITS_Height_STR_L	Längd
+TXT_SETUP_UNITS_Kilograms_STR_M	Kilogram
+TXT_SETUP_UNITS_Kilometers_STR_M	Kilometer
+TXT_SETUP_UNITS_Meters_STR_M	Meter
+TXT_SETUP_UNITS_Miles_STR_M	Engelska mil
+TXT_SETUP_UNITS_Pace_Speed_STR_L	Tempo/fart
+TXT_SETUP_UNITS_Pounds_STR_M	Pund
+TXT_SETUP_UNITS_Temperature_STR_L	Temperatur
+TXT_SETUP_UNITS_Units_STR_S	Enheter
+TXT_SETUP_UNITS_Weight_STR_L	Vikt
+TXT_SETUP_USER_PROFILE_Birth_Year_STR_L	Födelseår
+TXT_SETUP_USER_PROFILE_Female_STR_M	Kvinna
+TXT_SETUP_USER_PROFILE_Gender_STR_L	Kön
+TXT_SETUP_USER_PROFILE_Heart_Rate_STR_L	Puls
+TXT_SETUP_USER_PROFILE_Height_STR_L	Längd
+TXT_SETUP_USER_PROFILE_Male_STR_M	Man
+TXT_SETUP_USER_PROFILE_Power_Zones_STR_L	Kraftzoner
+TXT_SETUP_USER_PROFILE_User_Profile_STR_S	Användarprofil
+TXT_SETUP_USER_PROFILE_Weight_STR_L	Vikt
+TXT_SETUP_VIRB_MENU_Options_STR_S	Alternativ
+TXT_SETUP_VIRB_MENU_Start_Recording_STR_L	Starta inspelning
+TXT_SETUP_VIRB_MENU_Stop_Recording_STR_L	Stoppa inspelning
+TXT_SETUP_VIRB_MENU_Take_Picture_STR_L	Ta bild
+TXT_SETUP_VIRB_Manual_STR_L	Manuellt
+TXT_SETUP_VIRB_Recording_Mode_STR_L	Inspelningsläge
+TXT_SETUP_VIRB_Timer_Start_Stop_STR_L	Tidur start/stopp
+TXT_SETUP_VIRTUAL_PARTNER_Set_Pace_STR_L	Ange tempo
+TXT_SETUP_VIRTUAL_PARTNER_Set_Speed_STR_L	Ange fart
+TXT_SETUP_VIRTUAL_PARTNER_Status_STR_L	Status
+TXT_SETUP_WIDGET_Pair_Now_STR_M	Para ihop nu
+TXT_SETUP_WIDGET_Select_To_Add_STR_L	Välj för att lägga till
+TXT_SETUP_WIDGET_Select_To_Remove_STR_L	Välj för att ta bort
+TXT_SETUP_WIDGET_Widgets_Add_STR_L	Lägg till widgets
+TXT_SETUP_WIDGET_Widgets_STR_L	Widgets
+TXT_SETUP_WIRELESS_Bluetooth_STR_L	Bluetooth
+TXT_SETUP_WIRELESS_CONTROLS_Bluetooth_STR_M	Bluetooth
+TXT_SETUP_WIRELESS_CONTROLS_Controls_STR_S	Kontroll
+TXT_SETUP_WIRELESS_CONTROLS_Do_Not_Disturb_STR_M	Stör ej
+TXT_SETUP_WIRELESS_CONTROLS_Find_My_Phone_STR_M	Hitta min telefon
+TXT_SETUP_WIRELESS_CONTROLS_Sync_STR_M	Synka
+TXT_SETUP_WORKOUT_CATEGORIES_LIST_Cycling_STR_M	Cykling
+TXT_SETUP_WORKOUT_CATEGORIES_LIST_Multisport_STR_M	Multisport
+TXT_SETUP_WORKOUT_CATEGORIES_LIST_My_Workouts_STR_M	Mina träningspass
+TXT_SETUP_WORKOUT_CATEGORIES_LIST_Open_Water_Swimming_STR_M	Havssimning
+TXT_SETUP_WORKOUT_CATEGORIES_LIST_Other_STR_M	Annan
+TXT_SETUP_WORKOUT_CATEGORIES_LIST_Pool_Swimming_STR_M	Simbassäng
+TXT_SETUP_WORKOUT_CATEGORIES_LIST_Running_STR_M	Löpning
+TXT_SETUP_WORKOUT_LIST_Cycling_STR_S	Cykling
+TXT_SETUP_WORKOUT_LIST_Invalid_STR_M	Ogiltig
+TXT_SETUP_WORKOUT_LIST_Multisport_STR_S	Multisport
+TXT_SETUP_WORKOUT_LIST_My_Workouts_STR_S	Mina träningspass
+TXT_SETUP_WORKOUT_LIST_Open_Water_Swimming_STR_S	Havssimning
+TXT_SETUP_WORKOUT_LIST_Other_STR_S	Annan
+TXT_SETUP_WORKOUT_LIST_Pool_Swimming_STR_S	Simbassäng
+TXT_SETUP_WORKOUT_LIST_Running_STR_S	Löpning
+TXT_SETUP_WORKOUT_LIST_Today_STR_S	Idag
+TXT_SETUP_WORKOUT_LIST_Tomorrow_STR_S	Imorgon
+TXT_SETUP_WORKOUT_LIST_Yesterday_STR_S	I går
+TXT_SETUP_WORKOUT_OPTIONS_1_Step_STR_L	1 steg
+TXT_SETUP_WORKOUT_OPTIONS_Cancel_Workout_STR_L	Avbryt träningspass
+TXT_SETUP_WORKOUT_OPTIONS_Delete_STR_L	Ta bort
+TXT_SETUP_WORKOUT_OPTIONS_Do_Workout_STR_L	Kör träningspass
+TXT_SETUP_WORKOUT_OPTIONS_Steps_STR_L	%1 steg
+TXT_SETUP_WORKOUT_OPTIONS_View_STR_L	Visa
+TXT_START_AUTO_MS_TIP_for_Next_Leg_STR_M	för nästa sträcka
+TXT_START_AUTO_MS_TIP_to_Begin_STR_M	för att starta
+TXT_START_WRKT_TIP_for_Each_Rest_STR_M	för varje vila
+TXT_START_WRKT_TIP_to_Begin_STR_M	för att starta
+TXT_STATUS_CANNOT_SET_TORQUE_SCALE_Cannot_Update_Scale_STR_M	Kan ej ge nytt värde förrän uppdat. av skaln.fakt. är slutf. på Vector.
+TXT_STATUS_PAGE_ACTIVE_PROFILE_REMOVAL_Cannot_Remove_Active_profile_STR_M	Det går inte att ta bort den aktiva profilen
+TXT_STATUS_PAGE_ACTIVITY_PROFILES_INVALID_REMOVAL_Profile_is_in_the_active_FRMT_STR_M	%1 är den aktiva profilen och kan inte tas bort.
+TXT_STATUS_PAGE_ACTIVITY_PROFILES_LIMIT_REACHED_Multisport_profiles_STR_M	Kan inte lägga till multisportprofil. Ta bort en och försök igen.
+TXT_STATUS_PAGE_ACTIVITY_PROFILES_LIMIT_REACHED_Single_sport_profiles_STR_M	Kan inte lägga till sportprofil. Ta bort en och försök igen.
+TXT_STATUS_PAGE_APPLYING_SETTINGS_Updating_STR_M	Uppdaterar
+TXT_STATUS_PAGE_AUTO_MS_Auto_Multisport_Complete_FRMT_STR_M	%1 klart
+TXT_STATUS_PAGE_BATTERY_LOW_SW_UPDATE_Battery_too_low_to_update_STR_M	Batterinivån är för låg för att programvaran ska kunna uppdateras.
+TXT_STATUS_PAGE_BIKE_Deleting_Segment_STR_M	Tar bort segment
+TXT_STATUS_PAGE_BIKE_LIGHT_Set_individual_to_adjust_mode_STR_M	Ställ in konfiguration på Egen för att justera läget.
+TXT_STATUS_PAGE_BLUETOOTH_PAIRING_Connecting_STR_M	Ansluter
+TXT_STATUS_PAGE_BLUETOOTH_PAIRING_Initializing_STR_M	Initierar
+TXT_STATUS_PAGE_BLUETOOTH_PAIRING_Paired_with_FRMT_STR_M	Ihopparad med\n%1
+TXT_STATUS_PAGE_BLUETOOTH_PAIRING_Passkey_STR_T	Lösenord
+TXT_STATUS_PAGE_BLUETOOTH_PAIRING_Ready_to_Pair_STR_M	Klar för ihopparn
+TXT_STATUS_PAGE_CALCULATE_TOTALS_Loading_Totals_STR_M	Läser in totaler
+TXT_STATUS_PAGE_COMPLETE_ACTIVITY_Complete_activity_to_access_menu_STR_M	Slutför aktivitet för att ändra i menyn.
+TXT_STATUS_PAGE_CONNECTIQ_DATA_FLDS_Replace_Remove_Fields_STR_M	Byt ut eller ta bort Connect IQ-fält på en datasid. om du vill lägga till.
+TXT_STATUS_PAGE_DELETING_ACTIVITIES_All_Activities_Deleted_STR_M	Alla aktiviteter har tagits bort
+TXT_STATUS_PAGE_DELETING_ACTIVITIES_Deleting_All_Activities_STR_M	Ta bort alla aktiviteter
+TXT_STATUS_PAGE_DELETING_RECORDS_All_Records_Cleared_STR_M	Alla rekord har rensats
+TXT_STATUS_PAGE_DELETING_RECORDS_Clearing_All_Records_STR_M	Rensar alla rekord
+TXT_STATUS_PAGE_DISCARDING_ACTIVITY_Activity_Discarded_STR_M	Aktiviteten har tagits bort
+TXT_STATUS_PAGE_DISCARDING_ACTIVITY_Discarding_STR_M	Tar bort
+TXT_STATUS_PAGE_DOWNLOAD_CALENDAR_Download_Training_Calendar_STR_M	Hämta din träningskalender från Garmin Connect.
+TXT_STATUS_PAGE_DOWNLOAD_WORKOUTS_Download_workouts_STR_M	Hämta träningspass från Garmin Connect.
+TXT_STATUS_PAGE_DUPLICATE_PROFILE_NAME_Profile_Name_Exists_STR_M	Aktivitetsprofil finns redan
+TXT_STATUS_PAGE_Downloading_stored_HR_data_STR_M	Hämtar sparad pulsdata
+TXT_STATUS_PAGE_FTP_COOLDOWN_Cool_Down_Recommended_STR_M	Vi rekommenderar att du varvar ner
+TXT_STATUS_PAGE_HRM_PWR_REQUIRED_HRM_and_PWR_Required_STR_M	Bröstpuls och kraftsensor krävs
+TXT_STATUS_PAGE_HRM_REQUIRED_Heart_Rate_Monitor_Required_STR_M	Bröstpulsmätare krävs
+TXT_STATUS_PAGE_HRM_Run_Enabled_STR_M	Skärmen visas när tillbehören HRM-Tri och HRM-Run används.
+TXT_STATUS_PAGE_HR_data_download_successful_STR_M	Hämtningen av pulsdata slutfördes
+TXT_STATUS_PAGE_INSTALLING_SW_UPDATE_Complete_STR_M	Sensoruppdateringen har slutförts
+TXT_STATUS_PAGE_INSTALLING_SW_UPDATE_Connected_STR_M	Ansluten
+TXT_STATUS_PAGE_INSTALLING_SW_UPDATE_Installing_Update_STR_M	Installerar uppdateringen
+TXT_STATUS_PAGE_INSTALLING_SW_UPDATE_Left_Pedal_Complete_STR_M	Vänster pedal slutförd
+TXT_STATUS_PAGE_INSTALLING_SW_UPDATE_Left_pedal_STR_M	Uppdaterar vänster pedal
+TXT_STATUS_PAGE_INSTALLING_SW_UPDATE_Restarting_STR_M	Startar om ...
+TXT_STATUS_PAGE_INSTALLING_SW_UPDATE_Right_Pedal_Complete_STR_M	Höger pedal slutförd
+TXT_STATUS_PAGE_INSTALLING_SW_UPDATE_Right_pedal_STR_M	Uppdaterar höger pedal
+TXT_STATUS_PAGE_INSTALLING_SW_UPDATE_Searching_STR_M	Söker
+TXT_STATUS_PAGE_INSTALLING_SW_UPDATE_Searching_left_STR_M	Söker efter vänster pedal.  Det här kan ta några minuter.
+TXT_STATUS_PAGE_INSTALLING_SW_UPDATE_Searching_right_STR_M	Söker efter höger pedal.  Det här kan ta några minuter.
+TXT_STATUS_PAGE_INSTALLING_SW_UPDATE_Update_Complete_STR_M	Uppdateringen slutfördes
+TXT_STATUS_PAGE_INSTALLING_SW_UPDATE_Updating_STR_M	Uppdateras
+TXT_STATUS_PAGE_INSTALLING_SW_UPDATE_Waiting_For_Sensor_reboot_STR_M	Väntar på att sensorn ska startas om.
+TXT_STATUS_PAGE_LACTATE_COOLDOWN_Cool_Down_Recommended_STR_M	Vi rekommenderar att du varvar ner
+TXT_STATUS_PAGE_LIVETRACK_Ending_LiveTrack_Session_STR_M	Avslutar LiveTrack-sessionen
+TXT_STATUS_PAGE_LOADING_ELEVATION_DATA_Loading_STR_M	Läser in
+TXT_STATUS_PAGE_LOADING_LAP_DATA_Loading_STR_M	Läser in
+TXT_STATUS_PAGE_LOADING_SESSION_DATA_Loading_STR_M	Läser in
+TXT_STATUS_PAGE_LTHR_GPS_REQUIRED_GPS_Required_STR_M	GPS krävs. Aktivera GPS och slutför testet utomhus.
+TXT_STATUS_PAGE_LTHR_UPDATE_ZONES_HR_Zones_Updated_STR_M	Pulszoner har uppdaterats
+TXT_STATUS_PAGE_MAX_HR_DETECTED_New_Cycling_Max_HR_Detected_STR_M	Ny maxpuls för cykling
+TXT_STATUS_PAGE_MAX_HR_DETECTED_New_Default_Max_HR_Detected_STR_M	Ny maxpuls registrerad
+TXT_STATUS_PAGE_MAX_HR_DETECTED_New_Running_Max_HR_Detected_STR_M	Ny maxpuls för löpning
+TXT_STATUS_PAGE_NAVIGATION_GPS_OFF_GPS_is_off_STR_M	GPS avstängd. Aktivera GPS i aktivitetsinställn. eller välj annan aktivitet.
+TXT_STATUS_PAGE_NEW_RECORDS_New_Record_STR_L	%1\nnytt rekord!
+TXT_STATUS_PAGE_NEW_RECORDS_New_Records_STR_L	%1\nnya rekord!
+TXT_STATUS_PAGE_NO_ACTIVITIES_SAVED_No_Activities_Saved_STR_M	Inga aktiviteter sparade
+TXT_STATUS_PAGE_NO_BLUETOOTH_CONNECTION_No_Bluetooth_Connection_STR_M	Ingen Bluetooth-anslutning
+TXT_STATUS_PAGE_NO_COURSES_SAVED_No_Courses_Saved_STR_M	Inga banor sparade
+TXT_STATUS_PAGE_NO_CUSTOM_WATCHFACE_Download_From_ConnectIQ_STR_M	Hämta från Connect IQ-butiken
+TXT_STATUS_PAGE_NO_ELEV_DATA_BIKE_No_Segment_Elevation_Data_STR_M	Inga höjddata för segment
+TXT_STATUS_PAGE_NO_ELEV_DATA_No_Course_Elevation_Data_STR_M	Inga höjddata för bana
+TXT_STATUS_PAGE_NO_ELEV_DATA_RUN_No_Segment_Elevation_Data_STR_M	Inga höjddata för segment
+TXT_STATUS_PAGE_NO_SAVED_LOCATIONS_No_Locations_Saved_STR_M	Inga sparade platser
+TXT_STATUS_PAGE_NO_SEGMENTS_SAVED_No_Segments_Saved_STR_M	Inga sparade segment
+TXT_STATUS_PAGE_NO_SMART_NOTIFICATIONS_No_Notifications_STR_M	Inga aviseringar
+TXT_STATUS_PAGE_NO_SW_UPDATES_Go_to_Garmin_Connect_STR_M	Gå till Garmin Connect och leta efter uppdateringar.
+TXT_STATUS_PAGE_NO_SW_UPDATES_Last_WiFi_Connection_STR_M	Senaste Wi-Fi-anslutning:
+TXT_STATUS_PAGE_NO_SW_UPDATES_No_Updates_STR_M	Inga uppdateringar
+TXT_STATUS_PAGE_NO_UPCOMING_WORKOUTS_No_upcoming_workouts_STR_M	Inga inplanerade träningspass.
+TXT_STATUS_PAGE_No_HR_data_to_download_STR_M	Det finns inga pulsdata att hämta
+TXT_STATUS_PAGE_Processing_downloaded_HR_data_STR_M	Bearbetar hämtade pulsdata
+TXT_STATUS_PAGE_RACE_PREDICTOR_VO2_Max_Needed_STR_M	Spring ute i 10 min med pulsmät. för att få tidsförutsäg. för tävling.
+TXT_STATUS_PAGE_RESETTING_TOTALS_All_Totals_Reset_STR_M	Alla totaler har nollställts
+TXT_STATUS_PAGE_RESETTING_TOTALS_Resetting_All_Totals_STR_M	Nollställ alla totaler
+TXT_STATUS_PAGE_RUN_Deleting_Segment_STR_M	Tar bort segment
+TXT_STATUS_PAGE_SAVING_ACTIVITY_Saving_STR_M	Sparar
+TXT_STATUS_PAGE_SAVING_COURSE_NAME_Saving_STR_M	Sparar
+TXT_STATUS_PAGE_SETTING_UNAVAILABLE_Cancel_workout_STR_M	Avbryt eller slutför det aktiva träningspasset för att ändra inställningen.
+TXT_STATUS_PAGE_SETTING_UNAVAILABLE_Setting_Unavailable_STR_M	Avsluta den aktuella aktiviteten för att ändra inställningen.
+TXT_STATUS_PAGE_SYNC_Battery_Is_Too_Low_To_Connect_To_WiFi_STR_M	Batterinivån är för låg för att ansluta till Wi-Fi .
+TXT_STATUS_PAGE_SYNC_No_App_Connection_Available_STR_M	Ingen BLE-anslutning tillgänglig
+TXT_STATUS_PAGE_SYNC_No_App_or_WiFi_Connection_Available_STR_M	Ingen BLE- eller Wi-Fi-anslutning tillgänglig
+TXT_STATUS_PAGE_SYNC_Searching_For_Wifi_Network_STR_M	Söker efter Wi-Fi-nätverk
+TXT_STATUS_PAGE_SYNC_Set_Up_WiFi_Using_Garmin_Express_STR_M	Konfigurera Wi-Fi med Garmin Express.
+TXT_STATUS_PAGE_SYNC_Transfer_Already_in_Progress_STR_M	Överföring pågår
+TXT_STATUS_PAGE_SYNC_Transfer_Complete_STR_M	Överföring klar
+TXT_STATUS_PAGE_SYNC_Transfer_Failed_STR_M	Överföringen misslyckades
+TXT_STATUS_PAGE_SYNC_Transferring_STR_M	Överföring pågår
+TXT_STATUS_PAGE_Searching_for_stored_HR_data_STR_M	Söker efter sparad pulsdata
+TXT_STATUS_PAGE_Set_Run_Time_STR_M	Ställ in löpningstid
+TXT_STATUS_PAGE_Set_Walk_Time_STR_M	Ställ in gångtid
+TXT_STATUS_PAGE_TARGET_10k_STR_M	10 km
+TXT_STATUS_PAGE_TARGET_1_mi_STR_M	1 mile
+TXT_STATUS_PAGE_TARGET_1k_STR_M	1 km
+TXT_STATUS_PAGE_TARGET_40k_STR_M	40 km
+TXT_STATUS_PAGE_TARGET_5k_STR_M	5 km
+TXT_STATUS_PAGE_TARGET_Ahead_by_FRMT_STR_M	-%1
+TXT_STATUS_PAGE_TARGET_Behind_by_FRMT_STR_M	+%1
+TXT_STATUS_PAGE_TARGET_Half_Marathon_STR_M	Halvmaraton
+TXT_STATUS_PAGE_TARGET_Marathon_STR_M	Maraton
+TXT_STATUS_PAGE_TARGET_Race_Finished_STR_M	Lopp slutfört
+TXT_STATUS_PAGE_Updating_STR_M	Uppdateras
+TXT_STATUS_PAGE_VO2MAX_DETECTED_New_Cycling_VO2Max_Detected_STR_M	Nytt VO2-max för cykling
+TXT_STATUS_PAGE_VO2MAX_DETECTED_New_Running_VO2Max_Detected_STR_M	Nytt VO2-max för löpning
+TXT_STATUS_PAGE_VO2MAX_DETECTED_New_VO2Max_Detected_STR_M	Nytt VO2-max registrerats
+TXT_STATUS_PAGE_VO2_MAX_ESTIMATE_Ride_for_20_00_high_intensity_HR_STR_M	Cykla m. hög intensitet i 20 min med mätare för att få VO2 max.
+TXT_STATUS_PAGE_VO2_MAX_ESTIMATE_Ride_for_20_00_high_intensity_chest_HR_STR_M	Cykla m. jämn, hög int. i 20 min. med br.puls- & kr.mätare för att få fram VO2 max.
+TXT_STATUS_PAGE_VO2_MAX_ESTIMATE_Run_for_10_00_outdoors_STR_M	Spring i 10 min utomhus i jämn takt med HRM-Run för att få VO2max.
+TXT_STATUS_PAGE_WAIT_UNTIL_GPS_Wait_until_GPS_STR_M	Vänta tills GPS:en kan visa din aktuella plats.
+TXT_STATUS_PAGE_WIDGET_Connect_IQ_STR_M	Hämta fler widgets från Connect IQ-butiken.
+TXT_STATUS_PAGE_WIDGET_Go_To_Settings_STR_M	Gå till Inställningar > Widgets för att hantera widgets senare.
+TXT_STATUS_PAGE_WORKOUT_OUT_OF_SPACE_Remove_a_single_STR_M	Ta bort akt.profil för en sport för att lägga till den här.
+TXT_STATUS_PAGE_Wrist_HRM_Disabled_STR_M	Pulsmätning vid handleden är avaktiverat under simningsaktiviteter.
+TXT_STATUS_PWR_CALIBRATE_Calibrating_Power_Sensor_STR_L	Kalibrerar kraftsensor
+TXT_STATUS_PWR_CALIBRATE_Calibration_Successful_STR_L	Kalibrering lyckades
+TXT_STATUS_PWR_CALIBRATE_Offset_STR_L	Kompensation
+TXT_STATUS_PWR_CALIBRATE_Torque_STR_L	Vridmoment
+TXT_STATUS_PWR_SETUP_Pedal_to_Set_Angles_STR_L	Trampa 80–90 rpm för att kalibrera.
+TXT_STATUS_PWR_SETUP_Select_to_Complete_Setup_STR_L	Välj Kalibrera på kraftsensormenyn för att slutföra Vector-konfigureringen.
+TXT_STATUS_PWR_SETUP_Vector_Setup_Complete_STR_L	Installationsvinklarna har ställts in. Initial Vector-konfigurering är klar.
+TXT_STATUS_RECOVERY_ADVISOR_Recovery_Time_STR_M	Återhämtningstid
+TXT_STATUS_RECOVERY_ADVISOR_Run_with_heart_rate_STR_M	Spring med pulsmätare för att se återhämtningstid.
+TXT_STATUS_RECOVERY_ADVISOR_days_STR_S	dagar
+TXT_STATUS_RECOVERY_ADVISOR_hour_STR_S	timme
+TXT_STATUS_RECOVERY_ADVISOR_hours_STR_S	timmar
+TXT_STATUS_REPLACE_SENSOR_Connected_FRMT_STR_L	%1 ansluten
+TXT_STATUS_REPLACE_SENSOR_Failed_to_Connect_FRMT_STR_L	Kunde ej ans. till %1
+TXT_STATUS_REPLACE_SENSOR_Searching_for_FRMT_STR_L	Söker efter %1
+TXT_STATUS_SEARCHING_SENSOR_Searching_For_All_Sensors_STR_L	Söker efter alla sensorer och tillbehör i närh.
+TXT_STATUS_SEARCHING_SENSOR_Searching_For_Sensor_STR_L	Söker efter sensorn
+TXT_STRESS_SCORE_APP_Measure_STR_M	Mät
+TXT_STRESS_SCORE_HIST_Avg_FRMT_STR_M	Medel: %1
+TXT_STRESS_SCORE_HIST_Last_7_Days_STR_M	Senaste 7 dagar
+TXT_STRESS_SCORE_TITL_High_Stress_STR_M	Hög belastning
+TXT_STRESS_SCORE_TITL_Low_Stress_STR_M	Låg belastning
+TXT_STRESS_SCORE_TITL_Moderate_Stress_STR_M	Måttlig belastning
+TXT_STRESS_SCORE_TITL_Very_High_Stress_STR_M	Mycket hög belastning
+TXT_SUMMART_ACTIVITY_LAP_DETAILS_Rear_Shifts_STR_S	Växl. bak:
+TXT_SUMMARY_ACTIVITY_DETAILS_TITL_Overall_STR_S	Totalt
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_500m_Pace_STR_S	Temp 500m:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Avg_HR_STR_S	Med. puls:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Avg_Power_STR_S	Medelkraft:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Avg_Speed_STR_S	Med. fart:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_BACK_FRMT_STR_S	%1 - RYGG:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_BIKE_Cadence_STR_S	Kadens:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_BREAST_FRMT_STR_S	%1 - BRST:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Calories_STR_S	Kalorier:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Distance_STR_S	Sträcka:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_FLY_FRMT_STR_S	%1 - FJÄR:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_FREE_FRMT_STR_S	%1 - FRI:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Front_Shifts_STR_S	Växl. fram:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_GCT_Balance_STR_S	Markk. bal.:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_GCT_STR_S	Markkont.:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Int_Factor_STR_S	IF:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_LR_Balance_STR_S	Balans:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_LR_Smoothness_STR_S	Jämnhet:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_LR_Torque_Eff_STR_S	Momenteff.:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Left_Avg_PCO_STR_M	PCO, v:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Left_Power_Phase_Peak_STR_T	Toppkrf vä:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Left_Power_Phase_STR_T	Kraftf., v:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Max_HR_STR_S	Max. puls:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Max_Power_STR_S	Maxkraft:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Max_Speed_STR_S	Max. fart:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Norm_Power_STR_S	NP:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_PADDLE_Stroke_Distance_STR_S	Tagdistans:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_PADDLE_Stroke_Rate_STR_S	Tagtempo:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Pace_STR_S	Tempo:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_RUN_Cadence_STR_S	Kadens:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Right_Avg_PCO_STR_M	PCO, höger:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Right_Power_Phase_Peak_STR_T	Toppkr., h:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Right_Power_Phase_STR_T	Kraftf., h:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_SWIM_Stroke_Distance_STR_S	Tagdistans:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_SWIM_Stroke_Rate_STR_S	Tagtempo:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_SWOLF_STR_S	SWOLF:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Stride_Length_STR_S	Steglängd:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Strokes_Length_STR_S	Simt./längd:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Swim_Time_STR_S	Simtid:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_TITL_Friday_FRMT_STR_S	Fredag %1
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_TITL_Interval_BACK_FRMT_STR_S	Intervall %1 - RYGG
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_TITL_Interval_BREAST_FRMT_STR_S	Int %1 – BRÖST
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_TITL_Interval_DRILL_FRMT_STR_S	Int. %1 – TRÄ.
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_TITL_Interval_FLY_FRMT_STR_S	Int. %1 – FJÄR.
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_TITL_Interval_FREE_FRMT_STR_S	Intervall %1 - FRI
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_TITL_Interval_IM_FRMT_STR_S	Intervall %1 - IM
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_TITL_Interval_MIXED_FRMT_STR_S	Int. %1 – BLND
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_TITL_Interval_UNKNOWN_FRMT_STR_S	Intervall %1
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_TITL_Lap_FRMT_STR_S	Varv %1
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_TITL_Lengths_FRMT_STR_S	Längder - %1
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_TITL_Monday_FRMT_STR_S	Måndag %1
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_TITL_Saturday_FRMT_STR_S	Lördag %1
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_TITL_Sunday_FRMT_STR_S	Söndag %1
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_TITL_Thursday_FRMT_STR_S	Torsdag %1
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_TITL_Today_FRMT_STR_S	Idag %1
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_TITL_Tuesday_FRMT_STR_S	Tisdag %1
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_TITL_Wednesday_FRMT_STR_S	Onsdag %1
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_TITL_Yesterday_FRMT_STR_S	Igår %1
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_TSS_STR_S	TSS:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Time_STR_S	Tid:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Time_Standing_STR_S	Tid stående:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Training_Effect_STR_S	Trän.effekt:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Vert_Osc_STR_S	Vert. rör.:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Vert_Ratio_STR_S	Kvot vert.
+TXT_SUMMARY_LOCATION_DETAILS_Elevation_STR_S	Höjd:
+TXT_SUMMARY_LOCATION_DETAILS_Position_STR_S	Position:
+TXT_SUMMARY_RACE_PREDICTOR_10K_STR_S	10 km:
+TXT_SUMMARY_RACE_PREDICTOR_5K_STR_S	5 km:
+TXT_SUMMARY_RACE_PREDICTOR_Half_STR_S	Halvmara:
+TXT_SUMMARY_RACE_PREDICTOR_Marathon_STR_S	Maraton:
+TXT_SUMMARY_RACE_PREDICTOR_Race_Predictor_STR_S	Föruts. tävl.-tid
+TXT_SUMMARY_SENSORS_ABOUT_HDR_Device_STR_S	Enhet
+TXT_SUMMARY_SENSORS_ABOUT_HDR_Sensor_Errors_STR_S	Sensorfel
+TXT_SUMMARY_SENSORS_ABOUT_HDR_Sensor_Status_STR_S	Sensorstatus
+TXT_SUMMARY_SENSORS_ABOUT_LBL_Battery_STR_S	Batteri:
+TXT_SUMMARY_SENSORS_ABOUT_LBL_Id_STR_S	ID:
+TXT_SUMMARY_SENSORS_ABOUT_LBL_Left_STR_S	Vänster:
+TXT_SUMMARY_SENSORS_ABOUT_LBL_Manufacturer_STR_S	Tillv. nr:
+TXT_SUMMARY_SENSORS_ABOUT_LBL_Model_STR_S	Modellnr:
+TXT_SUMMARY_SENSORS_ABOUT_LBL_Right_STR_S	Höger:
+TXT_SUMMARY_SENSORS_ABOUT_LBL_SW_Ver_STR_S	Prgrmv:
+TXT_SUMMARY_SENSORS_ABOUT_LBL_Serial_STR_S	Serienr:
+TXT_SUMMARY_SENSORS_ABOUT_STATUS_Charging_STR_S	Laddar
+TXT_SUMMARY_SENSORS_ABOUT_STATUS_Connected_STR_S	Ansluten
+TXT_SUMMARY_SENSORS_ABOUT_STATUS_Critical_STR_S	Kritisk
+TXT_SUMMARY_SENSORS_ABOUT_STATUS_Disconnected_STR_S	Frånkopplad
+TXT_SUMMARY_SENSORS_ABOUT_STATUS_Good_STR_S	Bra
+TXT_SUMMARY_SENSORS_ABOUT_STATUS_Invalid_STR_S	Ogiltig
+TXT_SUMMARY_SENSORS_ABOUT_STATUS_Low_STR_S	Lågt
+TXT_SUMMARY_SENSORS_ABOUT_STATUS_Mismatch_STR_S	Matchar inte
+TXT_SUMMARY_SENSORS_ABOUT_STATUS_New_STR_S	Nytt
+TXT_SUMMARY_SENSORS_ABOUT_STATUS_Ok_STR_S	OK
+TXT_SWIM_Avg_Stroke_Distance_STR_L	Medelsimtagslängd
+TXT_SWIM_Avg_Stroke_Distance_STR_M	Medelsimtagslängd
+TXT_SWIM_Avg_Stroke_Distance_STR_S	Med.-simt.längd
+TXT_SWIM_Avg_Stroke_Rate_STR_L	Medelsimtagstempo
+TXT_SWIM_Avg_Stroke_Rate_STR_M	Medelsimtagstempo
+TXT_SWIM_Avg_Stroke_Rate_STR_S	Medelsimtempo
+TXT_SWIM_Lap_Stroke_Distance_STR_L	Simtagslängd
+TXT_SWIM_Lap_Stroke_Distance_STR_M	Simtagslängd
+TXT_SWIM_Lap_Stroke_Distance_STR_S	Simtagslängd
+TXT_SWIM_Lap_Stroke_Rate_STR_L	Simtagstempo
+TXT_SWIM_Lap_Stroke_Rate_STR_M	Simtagstempo
+TXT_SWIM_Lap_Stroke_Rate_STR_S	Simtagstempo
+TXT_SWIM_Lap_Strokes_STR_L	Simtag
+TXT_SWIM_Lap_Strokes_STR_M	Simtag
+TXT_SWIM_Lap_Strokes_STR_S	Simtag
+TXT_SWIM_Last_Lap_Stroke_Distance_STR_L	Senaste simtagslängd
+TXT_SWIM_Last_Lap_Stroke_Distance_STR_M	Senaste simtagslängd
+TXT_SWIM_Last_Lap_Stroke_Distance_STR_S	Sen. simt.längd
+TXT_SWIM_Last_Lap_Stroke_Rate_STR_L	Simtagstempo för senaste längd
+TXT_SWIM_Last_Lap_Stroke_Rate_STR_M	Simt.tempo för sen. längd
+TXT_SWIM_Last_Lap_Stroke_Rate_STR_S	S.temp. sen. lä.
+TXT_SWIM_Last_Lap_Strokes_STR_L	Senaste simtag
+TXT_SWIM_Last_Lap_Strokes_STR_M	Senaste simtag
+TXT_SWIM_Last_Lap_Strokes_STR_S	Senaste simtag
+TXT_SWIM_REST_Rest_STR_L	Vila
+TXT_SWIM_Stroke_Rate_STR_L	Simtagstempo
+TXT_SWIM_Stroke_Rate_STR_M	Simtagstempo
+TXT_SWIM_Stroke_Rate_STR_S	Simtagstempo
+TXT_SWIM_Strokes_Distance_STR_L	Distans per simtag
+TXT_SWIM_Strokes_Distance_STR_M	Distans per simtag
+TXT_SWIM_Strokes_Distance_STR_S	Dist. per simtag
+TXT_SWIM_Strokes_STR_L	Simtag
+TXT_SWIM_Strokes_STR_M	Simtag
+TXT_SWIM_Strokes_STR_S	Simtag
+TXT_Sa_STR_M	L
+TXT_Sat_FRMT_STR_M	Lördag %1
+TXT_Sat_STR_M	Lör
+TXT_Software_Version_STR_M	Programversion
+TXT_Spd_Avg_Run_STR_L	Medel Fart
+TXT_Spd_Avg_Run_STR_M	Medel Fart
+TXT_Spd_Avg_Run_STR_S	Med. fart
+TXT_Spd_Crnt_Lap_STR_L	Varv fart
+TXT_Spd_Crnt_Lap_STR_M	Varv fart
+TXT_Spd_Crnt_Lap_STR_S	Varv fart
+TXT_Spd_Last_Lap_STR_L	Senaste varv fart
+TXT_Spd_Last_Lap_STR_M	Senaste varv fart
+TXT_Spd_Last_Lap_STR_S	Senaste varvfart
+TXT_Speed_Nautical_STR_L	Nautisk fart
+TXT_Speed_Nautical_STR_M	Nautisk fart
+TXT_Speed_Nautical_STR_S	Nautisk hastigh.
+TXT_Speed_SHORT_STR_S	Fart
+TXT_Speed_STR_L	Fart
+TXT_Speed_STR_M	Fart
+TXT_Speed_STR_S	Fart
+TXT_Step_Avg_Power_STR_L	Medelkraft för aktuellt träningssteg
+TXT_Step_Avg_Power_STR_M	Med.kraft för akt. steg
+TXT_Step_Avg_Power_STR_S	Med.kr. akt. steg
+TXT_Step_Distance_STR_L	Aktuell sträcka för träningssteg
+TXT_Step_Distance_STR_M	Stegdistans
+TXT_Step_Distance_STR_S	Stegdistans
+TXT_Step_Pace_SHORT_STR_S	Stegtempo
+TXT_Step_Pace_STR_L	Aktuellt tempo för träningssteg
+TXT_Step_Pace_STR_M	Stegtempo
+TXT_Step_Pace_STR_S	Stegtempo
+TXT_Step_Speed_SHORT_STR_S	Stegfart
+TXT_Step_Speed_STR_L	Aktuell fart för träningssteg
+TXT_Step_Speed_STR_M	Stegfart
+TXT_Step_Speed_STR_S	Stegfart
+TXT_Step_Time_STR_L	Förfluten tid för träningssteg
+TXT_Step_Time_STR_M	Stegtid
+TXT_Step_Time_STR_S	Stegtid
+TXT_Stride_Len_STR_S	Steglängd
+TXT_Stride_Length_STR_L	Steglängd
+TXT_Stride_Length_STR_M	Steglängd
+TXT_Su_STR_M	S
+TXT_Sun_FRMT_STR_M	Söndag %1
+TXT_Sun_STR_M	Sön
+TXT_Sunrise_STR_L	Soluppgång
+TXT_Sunrise_STR_M	Soluppgång
+TXT_Sunrise_STR_S	Soluppgång
+TXT_Sunset_STR_L	Solnedgång
+TXT_Sunset_STR_M	Solnedgång
+TXT_Sunset_STR_S	Solnedgång
+TXT_TEMPE_Crnt_STR_L	Temperatur
+TXT_TEMPE_Crnt_STR_M	Temperatur
+TXT_TEMPE_Crnt_STR_S	Temperatur
+TXT_TEMPE_High_STR_L	Senaste dygnets högsta
+TXT_TEMPE_High_STR_M	Senaste dygnets högsta
+TXT_TEMPE_High_STR_S	Sen dygn högsta
+TXT_TEMPE_Low_STR_L	Senaste dygnets lägsta
+TXT_TEMPE_Low_STR_M	Senaste dygnets lägsta
+TXT_TEMPE_Low_STR_S	Sen dygn lägsta
+TXT_TOTAL_TIME_Total_Time_STR_M	Total tid
+TXT_TSS_PWR_STR_L	Training Stress Score
+TXT_TSS_PWR_STR_M	Training Stress Score
+TXT_TSS_PWR_STR_S	TSS
+TXT_T_STR_M	T
+TXT_Th_STR_M	T
+TXT_Thur_FRMT_STR_M	Torsdag %1
+TXT_Thur_STR_M	Tors
+TXT_Time_Ahead_STR_L	Tid framåt
+TXT_Time_Ahead_STR_M	Tid framåt
+TXT_Time_Ahead_STR_S	Tid framåt
+TXT_Time_Avg_Lap_STR_L	Genomsnittlig varvtid
+TXT_Time_Avg_Lap_STR_M	Genomsnittlig varvtid
+TXT_Time_Avg_Lap_STR_S	Genomsn varvtid
+TXT_Time_Behind_STR_L	Tid efter
+TXT_Time_Behind_STR_M	Tid efter
+TXT_Time_Behind_STR_S	Tid efter
+TXT_Time_Lap_Crnt_STR_L	Varv tid
+TXT_Time_Lap_Crnt_STR_M	Varv tid
+TXT_Time_Lap_Crnt_STR_S	Varv tid
+TXT_Time_Last_Lap_STR_L	Senast varv tid
+TXT_Time_Last_Lap_STR_M	Senast varv tid
+TXT_Time_Last_Lap_STR_S	Senast varv tid
+TXT_Time_Run_STR_L	Tidur
+TXT_Time_Run_STR_M	Tidur
+TXT_Time_Run_STR_S	Tidur
+TXT_Time_To_Go_STR_L	Tid kvar
+TXT_Time_To_Go_STR_M	Tid kvar
+TXT_Time_To_Go_STR_S	Tid kvar
+TXT_Time_of_Day_STR_L	Aktuell tid
+TXT_Time_of_Day_STR_M	Aktuell tid
+TXT_Time_of_Day_STR_S	Aktuell tid
+TXT_Torque_Effectiveness_STR_L	Rundtrampseffektivitet
+TXT_Torque_Effectiveness_STR_M	Rundtrampseffektivitet
+TXT_Training_Effect_STR_L	Training Effect
+TXT_Training_Effect_STR_M	Training Effect
+TXT_Training_Effect_STR_S	Training Effect
+TXT_Transition_STR	Övergång
+TXT_Tue_FRMT_STR_M	Tisdag %1
+TXT_Tue_STR_M	Tis
+TXT_UNITS_ANG_MAG_STR_L	° M
+TXT_UNITS_ANG_MAG_STR_S	° M
+TXT_UNITS_ANG_TRUE_STR_L	°gn
+TXT_UNITS_ANG_TRUE_STR_S	°g
+TXT_UNITS_ANG_USER_STR_L	° M
+TXT_UNITS_ANG_USER_STR_S	° M
+TXT_UNITS_BPM_STR_L	bpm
+TXT_UNITS_BPM_STR_S	bpm
+TXT_UNITS_CAL_STR_L	kCal
+TXT_UNITS_CAL_STR_S	kCal
+TXT_UNITS_CELS_STR_L	°C
+TXT_UNITS_CELS_STR_S	°C
+TXT_UNITS_CM_STR_L	cm
+TXT_UNITS_CM_STR_S	cm
+TXT_UNITS_DEG_E_STR_L	° ö
+TXT_UNITS_DEG_E_STR_S	° ö
+TXT_UNITS_DEG_L_STR_L	° v
+TXT_UNITS_DEG_L_STR_S	° v
+TXT_UNITS_DEG_R_STR_L	° h
+TXT_UNITS_DEG_R_STR_S	° h
+TXT_UNITS_DEG_STR_L	°
+TXT_UNITS_DEG_STR_S	°
+TXT_UNITS_DEG_W_STR_L	° V
+TXT_UNITS_DEG_W_STR_S	° V
+TXT_UNITS_FAH_STR_L	°F
+TXT_UNITS_FAH_STR_S	°F
+TXT_UNITS_FT_STR_L	ft
+TXT_UNITS_FT_STR_S	ft
+TXT_UNITS_INCH_STR_L	tm
+TXT_UNITS_INCH_STR_S	tm
+TXT_UNITS_KFT_STR_L	kft
+TXT_UNITS_KFT_STR_S	kft
+TXT_UNITS_KG_STR_L	kg
+TXT_UNITS_KG_STR_S	kg
+TXT_UNITS_KJ_STR_L	kJ
+TXT_UNITS_KJ_STR_S	kJ
+TXT_UNITS_KM_STR_L	km
+TXT_UNITS_KM_STR_S	km
+TXT_UNITS_KPH_STR_L	km/h
+TXT_UNITS_KPH_STR_S	km/h
+TXT_UNITS_KT_STR_L	kn.
+TXT_UNITS_KT_STR_S	kn.
+TXT_UNITS_LB_STR_L	lb
+TXT_UNITS_LB_STR_S	lb
+TXT_UNITS_MIL_E_STR_L	O
+TXT_UNITS_MIL_E_STR_S	O
+TXT_UNITS_MIL_L_STR_L	L
+TXT_UNITS_MIL_L_STR_S	L
+TXT_UNITS_MIL_R_STR_L	r
+TXT_UNITS_MIL_R_STR_S	r
+TXT_UNITS_MIL_W_STR_L	V
+TXT_UNITS_MIL_W_STR_S	V
+TXT_UNITS_MI_STR_L	mi
+TXT_UNITS_MI_STR_S	mi
+TXT_UNITS_MM_STR_L	mm
+TXT_UNITS_MM_STR_S	mm
+TXT_UNITS_MN_STR_L	nm
+TXT_UNITS_MN_STR_S	nm
+TXT_UNITS_MPH_STR_L	mi/h
+TXT_UNITS_MPH_STR_S	mi/h
+TXT_UNITS_MS_STR_L	ms
+TXT_UNITS_MS_STR_S	ms
+TXT_UNITS_MT_STR_L	m
+TXT_UNITS_MT_STR_S	m
+TXT_UNITS_NM_STR_L	nm
+TXT_UNITS_NM_STR_S	nm
+TXT_UNITS_P100M_STR_L	/100m
+TXT_UNITS_P100M_STR_S	/100m
+TXT_UNITS_P100YD_STR_L	/100 y
+TXT_UNITS_P100YD_STR_S	/100 y
+TXT_UNITS_P500M_STR_L	/500m
+TXT_UNITS_P500M_STR_S	/500m
+TXT_UNITS_PADDLE_SPM_STR_L	tpm
+TXT_UNITS_PADDLE_SPM_STR_S	tpm
+TXT_UNITS_PCT_STR_L	%
+TXT_UNITS_PCT_STR_S	%
+TXT_UNITS_PH_STR_L	/tim
+TXT_UNITS_PH_STR_S	/tim
+TXT_UNITS_PKM_STR_L	/km
+TXT_UNITS_PKM_STR_S	/km
+TXT_UNITS_PMAX_STR_L	%m
+TXT_UNITS_PMAX_STR_S	%m
+TXT_UNITS_PMI_STR_L	/mi
+TXT_UNITS_PMI_STR_S	/mi
+TXT_UNITS_PRSRV_STR_L	% r
+TXT_UNITS_PRSRV_STR_S	% r
+TXT_UNITS_RPM_STR_L	rpm
+TXT_UNITS_RPM_STR_S	rpm
+TXT_UNITS_SPM_STR_L	spm
+TXT_UNITS_SPM_STR_S	spm
+TXT_UNITS_SWIM_SPM_STR_L	tpm
+TXT_UNITS_SWIM_SPM_STR_S	tpm
+TXT_UNITS_SWIM_YD_STR_L	yd
+TXT_UNITS_SWIM_YD_STR_S	yd
+TXT_UNITS_TM_DIF_MS_STR_L	m:s
+TXT_UNITS_TM_DIF_MS_STR_S	m:s
+TXT_UNITS_TM_LCL12_AM_STR_L	fm
+TXT_UNITS_TM_LCL12_AM_STR_S	fm
+TXT_UNITS_TM_LCL12_PM_STR_L	em
+TXT_UNITS_TM_LCL12_PM_STR_S	em
+TXT_UNITS_TM_LCL24_STR_L	lokal tid
+TXT_UNITS_TM_LCL24_STR_S	lokal tid
+TXT_UNITS_TM_UTC24_STR_L	UTC
+TXT_UNITS_TM_UTC24_STR_S	UTC
+TXT_UNITS_VLT_STR_L	v
+TXT_UNITS_VLT_STR_S	v
+TXT_UNITS_WPKG_STR_L	W/kg
+TXT_UNITS_WPKG_STR_S	W/kg
+TXT_UNITS_W_STR_L	W
+TXT_UNITS_W_STR_S	W
+TXT_UNITS_YD_STR_L	yd
+TXT_UNITS_YD_STR_S	yd
+TXT_UNLOCK_PAGE_Device_Locked_STR_M	Enheten är låst
+TXT_UNLOCK_PAGE_Unlock_Tip_STR_M	Håll "Upp" för att låsa upp
+TXT_Unit_ID_STR_M	Enhets-ID
+TXT_Unknown_STR_L	Okänd
+TXT_Unknown_STR_M	Okänd
+TXT_Until_Cal_FRMT_STR	Till %1 kalorier
+TXT_Until_HR_GT_BPM_FRMT_STR	Till puls > %1BPM
+TXT_Until_HR_GT_PERCENT_HRR_FRMT_STR	Till puls > %1% HRR
+TXT_Until_HR_GT_PERCENT_Max_FRMT_STR	Till puls > %1% Max
+TXT_Until_HR_LT_BPM_FRMT_STR	Till puls < %1BPM
+TXT_Until_HR_LT_PERCENT_HRR_FRMT_STR	Till puls < %1% HRR
+TXT_Until_HR_LT_PERCENT_Max_FRMT_STR	Till puls < %1% Max
+TXT_Until_Lap_Press_STR	Till Lap-tryck
+TXT_Until_Last_Step_Max_PWR_GT_PERCENT_FTP_FRMT_STR	Till sista steg mx kraft > %1% FTP
+TXT_Until_Last_Step_Max_PWR_GT_Watts_FRMT_STR	Tills sista steg maxkraft > %1 W
+TXT_Until_Last_Step_Max_PWR_LT_FRMT_STR	Tills sista steg maxkraft < %1 W
+TXT_Until_Last_Step_Max_PWR_LT_PERCENT_FTP_FRMT_STR	Till sista steg mx kraft < %1% FTP
+TXT_Until_Last_Step_PWR_FRMT_STR	Tills sista steg kraft < %1 W
+TXT_Until_Last_Step_PWR_GT_PERCENT_FTP_FRMT_STR	Tills sista steg kraft > %1% FTP
+TXT_Until_Last_Step_PWR_GT_Watts_FRMT_STR	Tills sista steg kraft > %1 W
+TXT_Until_Last_Step_PWR_LT_PERCENT_FTP_FRMT_STR	Tills sista steg kraft < %1% FTP
+TXT_Until_PWR_GT_PERCENT_FTP_FRMT_STR	Tills kraft > %1% FTP
+TXT_Until_PWR_GT_Watts_FRMT_STR	Tills kraft > %1 W
+TXT_Until_PWR_LT_PERCENT_FTP_FRMT_STR	Tills kraft < %1% FTP
+TXT_Until_PWR_LT_Watts_FRMT_STR	Tills kraft < %1 W
+TXT_Until_TSS_GT_FRMT_STR	Tills TSS > %1
+TXT_VIRB_PAGE_Photo_Taken_STR_M	Foto taget
+TXT_VIRB_PAGE_Searching_STR_M	Söker
+TXT_VIRB_PAGE_min_hr_FRMT_STR_S	%1 timmar %2 minuter
+TXT_VO2_MAX_Cycling_VO2_Max_STR_M	VO2-max för cykling
+TXT_VO2_MAX_Running_VO2_Max_STR_M	VO2-max för löpning
+TXT_VO2_MAX_VO2_Max_STR_M	VO2 Max
+TXT_VO2_MAX_VO2_New_STR_M	Ny
+TXT_VP_Pace_STR_S	VK-tempo
+TXT_VP_Speed_STR_S	VP-fart
+TXT_Vert_Osc_STR_S	Vert. rörelse
+TXT_Vert_Ratio_STR_S	Kvot vert.
+TXT_Vertical_Oscillation_STR_L	Vertikal rörelse
+TXT_Vertical_Oscillation_STR_M	Vertikal rörelse
+TXT_Vertical_Ratio_STR_L	Förhållande vertikal rörelse/steglängd
+TXT_Vertical_Ratio_STR_M	Förh. vert./steglängd
+TXT_WATCH_FOUND_STR_M	Klocka hittades!
+TXT_WEATHER_Daily_STR_M	Dagsprognos
+TXT_WEATHER_Fri_STR_S	Fre
+TXT_WEATHER_Hourly_STR_M	Timprognos
+TXT_WEATHER_Mon_STR_S	Mån
+TXT_WEATHER_Sat_STR_S	Lör
+TXT_WEATHER_Sun_STR_S	Sön
+TXT_WEATHER_Thur_STR_S	Tors
+TXT_WEATHER_Tue_STR_S	Tis
+TXT_WEATHER_Weather_STR_S	Väder
+TXT_WEATHER_Wed_STR_S	Ons
+TXT_WEATHER_a_FRMT_STR_S	%1 fm.
+TXT_WEATHER_p_FRMT_STR_S	%1 em
+TXT_WHR_Crnt_STR_L	Puls på handleden
+TXT_WHR_Crnt_STR_M	Puls på handleden
+TXT_WHR_Crnt_STR_S	Puls vid handled
+TXT_WIDGET_App_Connection_Required_STR_M	Anslutning till mobilapp krävs
+TXT_WIDGET_CALENDAR_All_Day_STR_S	Heldag
+TXT_WIDGET_CALENDAR_Calendar_STR_S	Kalender
+TXT_WIDGET_CALENDAR_Fri_STR	Fre
+TXT_WIDGET_CALENDAR_Mon_STR	Mån
+TXT_WIDGET_CALENDAR_No_Upcoming_Events_STR	Inga inplanerade händelser
+TXT_WIDGET_CALENDAR_Now_STR_S	Nu
+TXT_WIDGET_CALENDAR_Sat_STR	Lör
+TXT_WIDGET_CALENDAR_Sun_STR	Sön
+TXT_WIDGET_CALENDAR_Thur_STR	Tors
+TXT_WIDGET_CALENDAR_Tue_STR	Tis
+TXT_WIDGET_CALENDAR_Wed_STR	Ons
+TXT_WIDGET_CALORIES_Active_STR_S	Aktiva
+TXT_WIDGET_CALORIES_Consumed_STR_S	Intagna
+TXT_WIDGET_CALORIES_Remaining_STR_S	Återstående
+TXT_WIDGET_CALORIES_Resting_STR_S	Vilande
+TXT_WIDGET_Calendar_STR_EXT	Kalender
+TXT_WIDGET_Calendar_STR_M	Kalender
+TXT_WIDGET_Calories_STR_EXT	Kalorier
+TXT_WIDGET_Calories_STR_M	Kalorier
+TXT_WIDGET_Controls_STR_EXT	Kontroll
+TXT_WIDGET_Controls_STR_M	Kontroll
+TXT_WIDGET_Heart_Rate_STR_EXT	Puls
+TXT_WIDGET_Heart_Rate_STR_M	Puls
+TXT_WIDGET_Intensity_Minutes_STR_EXT	Intensiva minuter
+TXT_WIDGET_Intensity_Minutes_STR_M	Intensiva minuter
+TXT_WIDGET_Last_Bike_STR_EXT	Senaste tur
+TXT_WIDGET_Last_Bike_STR_M	Senaste tur
+TXT_WIDGET_Last_Run_STR_EXT	Senaste löptur
+TXT_WIDGET_Last_Run_STR_M	Senaste löptur
+TXT_WIDGET_Last_Sport_STR_EXT	Senaste sport
+TXT_WIDGET_Last_Sport_STR_M	Senaste sport
+TXT_WIDGET_Last_Swim_STR_EXT	Senaste simning
+TXT_WIDGET_Last_Swim_STR_M	Senaste simning
+TXT_WIDGET_My_Day_STR_EXT	Min dag
+TXT_WIDGET_My_Day_STR_M	Min dag
+TXT_WIDGET_Notifications_STR_EXT	Aviseringar
+TXT_WIDGET_Notifications_STR_M	Aviseringar
+TXT_WIDGET_SMRT_NTFCTN_No_Notifications_STR_M	Inga aviseringar
+TXT_WIDGET_SMRT_NTFCTN_Notifications_STR_M	Aviseringar
+TXT_WIDGET_Steps_STR_EXT	Steg
+TXT_WIDGET_Steps_STR_M	Steg
+TXT_WIDGET_Virb_STR_EXT	VIRB
+TXT_WIDGET_Virb_STR_M	VIRB
+TXT_WIDGET_Waiting_for_Data_STR_M	Väntar på data
+TXT_WIDGET_Weather_STR_EXT	Väder
+TXT_WIDGET_Weather_STR_M	Väder
+TXT_WIRELESS_CONTROLS_WIDGET_PAGE_Controls_STR_M	Kontroll
+TXT_WRKT_TRANSITION_TIP_Press_Lap_to_End_STR_M	Tryck på LAP för att avsluta träningspass
+TXT_WRKT_TRANSITION_TIP_to_Begin_STR_M	för att starta
+TXT_W_STR_M	O
+TXT_Warmup_Bike_STR	Uppvärmn.
+TXT_Warmup_STR	Uppvärmn.
+TXT_Warmup_Swim_STR	Uppvärmn.
+TXT_Watts_abbr_STR	W
+TXT_Watts_per_kg_STR_L	Kraft till vikt
+TXT_Watts_per_kg_STR_M	Kraft till vikt
+TXT_Watts_per_kg_STR_S	Kraft till vikt
+TXT_Wed_FRMT_STR_M	Onsdag %1
+TXT_Wed_STR_M	Ons
+TXT_Workout_Ended_STR_L	Träningspasset är avslutat
+TXT_ZONE_CHART_Z0_STR_S	Z0
+TXT_ZONE_CHART_Z1_STR_S	Z1
+TXT_ZONE_CHART_Z2_STR_S	Z2
+TXT_ZONE_CHART_Z3_STR_S	Z3
+TXT_ZONE_CHART_Z4_STR_S	Z4
+TXT_ZONE_CHART_Z5_STR_S	Z5
+TXT_ZONE_CHART_Z6_STR_S	Z6
+TXT_ZONE_CHART_Z7_STR_S	Z7
+TXT_a_STR_L	a
+TXT_a_STR_M	a
+TXT_bpm_STR	bpm
+TXT_on_FRMT_STR	vid %1
+TXT_p_STR_L	P
+TXT_p_STR_M	P
+TXT_rpm_STR	rpm
+TXT_spm_STR	spm
