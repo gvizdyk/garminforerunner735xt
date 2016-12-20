@@ -4,41 +4,41 @@ TXT_ALARM_PAGE_AM_STR	AM
 TXT_ALARM_PAGE_Dismiss_STR_M	Скасувати
 TXT_ALARM_PAGE_PM_STR	PM
 TXT_ALARM_PAGE_Snooze_STR_M	Відкласти
-TXT_ALERTS_MSG_Custom_STR_L	Ввод вручную
+TXT_ALERTS_MSG_Custom_STR_L	Введення вручну
 TXT_ALERTS_MSG_Drink_STR_L	Вода
 TXT_ALERTS_MSG_Eat_STR_L	Їжа
-TXT_ALERTS_MSG_Go_Home_STR_L	Домой
-TXT_ALERTS_MSG_Turn_Around_STR_L	Разворот
-TXT_ALERT_PAGE_Fast_STR_S	Быстро
-TXT_ALERT_PAGE_High_STR_S	Высокое
-TXT_ALERT_PAGE_Low_STR_S	Низкое
+TXT_ALERTS_MSG_Go_Home_STR_L	Додому
+TXT_ALERTS_MSG_Turn_Around_STR_L	Розворот
+TXT_ALERT_PAGE_Fast_STR_S	Швидко
+TXT_ALERT_PAGE_High_STR_S	Високе
+TXT_ALERT_PAGE_Low_STR_S	Низьке
 TXT_ALERT_PAGE_Run_STR_S	Біг
-TXT_ALERT_PAGE_Slow_STR_S	Медленно
+TXT_ALERT_PAGE_Slow_STR_S	Повільно
 TXT_ALERT_PAGE_Walk_STR_S	Ходьба
-TXT_APR_STR_M	Апр
-TXT_AUG_STR_M	Авг
-TXT_Active_Calories_STR_M	Активные калории
-TXT_Altitude_STR_L	Высота
-TXT_Altitude_STR_M	Высота
-TXT_Altitude_STR_S	Высота
-TXT_Any_STR	Любой
-TXT_Avg_Ground_Cont_STR_S	Среднее ВКЗ
-TXT_Avg_Ground_Contact_STR_L	Среднее время\nконтакта с зем.
-TXT_Avg_Ground_Contact_STR_M	Ср. вр. конт. с землей
-TXT_Avg_HR_PHRR_STR_L	%РЧП средняя
-TXT_Avg_HR_PHRR_STR_M	%РЧП средняя
-TXT_Avg_HR_PHRR_STR_S	Средняя % РЧП
-TXT_Avg_HR_PMax_STR_L	Средняя частота пульса %максимум
-TXT_Avg_HR_PMax_STR_M	Средняя ЧП %максимум
+TXT_APR_STR_M	Квіт.
+TXT_AUG_STR_M	Серп.
+TXT_Active_Calories_STR_M	Активні калорії
+TXT_Altitude_STR_L	Висота
+TXT_Altitude_STR_M	Висота
+TXT_Altitude_STR_S	Висота
+TXT_Any_STR	Будь-який
+TXT_Avg_Ground_Cont_STR_S	Середнє ВКЗ
+TXT_Avg_Ground_Contact_STR_L	Середній час\nконтакту із зем.
+TXT_Avg_Ground_Contact_STR_M	Сер. час конт. із землею
+TXT_Avg_HR_PHRR_STR_L	%РЧП середня
+TXT_Avg_HR_PHRR_STR_M	%РЧП середня
+TXT_Avg_HR_PHRR_STR_S	Середня % РЧП
+TXT_Avg_HR_PMax_STR_L	Середня частота пульса %максимум
+TXT_Avg_HR_PMax_STR_M	Середня ЧП %максимум
 TXT_Avg_HR_PMax_STR_S	Ср. ЧП %макс.
-TXT_Avg_HR_STR_L	Средняя ЧП
-TXT_Avg_HR_STR_M	Средняя ЧП
-TXT_Avg_HR_STR_S	Ср. ЧП
+TXT_Avg_HR_STR_L	Середня ЧП
+TXT_Avg_HR_STR_M	Середня ЧП
+TXT_Avg_HR_STR_S	Сер. ЧП
 TXT_Avg_L_R_Balance_STR_L	Средний баланс
 TXT_Avg_L_R_Balance_STR_M	Средний баланс
 TXT_Avg_L_R_Balance_STR_S	Ср. распред. %
-TXT_Avg_Lap_L_R_Balance_STR_L	Баланс на круге
-TXT_Avg_Lap_L_R_Balance_STR_M	Баланс на круге
+TXT_Avg_Lap_L_R_Balance_STR_L	Баланс на колі
+TXT_Avg_Lap_L_R_Balance_STR_M	Баланс на колі
 TXT_Avg_Lap_L_R_Balance_STR_S	Распр.на кр. %
 TXT_Avg_Last_Lap_L_R_Balance_STR_L	Распределение на последнем круге
 TXT_Avg_Last_Lap_L_R_Balance_STR_M	Распр. на послед. круге
@@ -49,9 +49,9 @@ TXT_Avg_Last_Lap_PWR_STR_S	Мощ. на п. кр.
 TXT_Avg_PWR_STR_L	Средняя мощность
 TXT_Avg_PWR_STR_M	Средняя мощность
 TXT_Avg_PWR_STR_S	Ср. мощность
-TXT_Avg_Stride_Length_STR_L	Средняя длина шага
-TXT_Avg_Stride_Length_STR_M	Средняя длина шага
-TXT_Avg_Stride_Length_STR_S	Ср. длина шага
+TXT_Avg_Stride_Length_STR_L	Середня довжина кроку
+TXT_Avg_Stride_Length_STR_M	Середня довжина кроку
+TXT_Avg_Stride_Length_STR_S	Сер. довжика кроку
 TXT_Avg_Strokes_Per_Length_STR_L	Среднее число гребков/участок
 TXT_Avg_Strokes_Per_Length_STR_M	Ср.кол. гребков/участок
 TXT_Avg_Strokes_Per_Length_STR_S	Ср.кол.греб./уч.
@@ -86,7 +86,7 @@ TXT_BIKE_Segment_Pace_STR_S	Темп сегмента
 TXT_BIKE_Segment_Speed_STR_L	Скорость сегмента
 TXT_BIKE_Segment_Speed_STR_M	Скорость сегмента
 TXT_BIKE_Segment_Speed_STR_S	Скор. сегмента
-TXT_BLE_ERROR_PAGE_Controls_STR_S	Управление
+TXT_BLE_ERROR_PAGE_Controls_STR_S	Керування
 TXT_BUTTON_CANCEL_STR_M	Отмена
 TXT_Back_STR	На спине
 TXT_Back_STR_L	На спине
@@ -99,12 +99,12 @@ TXT_Breast_STR	Брасс
 TXT_Breast_STR_L	Брасс
 TXT_Breast_STR_M	Брасс
 TXT_Calorie_abbr_STR	Кал
-TXT_Calories_STR_L	Калории
-TXT_Calories_STR_M	Калории
-TXT_Calories_STR_S	Калории
-TXT_Cals_To_Go_STR_L	Осталось калорий
-TXT_Cals_To_Go_STR_M	Осталось калорий
-TXT_Cals_To_Go_STR_S	Ост-сь калор.
+TXT_Calories_STR_L	Калорії
+TXT_Calories_STR_M	Калорії
+TXT_Calories_STR_S	Калорії
+TXT_Cals_To_Go_STR_L	Залишилось калорій
+TXT_Cals_To_Go_STR_M	Залишилось калорій
+TXT_Cals_To_Go_STR_S	Зал-сь калор.
 TXT_Cnfg_List_Avg_CAD_Seated_STR_L	Ср. част. вр. в седле
 TXT_Cnfg_List_Avg_CAD_Seated_STR_M	Част. вращ. в седле
 TXT_Cnfg_List_Avg_CAD_Seated_STR_S	Ч. вр. в седле
@@ -262,9 +262,9 @@ TXT_Dist_Nautical_STR_L	Морское расстояние
 TXT_Dist_Nautical_STR_M	Морское расстояние
 TXT_Dist_Nautical_STR_S	Морск. расст.
 TXT_Dist_Remaining_STR_S	Оставш. расст.
-TXT_Dist_Run_STR_L	Расстояние
-TXT_Dist_Run_STR_M	Расстояние
-TXT_Dist_Run_STR_S	Расстояние
+TXT_Dist_Run_STR_L	Відстань
+TXT_Dist_Run_STR_M	Відстань
+TXT_Dist_Run_STR_S	Відстань
 TXT_Distance_Remaining_STR_L	Оставшееся расстояние
 TXT_Distance_Remaining_STR_M	Оставшееся расстояние
 TXT_Distance_To_Go_STR_L	Осталось расстояние
@@ -292,28 +292,28 @@ TXT_FTP_WORKOUT_Final_Step_STR	Последн. этап
 TXT_FTP_WORKOUT_Slow_Easy_Speed_STR	Медл.,в легк.ск.реж.
 TXT_FTP_WORKOUT_Steady_Max_Effort_STR	Равн.,с макс. интенс.
 TXT_F_STR_M	П
-TXT_Fastest_1000YD_STR_L	Лучшие 1000 ярдов!
-TXT_Fastest_100M_STR_L	Лучшие 100 метров!
-TXT_Fastest_100YD_STR_L	Лучшие 100 ярдов!
-TXT_Fastest_10K_STR_L	Лучшее время 10 км!
-TXT_Fastest_1500M_STR_L	Лучшие 1500 метров!
-TXT_Fastest_1650YD_STR_L	Лучшие 1650 ярдов!
-TXT_Fastest_1K_RUN_STR_L	Лучшее время 1 км!
-TXT_Fastest_1K_SWIM_STR_L	Лучшие 1000 м!
-TXT_Fastest_400M_STR_L	Лучшие 400 метров!
-TXT_Fastest_40K_STR_L	Лучшее время 40 км!
-TXT_Fastest_500YD_STR_L	Лучшие 500 ярдов!
-TXT_Fastest_5K_STR_L	Лучшее время 5 км!
-TXT_Fastest_750M_STR_L	Лучшие 750 метров!
-TXT_Fastest_Half_STR_L	Лучшее время полумарафона!
-TXT_Fastest_Marathon_STR_L	Лучшее время марафона!
-TXT_Fastest_Mile_STR_L	Лучшее время для мили!
+TXT_Fastest_1000YD_STR_L	Кращі 1000 ярдів!
+TXT_Fastest_100M_STR_L	Кращі 100 метров!
+TXT_Fastest_100YD_STR_L	Кращі 100 ярдів!
+TXT_Fastest_10K_STR_L	Кращий результат 10 км!
+TXT_Fastest_1500M_STR_L	Кращі 1500 метров!
+TXT_Fastest_1650YD_STR_L	Кращі 1650 ярдів!
+TXT_Fastest_1K_RUN_STR_L	Кращий результат 1 км!
+TXT_Fastest_1K_SWIM_STR_L	Кращі 1000 м!
+TXT_Fastest_400M_STR_L	Кращі 400 метров!
+TXT_Fastest_40K_STR_L	Кращий результат 40 км!
+TXT_Fastest_500YD_STR_L	Кращі 500 ярдів!
+TXT_Fastest_5K_STR_L	Кращий результат 5 км!
+TXT_Fastest_750M_STR_L	Кращі 750 метров!
+TXT_Fastest_Half_STR_L	Кращий результат полумарафона!
+TXT_Fastest_Marathon_STR_L	Кращий результат марафона!
+TXT_Fastest_Mile_STR_L	Кращий результат для мили!
 TXT_Fly_STR	Баттерф.
-TXT_Fly_STR_L	Баттерфляй
-TXT_Fly_STR_M	Баттерф.
-TXT_Free_STR	Вольн.ст.
-TXT_Free_STR_L	Вольный стиль
-TXT_Free_STR_M	Вольн. ст.
+TXT_Fly_STR_L	Батерфляй
+TXT_Fly_STR_M	Батерф.
+TXT_Free_STR	Вільн.ст.
+TXT_Free_STR_L	Вільний стиль
+TXT_Free_STR_M	Вільн. ст.
 TXT_Fri_FRMT_STR_M	Пт %1
 TXT_Fri_STR_M	Пт
 TXT_Front_Gear_STR_L	Передняя
@@ -331,9 +331,9 @@ TXT_GCT_Lap_Balance_STR_S	Расп.ВКЗ на кр.
 TXT_GCT_Last_Lap_Balance_STR_L	Распр. ВКЗ на посл. кр.
 TXT_GCT_Last_Lap_Balance_STR_M	Распр. ВКЗ на посл. кр.
 TXT_GCT_Last_Lap_Balance_STR_S	Рас.ВКЗ на п.кр.
-TXT_GPS_Accuracy_STR_L	Точность GPS
-TXT_GPS_Accuracy_STR_M	Точность GPS
-TXT_GPS_Accuracy_STR_S	Точность GPS
+TXT_GPS_Accuracy_STR_L	Точність GPS
+TXT_GPS_Accuracy_STR_M	Точність GPS
+TXT_GPS_Accuracy_STR_S	Точність GPS
 TXT_Gear_Ratio_STR_L	Передаточное число
 TXT_Gear_Ratio_STR_M	Передаточное число
 TXT_Gear_Ratio_STR_S	Перед. число
@@ -351,8 +351,8 @@ TXT_HNDL_Using_Profiles_3_FRMT_STR	И.: %1, %2, %3
 TXT_HNDL_Using_Profiles_4_FRMT_STR	Используя %1, %2, %3, %4
 TXT_HNDL_Using_Profiles_5_FRMT_STR	Используя %1, %2, %3, %4, %5
 TXT_HOMESCREEN_Activity_STR_M	Режим
-TXT_HR_2_Crnt_STR_L	Частота пульса №2
-TXT_HR_2_Crnt_STR_M	Частота пульса №2
+TXT_HR_2_Crnt_STR_L	Частота пульсу №2
+TXT_HR_2_Crnt_STR_M	Частота пульсу №2
 TXT_HR_2_Crnt_STR_S	ЧП №2
 TXT_HR_Crnt_PHRR_STR_L	%РЧП
 TXT_HR_Crnt_PHRR_STR_M	%РЧП
@@ -360,9 +360,9 @@ TXT_HR_Crnt_PHRR_STR_S	%РЧП
 TXT_HR_Crnt_PMax_STR_L	ЧП % максимум
 TXT_HR_Crnt_PMax_STR_M	ЧП % максимум
 TXT_HR_Crnt_PMax_STR_S	ЧП % максимум
-TXT_HR_Crnt_STR_L	Частота пульса
-TXT_HR_Crnt_STR_M	Частота пульса
-TXT_HR_Crnt_STR_S	Частота пульса
+TXT_HR_Crnt_STR_L	Частота пульсу
+TXT_HR_Crnt_STR_M	Частота пульсу
+TXT_HR_Crnt_STR_S	Частота пульсу
 TXT_HR_GRAPH_PAGE_Aerobic_STR_L	Аэробн.
 TXT_HR_GRAPH_PAGE_Easy_STR_L	Легкая
 TXT_HR_GRAPH_PAGE_High_Aerobic_STR_L	Высок. аэробн.
@@ -398,13 +398,13 @@ TXT_HR_To_Go_STR_L	ЧП осталось
 TXT_HR_To_Go_STR_M	ЧП осталось
 TXT_HR_To_Go_STR_S	ЧП осталось
 TXT_HR_WIDGET_MENU_Auto_STR_M	Авто
-TXT_HR_WIDGET_MENU_Heart_Rate_Monitor_STR_L	Частота пульса
+TXT_HR_WIDGET_MENU_Heart_Rate_Monitor_STR_L	Частота пульсу
 TXT_HR_WIDGET_MENU_Options_STR_L	Опции
-TXT_HR_WIDGET_PAGE_Heart_Rate_STR_L	Частота пульса
+TXT_HR_WIDGET_PAGE_Heart_Rate_STR_L	Частота пульсу
 TXT_HR_WIDGET_PAGE_High_FRMT_STR_M	Высокое: %1
-TXT_HR_WIDGET_PAGE_Hours_FRMT_STR_M	Последние %1 часа(ов)
+TXT_HR_WIDGET_PAGE_Hours_FRMT_STR_M	Останні %1 години(а)
 TXT_HR_WIDGET_PAGE_Low_FRMT_STR_M	Низкое: %1
-TXT_HR_WIDGET_PAGE_Minutes_FRMT_STR_M	Последн. %1 мин
+TXT_HR_WIDGET_PAGE_Minutes_FRMT_STR_M	Останні %1 хв
 TXT_HR_WIDGET_PAGE_RHR_STR_L	ЧПП
 TXT_HR_Zone_FRMT_STR	Зона ЧП %1
 TXT_HR_Zone_STR_L	Зона частоты пульса
@@ -494,7 +494,7 @@ TXT_LIST_SELECT_HDR_Auto_Pause_STR_S	Auto Pause
 TXT_LIST_SELECT_HDR_Auto_Scroll_STR_S	Смена страниц
 TXT_LIST_SELECT_HDR_Based_On_STR_S	Расчет по
 TXT_LIST_SELECT_HDR_Language_STR_S	Язык текста
-TXT_LIST_SELECT_HDR_Notifications_STR_S	Оповещения
+TXT_LIST_SELECT_HDR_Notifications_STR_S	Сповіщення
 TXT_LIST_SELECT_HDR_Primary_Field_STR_M	Основное поле
 TXT_LIST_SELECT_HDR_Primary_Metric_STR_S	Основ.метрич.показ.
 TXT_LIST_SELECT_HDR_Secondary_Field_STR_M	Второстепенное поле
@@ -522,9 +522,9 @@ TXT_LIST_SELECT_SMART_NTFCTN_SETTINGS_Tone_and_Vibration_STR_L	Звук и вибрация
 TXT_LIST_SELECT_SMART_NTFCTN_SETTINGS_Vibration_STR_L	Вибрация
 TXT_LIST_SELECT_Saturday_STR_L	Суббота
 TXT_LIST_SELECT_Slow_STR_L	Медленно
-TXT_LIST_SELECT_Sounds_Tone_And_Vibr_STR_L	Звук и вибрация
+TXT_LIST_SELECT_Sounds_Tone_And_Vibr_STR_L	Звук та вібрація
 TXT_LIST_SELECT_Sounds_Tone_STR_L	Звук
-TXT_LIST_SELECT_Sounds_Vibration_STR_L	Вибрация
+TXT_LIST_SELECT_Sounds_Vibration_STR_L	Вібрація
 TXT_LIST_SELECT_Stays_On_STR_L	Всегда включено
 TXT_LIST_SELECT_Sunday_STR_L	Воскресенье
 TXT_LIST_SELECT_Time_STR_L	Время
@@ -532,7 +532,7 @@ TXT_LIST_SELECT_Total_Time_STR_L	Общее время
 TXT_LIST_SELECT_When_Stopped_STR_L	При остановке
 TXT_LST_SLCT_Choose_Zone_STR_S	Выберите зону
 TXT_LTHR_CONFIRM_Accept_STR_L	Принять
-TXT_LTHR_CONFIRM_Decline_STR_L	Отклонить
+TXT_LTHR_CONFIRM_Decline_STR_L	Скасувати
 TXT_LTHR_CONFIRM_New_Threshold_Detected_STR_L	Обнаружено новое пороговое значение!
 TXT_LTHR_PAGE_LTHR_STR_L	ЧП ПЗЛ:
 TXT_LTHR_PAGE_Manual_Entry_STR_L	Ввод вручную
@@ -544,21 +544,21 @@ TXT_LT_GUIDED_WRKT_CMPLT_Threshold_Not_Detected_STR_M	Пороговое значение не обна
 TXT_L_R_Balance_STR_L	Баланс
 TXT_L_R_Balance_STR_M	Баланс
 TXT_L_R_Balance_STR_S	Распред. %
-TXT_Lap_Dist_STR_L	Расстояние круга
-TXT_Lap_Dist_STR_M	Расстояние круга
-TXT_Lap_Dist_STR_S	Расст. круга
+TXT_Lap_Dist_STR_L	Відстань кола
+TXT_Lap_Dist_STR_M	Відстань кола
+TXT_Lap_Dist_STR_S	Відстань кола
 TXT_Lap_Ground_Cont_STR_S	ВКЗ на круге
 TXT_Lap_Ground_Contact_STR_L	Время контакта с землей на круге
 TXT_Lap_Ground_Contact_STR_M	Вр. конт. с землей на кр.
-TXT_Lap_HR_PHRR_STR_L	%РЧП на круге
-TXT_Lap_HR_PHRR_STR_M	%РЧП на круге
-TXT_Lap_HR_PHRR_STR_S	%РЧП на круге
-TXT_Lap_HR_PMax_STR_L	ЧП на круге %максимум
-TXT_Lap_HR_PMax_STR_M	ЧП на круге %максимум
+TXT_Lap_HR_PHRR_STR_L	%РЧП на колі
+TXT_Lap_HR_PHRR_STR_M	%РЧП на колі
+TXT_Lap_HR_PHRR_STR_S	%РЧП на колі
+TXT_Lap_HR_PMax_STR_L	ЧП на колі %максимум
+TXT_Lap_HR_PMax_STR_M	ЧП на колі %максимум
 TXT_Lap_HR_PMax_STR_S	ЧП на кр %макс
-TXT_Lap_HR_STR_L	ЧП на круге
-TXT_Lap_HR_STR_M	ЧП на круге
-TXT_Lap_HR_STR_S	ЧП на круге
+TXT_Lap_HR_STR_L	ЧП на колі
+TXT_Lap_HR_STR_M	ЧП на колі
+TXT_Lap_HR_STR_S	ЧП на колі
 TXT_Lap_Num_STR_L	Круги
 TXT_Lap_Num_STR_M	Круги
 TXT_Lap_Num_STR_S	Круги
@@ -680,35 +680,35 @@ TXT_MENU_HISTORY_TOTALS_Monthly_STR_L	Ежемесячно
 TXT_MENU_HISTORY_TOTALS_Monthly_Totals_STR_L	Результаты за месяц
 TXT_MENU_HISTORY_TOTALS_Weekly_STR_L	За неделю
 TXT_MENU_HISTORY_TOTALS_Weekly_Totals_STR_L	Результаты за неделю
-TXT_MENU_RECORDS_1000yd_STR_M	1000 ярдов
+TXT_MENU_RECORDS_1000yd_STR_M	1000 ярдів
 TXT_MENU_RECORDS_100m_STR_M	100 метров
-TXT_MENU_RECORDS_100yd_STR_M	100 ярдов
+TXT_MENU_RECORDS_100yd_STR_M	100 ярдів
 TXT_MENU_RECORDS_10k_STR_M	10 км
 TXT_MENU_RECORDS_1500m_STR_M	1500 метров
-TXT_MENU_RECORDS_1650yd_STR_M	1650 ярдов
+TXT_MENU_RECORDS_1650yd_STR_M	1650 ярдів
 TXT_MENU_RECORDS_1_mi_STR_M	1 миля
 TXT_MENU_RECORDS_1k_STR_M	1 км
 TXT_MENU_RECORDS_1k_SWIM_STR_M	1000 м
 TXT_MENU_RECORDS_400m_STR_M	400 метров
 TXT_MENU_RECORDS_40k_STR_M	40 км
-TXT_MENU_RECORDS_500yd_STR_M	500 ярдов
+TXT_MENU_RECORDS_500yd_STR_M	500 ярдів
 TXT_MENU_RECORDS_5k_STR_M	5 км
 TXT_MENU_RECORDS_750m_STR_M	750 метров
 TXT_MENU_RECORDS_Best_Power_STR_M	Лучшая мощность
 TXT_MENU_RECORDS_Best_Power_STR_S	Лучшая мощность
 TXT_MENU_RECORDS_Clear_All_Records_STR_L	Удалить все рекорды
 TXT_MENU_RECORDS_Clear_Record_STR_L	Удалить рекорд
-TXT_MENU_RECORDS_Fastest_1000YD_STR_S	Лучшие 1000 ярдов
+TXT_MENU_RECORDS_Fastest_1000YD_STR_S	Лучшие 1000 ярдів
 TXT_MENU_RECORDS_Fastest_100M_STR_S	Лучшие 100 метров
-TXT_MENU_RECORDS_Fastest_100YD_STR_S	Лучшие 100 ярдов
+TXT_MENU_RECORDS_Fastest_100YD_STR_S	Лучшие 100 ярдів
 TXT_MENU_RECORDS_Fastest_10K_STR_S	Лучшее время 10k
 TXT_MENU_RECORDS_Fastest_1500M_STR_S	Лучшие 1500 метров
-TXT_MENU_RECORDS_Fastest_1650YD_STR_S	Лучшие 1650 ярдов
+TXT_MENU_RECORDS_Fastest_1650YD_STR_S	Лучшие 1650 ярдів
 TXT_MENU_RECORDS_Fastest_1KM_SWIM_STR_S	Лучшие 1000 м
 TXT_MENU_RECORDS_Fastest_1K_RUN_STR_S	Лучшее время 1k
 TXT_MENU_RECORDS_Fastest_400M_STR_S	Лучшие 400 метров
 TXT_MENU_RECORDS_Fastest_40k_STR_S	Лучшее время 40 км
-TXT_MENU_RECORDS_Fastest_500YD_STR_S	Лучшие 500 ярдов
+TXT_MENU_RECORDS_Fastest_500YD_STR_S	Лучшие 500 ярдів
 TXT_MENU_RECORDS_Fastest_5K_STR_S	Лучшее время 5k
 TXT_MENU_RECORDS_Fastest_750M_STR_S	Лучшие 750 метров
 TXT_MENU_RECORDS_Fastest_Half_STR_S	Лучшее вр. полумараф.
@@ -760,12 +760,12 @@ TXT_MESSAGE_BANNER_Multiple_FP__STR_M	Обнаружено несколько шагомеров.
 TXT_MESSAGE_BANNER_Multiple_HR__STR_M	Обнаружено несколько датчиков частоты пульса.
 TXT_MESSAGE_BANNER_Multiple_PWR__STR_M	Обнаружено несколько датчиков мощности.
 TXT_MESSAGE_BANNER_Multiple_SPD__STR_M	Обнаружено несколько датчиков скорости.
-TXT_MESSAGE_BANNER_Name_Already_Used_STR_M	Имя уже используется.
+TXT_MESSAGE_BANNER_Name_Already_Used_STR_M	Ім'я уже используется.
 TXT_MESSAGE_BANNER_PWR_batt_low_STR_M	Низкий заряд батареи измерителя мощности.
 TXT_MESSAGE_BANNER_Phone_Battery_Low_STR_M	Низкий заряд батареи телефона
 TXT_MESSAGE_BANNER_Race_Memory_Full_STR_M	Память забегов заполнена.
 TXT_MESSAGE_BANNER_Radar_batt_low_STR_M	Батарея радара разряжена.
-TXT_MESSAGE_BANNER_Recovery_Heart_Rate_STR_M	Частота пульса восстановления %1
+TXT_MESSAGE_BANNER_Recovery_Heart_Rate_STR_M	Частота пульсу восстановления %1
 TXT_MESSAGE_BANNER_Shimano_Di2_batt_low_STR_M	Низкий заряд батареи Shimano Di2.
 TXT_MESSAGE_BANNER_Slow_Fast_Values_Adjusted_STR_M	Медленные и быстрые значения оповещения скорректированы.
 TXT_MESSAGE_BANNER_Speed_Cadence_Battery_Low_STR_M	Низкий заряд батареи датчика скорости/частоты.
@@ -930,7 +930,7 @@ TXT_Norm_PWR_STR_M	Normalized Power
 TXT_Norm_PWR_STR_S	NP
 TXT_OCT_STR_M	Окт
 TXT_OHR_MENU_Auto_STR_M	Авто
-TXT_OHR_MENU_Heart_Rate_Monitor_STR_L	Частота пульса
+TXT_OHR_MENU_Heart_Rate_Monitor_STR_L	Частота пульсу
 TXT_OHR_MENU_Options_STR_L	Опции
 TXT_PADDLE_Avg_Stroke_Distance_STR_L	Среднее расстояние гребков
 TXT_PADDLE_Avg_Stroke_Distance_STR_M	Средн. расст. гребков
@@ -1033,12 +1033,12 @@ TXT_Pace_500m_STR_S	Темп на 500 м
 TXT_Pace_Avg_Run_STR_L	Средний темп
 TXT_Pace_Avg_Run_STR_M	Средний темп
 TXT_Pace_Avg_Run_STR_S	Средний темп
-TXT_Pace_Crnt_Lap_STR_L	Темп на круге
-TXT_Pace_Crnt_Lap_STR_M	Темп на круге
-TXT_Pace_Crnt_Lap_STR_S	Темп на круге
-TXT_Pace_Last_Lap_STR_L	Темп на последнем круге
-TXT_Pace_Last_Lap_STR_M	Темп на посл. кр.
-TXT_Pace_Last_Lap_STR_S	Темп/посл.кр.
+TXT_Pace_Crnt_Lap_STR_L	Темп на колі
+TXT_Pace_Crnt_Lap_STR_M	Темп на колі
+TXT_Pace_Crnt_Lap_STR_S	Темп на колі
+TXT_Pace_Last_Lap_STR_L	Темп на останньому колі
+TXT_Pace_Last_Lap_STR_M	Темп на ост. кол.
+TXT_Pace_Last_Lap_STR_S	Темп/ост.кол.
 TXT_Pace_SHORT_STR_S	Темп
 TXT_Pace_STR_L	Темп
 TXT_Pace_STR_M	Темп
@@ -1162,7 +1162,7 @@ TXT_SELECT_PAGE_Disable_STR_L	Отключить
 TXT_SELECT_PAGE_EDIT_AP_SETTINGS_Done_STR_L	Готово
 TXT_SELECT_PAGE_EDIT_AP_SETTINGS_Edit_Settings_STR_L	Изменить настройки
 TXT_SELECT_PAGE_Enable_STR_L	Включить
-TXT_SELECT_PAGE_Heart_Rate_STR_L	Частота пульса
+TXT_SELECT_PAGE_Heart_Rate_STR_L	Частота пульсу
 TXT_SELECT_PAGE_INCLUDE_TRANSITIONS_No_STR_L	Нет
 TXT_SELECT_PAGE_INCLUDE_TRANSITIONS_Yes_STR_L	Да
 TXT_SELECT_PAGE_No_STR_L	Нет
@@ -1187,7 +1187,7 @@ TXT_SELECT_PAGE_TITL_Clear_All_STR_M	Удалить все?
 TXT_SELECT_PAGE_TITL_Clear_Record_STR_M	Удалить запись?
 TXT_SELECT_PAGE_TITL_Clear_user_data_STR_M	Очистить данные пользователя?
 TXT_SELECT_PAGE_TITL_Configuration_STR_M	Режим работы
-TXT_SELECT_PAGE_TITL_Cross_STR_M	Лыжи
+TXT_SELECT_PAGE_TITL_Cross_STR_M	Лещетарство
 TXT_SELECT_PAGE_TITL_Cycling_STR_M	Велосипед
 TXT_SELECT_PAGE_TITL_Data_Recording_STR_M	Запись данных
 TXT_SELECT_PAGE_TITL_Delete_Activities_STR_M	Удалить занятия?
@@ -1195,20 +1195,20 @@ TXT_SELECT_PAGE_TITL_Delete_Activity_STR_M	Удалить занятие?
 TXT_SELECT_PAGE_TITL_Delete_Course_STR_M	Удалить дистанцию?
 TXT_SELECT_PAGE_TITL_Delete_Location_STR_M	Удалить местоположение?
 TXT_SELECT_PAGE_TITL_Delete_Workout_STR_M	Удалить тренировку?
-TXT_SELECT_PAGE_TITL_Discard_STR_M	Отменить?
-TXT_SELECT_PAGE_TITL_Distance_STR_M	Расстояние
-TXT_SELECT_PAGE_TITL_Elevation_STR_M	Высота
+TXT_SELECT_PAGE_TITL_Discard_STR_M	Скасувати?
+TXT_SELECT_PAGE_TITL_Distance_STR_M	Відстань
+TXT_SELECT_PAGE_TITL_Elevation_STR_M	Висота
 TXT_SELECT_PAGE_TITL_End_Live_Track_STR_M	Завершить сессию LiveTrack?
 TXT_SELECT_PAGE_TITL_Exit_Sleep_Mode_STR_M	Выйти из режима сна?
 TXT_SELECT_PAGE_TITL_FTP_hrm_required_STR_M	Для расчета ФПМ треб. нагрудный пульсометр и датчик мощности.
 TXT_SELECT_PAGE_TITL_Fast_Alert_STR_M	Оповещение о быстром темпе
 TXT_SELECT_PAGE_TITL_For_best_results_STR_M	Измерен. след. произв. каждый день в одно вр.
-TXT_SELECT_PAGE_TITL_Gender_STR_M	Пол
-TXT_SELECT_PAGE_TITL_Height_STR_M	Рост
+TXT_SELECT_PAGE_TITL_Gender_STR_M	Стать
+TXT_SELECT_PAGE_TITL_Height_STR_M	Ріст
 TXT_SELECT_PAGE_TITL_High_Alert_STR_M	Сигнал о высокой скорости
-TXT_SELECT_PAGE_TITL_Hiking_STR_M	Поход
+TXT_SELECT_PAGE_TITL_Hiking_STR_M	Мандрівка
 TXT_SELECT_PAGE_TITL_Include_transitions_STR_M	Включить переходы?
-TXT_SELECT_PAGE_TITL_Keyboard_Cancel_Confirm_STR_M	Выйти без сохранения?
+TXT_SELECT_PAGE_TITL_Keyboard_Cancel_Confirm_STR_M	Вийти без збереження?
 TXT_SELECT_PAGE_TITL_LTHR_hrm_required_STR_M	Для расчета порог. знач. лактата треб. нагруд. пульсометр.
 TXT_SELECT_PAGE_TITL_LTHR_not_estimated_STR_M	ЧП при порог. знач. лакт. не опр. Ввести?
 TXT_SELECT_PAGE_TITL_Low_Alert_STR_M	Сигнал о низкой скорости
@@ -1367,13 +1367,13 @@ TXT_SETUP_ACTIVITY_PROFILES_Apps_STR_L	Приложения
 TXT_SETUP_ACTIVITY_PROFILES_OPTIONS_Apply_Profile_STR_L	Применить профиль
 TXT_SETUP_ACTIVITY_PROFILES_OPTIONS_Color_STR_L	Цвет
 TXT_SETUP_ACTIVITY_PROFILES_OPTIONS_Edit_Profiles_STR_L	Изменить профили
-TXT_SETUP_ACTIVITY_PROFILES_OPTIONS_Name_STR_L	Имя
+TXT_SETUP_ACTIVITY_PROFILES_OPTIONS_Name_STR_L	Ім'я
 TXT_SETUP_ACTIVITY_PROFILES_OPTIONS_Remove_Profile_STR_L	Удалить профиль
 TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Bike_Indoor_STR_L	Велотренаж.
 TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Bike_STR_L	Велосипед
 TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Brick_STR_L	Блоки
 TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Cardio_STR_L	Кардио
-TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Cross_STR_L	Лыжи
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Cross_STR_L	Лещетарство
 TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Custom_STR_L	Ввод вручную
 TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Duathlon_STR_L	Дуатлон
 TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_HDR_Choose_Profile_Name_STR_S	Выберите имя профиля
@@ -1382,7 +1382,7 @@ TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Mountain_STR_L	Горн. велос.
 TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Open_Water_STR_L	Откр. вода
 TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Other_STR_L	Другое
 TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Pool_Swim_STR_L	Плав. в бас.
-TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Race_STR_L	Забег
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Race_STR_L	Забіг
 TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Road_STR_L	Дорога
 TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Row_STR_L	Гребля
 TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Run_Indoor_STR_L	Бег в помещ.
@@ -1391,8 +1391,8 @@ TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_SUP_STR_L	Паддлборд
 TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Strength_STR_L	Сил. трен.
 TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Trail_STR_L	По пер.мест.
 TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Trainer_STR_L	Велостанок
-TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Treadmill_STR_L	Беговая дор.
-TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Triathlon_STR_L	Триатлон
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Treadmill_STR_L	Біговая дор.
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Triathlon_STR_L	Тріатлон
 TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_PROFILE_Done_STR_L	Готово
 TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_PROFILE_HDR_Choose_Final_Profile_STR_S	Выберите итог. проф.
 TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_PROFILE_HDR_Choose_Profile_FRMT_STR_S	Выберите профиль %1
@@ -1400,7 +1400,7 @@ TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_SETTINGS_Copy_FRMT_STR_L	Копировать %1
 TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_SETTINGS_HDR_Choose_Activity_Settings_STR_S	Выб. настр. занятия
 TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_SETTINGS_Use_Default_STR_L	По умолчанию
 TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_SPORT_Cardio_STR_L	Кардио
-TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_SPORT_Cross_STR_L	Лыжи
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_SPORT_Cross_STR_L	Лещетарство
 TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_SPORT_Cycling_STR_L	Велосипед
 TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_SPORT_HDR_Choose_Sport_STR_S	Выберите спорт
 TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_SPORT_Hike_STR_L	Поход
@@ -1415,7 +1415,7 @@ TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_SPORT_Strength_STR_L	Сил. трен.
 TXT_SETUP_ACTIVITY_REVIEW_Achievements_STR_L	Достижения
 TXT_SETUP_ACTIVITY_REVIEW_Done_STR_L	Готово
 TXT_SETUP_ACTIVITY_SETTINGS_Activity_Settings_STR_S	Настройки занятия
-TXT_SETUP_ACTIVITY_SETTINGS_Alerts_STR_L	Оповещения
+TXT_SETUP_ACTIVITY_SETTINGS_Alerts_STR_L	Сповіщення
 TXT_SETUP_ACTIVITY_SETTINGS_Auto_FRMT_STR_M	Авто %1
 TXT_SETUP_ACTIVITY_SETTINGS_Auto_Pause_STR_L	Auto Pause
 TXT_SETUP_ACTIVITY_SETTINGS_Auto_Scroll_STR_L	Смена страниц
@@ -1477,30 +1477,30 @@ TXT_SETUP_ALARM_Vibration_STR_L	Вибрация
 TXT_SETUP_ALARM_Weekdays_STR_L	По рабочим дням
 TXT_SETUP_ALARM_Weekends_STR_L	По выходным
 TXT_SETUP_ALERTS_Add_New_STR_L	Добавить новый элемент
-TXT_SETUP_ALERTS_Alerts_STR_S	Оповещения
+TXT_SETUP_ALERTS_Alerts_STR_S	Сповіщення
 TXT_SETUP_ALERTS_BIKE_Cadence_STR_L	Частота вращения
 TXT_SETUP_ALERTS_CHOOSE_TYPE_BIKE_Cadence_STR_L	Частота вращения
 TXT_SETUP_ALERTS_CHOOSE_TYPE_Calories_STR_L	Калории
 TXT_SETUP_ALERTS_CHOOSE_TYPE_Custom_STR_L	Ввод вручную
 TXT_SETUP_ALERTS_CHOOSE_TYPE_Distance_STR_L	Расстояние
-TXT_SETUP_ALERTS_CHOOSE_TYPE_Heart_Rate_STR_L	Частота пульса
+TXT_SETUP_ALERTS_CHOOSE_TYPE_Heart_Rate_STR_L	Частота пульсу
 TXT_SETUP_ALERTS_CHOOSE_TYPE_PADDLE_Stroke_Rate_STR_L	Частота гребков
 TXT_SETUP_ALERTS_CHOOSE_TYPE_Pace_STR_L	Темп
 TXT_SETUP_ALERTS_CHOOSE_TYPE_Power_STR_L	Мощность
 TXT_SETUP_ALERTS_CHOOSE_TYPE_RUN_Cadence_STR_L	Частота шагов
-TXT_SETUP_ALERTS_CHOOSE_TYPE_Run_Walk_STR_L	Бег/ходьба
+TXT_SETUP_ALERTS_CHOOSE_TYPE_Run_Walk_STR_L	Біг/ходьба
 TXT_SETUP_ALERTS_CHOOSE_TYPE_SWIM_Stroke_Rate_STR_L	Частота гребков
 TXT_SETUP_ALERTS_CHOOSE_TYPE_Speed_STR_L	Скорость
 TXT_SETUP_ALERTS_CHOOSE_TYPE_Time_STR_L	Время
 TXT_SETUP_ALERTS_HDR_Choose_Alert_Message_STR_M	Выб. сообщ. для опов.
 TXT_SETUP_ALERTS_HDR_Choose_Alert_Type_STR_M	Выберите тип оповещ.
-TXT_SETUP_ALERTS_Heart_Rate_STR_L	Частота пульса
+TXT_SETUP_ALERTS_Heart_Rate_STR_L	Частота пульсу
 TXT_SETUP_ALERTS_Message_STR_L	Сообщение
 TXT_SETUP_ALERTS_PADDLE_Stroke_Rate_STR_L	Частота гребков
 TXT_SETUP_ALERTS_Pace_STR_L	Темп
 TXT_SETUP_ALERTS_Power_STR_L	Мощность
 TXT_SETUP_ALERTS_RUN_Cadence_STR_L	Частота шагов
-TXT_SETUP_ALERTS_Run_Walk_STR_L	Бег/ходьба
+TXT_SETUP_ALERTS_Run_Walk_STR_L	Біг/ходьба
 TXT_SETUP_ALERTS_SWIM_Stroke_Rate_STR_L	Частота гребков
 TXT_SETUP_ALERTS_Speed_STR_L	Скорость
 TXT_SETUP_ALERT_Aerobic_Z3_STR_M	Аэробная нагрузка (З3)
@@ -1522,7 +1522,7 @@ TXT_SETUP_ALERT_Every_X_Lengths_STR_M	Участков: %1
 TXT_SETUP_ALERT_Fast_Alert_STR_L	Оп. о быст.темпе
 TXT_SETUP_ALERT_Fastest_Pace_STR_L	Самый быстрый темп
 TXT_SETUP_ALERT_Frequency_STR_L	Частота
-TXT_SETUP_ALERT_HEART_RATE_PAGE_Heart_Rate_STR_S	Частота пульса
+TXT_SETUP_ALERT_HEART_RATE_PAGE_Heart_Rate_STR_S	Частота пульсу
 TXT_SETUP_ALERT_High_Alert_STR_L	Сигнал о высокой скорости
 TXT_SETUP_ALERT_High_Alert_STR_M	Сигн. выс. скор.
 TXT_SETUP_ALERT_Highest_Speed_STR_L	Самая высокая скорость
@@ -1537,7 +1537,7 @@ TXT_SETUP_ALERT_PADDLE_Low_Stroke_Rate_STR_L	Низкая частота гребков
 TXT_SETUP_ALERT_POWER_PAGE_Power_STR_S	Мощность
 TXT_SETUP_ALERT_RUN_High_Cadence_STR_L	Высокая частота
 TXT_SETUP_ALERT_RUN_Low_Cadence_STR_L	Низкая частота
-TXT_SETUP_ALERT_RUN_WALK_Run_Walk_STR_S	Бег/ходьба
+TXT_SETUP_ALERT_RUN_WALK_Run_Walk_STR_S	Біг/ходьба
 TXT_SETUP_ALERT_Remove_STR_L	Удалить
 TXT_SETUP_ALERT_Repeat_STR_L	Повтор
 TXT_SETUP_ALERT_Run_Time_STR_L	Время бега
@@ -1630,8 +1630,8 @@ TXT_SETUP_COURSE_OPTIONS_Delete_STR_L	Удалить
 TXT_SETUP_COURSE_OPTIONS_Do_Course_STR_L	Пройти дистанцию
 TXT_SETUP_COURSE_OPTIONS_Elevation_Profile_STR_L	Профиль высот
 TXT_SETUP_COURSE_OPTIONS_Map_STR_L	Карта
-TXT_SETUP_COURSE_OPTIONS_Name_STR_L	Имя
-TXT_SETUP_COURSE_OPTIONS_Race_STR_L	Забег
+TXT_SETUP_COURSE_OPTIONS_Name_STR_L	Ім'я
+TXT_SETUP_COURSE_OPTIONS_Race_STR_L	Забіг
 TXT_SETUP_DATA_CNFG_OPTIONS_Field_1_STR_L	Поле 1
 TXT_SETUP_DATA_CNFG_OPTIONS_Field_2_STR_L	Поле 2
 TXT_SETUP_DATA_CNFG_OPTIONS_Field_3_STR_L	Поле 3
@@ -1713,7 +1713,7 @@ TXT_SETUP_GPS_SETTINGS_GPS_Only_STR_L	Нормальный (только GPS)
 TXT_SETUP_GPS_SETTINGS_Off_STR_L	Выключено
 TXT_SETUP_HEART_RATE_MENU_Add_Sport_Heart_Rate_STR_L	Добав. знач. ЧП для занятий спортом
 TXT_SETUP_HEART_RATE_MENU_Cycling_STR_S	Велосипед
-TXT_SETUP_HEART_RATE_MENU_Heart_Rate_Zones_STR_L	Частота пульса
+TXT_SETUP_HEART_RATE_MENU_Heart_Rate_Zones_STR_L	Частота пульсу
 TXT_SETUP_HEART_RATE_MENU_LTHR_STR_L	ЧП при пороговом значении лактата
 TXT_SETUP_HEART_RATE_MENU_Max_HR_STR_L	ЧП максимум
 TXT_SETUP_HEART_RATE_MENU_Remove_Cycling_HR_STR_L	Удалить знач. ЧП для велотренировок
@@ -1721,7 +1721,7 @@ TXT_SETUP_HEART_RATE_MENU_Remove_Running_HR_STR_L	Удалить знач. ЧП для бега
 TXT_SETUP_HEART_RATE_MENU_Remove_Swimming_HR_STR_L	Удалить знач. ЧП для плавания
 TXT_SETUP_HEART_RATE_MENU_Resting_HR_STR_L	ЧП на отдыхе
 TXT_SETUP_HEART_RATE_MENU_Running_STR_S	Біг
-TXT_SETUP_HEART_RATE_MENU_Sport_Heart_Rate_STR_L	Частота пульса по видам спорта
+TXT_SETUP_HEART_RATE_MENU_Sport_Heart_Rate_STR_L	Частота пульсу по видам спорта
 TXT_SETUP_HEART_RATE_MENU_Sport_Heart_Rate_STR_S	ЧП по видам спорта
 TXT_SETUP_HEART_RATE_MENU_Swimming_STR_S	Плавание
 TXT_SETUP_HEART_RATE_MENU_Zones_STR_L	Зоны
@@ -1823,7 +1823,7 @@ TXT_SETUP_LOCATIONS_Where_Am_I_STR_L	Где я?
 TXT_SETUP_LOCATION_OPTIONS_Delete_STR_L	Удалить
 TXT_SETUP_LOCATION_OPTIONS_Details_STR_L	Сведения
 TXT_SETUP_LOCATION_OPTIONS_GoTo_STR_L	Перейти
-TXT_SETUP_LOCATION_OPTIONS_Name_STR_L	Имя
+TXT_SETUP_LOCATION_OPTIONS_Name_STR_L	Ім'я
 TXT_SETUP_MAIN_MENU_Activity_Settings_STR_L	Настройки занятия
 TXT_SETUP_MAIN_MENU_Activity_Tracking_STR_L	Отслеживание активности
 TXT_SETUP_MAIN_MENU_Back_To_Start_STR_L	Назад к началу
@@ -1881,7 +1881,7 @@ TXT_SETUP_NAVIGATION_Stop_Navigation_STR_L	Остановить навигацию
 TXT_SETUP_NAVIGATION_TITL_Navigation_STR_L	Навигация
 TXT_SETUP_NAVIGATION_Where_Am_I_STR_L	Где я?
 TXT_SETUP_PACE_SPEED_PREF_Cardio_STR_L	Кардио
-TXT_SETUP_PACE_SPEED_PREF_Cross_STR_L	Лыжи
+TXT_SETUP_PACE_SPEED_PREF_Cross_STR_L	Лещетарство
 TXT_SETUP_PACE_SPEED_PREF_Cycling_STR_L	Велосипед
 TXT_SETUP_PACE_SPEED_PREF_Hiking_STR_L	Поход
 TXT_SETUP_PACE_SPEED_PREF_Other_STR_L	Другое
@@ -1905,13 +1905,13 @@ TXT_SETUP_PAGE_SWITCH_Disabled_STR_M	Отключено
 TXT_SETUP_PAGE_SWITCH_Enabled_STR_M	Включено
 TXT_SETUP_PAGE_SWITCH_Off_STR_M	Выключено
 TXT_SETUP_PAGE_SWITCH_On_STR_M	Включено
-TXT_SETUP_PAGE_TITL_Alerts_STR_M	Оповещения
+TXT_SETUP_PAGE_TITL_Alerts_STR_M	Сповіщення
 TXT_SETUP_PAGE_TITL_Auto_Lap_STR_M	Auto Lap
 TXT_SETUP_PAGE_TITL_Auto_Pause_STR_M	Auto Pause
 TXT_SETUP_PAGE_TITL_Auto_Scroll_STR_M	Смена страниц
 TXT_SETUP_PAGE_TITL_Records_STR_M	Рекорды
 TXT_SETUP_POOL_SIZE_25_Meters_STR_M	25 метров
-TXT_SETUP_POOL_SIZE_25_Yards_STR_M	25 ярдов
+TXT_SETUP_POOL_SIZE_25_Yards_STR_M	25 ярдів
 TXT_SETUP_POOL_SIZE_33_1_3_Meters_STR_M	33 1/3 метра
 TXT_SETUP_POOL_SIZE_33_1_3_Yards_STR_M	33 1/3 ярда
 TXT_SETUP_POOL_SIZE_50_Meters_STR_M	50 метров
@@ -2020,7 +2020,7 @@ TXT_SETUP_SENSOR_DETAILS_Rear_11_32T_STR_M	11-32З
 TXT_SETUP_SENSOR_DETAILS_Rear_12_25T_STR_M	12-25З
 TXT_SETUP_SENSOR_DETAILS_Rear_12_28T_STR_M	12-28З
 TXT_SETUP_SENSOR_SETTINGS_Connect_STR_L	Соединение
-TXT_SETUP_SENSOR_SETTINGS_Name_STR_L	Имя
+TXT_SETUP_SENSOR_SETTINGS_Name_STR_L	Ім'я
 TXT_SETUP_SENSOR_SETTINGS_Remove_STR_L	Удалить
 TXT_SETUP_SENSOR_SETTINGS_Status_STR_L	Состояние
 TXT_SETUP_SENSOR_SOURCE_Always_STR_M	Всегда
@@ -2073,7 +2073,7 @@ TXT_SETUP_SHORTCUTS_Cancel_Workout_STR_M	Отмена тренировки
 TXT_SETUP_SHORTCUTS_Clock_Options_STR_M	Параметры часов
 TXT_SETUP_SHORTCUTS_Edit_Data_Fields_STR_M	Правка полей данных
 TXT_SETUP_SHORTCUTS_Lock_Device_STR_M	Блокировать устройство
-TXT_SETUP_SHORTCUTS_Music_Controls_STR_M	Управление музыкой
+TXT_SETUP_SHORTCUTS_Music_Controls_STR_M	Керування музикою
 TXT_SETUP_SHORTCUTS_Mute_STR_L	Без звука
 TXT_SETUP_SHORTCUTS_Options_STR_S	Опции
 TXT_SETUP_SHORTCUTS_Orientation_STR_M	Ориентация
@@ -2094,12 +2094,12 @@ TXT_SETUP_SHORTCUTS_Take_Picture_STR_M	Сделать снимок
 TXT_SETUP_SHORTCUTS_Unmute_STR_L	Со звуком
 TXT_SETUP_SHORTCUTS_User_Locations_STR_M	Местоположения пользователя
 TXT_SETUP_SHORTCUTS_Zoom_STR_M	Масштаб
-TXT_SETUP_SMART_NTFCTN_LIST_Notifications_STR_S	Оповещения
+TXT_SETUP_SMART_NTFCTN_LIST_Notifications_STR_S	Сповіщення
 TXT_SETUP_SMART_NTFCTN_SETTINGS_ACT_During_Activity_STR_L	Во время занятия
 TXT_SETUP_SMART_NTFCTN_SETTINGS_ACT_Not_During_Activity_STR_L	Не во время занятия
 TXT_SETUP_SMART_NTFCTN_SETTINGS_During_Activity_STR_L	Во время занятия
 TXT_SETUP_SMART_NTFCTN_SETTINGS_Not_During_Activity_STR_L	Не во время занятия
-TXT_SETUP_SMART_NTFCTN_SETTINGS_Notifications_STR_L	Оповещения
+TXT_SETUP_SMART_NTFCTN_SETTINGS_Notifications_STR_L	Сповіщення
 TXT_SETUP_SMART_NTFCTN_SETTINGS_Options_STR_S	Опции
 TXT_SETUP_SMART_NTFCTN_SETTINGS_Show_All_STR_M	Показать все
 TXT_SETUP_SMART_NTFCTN_SETTINGS_Show_Calls_Only_STR_M	Показ. только вызовы
@@ -2208,7 +2208,7 @@ TXT_SETUP_UNITS_Weight_STR_L	Вес
 TXT_SETUP_USER_PROFILE_Birth_Year_STR_L	Год рождения
 TXT_SETUP_USER_PROFILE_Female_STR_M	Женщина
 TXT_SETUP_USER_PROFILE_Gender_STR_L	Пол
-TXT_SETUP_USER_PROFILE_Heart_Rate_STR_L	Частота пульса
+TXT_SETUP_USER_PROFILE_Heart_Rate_STR_L	Частота пульсу
 TXT_SETUP_USER_PROFILE_Height_STR_L	Рост
 TXT_SETUP_USER_PROFILE_Male_STR_M	Мужчина
 TXT_SETUP_USER_PROFILE_Power_Zones_STR_L	Зоны мощности
@@ -2231,7 +2231,7 @@ TXT_SETUP_WIDGET_Widgets_Add_STR_L	Добавить виджеты
 TXT_SETUP_WIDGET_Widgets_STR_L	Виджеты
 TXT_SETUP_WIRELESS_Bluetooth_STR_L	Bluetooth
 TXT_SETUP_WIRELESS_CONTROLS_Bluetooth_STR_M	Bluetooth
-TXT_SETUP_WIRELESS_CONTROLS_Controls_STR_S	Управление
+TXT_SETUP_WIRELESS_CONTROLS_Controls_STR_S	Керування
 TXT_SETUP_WIRELESS_CONTROLS_Do_Not_Disturb_STR_M	Не беспокоить
 TXT_SETUP_WIRELESS_CONTROLS_Find_My_Phone_STR_M	Пошук телефону?
 TXT_SETUP_WIRELESS_CONTROLS_Sync_STR_M	Синхронізація
@@ -2332,7 +2332,7 @@ TXT_STATUS_PAGE_NO_ELEV_DATA_No_Course_Elevation_Data_STR_M	Нет данных о высоте 
 TXT_STATUS_PAGE_NO_ELEV_DATA_RUN_No_Segment_Elevation_Data_STR_M	Нет данных о высоте для сегмента
 TXT_STATUS_PAGE_NO_SAVED_LOCATIONS_No_Locations_Saved_STR_M	Нет сохраненных местоположений
 TXT_STATUS_PAGE_NO_SEGMENTS_SAVED_No_Segments_Saved_STR_M	Нет сохраненных сегментов
-TXT_STATUS_PAGE_NO_SMART_NOTIFICATIONS_No_Notifications_STR_M	Нет уведомлений
+TXT_STATUS_PAGE_NO_SMART_NOTIFICATIONS_No_Notifications_STR_M	Відсутні сповіщення
 TXT_STATUS_PAGE_NO_SW_UPDATES_Go_to_Garmin_Connect_STR_M	Перейдите на веб-сайт Garmin Connect и проверьте наличие обновлений.
 TXT_STATUS_PAGE_NO_SW_UPDATES_Last_WiFi_Connection_STR_M	Последнее подключение Wi-Fi:
 TXT_STATUS_PAGE_NO_SW_UPDATES_No_Updates_STR_M	Обновлений нет
@@ -2607,9 +2607,9 @@ TXT_Time_Avg_Lap_STR_S	Ср. вр. круга
 TXT_Time_Behind_STR_L	Время отставания
 TXT_Time_Behind_STR_M	Время отставания
 TXT_Time_Behind_STR_S	Время отстав.
-TXT_Time_Lap_Crnt_STR_L	Время круга
-TXT_Time_Lap_Crnt_STR_M	Время круга
-TXT_Time_Lap_Crnt_STR_S	Время круга
+TXT_Time_Lap_Crnt_STR_L	Час кола
+TXT_Time_Lap_Crnt_STR_M	Час кола
+TXT_Time_Lap_Crnt_STR_S	Час кола
 TXT_Time_Last_Lap_STR_L	Время последнего круга
 TXT_Time_Last_Lap_STR_M	Время последнего круга
 TXT_Time_Last_Lap_STR_S	Вр. посл. кр.
@@ -2796,7 +2796,7 @@ TXT_WEATHER_Weather_STR_S	Погода
 TXT_WEATHER_Wed_STR_S	Ср
 TXT_WEATHER_a_FRMT_STR_S	%1a
 TXT_WEATHER_p_FRMT_STR_S	%1p
-TXT_WHR_Crnt_STR_L	Частота пульса на запястье
+TXT_WHR_Crnt_STR_L	Частота пульсу на запястье
 TXT_WHR_Crnt_STR_M	ЧП на запястье
 TXT_WHR_Crnt_STR_S	ЧП на запястье
 TXT_WIDGET_App_Connection_Required_STR_M	Требуется подключение к приложению
@@ -2819,10 +2819,10 @@ TXT_WIDGET_Calendar_STR_EXT	Календарь
 TXT_WIDGET_Calendar_STR_M	Календарь
 TXT_WIDGET_Calories_STR_EXT	Калории
 TXT_WIDGET_Calories_STR_M	Калории
-TXT_WIDGET_Controls_STR_EXT	Управление
-TXT_WIDGET_Controls_STR_M	Управление
-TXT_WIDGET_Heart_Rate_STR_EXT	Частота пульса
-TXT_WIDGET_Heart_Rate_STR_M	Частота пульса
+TXT_WIDGET_Controls_STR_EXT	Керування
+TXT_WIDGET_Controls_STR_M	Керування
+TXT_WIDGET_Heart_Rate_STR_EXT	Частота пульсу
+TXT_WIDGET_Heart_Rate_STR_M	Частота пульсу
 TXT_WIDGET_Intensity_Minutes_STR_EXT	Время интенсивной активности
 TXT_WIDGET_Intensity_Minutes_STR_M	Вр. интенсивн. акт.
 TXT_WIDGET_Last_Bike_STR_EXT	Последний заезд
@@ -2835,10 +2835,10 @@ TXT_WIDGET_Last_Swim_STR_EXT	Последний заплыв
 TXT_WIDGET_Last_Swim_STR_M	Последний заплыв
 TXT_WIDGET_My_Day_STR_EXT	Мой день
 TXT_WIDGET_My_Day_STR_M	Мой день
-TXT_WIDGET_Notifications_STR_EXT	Оповещения
-TXT_WIDGET_Notifications_STR_M	Оповещения
-TXT_WIDGET_SMRT_NTFCTN_No_Notifications_STR_M	Нет уведомлений
-TXT_WIDGET_SMRT_NTFCTN_Notifications_STR_M	Оповещения
+TXT_WIDGET_Notifications_STR_EXT	Сповіщення
+TXT_WIDGET_Notifications_STR_M	Сповіщення
+TXT_WIDGET_SMRT_NTFCTN_No_Notifications_STR_M	Немає сповіщень
+TXT_WIDGET_SMRT_NTFCTN_Notifications_STR_M	Сповіщення
 TXT_WIDGET_Steps_STR_EXT	Шаги
 TXT_WIDGET_Steps_STR_M	Шаги
 TXT_WIDGET_Virb_STR_EXT	VIRB
@@ -2846,7 +2846,7 @@ TXT_WIDGET_Virb_STR_M	VIRB
 TXT_WIDGET_Waiting_for_Data_STR_M	Ожидание данных
 TXT_WIDGET_Weather_STR_EXT	Погода
 TXT_WIDGET_Weather_STR_M	Погода
-TXT_WIRELESS_CONTROLS_WIDGET_PAGE_Controls_STR_M	Управление
+TXT_WIRELESS_CONTROLS_WIDGET_PAGE_Controls_STR_M	Керування
 TXT_WRKT_TRANSITION_TIP_Press_Lap_to_End_STR_M	Нажм. Lap, чт. зав. трен.
 TXT_WRKT_TRANSITION_TIP_to_Begin_STR_M	для старта
 TXT_W_STR_M	С
