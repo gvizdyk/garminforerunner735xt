@@ -1,18 +1,19 @@
 Filesystem   Size   Used  Avail Capacity iused ifree %iused  Mounted on
-/dev/disk1   10Mi  3.5Mi  6.6Mi    35%     112     0  100%   /Volumes/GARMIN
+/dev/disk1   10Mi  4.3Mi  5.7Mi    43%     112     0  100%   /Volumes/GARMIN
 
 -------------------
 
-DATE: 2016-12-16
-TIME: 22:27:27
+DATE: 2016-12-20
+TIME: 10:34:36
 
 Used Memory Storage
 -------------------
 2.0K	./AUTORUN.INF
-3.5M	./GARMIN
+3.3M	./GARMIN
+2.0K	./README.md
 2.0K	./status_ums.md
 2.0K	./ums.sh
-3.5M	total
+3.3M	total
 
 Used Memory Garmin
 -------------------
@@ -22,7 +23,7 @@ Used Memory Garmin
 2.0K	GARMIN/COURSES
 2.0K	GARMIN/DEBUG
 2.0K	GARMIN/DEVICE.FIT
- 90K	GARMIN/EVNTLOGS
+ 94K	GARMIN/EVNTLOGS
 2.0K	GARMIN/GOALS
 2.0K	GARMIN/GPS
  18K	GARMIN/GarminDevice.xml
@@ -39,8 +40,8 @@ Used Memory Garmin
 6.0K	GARMIN/SETTINGS
  14K	GARMIN/SPORTS
 2.0K	GARMIN/TEMPFIT
-2.7M	GARMIN/TEXT
+2.5M	GARMIN/TEXT
 4.0K	GARMIN/TOTALS
 10.0K	GARMIN/WORKOUTS
-3.5M	total
+3.3M	total
 
