@@ -254,9 +254,9 @@ TXT_DRILL_LOG_PAGE_To_End_STR_M	чтобы зав. упр.
 TXT_Di2_Battery_STR_L	Батарея Di2
 TXT_Di2_Battery_STR_M	Батарея Di2
 TXT_Di2_Battery_STR_S	Батарея Di2
-TXT_Dist_Ahead_STR_L	Расстояние впереди
-TXT_Dist_Ahead_STR_M	Расстояние впереди
-TXT_Dist_Ahead_STR_S	Расст. впереди
+TXT_Dist_Ahead_STR_L	Відстань попереду
+TXT_Dist_Ahead_STR_M	Відстань попереду
+TXT_Dist_Ahead_STR_S	Відстю. попереду
 TXT_Dist_Behind_STR_S	Расстояние отставания
 TXT_Dist_Nautical_STR_L	Морское расстояние
 TXT_Dist_Nautical_STR_M	Морское расстояние
@@ -401,9 +401,9 @@ TXT_HR_WIDGET_MENU_Auto_STR_M	Авто
 TXT_HR_WIDGET_MENU_Heart_Rate_Monitor_STR_L	Частота пульсу
 TXT_HR_WIDGET_MENU_Options_STR_L	Опции
 TXT_HR_WIDGET_PAGE_Heart_Rate_STR_L	Частота пульсу
-TXT_HR_WIDGET_PAGE_High_FRMT_STR_M	Высокое: %1
+TXT_HR_WIDGET_PAGE_High_FRMT_STR_M	Найвище: %1
 TXT_HR_WIDGET_PAGE_Hours_FRMT_STR_M	Останні %1 години(а)
-TXT_HR_WIDGET_PAGE_Low_FRMT_STR_M	Низкое: %1
+TXT_HR_WIDGET_PAGE_Low_FRMT_STR_M	Нижнє: %1
 TXT_HR_WIDGET_PAGE_Minutes_FRMT_STR_M	Останні %1 хв
 TXT_HR_WIDGET_PAGE_RHR_STR_L	ЧПП
 TXT_HR_Zone_FRMT_STR	Зона ЧП %1
@@ -527,8 +527,8 @@ TXT_LIST_SELECT_Sounds_Tone_STR_L	Звук
 TXT_LIST_SELECT_Sounds_Vibration_STR_L	Вібрація
 TXT_LIST_SELECT_Stays_On_STR_L	Всегда включено
 TXT_LIST_SELECT_Sunday_STR_L	Воскресенье
-TXT_LIST_SELECT_Time_STR_L	Время
-TXT_LIST_SELECT_Total_Time_STR_L	Общее время
+TXT_LIST_SELECT_Time_STR_L	Час
+TXT_LIST_SELECT_Total_Time_STR_L	Загальний час
 TXT_LIST_SELECT_When_Stopped_STR_L	При остановке
 TXT_LST_SLCT_Choose_Zone_STR_S	Выберите зону
 TXT_LTHR_CONFIRM_Accept_STR_L	Принять
@@ -577,7 +577,7 @@ TXT_Lap_Vertical_Oscillation_STR_M	Верт. колебан. на круге
 TXT_Lap_Vertical_Ratio_STR_L	Вертикальное соотнош. на круге
 TXT_Lap_Vertical_Ratio_STR_M	Верт. соотнош. на круге
 TXT_Lap_Vertical_Ratio_STR_S	В. соотн. на кр.
-TXT_Last_7_Days_STR_M	Последние 7 дней
+TXT_Last_7_Days_STR_M	Останні 7 днів
 TXT_Last_Int_Avg_HR_PHRR_STR_L	Ср. %РЧП на посл. инт.
 TXT_Last_Int_Avg_HR_PHRR_STR_M	Ср. %РЧП на посл. инт.
 TXT_Last_Int_Avg_HR_PHRR_STR_S	Ср.%РЧП п.инт.
@@ -1052,11 +1052,11 @@ TXT_Power_save_in_STR_M	Энергосб. через
 TXT_Press_Lap_For_Rest_STR	Наж. кноп. круга для отдыха
 TXT_Press_Up_or_Down_FRMT_STR_M	Нажмите %1 или %2
 TXT_RBS_WIDGET_CALORIES_STR_M	Калории
-TXT_RBS_WIDGET_DISTANCE_STR_M	Расст.
+TXT_RBS_WIDGET_DISTANCE_STR_M	Відстань
 TXT_RBS_WIDGET_HEART_RATE_STR_M	Ср. ЧП
 TXT_RBS_WIDGET_LAST_BIKE_STR_M	Последний заезд
 TXT_RBS_WIDGET_LAST_RUN_STR_M	Последний забег
-TXT_RBS_WIDGET_LAST_SPORT_STR_M	Посл. вид спорта
+TXT_RBS_WIDGET_LAST_SPORT_STR_M	Ост. вид спорту
 TXT_RBS_WIDGET_LAST_SWIM_STR_M	Последний заплыв
 TXT_RBS_WIDGET_PACE_STR_M	Темп
 TXT_RBS_WIDGET_SPEED_STR_M	Скор.
@@ -1215,7 +1215,7 @@ TXT_SELECT_PAGE_TITL_Low_Alert_STR_M	Сигнал о низкой скорости
 TXT_SELECT_PAGE_TITL_Orientation_STR_M	Ориентация
 TXT_SELECT_PAGE_TITL_Other_STR_M	Другое
 TXT_SELECT_PAGE_TITL_Pace_Speed_STR_M	Темп/скорость
-TXT_SELECT_PAGE_TITL_Power_Off_STR_M	Выключить питание?
+TXT_SELECT_PAGE_TITL_Power_Off_STR_M	Вимкнути живлення?
 TXT_SELECT_PAGE_TITL_Power_Save_Timeout_STR_M	Таймаут реж.энергосб.
 TXT_SELECT_PAGE_TITL_RUN_Delete_Segment_STR_M	Удалить сегмент?
 TXT_SELECT_PAGE_TITL_RUN_Stop_segment_STR_M	Остановить навигацию по сегменту?
@@ -1247,10 +1247,10 @@ TXT_SELECT_PAGE_TITL_VO2_Max_STR_M	Показатель VO2 Max.
 TXT_SELECT_PAGE_TITL_Weight_STR_M	Вес
 TXT_SELECT_PAGE_TITL_Widgets_Available_STR_M	Доступны допол-\nнит. виджеты
 TXT_SELECT_PAGE_TITL_profile_added_STR_M	Профиль добавлен
-TXT_SELECT_PAGE_WIDGET_Phone_Connection_Required_STR_M	Требуется подключение к смартфону
-TXT_SELECT_PAGE_Yes_STR_L	Да
-TXT_SELECT_POOL_LENGTH_UNITS_Meters_STR_L	Метры
-TXT_SELECT_POOL_LENGTH_UNITS_Yards_STR_L	Ярды
+TXT_SELECT_PAGE_WIDGET_Phone_Connection_Required_STR_M	Потребується підключення до телефону
+TXT_SELECT_PAGE_Yes_STR_L	Так
+TXT_SELECT_POOL_LENGTH_UNITS_Meters_STR_L	Метри
+TXT_SELECT_POOL_LENGTH_UNITS_Yards_STR_L	Ярди
 TXT_SELECT_POOL_SIZE_CHANGE_meters_STR_M	Размер басс. будет изм. на %1 м в соотв. с тренировкой.
 TXT_SELECT_POOL_SIZE_CHANGE_yards_STR_M	Размер басс. будет изм. на %1 ярд. в соотв. с тренировкой.
 TXT_SELECT_PWR_AUTOZERO_Auto_Zero_STR_L	Автонуль
@@ -1302,9 +1302,9 @@ TXT_SELECT_SW_UPDATE_FAILED_Done_STR_L	Готово
 TXT_SELECT_SW_UPDATE_FAILED_Updated_failed_Go_to_Garmin_Connect_STR_M	Сбой обновления. \nПовторите попытку из Garmin Connect.
 TXT_SELECT_TARGET_DETAIL_Accept_STR_L	Принять
 TXT_SELECT_TARGET_DETAIL_Pace_FRMT_STR_M	Темп: %1
-TXT_SELECT_TARGET_DETAIL_Speed_FRMT_STR_M	Скорость: %1
-TXT_SELECT_TARGET_DETAIL_Target_FRMT_STR_M	Цель: %1
-TXT_SELECT_TARGET_DETAIL_Time_FRMT_STR_M	Время: %1
+TXT_SELECT_TARGET_DETAIL_Speed_FRMT_STR_M	Швидкість: %1
+TXT_SELECT_TARGET_DETAIL_Target_FRMT_STR_M	Ціль: %1
+TXT_SELECT_TARGET_DETAIL_Time_FRMT_STR_M	Час: %1
 TXT_SELECT_TIMEOUT_Extended_STR_L	Длинное
 TXT_SELECT_TIMEOUT_Normal_STR_L	Обычное
 TXT_SELECT_TIME_FORMAT_12_Hour_STR_L	12-часовой
@@ -1414,7 +1414,7 @@ TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_SPORT_SUP_STR_L	Паддлбординг
 TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_SPORT_Strength_STR_L	Сил. трен.
 TXT_SETUP_ACTIVITY_REVIEW_Achievements_STR_L	Достижения
 TXT_SETUP_ACTIVITY_REVIEW_Done_STR_L	Готово
-TXT_SETUP_ACTIVITY_SETTINGS_Activity_Settings_STR_S	Настройки занятия
+TXT_SETUP_ACTIVITY_SETTINGS_Activity_Settings_STR_S	Налаштування тренувань
 TXT_SETUP_ACTIVITY_SETTINGS_Alerts_STR_L	Сповіщення
 TXT_SETUP_ACTIVITY_SETTINGS_Auto_FRMT_STR_M	Авто %1
 TXT_SETUP_ACTIVITY_SETTINGS_Auto_Pause_STR_L	Auto Pause
@@ -1462,8 +1462,8 @@ TXT_SETUP_ADD_SENSORS_Shimano_Di2_STR_L	Shimano Di2
 TXT_SETUP_ADD_SENSORS_Speed_Cadence_STR_L	Скорость/частота
 TXT_SETUP_ADD_SENSORS_Tempe_STR_L	tempe
 TXT_SETUP_ADD_SENSORS_Virb_STR_L	VIRB
-TXT_SETUP_ALARM_Alarm_Settings_STR_L	Настройки будильника
-TXT_SETUP_ALARM_Alarms_STR_L	Сигналы
+TXT_SETUP_ALARM_Alarm_Settings_STR_L	Налаштування будильника
+TXT_SETUP_ALARM_Alarms_STR_L	Сигнали
 TXT_SETUP_ALARM_Daily_STR_L	Ежедневно
 TXT_SETUP_ALARM_Never_STR_L	Никогда
 TXT_SETUP_ALARM_Remove_STR_L	Удалить
@@ -1613,7 +1613,7 @@ TXT_SETUP_BLUETOOTH_Stop_LiveTrack_STR_L	Завершить сеанс LiveTrack
 TXT_SETUP_BLUETOOTH_Waiting_for_App_STR_M	Ожидание прилож.
 TXT_SETUP_BLUETOOTH_Waiting_to_Connect_STR_M	Ожидание подключ.
 TXT_SETUP_CALENDAR_LIST_All_Day_STR_M	Весь день
-TXT_SETUP_CALENDAR_LIST_Calendar_STR_S	Календарь
+TXT_SETUP_CALENDAR_LIST_Calendar_STR_S	Календар
 TXT_SETUP_CALENDAR_LIST_Now_STR_M	Сейчас
 TXT_SETUP_CHANGE_MULTISPORT_LEGS_HDR_Choose_Final_Profile_STR_S	Выберите итог. проф.
 TXT_SETUP_CHANGE_MULTISPORT_LEGS_HDR_Choose_Profile_FRMT_STR_S	Выберите профиль %1
@@ -1696,8 +1696,8 @@ TXT_SETUP_FOOT_POD_Dist_Source_select_STR_L	Расстояние
 TXT_SETUP_FOOT_POD_Speed_Source_Select_STR_L	Исп. в кач. ист. скор.
 TXT_SETUP_FORMAT_Format_STR_S	Формат
 TXT_SETUP_FORMAT_Monday_STR_M	Понедельник
-TXT_SETUP_FORMAT_Pace_Speed_Preference_STR_L	Настройки темпа/скорости
-TXT_SETUP_FORMAT_Saturday_STR_M	Суббота
+TXT_SETUP_FORMAT_Pace_Speed_Preference_STR_L	Налаштування темпу/швидкості
+TXT_SETUP_FORMAT_Saturday_STR_M	Субота
 TXT_SETUP_FORMAT_Start_Of_Week_STR_L	Начало недели
 TXT_SETUP_FORMAT_Sunday_STR_M	Воскресенье
 TXT_SETUP_FUNCTIONAL_THRESHOLD_POWER_Auto_Detect_STR_L	Автоопределен.
@@ -1824,7 +1824,7 @@ TXT_SETUP_LOCATION_OPTIONS_Delete_STR_L	Удалить
 TXT_SETUP_LOCATION_OPTIONS_Details_STR_L	Сведения
 TXT_SETUP_LOCATION_OPTIONS_GoTo_STR_L	Перейти
 TXT_SETUP_LOCATION_OPTIONS_Name_STR_L	Ім'я
-TXT_SETUP_MAIN_MENU_Activity_Settings_STR_L	Настройки занятия
+TXT_SETUP_MAIN_MENU_Activity_Settings_STR_L	Налаштування заняття
 TXT_SETUP_MAIN_MENU_Activity_Tracking_STR_L	Отслеживание активности
 TXT_SETUP_MAIN_MENU_Back_To_Start_STR_L	Назад к началу
 TXT_SETUP_MAIN_MENU_Cancel_Race_STR_L	Отмена забега
@@ -1836,13 +1836,13 @@ TXT_SETUP_MAIN_MENU_History_STR_L	Архив
 TXT_SETUP_MAIN_MENU_Menu_STR_S	Меню
 TXT_SETUP_MAIN_MENU_My_Stats_STR_L	Моя статистика
 TXT_SETUP_MAIN_MENU_Resume_STR_L	Возобно-\nвить
-TXT_SETUP_MAIN_MENU_Save_STR_L	Сохранить
+TXT_SETUP_MAIN_MENU_Save_STR_L	Зберегти
 TXT_SETUP_MAIN_MENU_Settings_STR_L	Налаштування
 TXT_SETUP_MAIN_MENU_Smart_Notifications_STR_L	Умные уведомл.
 TXT_SETUP_MAIN_MENU_Smart_Notifications_STR_M	Умные уведомления
 TXT_SETUP_MAIN_MENU_Stop_LiveTrack_STR_L	Остановить LiveTrack
 TXT_SETUP_MAIN_MENU_Stop_Navigation_STR_L	Останов. навигацию
-TXT_SETUP_MAIN_MENU_Training_STR_L	Тренировка
+TXT_SETUP_MAIN_MENU_Training_STR_L	Тренування
 TXT_SETUP_MAP_Hide_Up_STR_M	Скрыть
 TXT_SETUP_MAP_Map_STR_S	Карта
 TXT_SETUP_MAP_North_Up_STR_M	Север наверху
@@ -1943,7 +1943,7 @@ TXT_SETUP_RACE_ACTIVITY_Downloaded_STR_L	Загруженные
 TXT_SETUP_RACE_ACTIVITY_From_History_STR_L	Из журнала
 TXT_SETUP_RACE_TARGET_OPTIONS_Cancel_Race_STR_L	Отмена забега
 TXT_SETUP_RACE_TARGET_OPTIONS_Cancel_Target_STR_L	Отмена цели
-TXT_SETUP_RACE_TARGET_OPTIONS_Training_STR_S	Тренировка
+TXT_SETUP_RACE_TARGET_OPTIONS_Training_STR_S	Тренування
 TXT_SETUP_RECORDS_SPORT_Cycling_STR_L	Велосипед
 TXT_SETUP_RECORDS_SPORT_Running_STR_L	Біг
 TXT_SETUP_RECORDS_SPORT_Swimming_STR_L	Плавание
@@ -2100,19 +2100,19 @@ TXT_SETUP_SMART_NTFCTN_SETTINGS_ACT_Not_During_Activity_STR_L	Не во время заняти
 TXT_SETUP_SMART_NTFCTN_SETTINGS_During_Activity_STR_L	Во время занятия
 TXT_SETUP_SMART_NTFCTN_SETTINGS_Not_During_Activity_STR_L	Не во время занятия
 TXT_SETUP_SMART_NTFCTN_SETTINGS_Notifications_STR_L	Сповіщення
-TXT_SETUP_SMART_NTFCTN_SETTINGS_Options_STR_S	Опции
-TXT_SETUP_SMART_NTFCTN_SETTINGS_Show_All_STR_M	Показать все
+TXT_SETUP_SMART_NTFCTN_SETTINGS_Options_STR_S	Опції
+TXT_SETUP_SMART_NTFCTN_SETTINGS_Show_All_STR_M	Показати все
 TXT_SETUP_SMART_NTFCTN_SETTINGS_Show_Calls_Only_STR_M	Показ. только вызовы
 TXT_SETUP_SMART_NTFCTN_SETTINGS_Smart_Notifications_STR_S	Умные уведомления
 TXT_SETUP_SMART_NTFCTN_SETTINGS_Sounds_STR_L	Звуки
 TXT_SETUP_SMART_NTFCTN_SETTINGS_Status_STR_L	Состояние
 TXT_SETUP_SMART_NTFCTN_SETTINGS_Tone_STR_M	Звук
-TXT_SETUP_SMART_NTFCTN_SETTINGS_Tone_and_Vibration_STR_M	Звук и вибрация
-TXT_SETUP_SMART_NTFCTN_SETTINGS_Vibration_STR_M	Вибрация
+TXT_SETUP_SMART_NTFCTN_SETTINGS_Tone_and_Vibration_STR_M	Звук та вібрація
+TXT_SETUP_SMART_NTFCTN_SETTINGS_Vibration_STR_M	Вібрація
 TXT_SETUP_SOUNDS_Alert_Tones_STR_L	Тоны сигналов
 TXT_SETUP_SOUNDS_Key_Tones_STR_L	Тоны клавиш
 TXT_SETUP_SOUNDS_Sounds_STR_S	Звуки
-TXT_SETUP_SOUNDS_Vibration_STR_L	Вибрация
+TXT_SETUP_SOUNDS_Vibration_STR_L	Вібрація
 TXT_SETUP_SPD_CAD_Auto_FRMT_STR_M	Авто: %1 мм
 TXT_SETUP_SPD_CAD_Manual_FRMT_STR_M	Вручную: %1 мм
 TXT_SETUP_SPD_CAD_Wheel_Size_STR_L	Размер колеса
@@ -2127,11 +2127,11 @@ TXT_SETUP_SW_UPDATE_Available_FRMT_STR_M	%1 доступно
 TXT_SETUP_SW_UPDATE_Dismiss_STR_M	Отменить
 TXT_SETUP_SW_UPDATE_Est_Time_FRMT_STR_M	Примерн. вр.: %1
 TXT_SETUP_SW_UPDATE_Install_Now_STR_M	Установить сейчас
-TXT_SETUP_SW_UPDATE_Remind_Me_STR_M	Напомнить
-TXT_SETUP_SW_UPDATE_Update_Available_STR_M	Доступно обновление
+TXT_SETUP_SW_UPDATE_Remind_Me_STR_M	Нагадування
+TXT_SETUP_SW_UPDATE_Update_Available_STR_M	Доступне оновлення
 TXT_SETUP_SYSTEM_About_STR_L	О системе
-TXT_SETUP_SYSTEM_Backlight_STR_L	Подсветка
-TXT_SETUP_SYSTEM_Clock_STR_L	Часы
+TXT_SETUP_SYSTEM_Backlight_STR_L	Підсвітка
+TXT_SETUP_SYSTEM_Clock_STR_L	Годинник
 TXT_SETUP_SYSTEM_Data_Recording_STR_L	Запись данных
 TXT_SETUP_SYSTEM_Every_Second_STR_M	Каждую секунду
 TXT_SETUP_SYSTEM_Format_STR_L	Формат
@@ -2167,7 +2167,7 @@ TXT_SETUP_TIME_Yes_STR_M	Да
 TXT_SETUP_TOTALS_Cycling_STR_L	Велосипед
 TXT_SETUP_TOTALS_Running_STR_L	Біг
 TXT_SETUP_TOTALS_Swimming_STR_L	Плавание
-TXT_SETUP_TOTALS_Totals_STR_S	Общие результаты
+TXT_SETUP_TOTALS_Totals_STR_S	Загальні результати
 TXT_SETUP_TRAINING_CALENDAR_Training_Calendar_STR_S	Календарь тренировок
 TXT_SETUP_TRAINING_Intervals_STR_L	Интервалы
 TXT_SETUP_TRAINING_My_Workouts_STR_L	Мои тренировки
@@ -2188,9 +2188,9 @@ TXT_SETUP_TRAINING_Segments_STR_L	Сегменты
 TXT_SETUP_TRAINING_Set_a_Target_STR_L	Задать цель
 TXT_SETUP_TRAINING_Strava_Live_Segments_STR_L	Сегменты Strava Live
 TXT_SETUP_TRAINING_Training_Calendar_STR_L	Календарь тренировок
-TXT_SETUP_TRAINING_Training_STR_S	Тренировка
+TXT_SETUP_TRAINING_Training_STR_S	Тренування
 TXT_SETUP_UNITS_Celsius_STR_M	Цельсий
-TXT_SETUP_UNITS_Centimeters_STR_M	Сантиметры
+TXT_SETUP_UNITS_Centimeters_STR_M	Сантиметри
 TXT_SETUP_UNITS_Distance_STR_L	Расстояние
 TXT_SETUP_UNITS_Elevation_STR_L	Высота
 TXT_SETUP_UNITS_Fahrenheit_STR_M	По Фаренгейту
@@ -2206,14 +2206,14 @@ TXT_SETUP_UNITS_Temperature_STR_L	Температура
 TXT_SETUP_UNITS_Units_STR_S	Единицы измерения
 TXT_SETUP_UNITS_Weight_STR_L	Вес
 TXT_SETUP_USER_PROFILE_Birth_Year_STR_L	Год рождения
-TXT_SETUP_USER_PROFILE_Female_STR_M	Женщина
-TXT_SETUP_USER_PROFILE_Gender_STR_L	Пол
+TXT_SETUP_USER_PROFILE_Female_STR_M	Жінка
+TXT_SETUP_USER_PROFILE_Gender_STR_L	Стать
 TXT_SETUP_USER_PROFILE_Heart_Rate_STR_L	Частота пульсу
 TXT_SETUP_USER_PROFILE_Height_STR_L	Рост
-TXT_SETUP_USER_PROFILE_Male_STR_M	Мужчина
+TXT_SETUP_USER_PROFILE_Male_STR_M	Чоловік
 TXT_SETUP_USER_PROFILE_Power_Zones_STR_L	Зоны мощности
 TXT_SETUP_USER_PROFILE_User_Profile_STR_S	Профиль пользователя
-TXT_SETUP_USER_PROFILE_Weight_STR_L	Вес
+TXT_SETUP_USER_PROFILE_Weight_STR_L	Вага
 TXT_SETUP_VIRB_MENU_Options_STR_S	Опции
 TXT_SETUP_VIRB_MENU_Start_Recording_STR_L	Начать запись
 TXT_SETUP_VIRB_MENU_Stop_Recording_STR_L	Остановить запись
@@ -2250,10 +2250,10 @@ TXT_SETUP_WORKOUT_LIST_Open_Water_Swimming_STR_S	Плавание в откр. воде
 TXT_SETUP_WORKOUT_LIST_Other_STR_S	Другое
 TXT_SETUP_WORKOUT_LIST_Pool_Swimming_STR_S	Плавание в бассейне
 TXT_SETUP_WORKOUT_LIST_Running_STR_S	Біг
-TXT_SETUP_WORKOUT_LIST_Today_STR_S	Сегодня
+TXT_SETUP_WORKOUT_LIST_Today_STR_S	Сьогодні
 TXT_SETUP_WORKOUT_LIST_Tomorrow_STR_S	Завтра
-TXT_SETUP_WORKOUT_LIST_Yesterday_STR_S	Вчера
-TXT_SETUP_WORKOUT_OPTIONS_1_Step_STR_L	1 этап
+TXT_SETUP_WORKOUT_LIST_Yesterday_STR_S	Вчора
+TXT_SETUP_WORKOUT_OPTIONS_1_Step_STR_L	1 етап
 TXT_SETUP_WORKOUT_OPTIONS_Cancel_Workout_STR_L	Отмена тренировки
 TXT_SETUP_WORKOUT_OPTIONS_Delete_STR_L	Удалить
 TXT_SETUP_WORKOUT_OPTIONS_Do_Workout_STR_L	Начать тренировку
@@ -2415,7 +2415,7 @@ TXT_SUMMARY_ACTIVITY_LAP_DETAILS_BACK_FRMT_STR_S	%1:НА СП.:
 TXT_SUMMARY_ACTIVITY_LAP_DETAILS_BIKE_Cadence_STR_S	Част. вр.:
 TXT_SUMMARY_ACTIVITY_LAP_DETAILS_BREAST_FRMT_STR_S	%1 — БР.:
 TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Calories_STR_S	Калории:
-TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Distance_STR_S	Расст.:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Distance_STR_S	Відстань:
 TXT_SUMMARY_ACTIVITY_LAP_DETAILS_FLY_FRMT_STR_S	%1 — БАТ.:
 TXT_SUMMARY_ACTIVITY_LAP_DETAILS_FREE_FRMT_STR_S	%1:ВОЛ.:
 TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Front_Shifts_STR_S	Пер. спер.:
@@ -2465,7 +2465,7 @@ TXT_SUMMARY_ACTIVITY_LAP_DETAILS_TITL_Tuesday_FRMT_STR_S	Вторник %1
 TXT_SUMMARY_ACTIVITY_LAP_DETAILS_TITL_Wednesday_FRMT_STR_S	Среда %1
 TXT_SUMMARY_ACTIVITY_LAP_DETAILS_TITL_Yesterday_FRMT_STR_S	Вчера %1
 TXT_SUMMARY_ACTIVITY_LAP_DETAILS_TSS_STR_S	TSS:
-TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Time_STR_S	Время:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Time_STR_S	Час:
 TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Time_Standing_STR_S	Вр. стоя:
 TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Training_Effect_STR_S	TE:
 TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Vert_Osc_STR_S	Верт. кол.:
@@ -2799,9 +2799,9 @@ TXT_WEATHER_p_FRMT_STR_S	%1p
 TXT_WHR_Crnt_STR_L	Частота пульсу на запястье
 TXT_WHR_Crnt_STR_M	ЧП на запястье
 TXT_WHR_Crnt_STR_S	ЧП на запястье
-TXT_WIDGET_App_Connection_Required_STR_M	Требуется подключение к приложению
+TXT_WIDGET_App_Connection_Required_STR_M	Потребується підключення до додатку
 TXT_WIDGET_CALENDAR_All_Day_STR_S	Весь день
-TXT_WIDGET_CALENDAR_Calendar_STR_S	Календарь
+TXT_WIDGET_CALENDAR_Calendar_STR_S	Календар
 TXT_WIDGET_CALENDAR_Fri_STR	Пт
 TXT_WIDGET_CALENDAR_Mon_STR	Пн
 TXT_WIDGET_CALENDAR_No_Upcoming_Events_STR	Нет предстоящих событий
@@ -2815,10 +2815,10 @@ TXT_WIDGET_CALORIES_Active_STR_S	Активные
 TXT_WIDGET_CALORIES_Consumed_STR_S	Потребл.
 TXT_WIDGET_CALORIES_Remaining_STR_S	Осталось
 TXT_WIDGET_CALORIES_Resting_STR_S	В покое
-TXT_WIDGET_Calendar_STR_EXT	Календарь
-TXT_WIDGET_Calendar_STR_M	Календарь
-TXT_WIDGET_Calories_STR_EXT	Калории
-TXT_WIDGET_Calories_STR_M	Калории
+TXT_WIDGET_Calendar_STR_EXT	Календар
+TXT_WIDGET_Calendar_STR_M	Календар
+TXT_WIDGET_Calories_STR_EXT	Калорії
+TXT_WIDGET_Calories_STR_M	Калорії
 TXT_WIDGET_Controls_STR_EXT	Керування
 TXT_WIDGET_Controls_STR_M	Керування
 TXT_WIDGET_Heart_Rate_STR_EXT	Частота пульсу
@@ -2830,7 +2830,7 @@ TXT_WIDGET_Last_Bike_STR_M	Последний заезд
 TXT_WIDGET_Last_Run_STR_EXT	Последний забег
 TXT_WIDGET_Last_Run_STR_M	Последний забег
 TXT_WIDGET_Last_Sport_STR_EXT	Последний вид спорта
-TXT_WIDGET_Last_Sport_STR_M	Посл. вид спорта
+TXT_WIDGET_Last_Sport_STR_M	Ост. вид спорту
 TXT_WIDGET_Last_Swim_STR_EXT	Последний заплыв
 TXT_WIDGET_Last_Swim_STR_M	Последний заплыв
 TXT_WIDGET_My_Day_STR_EXT	Мой день
@@ -2859,7 +2859,7 @@ TXT_Watts_per_kg_STR_M	Мощность к массе
 TXT_Watts_per_kg_STR_S	Мощн. к массе
 TXT_Wed_FRMT_STR_M	Ср %1
 TXT_Wed_STR_M	Ср
-TXT_Workout_Ended_STR_L	Тренировка окончена
+TXT_Workout_Ended_STR_L	Тренування завершене
 TXT_ZONE_CHART_Z0_STR_S	з0
 TXT_ZONE_CHART_Z1_STR_S	з1
 TXT_ZONE_CHART_Z2_STR_S	з2
